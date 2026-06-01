@@ -140,31 +140,17 @@ def cmd_apply_manual(args):
                 f"  game #{f['game_id']} {f['demon']}: kept {f['kept']!r}, "
                 f"demoted {f['demoted']}"
             )
-    print(f"\nPlayer stats now served from stats (1).xlsx ({purge.get('allowed', 43)} players).")
+    print(f"\nPlayer stats now served from manual_player_stats.json ({purge.get('allowed', 43)} players).")
     _print_stats(args.db, min_games=1)
 
 
 def _compare_manual(db_path):
-    from openpyxl import load_workbook
+    from .manual_stats import load_manual_players
 
-    path = os.path.join(os.path.dirname(db_path), "..", "stats (1).xlsx")
-    path = os.path.normpath(path)
-    if not os.path.exists(path):
-        path = os.path.join(os.path.dirname(db_path), "stats (1).xlsx")
-    if not os.path.exists(path):
+    manual_rows = load_manual_players(min_games=0)
+    if not manual_rows:
         return
-
-    wb = load_workbook(path, data_only=True)
-    ws = wb["Personal Winrates"]
-    manual = {}
-    for r in range(2, ws.max_row + 1):
-        name = ws.cell(r, 1).value
-        if not name:
-            continue
-        manual[str(name).strip()] = {
-            "games": int(ws.cell(r, 4).value or 0),
-            "wins": int(ws.cell(r, 2).value or 0),
-        }
+    manual = {p["name"]: {"games": p["games"], "wins": p["wins"]} for p in manual_rows}
 
     db_players = {p["name"]: p for p in stats.player_stats(db_path, min_games=1)}
     mismatches = []
@@ -178,7 +164,7 @@ def _compare_manual(db_path):
                 f" vs DB {p['games']}G/{p['wins']}W"
             )
 
-    print(f"\n=== vs stats (1).xlsx ({len(manual)} players) ===")
+    print(f"\n=== vs manual_player_stats.json ({len(manual)} players) ===")
     if mismatches:
         print(f"Still off ({len(mismatches)}):")
         for line in mismatches[:20]:
