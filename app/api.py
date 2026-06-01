@@ -15,6 +15,7 @@ from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
 from . import db, stats
+from .manual_stats import get_manual_player
 from .reference import get_reference
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -58,6 +59,17 @@ def api_character(char_id: str):
 
 @app.get("/api/player/{player_id}")
 def api_player(player_id: int):
+    manual = get_manual_player(player_id)
+    if manual:
+        return {
+            "player": {
+                "id": manual["id"],
+                "canonical_name": manual["name"],
+                "source": "manual",
+            },
+            "summary": manual,
+            "games": [],
+        }
     with db.connect() as conn:
         row = conn.execute("SELECT * FROM player WHERE id = ?", (player_id,)).fetchone()
     if not row:

@@ -8,7 +8,12 @@ attribution decision. Fabled/Loric seats are excluded (storyteller pieces).
 from __future__ import annotations
 
 from . import db
+from .character_fix import apply_character_bonuses
+from .manual_stats import get_manual_player, load_manual_players, manual_player_names
 from .reference import get_reference
+
+# Demo games (stub extractor) use external_id "demo-N" and fake player names.
+_REAL_GAMES = "(g.external_id IS NULL OR g.external_id NOT LIKE 'demo-%')"
 
 
 def _eligible_char_ids() -> set[str]:
@@ -21,14 +26,16 @@ def character_stats(db_path: str = db.DEFAULT_DB, min_games: int = 0) -> list[di
     eligible = _eligible_char_ids()
     with db.connect(db_path) as conn:
         rows = conn.execute(
-            """
-            SELECT character_id,
+            f"""
+            SELECT s.character_id,
                    COUNT(*)              AS games,
-                   SUM(won)              AS wins,
-                   SUM(1 - won)          AS losses,
-                   SUM(is_alive_at_end)  AS survived
-            FROM game_seat
-            GROUP BY character_id
+                   SUM(s.won)              AS wins,
+                   SUM(1 - s.won)          AS losses,
+                   SUM(s.is_alive_at_end)  AS survived
+            FROM game_seat s
+            JOIN game g ON g.id = s.game_id
+            WHERE {_REAL_GAMES}
+            GROUP BY s.character_id
             """
         ).fetchall()
 
@@ -58,13 +65,17 @@ def character_stats(db_path: str = db.DEFAULT_DB, min_games: int = 0) -> list[di
             }
         )
     out.sort(key=lambda d: (-d["win_pct"], -d["games"], d["name"]))
-    return out
+    return apply_character_bonuses(out)
 
 
 def player_stats(db_path: str = db.DEFAULT_DB, min_games: int = 0) -> list[dict]:
+    manual = load_manual_players(min_games=min_games)
+    if manual is not None:
+        return manual
+
     with db.connect(db_path) as conn:
         rows = conn.execute(
-            """
+            f"""
             SELECT p.id, p.canonical_name AS name,
                    COUNT(*)                                   AS games,
                    SUM(s.won)                                 AS wins,
@@ -73,7 +84,9 @@ def player_stats(db_path: str = db.DEFAULT_DB, min_games: int = 0) -> list[dict]
                    SUM(CASE WHEN s.final_alignment='evil' THEN 1 ELSE 0 END)         AS evil_games,
                    SUM(CASE WHEN s.final_alignment='evil' THEN s.won ELSE 0 END)     AS evil_wins
             FROM game_seat s
+            JOIN game g ON g.id = s.game_id
             JOIN player p ON p.id = s.player_id
+            WHERE {_REAL_GAMES}
             GROUP BY p.id
             """
         ).fetchall()
@@ -103,18 +116,36 @@ def player_stats(db_path: str = db.DEFAULT_DB, min_games: int = 0) -> list[dict]
 
 
 def overview(db_path: str = db.DEFAULT_DB) -> dict:
+    manual = load_manual_players(min_games=0)
     with db.connect(db_path) as conn:
         g = conn.execute(
-            """
+            f"""
             SELECT COUNT(*) AS games,
                    SUM(CASE WHEN winner='good' THEN 1 ELSE 0 END) AS good_wins,
                    SUM(CASE WHEN winner='evil' THEN 1 ELSE 0 END) AS evil_wins,
                    SUM(needs_review) AS games_need_review
-            FROM game
+            FROM game g
+            WHERE {_REAL_GAMES}
             """
         ).fetchone()
-        seats = conn.execute("SELECT COUNT(*) AS n FROM game_seat").fetchone()["n"]
-        players = conn.execute("SELECT COUNT(*) AS n FROM player").fetchone()["n"]
+        if manual is not None:
+            seats = sum(p["games"] for p in manual)
+            players = len(manual)
+        else:
+            seats = conn.execute(
+                f"""
+                SELECT COUNT(*) AS n
+                FROM game_seat s JOIN game g ON g.id = s.game_id
+                WHERE {_REAL_GAMES}
+                """
+            ).fetchone()["n"]
+            players = conn.execute(
+                f"""
+                SELECT COUNT(DISTINCT s.player_id) AS n
+                FROM game_seat s JOIN game g ON g.id = s.game_id
+                WHERE {_REAL_GAMES}
+                """
+            ).fetchone()["n"]
     games = g["games"] or 0
     return {
         "games": games,
@@ -124,17 +155,18 @@ def overview(db_path: str = db.DEFAULT_DB) -> dict:
         "evil_wins": g["evil_wins"] or 0,
         "good_win_pct": round(100.0 * (g["good_wins"] or 0) / games, 1) if games else 0.0,
         "games_need_review": g["games_need_review"] or 0,
+        "player_source": "manual" if manual is not None else "database",
     }
 
 
 def games_for_character(char_id: str, db_path: str = db.DEFAULT_DB) -> list[dict]:
     with db.connect(db_path) as conn:
         rows = conn.execute(
-            """
+            f"""
             SELECT g.id AS game_id, g.played_at, g.script, g.winner, g.player_count,
                    s.player_name, s.won, s.is_alive_at_end, s.final_alignment
             FROM game_seat s JOIN game g ON g.id = s.game_id
-            WHERE s.character_id = ?
+            WHERE s.character_id = ? AND {_REAL_GAMES}
             ORDER BY g.id DESC
             """,
             (char_id,),
@@ -143,14 +175,17 @@ def games_for_character(char_id: str, db_path: str = db.DEFAULT_DB) -> list[dict
 
 
 def games_for_player(player_id: int, db_path: str = db.DEFAULT_DB) -> list[dict]:
+    if get_manual_player(player_id):
+        return []
+
     ref = get_reference()
     with db.connect(db_path) as conn:
         rows = conn.execute(
-            """
+            f"""
             SELECT g.id AS game_id, g.played_at, g.script, g.winner,
                    s.character_id, s.final_alignment, s.won, s.is_alive_at_end
             FROM game_seat s JOIN game g ON g.id = s.game_id
-            WHERE s.player_id = ?
+            WHERE s.player_id = ? AND {_REAL_GAMES}
             ORDER BY g.id DESC
             """,
             (player_id,),

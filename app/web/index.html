@@ -127,10 +127,11 @@ async function loadAll(){
 }
 
 function renderOverview(o){
+  const src = o.player_source === 'manual' ? ' · manual player stats' : '';
   $('#overview').innerHTML = `
     <div class="stat"><b>${o.games}</b><small>games</small></div>
     <div class="stat"><b class="good">${o.good_win_pct}%</b><small>good win rate</small></div>
-    <div class="stat"><b>${o.players}</b><small>players</small></div>
+    <div class="stat"><b>${o.players}</b><small>players${src}</small></div>
     <div class="stat"><b>${o.seats}</b><small>seats logged</small></div>
     ${o.games_need_review?`<div class="stat"><b style="color:var(--gold)">${o.games_need_review}</b><small>need review</small></div>`:''}`;
 }
@@ -178,8 +179,15 @@ async function openDrill(id){
       ${gamesTable(d.games, g=>`#${g.game_id}`, g=>`${g.player_name} · ${g.script||'?'} · ${g.winner} won`)}`;
   } else {
     const d = await fetch('/api/player/'+id).then(r=>r.json());
+    const s = d.summary;
+    const summary = s ? `<p style="color:var(--muted);margin:8px 0 14px">
+      Manual stats from sheet — ${s.games} games, ${s.wins}W / ${s.losses}L (${s.win_pct}% overall).
+      Good: ${s.good_win_pct ?? '—'}% (${s.good_games} games).
+      Evil: ${s.evil_win_pct ?? '—'}% (${s.evil_games} games).
+    </p>` : '';
     body.innerHTML = `<span class="close" onclick="closeModal()">✕</span>
       <h2>${d.player.canonical_name}</h2>
+      ${summary}
       ${gamesTable(d.games, g=>g.character_name, g=>`${g.script||'?'} · ${g.final_alignment} · ${g.winner} won`)}`;
   }
   $('#modal').classList.add('open');
@@ -206,6 +214,11 @@ $('#minGames').onchange = loadAll;
 $('#refresh').onclick = loadAll;
 $('#modal').onclick = e=>{ if(e.target.id==='modal') closeModal(); };
 $('#auto').onchange = e=>{ clearInterval(state.autoTimer); if(e.target.checked) state.autoTimer=setInterval(loadAll, 15000); };
+const tabParam = new URLSearchParams(location.search).get('tab');
+if (tabParam === 'players' || tabParam === 'characters') {
+  const tab = document.querySelector(`.tab[data-tab="${tabParam}"]`);
+  if (tab) tab.click();
+}
 loadAll();
 </script>
 </body>
