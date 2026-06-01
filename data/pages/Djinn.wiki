@@ -1,0 +1,238 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_djinn.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Fabled|Fabled]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"نحن لسنا هنا.<br>
+				انت لست حقيقي.<br>
+				كل شيء هو وهم.<br>
+				أسئلتك هي جبل نار في يوم صافٍ."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Use the Djinn's special rule. All players know what it is."
+
+Add the Djinn to all games with a jinx icon on the script. The Djinn resolves jinxes by creating a unique rule.
+* When creating a character list using the Script Tool, some character combinations will be marked as unusual. These two characters are jinxed—they have abilities that clash or contradict each other in some way. The Djinn creates a special rule that allows these characters to work well together. Some jinxed characters even work better with the Djinn in play!
+* The Djinn’s special rule is described by the Script Tool online, and is printed out automatically when you create a script with a character combination that is jinxed.
+* There are many different Djinn special rules. Each is tailored to a specific pair of jinxed characters.
+* If there are jinxed characters on the character sheet, even if there are no jinxed characters in play, the Storyteller tells all players what the Djinn’s special rule is at the start of the game.
+* The Djinn may have several special rules at once. If there are multiple pairs of jinxed characters on the character sheet, the players learn all the Djinn’s special rules.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At the start of the game, if there are jinxed characters on the character sheet, declare that the Djinn is in play and inform the group of all Djinn special rules for this game. (''Do this even if there are no jinxed characters in play.'')
+
+Follow the Djinn instructions as listed on the Script Tool printout.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Pit-Hag}} and the {{Good|Heretic}} are Jinxed. At the start of the game, the Storyteller reads out the Djinn's special rule: “A {{Evil|Pit-Hag}} cannot create a {{Good|Heretic}}.” Later in the game, the {{Evil|Pit-Hag}} tries to create a {{Good|Heretic}}. The Storyteller shakes their head, and the {{Evil|Pit-Hag}} must choose another character to create. 
+			</div>
+
+			<div class='example'>
+				The {{Good|Spy}} and the {{Evil|Magician}} are Jinxed. At the start of the game, the Storyteller reads out the Djinn's special rule: "When the {{Good|Spy}} sees the grimoire, the Demon and the {{Evil|Magician}}'s character tokens are removed." There is no {{Good|Spy}} and no {{Evil|Magician}} in play, but the Storyteller reads this aloud anyway so that the good team doesn't know which Minion is in play.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Explanation ==
+
+When creating a character list using the Script Tool, some character combinations will be marked as unusual with a little character symbol under one of the characters you have selected. These two characters are Jinxed&mdash;they have abilities that clash or contradict each other in some way. The Djinn creates a special rule that allows these characters to work well together. Some jinxed characters even work <em>better</em> with the Djinn in play!
+
+The Djinn's special rule is described by the Script Tool online, and is printed out automatically when you create a script with a character combination that is jinxed. There are many different Djinn special rules. Each is tailored to a specific pair of jinxed characters. If there are jinxed characters on the character sheet, even if there are no jinxed characters in play, the Storyteller tells all players what the Djinn's special rule is at the start of the game. 
+
+The Djinn may have several special rules at once. If there are multiple pairs of jinxed characters on the character sheet, the players learn all the Djinn's special rules.
+
+== Djinn Special Rules ==
+
+This section will get updated as more characters are made available.
+
+The Djinn special rule allows Jinxed characters to both be on the same script, and even both in play at the same time. If your script has jinxed characters, let your players know the Djinn special rule(s) at the beginning of the game, whether or not Jinxed characters are in play.
+
+=== Townsfolk ===
+* {{Good|Alchemist}} / {{Evil|Boffin}} : If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has.
+* {{Good|Alchemist}} / {{Evil|Marionette}}: An Alchemist-Marionette has no Marionette ability & the Marionette is in play.
+* {{Good|Alchemist}} / {{Evil|Mastermind}}: An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play.
+* {{Good|Alchemist}} / {{Evil|Organ Grinder}}: If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play. If both are sober, both are drunk.
+* {{Good|Alchemist}} / {{Good|Spy}}: An Alchemist-Spy has no Spy ability & a Spy is in play. After each execution, a living Alchemist-Spy may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight.
+* {{Good|Alchemist}} / {{Evil|Summoner}}: The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]
+* {{Good|Alchemist}} / {{Evil|Wraith}}: An Alchemist-Wraith has no Wraith ability & a Wraith is in play. After each execution, a living Alchemist-Wraith may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight.
+* {{Good|Alchemist}} / {{Evil|Widow}}: An Alchemist-Widow has no Widow ability & a Widow is in play. After each execution, a living Alchemist-Widow may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight.
+* {{Good|Bounty Hunter}} / {{Evil|Kazali}}: If the Kazali turns the Bounty Hunter into a Minion, an evil Townsfolk is not created.
+* {{Good|Bounty Hunter}} / {{Good|Philosopher}}: If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil.
+* {{Good|Cannibal}} / {{Good|Butler}}: If the Cannibal gains the Butler ability, the Cannibal learns this.
+* {{Good|Cannibal}} / {{Good|Juggler}}: If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct.
+* {{Good|Cannibal}} / {{Good|Princess}}: If the Cannibal nominated, executed, & killed the Princess today, the Demon doesn’t kill tonight.
+* {{Good|Cannibal}} / {{Good|Zealot}}: If the Cannibal gains the Zealot ability, the Cannibal learns this.
+* {{Good|Mathematician}} / {{Good|Chambermaid}}: The Chambermaid can detect if the Mathematician will wake tonight.
+* {{Good|Mathematician}} / {{Good|Drunk}}: The Mathematician might learn if the Drunk's ability yielded false info or failed to work properly.
+* {{Good|Mathematician}} / {{Good|Lunatic}}: The Mathematician might learn if the Lunatic attacks a different player than the real Demon attacked.
+* {{Good|Mathematician}} / {{Evil|Marionette}}: The Mathematician might learn if the Marionette's ability yielded false info or failed to work properly.
+* {{Good|Magician}} / {{Evil|Legion}}: The Magician wakes with Legion and might register as evil. Legion knows if a Magician is in play, but not which player it is.
+* {{Good|Magician}} / {{Evil|Marionette}}: If the Magician is alive, the Demon doesn't know which neighbor is the Marionette.
+* {{Evil|Magician}} / {{Good|Spy}}: When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed.
+* {{Good|Magician}} / {{Evil|Vizier}}: If the Vizier is in play, the Magician has no ability but is immune to the Vizier's ability.
+* {{Good|Magician}} / {{Evil|Widow}}: When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed.
+* {{Good|Magician}} / {{Evil|Wraith}}: After each execution, the living Magician may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight.
+
+=== Outsiders ===
+* {{Good|Butler}} / {{Evil|Organ Grinder}}: If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too.
+* {{Good|Heretic}} / {{Evil|Baron}}: Only 1 jinxed character can be in play.
+* {{Good|Heretic}} / {{Evil|Godfather}}: Only 1 jinxed character can be in play.
+* {{Good|Heretic}} / {{Evil|Lleech}}: Only 1 jinxed character can be in play.
+* {{Good|Heretic}} / {{Evil|Pit-Hag}}: Only 1 jinxed character can be in play.
+* {{Good|Heretic}} / {{Good|Spy}}: Only 1 jinxed character can be in play.
+* {{Good|Heretic}} / {{Evil|Widow}}: Only 1 jinxed character can be in play.
+* {{Good|Plague Doctor}} / {{Evil|Baron}}: If the Storyteller would gain the Baron ability, up to two players become Outsiders.
+* {{Good|Plague Doctor}} / {{Evil|Boomdandy}}: If the Storyteller would gain the Boomdandy ability, a player becomes the Boomdandy.
+* {{Good|Plague Doctor}} / {{Evil|Evil Twin}}: If the Storyteller would gain the Evil Twin ability, a player becomes the Evil Twin.
+* {{Good|Plague Doctor}} / {{Evil|Fearmonger}}: If the Storyteller would gain the Fearmonger ability, a Minion gains it, and learns this.
+* {{Good|Plague Doctor}} / {{Evil|Goblin}}: If the Storyteller would gain the Goblin ability, a Minion gains it, and learns this.
+* {{Good|Plague Doctor}} / {{Evil|Marionette}}: If the Storyteller would gain the Marionette ability, one of the Demon's good neighbors becomes the Marionette.
+* {{Good|Plague Doctor}} / {{Evil|Scarlet Woman}}: If the Storyteller would gain the Scarlet Woman ability, a Minion gains it, and learns this.
+* {{Good|Plague Doctor}} / {{Good|Spy}}: If the Storyteller would gain the Spy ability, a Minion gains it, and learns this.
+* {{Good|Plague Doctor}} / {{Evil|Wraith}}: If the Storyteller would gain the Wraith ability, a Minion gains it, and learns this.
+* {{Good|Recluse}} / {{Good|Ogre}}: If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil.
+* {{Good|Recluse}} / {{Good|Sage}}: The Recluse might register as the Demon to the Sage.
+
+=== Minions ===
+* {{Evil|Boffin}} / {{Good|Cult Leader}}: If the Demon has the Cult Leader ability, they can’t turn good due to this ability.
+* {{Evil|Boffin}} / {{Good|Drunk}}: The Demon cannot have the Drunk ability.
+* {{Evil|Boffin}} / {{Good|Goon}}: If the Demon has the Goon ability, they can’t turn good due to this ability.
+* {{Evil|Boffin}} / {{Good|Heretic}}: The Demon cannot have the Heretic ability.
+* {{Evil|Boffin}} / {{Good|Ogre}}: The Demon cannot have the Ogre ability.
+* {{Evil|Boffin}} / {{Good|Politician}}: The Demon cannot have the Politician ability.
+* {{Evil|Boffin}} / {{Good|Village Idiot}}: If there is a spare token, the Boffin can give the Demon the Village Idiot ability.
+* {{Evil|Cerenovus}} / {{Evil|Goblin}}: The Cerenovus may choose to make a player mad that they are the Goblin.
+* {{Evil|Marionette}} / {{Good|Balloonist}}: If the Marionette thinks that they are the Balloonist, an Outsider might have been added during setup.
+* {{Evil|Marionette}} / {{Good|Huntsman}}: If the Marionette thinks that they are the Huntsman, the Damsel was added during setup.
+* {{Evil|Marionette}} / {{Evil|Kazali}}: If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor.
+* {{Evil|Marionette}} / {{Evil|Lil' Monsta}}: If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor.
+* {{Evil|Marionette}} / {{Evil|Summoner}}: If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor.
+* {{Evil|Mastermind}} / {{Evil|Vigormortis}}: A Mastermind that has their ability keeps it if the Vigormortis dies.
+* {{Evil|Pit-Hag}} / {{Good|Cult Leader}}: If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability.
+* {{Evil|Pit-Hag}} / {{Good|Damsel}}: If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is.
+* {{Evil|Pit-Hag}} / {{Good|Goon}}: If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability.
+* {{Evil|Pit-Hag}} / {{Good|Ogre}}: If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability.
+* {{Evil|Pit-Hag}} / {{Good|Politician}}: If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability.
+* {{Evil|Pit-Hag}} / {{Good|Village Idiot}}: If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change.
+* {{Evil|Scarlet Woman}} / {{Evil|Al-Hadikhia}}: If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman becomes the Scarlet Woman again.
+* {{Evil|Scarlet Woman}} / {{Evil|Fang Gu}}: If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman remains the Scarlet Woman.
+* {{Good|Spy}} / {{Good|Damsel}}: If the Spy is (or has been) in play, the Damsel is poisoned.
+* {{Good|Spy}} / {{Good|Ogre}}: The Spy registers as evil to the Ogre.
+* {{Good|Spy}} / {{Good|Poppy Grower}}: If the Poppy Grower has their ability, the Spy does not see the Grimoire.
+* {{Evil|Summoner}} / {{Good|Clockmaker}}: The Summoner registers as the Demon to the Clockmaker.
+* {{Evil|Summoner}} / {{Good|Courtier}}: If the living Summoner has no ability, the Storyteller has the Summoner ability.
+* {{Evil|Summoner}} / {{Good|Engineer}}: If the living Summoner is removed from play, the Storyteller has the Summoner ability.
+* {{Evil|Summoner}} / {{Good|Hatter}}: If the Summoner creates a second living Demon, deaths tonight are arbitrary.
+* {{Evil|Summoner}} / {{Evil|Kazali}}: If the Summoner creates a second living Demon, deaths tonight are arbitrary.
+* {{Evil|Summoner}} / {{Evil|Lord of Typhon}}: If a Lord of Typhon is summoned, they must neighbor a Minion & their other neighbor becomes an evil Minion.
+* {{Evil|Summoner}} / {{Evil|Pit-Hag}}: If the Summoner creates a second living Demon, deaths tonight are arbitrary.
+* {{Evil|Summoner}} / {{Good|Poppy Grower}}: If the Poppy Grower is alive on the 3rd night, the Summoner chooses which Demon but not which player.
+* {{Evil|Summoner}} / {{Good|Preacher}}: If the living Summoner has no ability, the Storyteller has the Summoner ability.
+* {{Evil|Summoner}} / {{Evil|Pukka}}: The Summoner may summon a Pukka on the 2nd night instead of the 3rd.
+* {{Evil|Summoner}} / {{Evil|Zombuul}}: If the Summoner summons a dead player into the Zombuul, the Zombuul has already "died once".
+* {{Evil|Vizier}} / {{Good|Alsaahir}}: The Storyteller doesn't declare the Vizier is in play.
+* {{Evil|Vizier}} / {{Good|Courtier}}: If the Vizier loses their ability, they learn this, and cannot die during the day.
+* {{Evil|Vizier}} / {{Evil|Fearmonger}}: The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player.
+* {{Evil|Vizier}} / {{Good|Investigator}}: The Storyteller doesn't declare the Vizier is in play.
+* {{Evil|Vizier}} / {{Good|Politician}}: The Politician might register as evil to the Vizier.
+* {{Evil|Vizier}} / {{Good|Preacher}}: If the Vizier loses their ability, they learn this, and cannot die during the day.
+* {{Evil|Vizier}} / {{Good|Zealot}}: The Zealot might register as evil to the Vizier.
+* {{Evil|Widow}} / {{Good|Damsel}}: If the Widow is (or has been) in play, the Damsel is poisoned.
+* {{Evil|Widow}} / {{Good|Poppy Grower}}: If the Poppy Grower has their ability, the Widow does not see the Grimoire.
+
+=== Demons ===
+* {{Evil|Al-Hadikhia}} / {{Good|Princess}}: If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia tonight.
+* {{Evil|Al-Hadikhia}} / {{Evil|Mastermind}}: If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins.
+* {{Evil|Legion}} / {{Good|Engineer}}: If Legion is created, all evil players become Legion. If Legion is in play, the Engineer starts knowing this but has no ability.
+* {{Evil|Legion}} / {{Good|Hatter}}: If Legion is created, all evil players become Legion. If Legion is in play, the Hatter has no ability.
+* {{Evil|Legion}} / {{Good|Minstrel}}: If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion.
+* {{Evil|Legion}} / {{Good|Politician}}: The Politician might register as evil to Legion.
+* {{Evil|Legion}} / {{Good|Preacher}}: If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion.
+* {{Evil|Legion}} / {{Evil|Summoner}}: If Legion is summoned, all evil players become Legion. 
+* {{Evil|Legion}} / {{Good|Zealot}}: The Zealot might register as evil to Legion.
+* {{Evil|Leviathan}} / {{Good|Banshee}}: Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability.
+* {{Evil|Leviathan}} / {{Good|Exorcist}}: If the Leviathan nominates and executes the Exorcist-chosen player, good wins.
+* {{Evil|Leviathan}} / {{Good|Farmer}}: Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die.
+* {{Evil|Leviathan}} / {{Good|Grandmother}}: If the Leviathan is in play and the Grandchild dies by execution, evil wins.
+* {{Evil|Leviathan}} / {{Good|Hatter}}: The Leviathan cannot enter play after day 5.
+* {{Evil|Leviathan}} / {{Good|Innkeeper}}: If the Leviathan nominates and executes an Innkeeper-protected player, good wins.
+* {{Evil|Leviathan}} / {{Good|King}}: If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night.
+* {{Evil|Leviathan}} / {{Good|Mayor}}: If the Leviathan and the Mayor are alive on day 5 & no execution occurs, good wins.
+* {{Evil|Leviathan}} / {{Good|Monk}}: If the Leviathan nominates and executes the Monk-protected player, good wins.
+* {{Evil|Leviathan}} / {{Evil|Pit-Hag}}: The Leviathan cannot enter play after day 5.
+* {{Evil|Leviathan}} / {{Good|Ravenkeeper}}: Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die.
+* {{Evil|Leviathan}} / {{Good|Sage}}: Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die.
+* {{Evil|Leviathan}} / {{Good|Soldier}}: If the Leviathan nominates and executes the Soldier, good wins.
+* {{Evil|Lil' Monsta}} / {{Good|Hatter}}: If the Hatter dies & the Demon chooses Lil' Monsta, they also choose a Minion to become.
+* {{Evil|Lil' Monsta}} / {{Good|Poppy Grower}}: If Lil' Monsta & the Poppy Grower are alive, Minions wake one by one, until one of them chooses to take the Lil' Monsta token. 
+* {{Evil|Lil' Monsta}} / {{Evil|Psychopath}}: If the Psychopath is babysitting Lil' Monsta, they die when executed.
+* {{Evil|Lil' Monsta}} / {{Good|Magician}}: If the Magician is alive, the Storyteller chooses which Minion babysits Lil' Monsta. 
+* {{Evil|Lil' Monsta}} / {{Evil|Scarlet Woman}}: If Lil' Monsta dies with 5 or more players alive, the Scarlet Woman babysits Lil' Monsta for the rest of the game.
+* {{Evil|Lil' Monsta}} / {{Evil|Vizier}}: If the Vizier is babysitting Lil' Monsta, they die when executed.
+* {{Evil|Lleech}} / {{Evil|Mastermind}}: If the Mastermind is alive and the Lleech host dies by execution, the Lleech lives but loses their ability.
+* {{Evil|Lleech}} / {{Good|Slayer}}: If the Slayer slays the Lleech host, the host dies.
+* {{Evil|Riot}} / {{Good|Atheist}}: During a riot, if the Storyteller is nominated, players vote. If they are "about to die", the game ends. If not, they nominate again.
+* {{Evil|Riot}} / {{Good|Banshee}}: Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability.
+* {{Evil|Riot}} / {{Good|Exorcist}}: If Riot nominates and executes the Exorcist-chosen player, good wins.
+* {{Evil|Riot}} / {{Good|Farmer}}: Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die.
+* {{Evil|Riot}} / {{Good|Grandmother}}: If Riot is in play and the Grandchild dies by execution, evil wins.
+* {{Evil|Riot}} / {{Good|Innkeeper}}: If Riot nominates and executes an Innkeeper-protected player, good wins.
+* {{Evil|Riot}} / {{Good|King}}: If Riot is in play, and at least 1 player is dead, the King learns an alive character each night.
+* {{Evil|Riot}} / {{Good|Mayor}}: The Mayor may choose to stop the riot. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins.
+* {{Evil|Riot}} / {{Good|Monk}}: If Riot nominates and executes the Monk-protected player, good wins.
+* {{Evil|Riot}} / {{Good|Ravenkeeper}}: Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die.
+* {{Evil|Riot}} / {{Good|Sage}}: Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die.
+* {{Evil|Riot}} / {{Good|Soldier}}: If Riot nominates and executes the Soldier, good wins.
+* {{Evil|Vortox}} / {{Good|Banshee}}: If the Vortox kills the Banshee, all players learn that the Banshee has died.
+* {{Evil|Yaggababble}} / {{Good|Exorcist}}: If the Exorcist chooses the Yaggababble, the Yaggababble does not kill tonight.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Fabled]]

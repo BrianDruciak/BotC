@@ -1,0 +1,135 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_knight.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>18/05/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"When a man lies, he murders some part of the world."</p>		
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>CEiNXdSa8lI</youtube>		
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing 2 players that are not the Demon."
+
+The Knight knows players that are not the Demon.
+* On the first night, the Knight learns two players who are not the Demon.
+* On subsequent nights, they learn nothing more.
+* The Knight can learn Townsfolk, Outsiders or even Minions but does not learn which character type they are.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+During setup, mark two non-Demon players with the Knight’s '''KNOW''' reminders.
+During the first night, wake the Knight. Point to the two players marked '''KNOW'''.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Lewis is the {{Good|Undertaker}}, Doug is the {{Evil|Imp}} and Ben is the {{Good|Fortune Teller}}. The Knight learns Lewis and Ben.
+			</div>
+
+			<div class='example'>
+				Marianna is the {{Evil|Vortox}} and Abdallah is the {{Good|Alchemist}}. The Knight learns Marianna and Abdallah. The Knight must learn Marianna and Abdallah because the Knight's information must be false due to the {{Evil|Vortox}} ability and therefore include the Demon.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* You know the two players you learnt aren’t the Demon. If both of them survive to the final three, you know two players that aren’t the Demon and therefore know who the Demon is and can win the game with your information!
+
+* Hide what you learnt from the town - the Demon is going to actively want to kill the players you saw to avoid getting found out on the final day, so not telling people who you learnt means the Demon doesn’t know who to kill.
+
+* Conceal your information and try to make the two players you saw just suspicious enough that they might be Demon candidates, but not suspicious enough that they get executed. This gives them the best odds of surviving to the final day.
+
+* Come out with your information as early as possible to try to convince the good team to trust the players you know. Statistically they’re most likely to be good players too and can benefit from that trust and if they’re not good, they’re Minions, so it’s not the worst thing to give them a little undeserved trust.
+
+* Hunt for sources of drunk or poison – you need to know if your information is true! If you suspect you were made drunk or poisoned on the first night, you probably want to kill both players that you saw as they’re more likely to be the Demon. Finding out you were drunk or poisoned can therefore win the game.
+
+* Only reveal the players you learnt when they are nominated, to help keep them from being executed. This keeps the information from the Demon as long as you can, without hindering your ability to keep those players alive.
+
+* Agree with one of the players you learnt to swap character claims and information. You are happy to die to get the players you know aren’t the Demon to the final day, so if the Knight information is shared that you yourself are confirmed not the Demon, the Demon will be incentivised to kill you rather than the players you learnt.
+
+* Name players that you didn’t learn as your public “information” early in the game. If they don’t die at night, either the Demon didn’t believe you were the Knight (possibly because one of those two players is in fact the Demon!) or they had higher priorities for killing throughout the game, both of which gives you good social information.
+
+* Claim another good character, such as the {{Good|Fortune Teller}} or {{Good|Washerwoman}} that can clear one or both of the players you saw, so that you aren’t forced to reveal your Knight information too early.
+
+* You don’t need the players you learnt to reveal their characters or information to you, you know they’re not the Demon and can at least trust them that far. It may be the best play for them not to reveal for as long as possible on the basis of the trust inspired by your information naming them.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Knight ==
+
+* Claim your Demon is part of your Knight information. It’s obvious and straightforward but it can just work – clearing your Demon of being the Demon can win games.
+
+* Claim two good players as your information. Both of those good players know they’re not the Demon, so are inclined to believe that your information is true at least for them, so they’re more inclined to trust you.
+
+* Claim two good players as your information and then spend the rest of the game trying hard to look like a Minion – this will frame the two good players you named as potential Demon candidates being “cleared” by a suspected Minion.
+
+* Claim one good player and one evil player as your information to sow trust between those players, giving your evil teammate a good basis to work from when spreading their misinformation.
+
+* Just as a real Knight might, hide your “information” until the late game and then reveal it to derail theorycrafting up to the point.
+
+* The Knight is a great backup bluff – if your Demon is nominated and might get enough votes, discard whatever you were bluffing previously, come out as the Knight and tell everyone loud and clear that this player is not the Demon.
+
+* The Knight is a great initial bluff for good players too - claim Knight and pick two random players. This will allow you to hide what character you really are, with the added benefits that you’ll likely survive a little while and not get questioned much until mid-late game. Even if you accidentally name the Demon as one of your two players, as long as you recant this claim by the late game it usually doesn’t do too much harm to the good team.
+
+* If you’re the Demon bluffing as the Knight, kill the players you’re claiming as your information. This makes you look good as the “Demon believed you were the Knight and killed the players they couldn’t afford to have in the final three with them.”
+
+* Think carefully about when to reveal that you’re the Knight and when to reveal the information you learnt as the Knight – they aren’t necessarily the same timing and can have different impacts. Claiming you’re the Knight early can give you a little social trust, but you can hold on and not claim any actual information until you know what’s going to help your team most towards the end of the game.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

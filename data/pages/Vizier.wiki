@@ -1,0 +1,153 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_vizier.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>20/04/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"An excellent decision, as always, sire. Such a petty crime as bumping into the Bishop indeed deserves your ‘justice’ and ‘mercy’. Take a stroll in the gardens. Visit the gallery and peruse the sculptures of Von Strauf. Relax, sire. Leave everything… to me."</p>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>AhVreLNTwoQ</youtube>	
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Alsaahir|alsaahir|Good|The Storyteller doesn't declare the Vizier is in play.}}
+{{Jinx|Courtier|courtier|Good|If the Vizier loses their ability, they learn this, and cannot die during the day.}}
+{{Jinx|Fearmonger|fearmonger|Evil|The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player.}}
+{{Jinx|Investigator|investigator|Good|The Storyteller doesn't declare the Vizier is in play.}}
+{{Jinx|Lil' Monsta|lilmonsta|Evil|If the Vizier is babysitting Lil' Monsta, they die when executed.}}
+{{Jinx|Magician|magician|Good|If the Vizier is in play, the Magician has no ability but is immune to the Vizier's ability.}}
+{{Jinx|Politician|politician|Good|The Politician might register as evil to the Vizier.}}
+{{Jinx|Preacher|preacher|Good|If the Vizier loses their ability, they learn this, and cannot die during the day.}}
+{{Jinx|Zealot|zealot|Good|The Zealot might register as evil to the Vizier.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately."
+
+The Vizier executes players without the town’s consent.
+* On the first day, all players learn that the Vizier is in play, and which player it is.
+* During the day, the Vizier can not die by any means.
+* After a vote is tallied, if the Vizier chooses to execute the nominee (and at least one good player voted), they are executed immediately. This counts as the 1 execution allowed each day.
+* After a vote is tallied, if the Vizier chooses to execute the nominee (and no good players voted), nothing happens.
+* Even if the vote tally is less than 50% of the living players, the Vizier may still execute. Even if another player has more votes than the current player, the Vizier may still execute.
+* The Vizier does not have to force an execution each day.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+When the first night has ended, declare that the Vizier is in play, and which player it is.
+If a vote has just been tallied, and one or more good players voted, and the Vizier declares that the nominee is executed, that player is executed and dies. No more nominations, votes, or executions occur today.		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|King}} has been nominated. Five people vote, but the Vizier does not use their ability. The {{Evil|Boomdandy}} is nominated and eight people vote. The Vizier uses their ability and the {{Evil|Boomdandy}} is executed immediately.
+			</div>
+
+			<div class='example'>
+				The Demon has seven votes against them, and is “about to die”. The Vizier nominates Bill, the {{Good|Barber}}. Two evil players and one good player vote. The Vizier declares that Bill is executed. The Demon survives today.
+			</div>
+<div class='example'>
+				The town nominates and executes the Vizier. The Vizier does not die. That night, The Demon kills the Vizier.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+* To state the obvious – execute people! At the end of the day your ability is to execute whoever you feel like executing, so there’s no point not using it. Execute with abandon, execute with joy, execute with whimsy!
+
+* Don’t always execute! Good players will be reading into your execution choices and denials as a source of information, so the players you choose not to execute are often just as important as those you do choose to execute.
+
+* Who votes when you execute is easy to comprehend information for the good team too. If you execute with only one vote, that player is confirmed to be good and you can’t expect to have an opportunity to vote on them later as good players don’t have an incentive to put even a single vote on them.
+
+* Everyone knows who you are so don’t obviously talk to your evil team – you don’t need a bluff because everyone knows who you are so you can’t really claim anything else most of the time, so there’s only so much you need to talk to your fellow evils anyway.
+
+* Talk to everyone! Even good players should appreciate a chance to see how you’re thinking and try to get a social read on your plans and you can talk to your evil team in the process to catch up with them too.
+
+* Trust your social reads and the hints dropped in town square – these are probably the main way you’re going to get information!
+
+* Whispering to your fellow evil players at night if they’re sat next to you is one of the only ways you can talk to your compatriots to get any information and learn what’s happening from an evil perspective, without throwing shade on them by extension.
+
+* You need cover and a strategy for why you don’t execute any given player – at some point you’ll need to not execute if your Demon gets voted on so having set up plausible deniability beforehand as to certain people aren’t being executed is important.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Vizier ==
+* The Vizier is a great source of information for the good team about who is good. Extracting that information from who counted as good for the Vizier to execute using their vote is often tricky, but absolutely worthwhile. The best info is obviously if the Vizier executes with only 1 vote, as that player is confirmed good, but in later days if they execute with only 3 or 4 votes, that’s still good information.
+
+* Pay just as much attention to who the Vizier chooses not to force the execution on as those that they do execute. The Vizier can’t just hit the first nomination of every day, or the Demon will eventually be nominated and they’ll be struggling to explain why they’re not executing, so they’ll need some subtlety as to who they execute. You need to try to see through that subtlety to find out their true limitations of who they’re willing to execute!
+
+* You know the Vizier is not the Demon. They’re evil, so they will affect abilities that detect alignment, but they also aren’t the Demon and don’t have to be factored into any other information and can be avoided by selection characters.
+
+* On the final day, if the Vizier is still alive, one single good vote on the non-Demon player is all the Vizier needs to win the game. However, you have some strong information to convince your fellow good players – if the player you’re accusing is not the Demon, the Vizier would already have pushed through their execution and won the game, so the fact the Vizier isn’t forcing that execution means that you can’t afford to have anyone good vote on anyone else. 
+
+* Make sure that any abilities that take place during the day are used before nominations are open. Once nominations open, the day might end at any moment from a Vizier forcing an execution through, so you will need to find time to use any daytime abilities before that.
+
+* Keep in mind that nominations are your main weapon against the Vizier – choosing not to nominate again if the Vizier hasn’t forced an execution may be the best way to put through votes on people they’d have preferred not to execute.
+
+* Take advantage of good abilities that interact with execution and death and try to trick the Vizier into confirmation of those characters. A {{Good|Tea Lady}}, for example, is strongly confirmable if the Vizier tries to execute their neighbours a couple of times and they do not die from the execution.
+
+* Whispering to or “accidentally” revealing information to the Vizier can throw off their executions – remember they only have as much information as they’ve managed to glean when everyone knows they’re evil, so if you can set it up to “leak” information that they can overhear to inform their executions, you can completely mislead them as to the game state.
+
+* Be very purposeful in who you vote on. Every time the Vizier chooses to execute, it gives you information, but also every time they don’t choose to execute, that tells you a little bit too. Trying to manipulate the Vizier into executing certain people can give you a lot of information that they weren’t necessarily intending to reveal to you.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

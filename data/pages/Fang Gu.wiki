@@ -1,0 +1,136 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_fanggu.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Your walls and your weapons are but smoke in dreams."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/39234521/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-24%2F214383730-44100-2-ecfe3f9bb173d.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Scarlet Woman|scarletwoman|Evil|If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman remains the Scarlet Woman.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]"
+
+The Fang Gu possesses Outsiders.
+* The first time a Fang Gu attacks and kills an Outsider, the Fang Gu dies, and the Outsider becomes a Fang Gu and turns evil.
+* This can only happen once per game. If the new Fang Gu attacks an Outsider, the Outsider dies as normal.
+* The new Fang Gu counts as the Demon, and good wins if they die. They do not learn which players are Minions.
+* There is an extra Outsider in play.
+* If the Fang Gu attacks an Outsider but that Outsider does not die, that Outsider does not become an evil Fang Gu and the Fang Gu does not die.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While setting up the game, before putting character tokens in the bag, add one extra Outsider character token and remove one Townsfolk character token.
+
+Each night except the first, wake the Fang Gu. They point at any player. Put the Fang Gu to sleep.
+
+If the chosen player is not an Outsider, that player dies—mark them with the '''DEAD''' reminder.
+
+If the chosen player is an Outsider and the '''ONCE''' reminder is in the center of the Grimoire, that player dies—mark them with the '''DEAD''' reminder.
+
+If the chosen player is an Outsider and the '''ONCE''' reminder is not in the centre of the Grimoire, the Fang Gu dies—mark them with the '''DEAD''' reminder. Wake the chosen Outsider. Show them the '''YOU ARE''' info token, then the '''Fang Gu''' token, then the '''YOU ARE''' info token, then a thumbs-down. Change their character to a Fang Gu—swap their character token with the spare Fang Gu token. They become '''evil'''. Put the new Fang Gu to sleep. Put the '''ONCE''' reminder in the center of the Grimoire. (''Unlike “Once per game” abilities, this reminder stays there for the rest of the game. Don’t remove it, even if the Fang Gu dies or changes character.'')
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Fang Gu attacks the {{Good|Artist}}, who dies. The next night, the Fang Gu attacks the {{Good|Sweetheart}}, who becomes the Fang Gu while the old Fang Gu dies. The {{Good|Sweetheart}} does not make a player drunk, because they did not die. The next night, the new Fang Gu attacks the {{Good|Klutz}}, who dies.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Thanks to your body-hopping ability, you have a vested interest in figuring out who is an Outsider. Having this information early on is important, as your main option to escape trouble and grow your strength is to pass the Demon ability on - timing this correctly can be the difference between a triumphant town and a dastardly evil victory.
+
+* When the heat is on and you suspect you might be heading to the chopping block soon, deliberately target an Outsider to die instead, ensuring the Demon lives on (and hoping goes back into hiding among the good players). Even if the good team suspects that you've done this, they won't be able to stop it happening!
+
+* Jump to an Outsider to expand your empire! The more evil players you have, the more votes you have on your side. This can be risky since you are potentially exposing the Demon when you move them around - characters like the {{Good|Oracle}} and the {{Good|Dreamer}} will be able to catch on to these sorts of shenanigans if you don't time your demon jump carefully. Ultimately though, the extra voting power is invaluable.
+
+* If you have managed to carve out a solid bluff and are well trusted by the good team, ''don't'' kill an Outsider. Their bluff is unlikely to be as strong as yours since you know for certain characters that are not in play, so passing the demonhood on at that point is just making the evil team vulnerable.
+
+* Keep your Minions in the loop! Your Minions (in particular the {{Evil|Witch}}, {{Evil|Cerenovus}} and {{Evil|Pit-Hag}}) are very destructive, and if they aren't aware of who their Demon is, the game could have an abrupt and unsatisfying end. Try to let them know ahead of time if you intend to jump bodies/who you are targeting in general - that way even if you hit a hidden Outsider unexpectedly, they won't wake up cursed, mad or transformed on top of being newly evil.
+
+* Because you can factor in dying to part of your plans at some point, consider taking advantage of some of the bolder bluffs that Sects & Violets has to offer. Die, then claim to be the {{Good|Sage}} and point out two people who are not the new Demon! Claim to be the {{Good|Sweetheart}} and get everyone doubting their information... or claim to be the {{Good|Klutz}} and exonerate one of your evil players with your 'choice'. Other bluffs will also work great for the Fang Gu, but if you have to die anyway, why not? 
+
+* If you become the new Fang Gu... don't panic! Your first point of order should be figuring out who the evil team is - start with the recently dead Fang Gu, and then go on to get the Minions. After that, it's evil business as usual - kill, avoid detection, and win for your new team!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Fang Gu ==
+
+* Learning that a Fang Gu is in play is the first step to beating it. The first, and biggest clue, is that the number of Outsiders that have revealed themselves is more than usual. This could be the result of evil players claiming to be Outsiders, or it could be due to the Fang Gu.
+
+* Certain characters can directly detect the Fang Gu. The {{Good|Oracle}} detects a new dead player whenever the Fang Gu becomes a new player. The {{Good|Flowergirl}} can detect when the Demon votes, and if that Demon dies at night, you probably have a Fang Gu in play. The {{Good|Dreamer}}, {{Good|Artist}} and sometimes the {{Good|Savant}} can get information that a Fang Gu is in play, without knowing specifically who it is. If the {{Good|Mathematician}} is consistently learning that no players are getting false information, then that means a {{Evil|Vortox}} and a {{Evil|No Dashii}} are absent from the game, and a Fang Gu is alive and well.
+
+* Execute the Outsiders if you suspect that a Fang Gu is in play. It is unusual for an entire game to pass without a Fang Gu swapping characters with an Outsider, so the Outsiders are particularly suspicious. You are probably best to kill the Outsiders later in the game, rather than earlier, because it is more likely that the Demon has swapped bodies by this point.
+
+* If a player dies at night, pay attention to who they talk to. Dead Fang Gu's will usually want to talk to their Minions to tell them who the new Demon is.
+
+* If you are an Outsider, don't reveal who you are until you are sure that a Fang Gu is not in play. If a Fang Gu is in play, it is likely that you will turn evil at some point during the game, and become the Demon. If you have told the good team that you are an Outsider, they may believe that you are evil, and kill you.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Demons]]

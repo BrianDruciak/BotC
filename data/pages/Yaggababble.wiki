@@ -1,0 +1,158 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_yaggababble.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Lachlan Bastiaen</td>
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>29/02/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Murders inside the Rue Morgue? Фальшивые новости! Hounds on the Baskerville moor? Фальшивые новости! Death while sailing the Nile? Фальшивые новости!"</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>IE12EQJLGVI</youtube>	
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Exorcist|exorcist|Good|If the Exorcist chooses the Yaggababble, the Yaggababble does not kill tonight.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing a secret phrase. For each time you said it publicly today, a player might die."
+
+The Yaggababble kills by talking.
+* The phrase that the Yaggababble says can be any length, but is usually 2 to 5 words long.
+* If the Yaggababble says this phrase, the Storyteller may kill a player any time afterwards, until dawn.
+* The Yaggababble may say this phrase as a standalone sentence, or part of another sentence.
+* The Yaggababble may say this phrase multiple times per day. If so, the Storyteller may kill multiple players.
+* The Storyteller chooses which players die. 
+* The Storyteller may choose to kill fewer players than the number of times the phrase was said.
+* If the Yaggababble is drunk or poisoned, players cannot die, even if the Yaggababble was sober and healthy when they said their phrase. If the Yaggababble is sober and healthy, players might die, even if the Yaggababble was drunk or poisoned when they said their phrase.
+* It is rare for the Yaggababble to kill during the day.
+
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During setup, write a phrase on a piece of paper, or on a phone.
+
+During the first night, wake the Demon. Show this phrase, then put them to sleep.
+	
+Each time Demon says the secret phrase, put a '''DEAD''' reminder in the center of the left side of the Grimoire, as a reminder to yourself to place it tonight.
+	
+Each night, you may mark players with these '''DEAD''' reminders, and add a shroud to each marked player. These players die.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Choose a phrase that is fairly plain. If the Demon has an unusual phrase each day, they will likely die or say it rarely. If the Demon has a common, believable phrase, they will likely say it each day, perhaps more than once each day.
+</div>
+
+	</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Yaggababble's phrase is "that sounds fishy". The Yaggababble says this once during the first day. That night, a player dies. The next day, the Yaggababble says "that sounds fishy" three times. That night, three players die.
+			</div>
+
+			<div class='example'>
+				The Yaggababble has said their phrase twice today. A {{Evil|Witch}} is in play. When the {{Good|Heretic}} nominates, the {{Good|Heretic}} dies, even though they were not cursed by the {{Evil|Witch}}. The {{Good|Golem}} nominates the Demon, and the {{Good|Golem}} dies. Both players died due to the Yaggababble's ability.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+* Say your phrase as often as you can! It's how you get kills, after all, you can really charge up your ability by getting a bunch of kills every single night.
+
+* Be sparing, around once per day, with how often you say it to conceal the phrase from the town, you don’t want to be giving yourself away by making your phrase really obvious. Once a day is a good benchmark, though, to still be able to mimic other Demons.
+
+* Make sure that when you say your phrase, the Storyteller can hear you – if they don’t hear you it’s not going to do anything but possibly still out you for saying it too often.
+
+* Share the phrase with your Minions - they can give you conversational segues to bring up your phrase and make everything seem more natural rather than forced.
+
+* Trust your ST to reward you for the risk of saying it a lot - you can possibly take the risk of squeezing a few extra utterings to get an extra couple of kills if it’ll drive you to endgame that much sooner.
+
+* If your ST isn’t rewarding you for saying the phrase multiple times, don’t bother. You can say your phrase once per day and still be a very effective Demon.
+
+* Your Minions can choose their own odd phrases to repeat themselves as well to make it seem like they might be the Demon in the late game.
+
+* Say your phrases when there are fewer people around – if fewer people hear it then fewer people can draw the link of how many times you might have said your phrase.
+
+* Pay attention to any phrases that any good players say more than once and draw attention to those. The more candidates there are for Yaggababble phrases, the more your own phrase can hide.
+
+* If the Storyteller gives you an unusual phrase that you’re unsure how to get into conversation, you can request a more common one on the first day.
+
+* Make sure you’re confident that you are saying the exact phrase you were given – don't reword the phrase or the Storyteller might not give the kills to you.
+
+* Say phrases that are similar in concept to your actual phrase, to muddy the waters and convince the group that you’re trying to get across an overall idea, not just repeat a single phrase.
+
+* Pick a secondary phrase that you say that doesn’t match your kills. This might make you look like a Minion that’s trying to cover for a Yaggababble.
+
+* Try to mix up the emphasis and rhythm of your phrase so it’s less recognisable as the same phrase.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Yaggababble ==
+
+* Watch for odd phrases that are getting repeated and compare to Demon kills at night. If in doubt, it’s probably worth killing players that’re reusing phrases just in case, even if there’s good odds they’re good.
+
+* Be aware that Minions might repeat phrases to try to conceal the Yaggababble phrase – any player that repeats any given phrase too often should be treated with great suspicion!
+
+* Watch for players that seem eager to speak when the Storyteller is listening – a true Yaggababble will want to make sure the Storyteller hears them when they say their phrase so will prioritise speaking when the Storyteller is nearby.
+
+		</div>
+
+	</div>
+
+</div>
+[[Category:Experimental Characters]]
+[[Category:Demons]]

@@ -1,0 +1,144 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_vigormortis.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Steven Medway</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"All doors are one door. All keys are one key. All cups are one cup, but whosoever drinketh of the water that I give shall never thirst, but the water shall be in him a well springing up into everlasting life."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/26427299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-9%2F153393072-44100-2-588ebb1dfbb84.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Mastermind|mastermind|Evil|A Mastermind that has their ability keeps it if the Vigormortis dies.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]"
+
+The Vigormortis kills their own Minions, but those Minions keep their ability.
+* Every time the Vigormortis kills a Minion, they die but keep their ability for as long as the Vigormortis remains alive. The Witch, Cerenovus, and Pit-Hag still act each night.
+* Somewhat like the No Dashii, the dead Minion’s closest clockwise or closest counterclockwise Townsfolk becomes poisoned, even if they are dead. If the Vigormortis dies or otherwise loses their ability, then those players become healthy again. One Townsfolk per Minion will always be poisoned this way, as neighboring Outsiders, Minions, or Travellers are skipped. The Storyteller chooses which of the two Townsfolk is poisoned.
+* All Minions killed by the Vigormortis keep their ability and poison a Townsfolk, not just the most recent.
+* If a dead Minion becomes a non-Minion character, they no longer poison a Townsfolk and have no ability. If a dead Minion becomes drunk or poisoned, they lose their ability until they become sober and healthy again.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While setting up the game, before putting the character tokens in the bag, remove one Outsider character token and add one Townsfolk character token. (''If there are no Outsider tokens to remove, do not add a Townsfolk token.'')
+
+Each night except the first, wake the Vigormortis. They point at any player. Put the Vigormortis to sleep. If the chosen player isn’t a Minion, that player '''dies''' - mark them with a '''DEAD''' reminder.
+
+If the chosen player is a Minion, that player '''dies''' - mark them with a '''DEAD''' reminder and a '''HAS ABILITY''' reminder. The closest clockwise or closest counterclockwise Townsfolk to the Minion becomes '''poisoned''' - mark them with a '''POISONED''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Vigormortis kills the {{Evil|Witch}}. The player that the {{Evil|Witch}} cursed tonight remains cursed. The next day, when the cursed player nominates, they die.
+			</div>
+
+			<div class='example'>
+				The Vigormortis kills the {{Evil|Evil Twin}}. The {{Evil|Evil Twin}} neighbours a {{Good|Klutz}} and a {{Good|Flowergirl}}. The {{Good|Sage}} is the next neighbour to the {{Good|Klutz}}. The Storyteller chooses that the {{Good|Sage}} is poisoned.
+			</div>
+
+			<div class='example'>
+				The Vigormortis kills the {{Evil|Pit-Hag}}. The {{Evil|Pit-Hag}} changes a {{Good|Savant}} into a {{Evil|Witch}}. The Vigormortis kills the {{Evil|Witch}}, who curses and kills a player. The {{Evil|Pit-Hag}} turns the dead {{Evil|Witch}} into the {{Good|Oracle}}, who now has no ability. The {{Evil|Pit-Hag}} turns the Vigormortis into a {{Evil|Vortox}}. The {{Evil|Pit-Hag}} now has no ability.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Kill your Minions as early as possible. If you kill your Minions at night, they keep their ability. If your Minions die during the day, then they lose their ability. Killing them yourself guarantees that they get to keep their ability for the rest of the game. A {{Evil|Witch}}, {{Evil|Pit-Hag}} or {{Evil|Cerenovus}} that is guaranteed to act each and every night can be an incredible boon for your team, either causing good player after good player to lose their ability by dying ({{Evil|Witch}} and {{Evil|Cerenovus}}) or to lose their ability by becoming a different character ({{Evil|Pit-Hag}}). In [[Sects & Violets]], any way that you can reduce the amount of information that the good team has received by the time that the final day comes around will be helpful.
+
+* Be patient, and listen to what the good players are saying. If they are not suspicious of any of your Minions, it is probably best to keep them alive. Each day, your living Minions get to use their vote to help you avoid being executed, and that is very helpful. There is no benefit to killing a Minion until you think that the good team might execute them. 
+
+* At night, kill players that the good team was planning on executing as soon as possible. If you kill suspicious good players, there is a good chance that the rest of the group will believe that a Vigormortis is in play and that the player that died at night was a Minion. And, if they believe that the good player is a Minion, they will not listen to anything that player says, even believing the opposite of any information they shared before they died, and are unlikely to form a bond of trust with that player. If a {{Good|Clockmaker}} or a {{Good|Town Crier}} is in play, their information is disrupted because they will base their logic on the false assumption of which player is the Minion. This strategy works particularly well if the good team already has reason to believe that a Vigormortis is the in-play Demon, due to information received via the {{Good|Dreamer}}, {{Good|Savant}}, or {{Good|Artist}}.
+
+* Killing the {{Evil|Witch}}, {{Evil|Pit-Hag}} or {{Evil|Cerenovus}} allows them to use their ability independently after they are dead. Killing the {{Evil|Evil Twin}} means that the good team will lose if the good twin is executed. However, since most players will not execute a single, living twin, they may need your help to convince them to do so. Killing an {{Evil|Evil Twin}} at night removes the possibility that the good team will learn which twin is evil and which twin is good by executing the evil twin - and the less the good team knows, the better.
+
+*Kill the {{Evil|Evil Twin}} if you suspect that the good team is going to execute them. It is much better to have them die at night, and leave the good team wondering whether you actually killed the good twin instead. The added bonus of a Townsfolk being poisoned is also very helpful.
+
+*If you don't know which Minion to kill, choose the one next to a particularly troublesome Townsfolk, so that the Storyteller can poison them. It is often better to have a dangerous Townsfolk alive and getting false information than dead and looking trustworthy. 
+
+*Since there is one fewer Outsider in play than normal, and you know this, it can be very easy and very effective to bluff as an Outsider. Even better - tell your Minions to bluff as an Outsider. A Minion that dies at night is usually perceived as very trustworthy, so if they claim to be the {{Good|Klutz}} or the {{Good|Sweetheart}}, then the good team can think there is a lot of misinformation when there isn't. Bluffing as the {{Good|Sage}} is also an excellent choice for Minions that die at night.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Vigormortis ==
+
+* Pay attention to who dies at night. If players seem to be dying in descending order of usefulness to the good team, you probably don't have a Vigormortis in play, and should be looking to see whether the Demon is a {{Evil|Vortox}}, {{Evil|Fang Gu}}, or {{Evil|No Dashii}} instead. However, if players die at night in a seemingly random order, or when you think that the group was probably going to execute those players soon anyway... you probably have a Vigormortis in the midst. Watch who dies at night, and what they are saying. If you can figure out which dead players are Minions, you can reverse their information, because most dead Minions will be lying.
+
+* It is often easiest to figure out that a Vigormortis is in play on the final day. In [[Sects & Violets]], Minions act in very noticeable ways. The {{Evil|Witch}} kills people when they nominate, and most players changed by the {{Evil|Pit-Hag}} will tell the group. If it gets to the final day and a Minion is still active, then you probably have a Vigormortis in play. If there are only 3 players left alive and you know that 2 Minions acted last night, you are definitely facing a Vigormortis, since there would be no good players left alive if both Minions were still alive. 
+
+* Watch out for the {{Traveler|Bone Collector}}. They can make it seem like a Vigormortis is in play when there isn't.
+
+* If you think that you know which players are dead Minions, use this information as the starting point to build upon. For example, the {{Good|Clockmaker}} can tell you who the Demon might be if you know a dead Minion. The {{Good|Artist}} can tell you where the Demon is in relation to the Minion, or confirm that your suspicions are correct. A {{Good|Town Crier}}'s information can tell you if you are correct or not, and if their information is at odds with yours, then that player may not be the {{Good|Town Crier}} after all.
+
+* If a Vigormortis is in play, you can safely assume that when just 3 players are alive, 2 of them are good. This is a fantastic thing to know, because you know that all their information can not be incorrect. There is no {{Evil|Vortox}} or {{Evil|No Dashii}} to muddy the waters, and only one of the three player's information is false. You have two separate assumptions to work from - either that all players are telling the truth (possible), or 2 players are telling the truth and one player is lying (probable). Examine the statements of each of the three players and see where they conflict. You may end up with a situation where "If A is true, then B must be true. If B is true, then C must be true. C is false, therefore A is false." You may not be able to confirm who is the Demon by this method, but starting from the assumption that either 2 or 3 players are telling the truth, you may be able to confirm beyond doubt that a particular player of that trio is good. And confirming that good players are good, is just as helpful as confirming that evil players are evil.
+
+*If it seems that one player is getting false information, but the majority of players are not, you probably have either a Vigormortis or a {{Evil|No Dashii}} in play. Either way, start executing the players closest to trustworthy Townsfolk with false information - you'll either be killing a {{Evil|No Dashii}}, or you'll learn that a Vigormortis is in play. 
+
+*When a Townsfolk suddenly starts getting false information, it is usually due to them being poisoned by a Vigormortis or a {{Good|Sweetheart}}. The {{Evil|Vortox}} and the {{Evil|No Dashii}} tend to give false information from the beginning of the game. If you can identify that a Townsfolk that was getting true information is now getting false information, then you also know that the player that died the night that happened is a Minion. Knowing who a Minion player is can be very useful, particularly when combined with the information that the {{Good|Clockmaker}}, {{Good|Town Crier}}, {{Good|Dreamer}}, {{Good|Seamstress}} or {{Good|Juggler}} gets.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Demons]]

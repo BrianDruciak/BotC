@@ -1,0 +1,210 @@
+<div class="row">
+
+<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+<div id='edition-details'>
+[[File:Logo_bad_moon_rising.png|200px]]
+<table id='edition-details-characters'>
+<tr>
+<td class='edition-details-characters-title'>Townsfolk</td>
+<td>
+[[Grandmother]]<br>
+[[Sailor]]<br>
+[[Chambermaid]]<br>
+[[Exorcist]]<br>
+[[Innkeeper]]<br>
+[[Gambler]]<br>
+[[Gossip]]<br>
+[[Courtier]]<br>
+[[Professor]]<br>
+[[Minstrel]]<br>
+[[Tea Lady]]<br>
+[[Pacifist]]<br>
+[[Fool]]<br>
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Outsiders</td>
+<td>
+[[Goon]]<br>
+[[Lunatic]]<br>
+[[Tinker]]<br>
+[[Moonchild]]
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Minions</td>
+<td>
+[[Godfather]]<br>
+[[Devil's Advocate]]<br>
+[[Assassin]]<br>
+[[Mastermind]]
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Demons</td>
+<td>
+[[Zombuul]]<br>
+[[Pukka]]<br>
+[[Shabaloth]]<br>
+[[Po]]
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+== Synopsis ==
+''The sun is swallowed by a jagged horizon as another winter's day surrenders to the night. Flecks of orange and red decay into deeper browns, the forest transforming in silent anticipation of the coming snow.''
+
+''Ravenous wolves howl from the bowels of a rocky crevasse beyond the town borders, sending birds scattering from their cozy rooks. Travellers hurry into the inn, seeking shelter from the gathering chill. They warm themselves with hot tea, sweet strains of music and hearty ale, unaware that strange and nefarious eyes stalk them from the ruins of this once great city.''
+
+''Tonight, even the livestock know there is a... '''Bad Moon Rising.'''''
+
+__TOC__
+
+== Gameplay ==
+
+Bad Moon Rising is a death extravaganza. Demons kill multiple times per night, and Minions get in on the action too. Good players can take great risks to gain reliable information, but may accidentally kill their friends in the process. Luckily, there are many options to keep players alive long past their use-by date. If the good team cannot determine which specific Minions and Demons are in play, however, their doom is all but certain.
+
+Intermediate. Recommended for players who are proactive, dedicated to working as a team, and don't fear dying.
+
+When playing Bad Moon Rising…
+
+'''Good players''' will receive little information by being passive. Some Townsfolk abilities require the good team to execute players in order to gain information (such as the {{Good|Tea Lady}} or the {{Good|Pacifist}}), whilst others encourage good players to take risks that may end in death in order to find out who is who (such as the {{Good|Gambler}} or the {{Good|Gossip}}). When good players do something, they learn something.
+
+The good team will also need to pay close attention to who died at night, and how. If they ignore this, they risk losing unexpectedly at the end of a day with four, five, or even six players still left alive. However, if they can figure out how each player died at night, they can figure out which evil characters are in play — letting them avoid losing the game to the dreaded {{Evil|Mastermind}} or the intimidating {{Evil|Po}} — and get helpful clues on which good characters accidentally killed which players (such as the {{Good|Moonchild}} or the {{Good|Tinker}}).
+
+'''Evil players''' may feel invincible at first, but they will need to use their abilities with precision and prudence in order to win. The Demon may need to convince the good team that a different Demon is in play to avoid the crippling effects of some good characters (such as the {{Good|Exorcist}} or the {{Good|Courtier}}), and may need to deliberately not kill to do so. But if the Demon can figure out who to attack and who to avoid attacking (such as the {{Good|Tea Lady}}'s neighbours, or the {{Good|Fool}}), then the good team is in serious trouble.
+
+The Minions will need to time their abilities well. A well-timed {{Evil|Assassin}}'s kill, a patient {{Evil|Devil's Advocate}}, or a {{Evil|Mastermind}} that can read a room can pull victory from the jaws of defeat.
+
+== Townsfolk ==
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_grandmother.png|250px|thumb|center|link=Grandmother]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Grandmother}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_sailor.png|250px|thumb|center|link=Sailor]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Sailor}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_chambermaid.png|250px|thumb|center|link=Chambermaid]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Chambermaid}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_exorcist.png|250px|thumb|center|link=Exorcist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Exorcist}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_innkeeper.png|250px|thumb|center|link=Innkeeper]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Innkeeper}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_gambler.png|250px|thumb|center|link=Gambler]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Gambler}}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_gossip.png|250px|thumb|center|link=Gossip]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Gossip}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_courtier.png|250px|thumb|center|link=Courtier]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Courtier}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_professor.png|250px|thumb|center|link=Professor]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Professor}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_minstrel.png|250px|thumb|center|link=Minstrel]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Minstrel}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_tealady.png|250px|thumb|center|link=Tea Lady]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Tea Lady}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_pacifist.png|250px|thumb|center|link=Pacifist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Pacifist}}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_fool.png|250px|thumb|center|link=Fool]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Fool}}</p>
+	</div>
+</div>
+
+== Outsiders ==
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_goon.png|250px|thumb|center|link=Goon]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Goon}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_lunatic.png|250px|thumb|center|link=Lunatic]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Lunatic}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_tinker.png|250px|thumb|center|link=Tinker]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Tinker}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_moonchild.png|250px|thumb|center|link=Moonchild]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Moonchild}}</p>
+	</div>
+</div>
+
+== Minions ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_godfather.png|250px|thumb|center|link=Godfather]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Godfather}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_devilsadvocate.png|250px|thumb|center|link=Devil's Advocate]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Devil's Advocate}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_assassin.png|250px|thumb|center|link=Assassin]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Assassin}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_mastermind.png|250px|thumb|center|link=Mastermind]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Mastermind}}</p>
+	</div>
+</div>
+
+== Demons ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_zombuul.png|250px|thumb|center|link=Zombuul]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Zombuul}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_pukka.png|250px|thumb|center|link=Pukka]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Pukka}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_shabaloth.png|250px|thumb|center|link=Shabaloth]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Shabaloth}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_po.png|250px|thumb|center|link=Po]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Po}}</p>
+	</div>
+</div>
+
+</div>
+</div>

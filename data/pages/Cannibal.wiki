@@ -1,0 +1,138 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_cannibal.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>04/07/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I don’t like clowns. They taste funny."</p>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Butler|butler|Good|If the Cannibal gains the Butler ability, the Cannibal learns this.}}
+{{Jinx|Juggler|juggler|Good|If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct.}}
+{{Jinx|Princess|princess|Good|If the Cannibal nominated, executed, & killed the Princess today, the Demon doesn’t kill tonight.}}
+{{Jinx|Zealot|zealot|Good|If the Cannibal gains the Zealot ability, the Cannibal learns this.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You have the ability of the recently killed executee. If they are evil, you are poisoned until a good player dies by execution."
+
+The Cannibal eats executed characters, gaining their ability.
+* If a good player dies by execution, the Cannibal gains that player’s ability. If an evil player dies by execution, the Cannibal only thinks that they gain an ability, since the Cannibal is poisoned. The Storyteller may be lying to them.
+* Each time a player dies by execution, the Cannibal loses the ability of the previous player.
+* Executing a dead player won’t grant the Cannibal an ability. Executing a living player who doesn’t die won’t grant the Cannibal an ability. A player must be executed and die for the Cannibal to gain their ability.
+* The Cannibal is not told which ability they have gained. They must figure that out for themselves.
+* If the Cannibal has an “even if dead” ability, such as the Recluse, or an ability that implies it works while dead, such as the Ravenkeeper or Sweetheart, the Cannibal keeps that ability when they die, but loses their Cannibal ability.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+If a good player dies by execution, mark them with the '''LUNCH''' reminder, and remove the Cannibal’s '''POISONED''' reminder if necessary. The Cannibal now has this good player’s ability (''do not say which''), and will wake at night when this good character would normally wake.
+
+If an evil player dies by execution, mark them with the '''LUNCH''' reminder and mark the Cannibal with the '''POISONED''' reminder. The Cannibal is '''poisoned'''. You may wake them when this evil character would normally wake, and pretend that they have a new ability.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Pay attention to which character each evil player is bluffing as. If they are executed, then their bluffed ability is the best one to pretend that the Cannibal has gained.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Clockmaker}} is executed and dies. That night, the Cannibal learns a “2” because the Demon and Minion are two steps apart.
+			</div>
+
+			<div class='example'>
+				It is the third night and the {{Evil|Widow}} was executed today. Because the {{Evil|Widow}} was bluffing as the {{Good|Fortune Teller}}, the Cannibal is prompted to choose 2 players, but they learn a “no” after choosing the Demon because they don’t actually have the {{Good|Fortune Teller}}'s (or {{Evil|Widow}}’s) ability, because they are poisoned. 
+			</div>
+
+			<div class='example'>
+				It is the fourth night and the {{Good|Mutant}} was executed today. The Cannibal doesn’t learn anything tonight, because a real {{Good|Mutant}} would not wake.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Execute people! While it is not advantageous to execute good players, your ability reduces the sting of this by quite a lot. Even if the town executes a Townsfolk by accident, the fact that you can still pick up their ability should help the good team significantly.
+
+* Keep a special eye out for players claiming to be Townsfolk with once-per-game abilities. You can eat such Townsfolk, use their once-per-game power, and keep chewing on more Townsfolk as the game goes on.
+
+* Remember you're not told which ability you have at any time! You may be able to figure it out based on things happening at night - being woken up and asked to choose two players means you're probably the {{Good|Fortune Teller}} or the {{Good|Chambermaid}} for example, but you can't necessarily be sure which.
+
+* Be sure to talk to executees before they die if you can, in the hopes that you can learn what exact ability you’re going to be picking up from them. If their ability is something that can only be used during the day, for example a {{Good|Slayer}}, you may miss the opportunity to use such an ability if you don’t know you have it.
+
+* Alternatively, don’t talk to the executed and then approach them the following day and describe what you experienced in the night, thus confirming to them that you are the Cannibal. This will help you build a circle of trust amongst the executed dead.
+
+* Don’t forget that evil players might give you fake abilities when executed. Your Storyteller will generally still try to make you think you have the ability the evil player claimed they had.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Cannibal ==
+
+When bluffing as the Cannibal, there are a few things you should keep in mind:
+
+* Try to get people executed! It’s what a real Cannibal would do, and it’s a great excuse to go after Townsfolk. Even if the town later discovers they killed someone useful on your suggestion, they may still hold hope you can recoup such a loss with cannibalism, a hope you would be more than happy to fill with a lie.
+
+* If you want to accuse an executee of being evil, consider acting like your power didn’t work after you ate them. Evil players poison the Cannibal when eaten, giving you lots of bluffing possibilities no matter what you say.
+
+* Be ready to fake a new ability every time someone is executed, that may mean interviewing executees before they die or conspiring with your allies. If you claim to eat someone who gets information every night, but don’t claim to have gotten information the night of their execution, you might be in a pickle. Unless, of course, you say such an absence of information was merely due to the fact that they were evil and poisoned you! But that mileage may vary.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

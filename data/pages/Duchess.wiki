@@ -1,0 +1,95 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_duchess.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Fabled|Fabled]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Caitlin Murphy</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"We shall entertain between the hours of 6 and 7 precisely. Tea at 6:15. Scones at 6:45. Do not be late. Formal wear applies, as always."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each day, 3 players may choose to visit you. At night*, each visitor learns how many visitors are evil, but 1 gets false info."
+
+Add the Duchess if your script has too little information or too much misinformation. 
+* Sometimes, you may want to create a character list using the Script Tool that has hardly any good characters that gain information directly. Whilst having an abundance of abilities and a lack of information can be fun for some players, other players like something more. The Duchess adds regular information to such a game.
+* Each player that visits the Duchess learns how many visitors are evil, including themself. However, one visitor of the Storyteller’s choice will get false information.
+* Players that visit the Duchess still get to use their ability normally. The Duchess does not make their ability give false information.
+* The players decide amongst themselves which players will be the three players to visit. If exactly three visitors cannot be decided upon, then the Duchess does not act tonight.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At the start of the game, declare that the Duchess is in play. Add the Duchess token and their reminders to the Grimoire. Each day, any player may volunteer to visit the Duchess tonight.
+
+If exactly three players volunteer to visit the Duchess tonight, then mark two of them with a '''VISITOR''' reminder and one of them with a '''FALSE INFO''' reminder. If more or less than three players volunteer to visit, do not add these reminders.
+
+At night, wake each player marked '''VISITOR''' or '''FALSE INFO''' one at a time. Show the woken player the Duchess token. If the woken player is marked VISITOR, show them fingers (''0, 1, 2, or 3'') equaling the number of evil players who are marked either '''VISITOR''' or '''FALSE INFO'''. If the woken player is marked '''FALSE INFO''', show them any number of fingers except the correct number. Put the woken player to sleep.
+
+Remove the Duchess at any time, declaring when you do so.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Soldier}}, {{Good|Pacifist}}, and {{Good|Sage}} visit the Duchess. The {{Good|Soldier}} and {{Good|Pacifist}} learn a "0.” The {{Good|Sage}} learns a "1.”
+			</div>
+
+			<div class='example'>
+				The {{Good|Mutant}}, {{Good|Butler}}, and {{Evil|Po}} visit the Duchess. The {{Good|Mutant}} learns a "1,” the {{Good|Butler}} learns a "2," and the {{Evil|Po}} learns a "1.”
+			</div>
+
+			<div class='example'>
+				The {{Evil|Mastermind}}, {{Evil|Imp}}, and {{Good|Minstrel}} visit the Duchess. The {{Evil|Mastermind}} learns a "2,” the {{Evil|Imp}} learns a "1," and the {{Good|Minstrel}} learns a "2.”
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Explanation ==
+
+Sometimes, you may want to create a character list using the Script tool that has hardly any good characters that gain information directly. Whilst having an abundance of power and a lack of information can be fun for some players, others like something more. The Duchess adds regular information to such a game.
+
+It is the responsibility of the players to decide among themselves which players will be the 3 players to visit. If exactly 3 visitors can not be decided upon, then the Duchess does not act tonight. 
+
+Each player that visits the Duchess learns how many visitors are evil, including themselves. However, 1 visitor will definitely get false information - it is your choice whom. Players that visit the Duchess still get to use their character ability normally. The Duchess does not make their character ability give false information.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Fabled]]

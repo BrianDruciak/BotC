@@ -1,0 +1,144 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_savant.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Seventy-two matchsticks on the floor... the sun sets early but the moon is unchanged... a torn piece of cloth... evil in the manor house... three by three... the one we trusted is not what he seems... green light means magnesium... residue, but the pattern is wrong... Seventy-two matchsticks on the floor..."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/28408609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-9%2F162919870-44100-2-dd030e93db12d.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false."
+
+The Savant gets crazy, amazing information that is different every day and every game, but exactly half of it is completely false.
+* Each day, the Storyteller chooses two pieces of information to give the Savant... so get creative! One must be true, and one must be false, and the Savant won’t know which is which.
+* It is up to the Savant to talk with the Storyteller, not the other way around. This isn’t a public conversation, and the group can’t listen in. It’s private.
+* The Savant can choose to not visit the Storyteller if they wish.
+* A drunk or poisoned Savant might get two pieces of true information or two pieces of false information.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Once per day, if the Savant requests a private chat with you, take them away from the circle so you cannot be overheard. Whisper two pieces of information, one true and one false, to the Savant. (''If you cannot think of two straight away, either take your time or ask them to come back in a few minutes.'')
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Keep the information you give helpful and related to the game. Avoid saying who exactly the Demon is, or it could be a very short game. If you need help on choosing what to say, give information similar to what Townsfolk abilities would provide.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Savant learns that "All players wearing glasses are good" and that "One player sitting on the black couch is a Minion."     
+			</div>
+
+			<div class='example'>
+				The Savant learns that "A {{Good|Snake Charmer}} is in play" and "Everybody got true information last night."
+			</div>
+
+			<div class='example'>
+				The Savant learns that "The Demon is a woman" and "Benjamin is evil."
+			</div>
+
+			<div class='example'>
+				The Savant learns that "Evin and Amy are the same alignment" and "There is one Outsider in play."
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Each day, you will receive one true piece of information, and one false piece of information. The easiest way to utilize this is to pick which piece of information you believe to be true, and run with it. For example, if the Storyteller tells you that either a) a {{Good|Mutant}} is in-play, or b) both your neighbours are good, and there is no evidence that a {{Good|Mutant}} is in-play, then just assume that both your neighbours are good. You might be wrong, but you've made a "best guess", which is something.
+
+* In some situations, one half of your information may be proved to be true, in which case, the other piece of information is false. Or, one half of your information is proved to be false, in which case the other half of your information must be true. This gives you multiple facts to work with. For example, if you learnt that either a) the Minion has blonde hair, or b) there are 3 Outsiders in play, and all evidence is pointing to the fact that the Minion is dead (and no dead players have blonde hair), you can safely assume that there are 3 Outsiders in play.
+
+* You can sometimes deliberately prove that one half of your information is true or false. Again, this gives you more facts as a result. For example, if you learn that either a) the Demon is wearing a collared shirt, or b) all players on the black couch are good. If you deliberately execute all players wearing collared shirts, and the game continues with the Demon still killing at night, then you know that the Demon was not wearing a collared shirt, and therefore that all players on the black couch are good.
+
+* False information is just as useful as true information, if you know it to be false. When mentally reversing a fact from false to true, be careful that you do not make a logical error. For example, if you learn that "the {{Evil|Witch}} chose a good player last night", and you come to believe that information is false, reversing this information to mean "the {{Evil|Witch}} chose an evil player last night" is not necessarily correct. There may be no {{Evil|Witch}} in play. Or the {{Evil|Witch}} might be dead. The reversal of "the Witch chose a good player last night" is "all good players are free from the Witch's curse and may safely nominate".
+
+* Each day, you will get two pieces of information. Whilst it may sometimes seem impossible to determine which of these pieces are true, as the game progresses, you can compare later information to earlier information, and this may lead to definite conclusions. For example, if on the 1st day, you learn that a) A {{Good|Snake Charmer}} is in play, or b) all players wearing hats are good, then on the third day, you learn that either a) a new player became the Demon last night, or b) the Minion is dead; this information overlaps. If you assume that the Demon has been swapped by the {{Good|Snake Charmer}}, you can deduce that at least one player wearing a hat was evil on day 1, and the Minion is still alive.
+
+* Tell the group your information each day so they can help you remember it all. It can be difficult to remember everything the Storyteller told you once the days start getting numerous. You need to be a Savant, after all! Telling the group can help make sure nothing is forgotten. Alternatively, if you have an excellent memory (or you can secretly write down the information without the storyteller catching you, or the Storyteller actually lets you write down information), staying quiet for a few days and revealing everything at once can be devastating.
+
+* To maximize the information that you receive, do whatever you can to survive as many days as possible. Bluff as a character that the Demon does not want to attack, such as the {{Good|Sage}}, or the {{Good|Clockmaker}}, or {{Good|Seamstress}}, who has already used their ability, or simply stay quiet. The longer you survive, the more information you have to work with. Don't leave it too long though... with players dying left, right, and center, due to the {{Evil|Witch}}, {{Evil|Cerenovus}}, and {{Good|Mutant}}, you may need to reveal your information earlier rather than later, to help the good team kill an evil player or two. This is particularly helpful if an {{Evil|Evil Twin}} or a {{Evil|Vortox}} is in-play, as you'll need to correct the good team's information with what you know.
+
+* Pay attention to the wording that the Storyteller uses - small changes can have drastically different consequences. Since the Savant can be a difficult character for Storytellers to have in a game, as they need to create information that is helpful to you, but not game-endingly unfair for the evil team, many Storytellers choose their words very carefully. Remember exactly what was said, to avoid confusion. For example, if the Storyteller says "All minions are on the blue couch", and you tell the group that "all players on the blue couch are minions", you have made a logical error. Or, if the Storyteller says "The Demon is wearing glasses", and you tell the group "The Demon is someone who wears glasses.", be aware that these statements are slightly different - if the Demon takes their glasses off without you noticing, and you keep telling the group that the Demon is wearing glasses, you will be in error.
+
+* Visit the Storyteller every day, to receive as much information as you can. The more days that you visit the Storyteller, the more you learn, but the more likely the Demon is to kill you at night. The Savant is often too dangerous a player for the Demon to keep alive, so if the Demon player sees you visiting the Storyteller each day, they may attack you at night, even if you have not publicly revealed that you are the Savant.
+
+* Wait a few days before visiting the Storyteller. While this will mean that you get less information overall, it may mean that you live longer and that any information that you do receive is more valuable. Typically, information you get when there are only 3, 4, or 5 players left alive will be more useful, because it refers to fewer players. For example, learning that 1 of 2 players is a Minion is handy when 12 players are alive, but it is VERY handy when just 3 players are alive.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Savant ==
+
+When bluffing as the Savant, there are a few things you should keep in mind:
+
+* Keep your information simple! Not only does this make it easier to keep your story straight in general, but it is much easier to undermine the good team if they can follow your argument. For example, try giving information like a) I have an evil neighbour OR b) There is a {{Good|Clockmaker}} in play. These statements can enable you to back up your demon (bluffing as a {{Good|Clockmaker}}) or cast shade on your neighbours.
+
+* Give complex and confusing information! While this can be trickier to deal with, you can trip the good team up trying to unravel what your information ''means'', taking their focus away from other evil players. For example, your information could be a) that there are more evil players in even steps away from you, OR b) The evil players have one good player between them. These tricky statements will take some time to decipher.
+
+* Ask the Storyteller for advice on what sort of information they would give. You'll be going up to them every day anyway - different Storytellers will give different bits of information depending on their personal style and the game setup. You won't get anything specific (you're not ''actually'' the Savant), but they'll definitely give you some ideas. For example, the Storyteller may tell you that they would give you information about in-play characters, or the alignments of players in certain locations.
+
+* Don't be too specific - specific statements can be easily disproven. For example, if you confidently say that "Lachlan is the {{Good|Town Crier}}" and he isn't, then your other statement has to be true... which is a problem if that statement implicates any of your evil team.
+
+* Give two false statements or two true statements. The things that you know to be true (e.g., Your evil team) are not things you want the group to know about. Bury the truth by masking it as the false statement to something obviously true, or throw suspicion around by making two false statements that undermine the claims of good players. For example, if the Demon is a {{Evil|No Dashii}}, you could claim that a) The Demon is a {{Evil|No Dashii}} OR b) Kurt is good. If Kurt has been verified by other information (e.g., if he's dead and an {{Good|Oracle}} has read him), then people will naturally tend towards believing the Demon is not a {{Evil|No Dashii}}.
+
+* Use your information to pit good players against each other! Tell everyone sitting together on a couch that one player there is evil. Claim mutually exclusive statements - for example, if you have a {{Good|Dreamer}} and {{Good|Philosopher}} running your game, claim that your information was a) There is a {{Good|Dreamer}} in play OR b) There is a {{Good|Philosopher}} in play. Driving a wedge between good players and casting doubt on their information is a great way to protect the evil team and keep things confused.
+
+* Give information that leads to the endpoint you desire. This can be tricky, but rewarding if you pull it off. The idea is to give information that overlaps on a particular point in such a way that something is true (or false) no matter which statement the group accepts as the "true" one. For example: say you are trying to protect your Demon from suspicion, and they are female and sitting next to you. You can claim your information was a)The Demon is male OR b) Both my neighbours are good. No matter which one of these statements ends up being false, it clearly absolves the Demon of any guilt!
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

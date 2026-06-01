@@ -1,0 +1,117 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_judge.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I find the defendant guilty of the crimes of murder, fraud, arson, larceny, impersonating an officer of the law, practicing medicine without a license, slander, regicide, and littering."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/69973994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-8%2F328273329-44100-2-ef0cfd2697427.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, if another player nominated, you may choose to force the current execution to pass or fail."
+
+The Judge can determine if an execution succeeds or not, regardless of who voted. 
+* The Judge can decide to pardon a player that they think is innocent, to condemn a player that they think is guilty, or vice versa.
+* If the nominee is pardoned, then they are not executed today, and none of the votes for them count. If the nominee is condemned, then they are executed immediately, regardless of how many votes they received, and regardless of whether another player was about to die by execution. Then the day ends, because there can normally only be one execution per day.
+* The Judge may use their ability during or after the votes are tallied. However, once a new player has been nominated, then the Judge may only use their ability on this new nominee. The Judge may only use their ability once, and only if a different player made a nomination.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At any time during a nomination for execution—from the moment that the nomination is declared to the moment before a new player is nominated for execution—the Judge can declare that this execution succeeds or fails. If the Judge declares that it succeeds, the nominated player is executed and you may proceed to the night phase (''as there may only be one execution per day''). If the Judge declares that it fails, the nominated player is no longer about to die and they are treated as receiving zero votes for execution, and the nomination process continues. '''The Judge loses their ability'''—put the Judge’s '''NO ABILITY''' reminder token by the Judge token.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Slayer}} was about to die, but the {{Evil|Po}} is nominated and every alive player votes, so now the {{Evil|Po}} is about to die. The evil Judge decides that the {{Evil|Po}}’s execution fails. So, as before, the {{Good|Slayer}} is about to die, and the nomination process continues.
+			</div>
+
+			<div class='example'>
+				The good Judge nominates the {{Good|Professor}}. Nobody votes, but the Judge may not use their ability. A Traveller's exile is voted on. Once again, the Judge may not use their ability. The {{Good|Grandmother}} nominates the {{Good|Goon}}. Even though the {{Good|Goon}} got only one vote, the Judge decides that the {{Good|Goon}} is executed immediately. 
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are good) ==
+
+* Save your ability until you need it. In the early stages of the game, you won't really know who to execute or who to save. Wait until the later game, where you have at least some clues to base your decision on.
+
+* Watch for who votes and who doesn't, and do the opposite. Since evil players are less likely to vote for evil players, then it is best to use your Judge ability to force an execution to succeed when hardly anyone votes. If hardly anyone has voted, the player is more likely to be evil. Conversely, if lots of players vote, then the player is more likely to be good - use your Judge power to prevent this execution from succeeding. Doing the opposite of what the group wants not only puts the odds in your favor, but makes sure that you are actually using your ability to full effect. There is no point in forcing an execution to pass if it would have passed anyway.
+
+* ...or is there? When the Demon is nominated and gets just enough votes to be executed, the evil team will usually panic and scramble to nominate a good player immediately so that they can vote and kill a good player instead of the Demon. If you believe that this is the situation, you can use your Judge power to force the current execution to succeed, preventing any chance that the evil team can avoid the Demon's execution. You can "lock in" the current execution, and there is nothing that they can do about it.
+
+* Get a feel for the room, and Judge when the players are thinking about exiling you. Any good team worth their salt will Exile a Judge that has not used their ability on the final day, but some groups will want to do so even sooner. With the threat of a {{Evil|Shabaloth}} or a {{Evil|Po}} lurking as a possibility, or even an {{Evil|Assassin}} or {{Evil|Godfather}} to cause extra deaths at night, the good team can never be sure when the final day actually is - they may start thinking about exiling you prematurely. This has nothing to do with you appearing suspicious. It's just clever playing, because an evil Judge that is alive on the final day is so dangerous as to cause an auto-win for evil. If you can read the room and guess when the tide is turning against you (even if most players think that you are good), then make sure to use your ability before that happens.
+
+* It is usually best to use your ability to save a player from execution than to force an execution to succeed. Most players that are executed are good. The odds are, you'll be saving a good player from death, and probably gaining a trusted ally in the process.
+
+* Don't nominate. Players that you nominate can still be executed, but you can not use your Judge ability to force them to be executed.  If you really want to execute a particular player, wait until another player nominates instead. If no players are nominating the player that you want, talk to players in private and make allies. Ask players to nominate on your behalf. You can even "encourage" player A to nominate on your behalf, or else player B  will nominate player A. That should get the ball rolling!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+
+* Use your ability as early as you can. If you force an execution of a good player - great! If you prevent an evil player dying - great! As long as you know who is good and who is evil, you can not use your ability incorrectly. It is always helpful. Even if you are exiled immediately after using your ability, it is still worth it. An evil traveler that helps their team this much has played their part and nudged the scale noticeably towards evil.
+
+* It is usually best to use your ability to force an execution to succeed as opposed to preventing an execution. If you force an execution to succeed, you are definitely having an effect. If you prevent an execution from succeeding, the good team may still want to execute the same player the following day. In this case, you'll need to come up with some valid-sounding reasons why you saved the player in question from death. This is not hard to do though... you can tell them that most players are good and that you were just playing the odds, you can tell them that you wanted to use your ability before the town exiled you, or you can tell them that another player is more suspicious instead and killing the first player was a waste of valuable time. Whatever works for you. 
+
+* If you are more talented at looking evil than looking good, look evil. Look just evil enough to arouse the suspicion of one or two players, and then save a good player from being executed late in the game. If a few good players think you are evil, they will think that you saved an evil player, and do their best to get that player executed again the following day. This delaying strategy can win the game for you if timed well, because every time you delay an execution by a day, the Demon attacks that night, reducing the number of good players alive, and bringing the final day evil victory closer, or getting the wrong player executed at a later, more opportune time. Ask yourself this question: If just 3 players are left alive, would you rather that the {{Good|Gossip}} died yesterday, or is still alive today and looking as suspicious as all heck? It can be extremely useful to have good players that look evil alive on the final day, because they will get executed instead of the Demon.
+
+* If you want to nominate, go ahead and nominate evil players, even the Demon. You will always have the excuse that you can't force the execution to succeed, because you can't use your Judge ability if you were the one to nominate. You'll need to judge the room though - is this a group that will interpret "The Judge can not force this execution to succeed" to mean "The Judge is not really keen to kill this player. It is a frivolous nomination." or "The Judge can not kill this player. We need to all vote to do so."?
+
+* If the good team is foolish enough to allow you to survive until the final day, you can snatch a cheap and nasty victory. Ask an evil player to quickly nominate a non-Demon player, and then force the execution to succeed. Before the good team knows what is happening, a player is dead, the night is falling, and evil has won.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

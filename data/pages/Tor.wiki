@@ -1,0 +1,78 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_tor.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Loric</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>25/10/2025</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>"With thunder as my voice and lightning as my blade, I, the eternal guardian, feast upon the fools who dare approach the forbidden gate. Behold, my sacred goal! To purge the beetle from the belly of the rocky earth, to ensnare it in a net of stars on the hilltop where heaven meets earth."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Players don't know their character or alignment. They learn them when they die."
+
+Tor removes all knowledge of who is who.
+* Players do not know which character they are.
+* Players do not draw tokens from the bag. The Storyteller puts them directly in the Grimoire at the start of the game.
+* Character abilities work as normal. Players are woken and prompted to use their ability if needed.
+* When a player dies, they learn their character and alignment. Even if they are drunk or poisoned, this information is correct.
+* The Demon and Minions do not know each other.
+
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During setup, do not pass the bag to the players. Instead, draw the character tokens from the bag and place them in order in the Grimoire.
+
+If a player dies during the day, privately tell them what character and alignment they are. If a player dies at night, wake them, show them the '''YOU ARE''' info token, their character token, the '''YOU ARE''' info token, and either a thumbs up or a thumbs down.
+
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Julian, Alex, Evin, Lachlan, Sarah, Marianna and Amy do not know which character they are. Evin wakes each night and learns a thumbs up, but does not know why. Sarah wakes each night to choose a player, but does not know why. Amy wakes each night to choose a player, but does not know why. Sarah is executed and learns that she is the good {{Good|Monk}}. Lachlan, guessing that he might be the {{Good|Slayer}}, publicly says that he is the {{Good|Slayer}}, and chooses Amy. Amy dies. Evin was the {{Good|General}}, Lachlan was the {{Good|Slayer}} and Amy was the {{Evil|Imp}}.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

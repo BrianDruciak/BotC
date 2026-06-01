@@ -1,0 +1,128 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_tinker.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I think I see the problem. Luckily, I have an idea! This catapult will shoot twice as far with just a minor adjustment..."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/52803977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-31%2F268894987-44100-2-69fe9ce275258.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You might die at any time."
+
+The Tinker can die at any time, for no reason.
+* The Storyteller may kill the Tinker at any time.
+* The Tinker cannot die from their ability while protected from death, as normal.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At any time, you may decide that the Tinker dies. If this is during the day, immediately declare that the Tinker has died. If this is during the night, mark the Tinker with the '''DEAD''' reminder and wait until dawn to declare which players died during the night. (''Do not say how.'')
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+While you may kill the Tinker out of the blue during the day, it is most interesting if the Tinker dies at night, because the players will be wondering whether the Tinker died due to their ability or for some other reason.
+<hr />
+You can choose to never kill the Tinker. This makes the Tinker look really suspicious.
+<hr />
+We recommend that you never kill the Tinker when it would end the game. Players should win or lose by their own efforts, not Storyteller fiat.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the night, the Tinker dies, even though the Demon attacked a different player.
+			</div>
+
+			<div class='example'>
+				The {{Good|Tea Lady}} sits next to the Tinker and another good player, protecting the Tinker from death. The Tinker cannot die from their ability.
+			</div>
+
+			<div class='example'>
+				The Tinker is attacked by the Demon. The Tinker does not die because they are protected by the {{Good|Innkeeper}}. Later that night, the {{Good|Innkeeper}} dies, so the Storyteller chooses to kill the Tinker too.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Storyteller holds your life in their hands and can snuff it out in an instant! Do not underestimate the petty tyranny that this power trip creates - don't give them a reason to kill you at a terribly inopportune time for the good team!
+
+* Reveal you're the Tinker after you die, particularly if you die at night. While you can be targeted by the demon (or a wily {{Evil|Assassin}}), the Storyteller can kill you at any time, and may have knocked you off at night to bolster the evil team. For example, if the demon has been blocked by the {{Good|Exorcist}}, you might die instead to create the impression of the demon still acting. If the {{Good|Exorcist}} player knows this, they can decide to block the same player again, as opposed to writing them off as not the demon. Your death can also create the impression of different demons - for example, your extra death could point to the existence of a {{Evil|Shabaloth}}, when the demon is in fact a {{Evil|Pukka}}.
+
+* Rarely, you will drop dead publicly - an unfortunate accident witnessed by all of the townsfolk. While this unexpected death might seem like a bummer, consider this upside - as a ghost, the whole town knows that you ''must'' be the Tinker, and therefore are good and can be trusted! Nobody else can die publicly during the day outside of an execution. Take advantage of this knowledge to get chatting to those who remain, and aid the town after death.
+
+* The Storyteller is always striving to create a balanced game where both good and evil have an equal chance of winning. This means that even though your death will usually ''seem'' random, it's probably serving some greater cosmic purpose. This also means that it is information if they choose ''not'' to kill you, especially as the town whittles down to three players remaining. If you remain standing close to the end of the game, start to think about why the Storyteller couldn't risk killing you off. Are you among the few good players left alive? (Or are they just screwing with you because they know you expect to die?)
+
+* Seriously though, be nice to the Storyteller. Most Storytellers will accept firstborns in exchange for leniency.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Tinker ==
+
+When bluffing as the Tinker, there are a few things you should keep in mind:
+
+* Bluffing as the Tinker is easy...right up until the group starts to question why you are still alive. Aid your bluff by dying, if possible. If you are a Minion, or if you are the {{Evil|Zombuul}}, or if you are a Demon with a {{Evil|Mastermind}} in play, feel free to die (preferably at night), to make your bluff seem legitimate. 
+
+* If you die at night, blame your "ability" to confuse the group. If the group believes that you died due to the Tinker ability, then they will remain unsure of which Demon is in play, and which other death-causing characters are in play too, such as the {{Good|Gambler}}, {{Good|Gossip}}, or {{Good|Grandmother}}.
+
+* If you stay alive for a long time, simply claim that the Storyteller is deliberately not killing you, so as to make it look like you are not the Tinker. Storytellers are sometimes nasty like this. They think it's "fun". They are correct.
+
+* The Storyteller will run a balanced game, which means that when just 3 players are left alive, the Tinker would not be randomly killed by the Storyteller just to give evil the win. You can use this information to your advantage, by telling the group to keep you alive as the game comes to an end.
+
+* If you are bluffing as the Tinker, and the real Tinker starts giving you funny looks, it is probably best to change your bluff. If the Storyteller kills the real Tinker in the day time, which they might (but shouldn't), then that will confirm that they are indeed the Tinker, and you are lying. Have a backup plan at the ready.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Outsiders]]

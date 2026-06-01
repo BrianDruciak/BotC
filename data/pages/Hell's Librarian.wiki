@@ -1,0 +1,86 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_hellslibrarian.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Fabled|Fabled]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Shhhhhh. Please be quiet. It is best not to disturb the Librarian. I've heard it has a temper."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Something bad might happen to whoever talks when the Storyteller has asked for silence."
+
+Use the Hell’s Librarian to allow a softly-spoken Storyteller to be heard when needed.
+* As the Storyteller, you’ll find the Hell’s Librarian useful when it is difficult to get the group’s attention. Maybe you need to explain a game rule? Or get attention for a crucial final-day vote? It can also be used to prevent players from talking about their characters before the game begins or from narrating what they are doing at night. Players instinctively stay quieter during the pre-game period and at night, so you may never need it.
+* It is best to give the players fair warning before you bring the hammer down. Like the Angel, the threat of a mysterious penalty is more important than the actual penalty. The purpose of this character is to make games run smoothly, not to punish minor infringements.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At any time, declare that the Hell’s Librarian is in play. Add the Hell’s Librarian token and their '''SOMETHING BAD''' reminder to the Grimoire.
+
+At any time, you can ask the group for silence for a particular period of time. Remind them that the Hell’s Librarian is in play if needed. If a player talks or otherwise interrupts and makes your job difficult during that time, you can let them know that something bad happens to them. You may need to mark their character token with the '''SOMETHING BAD''' reminder, to remind you that they are now poisoned, or mad, or can’t vote today, or simply as a reminder to decide on what to do later.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Like the Angel, the “something bad” that might happen is up to you. However, it is recommended to either make the penalty that the player dies, that the player loses their ability for a day, or that the player may not vote for a day. A light penalty works much better than a severe one.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Storyteller is attempting to explain the voting rules to a few new players. The group is loud and is not listening to the Storyteller’s requests for silence, so the Storyteller declares that the Hell's Librarian is in play. Two players continue to loudly talk, even though they know the possible penalty. The Storyteller decides that one dies and the other loses their vote for today. All players are silent whilst the rules are explained.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Explanation ==
+
+The Hell's Librarian is useful when you find it difficult to get the group’s attention. Maybe you need to explain a game rule? Or get attention for a crucial final day vote? It can also be used to prevent players talking about their characters before the game begins or narrating what they are doing at night. Players instinctively stay quieter during the pre-game period and at night, so you may never need it.
+
+It is best to give the players fair warning before you bring the hammer down. Like the {{Fabled|Angel}}, the threat of a mysterious penalty is more important than the actual penalty. The purpose of this character is to make games that run smoothly, not to punish minor infringements.
+
+Like the {{Fabled|Angel}}, the "something bad" that might happen is up to you. However, it is recommended to either make the penalty that the player dies, that the player loses their ability for a day, or that the player may not vote for a day. A light penalty works much better than a severe one.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Fabled]]

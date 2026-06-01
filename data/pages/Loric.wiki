@@ -1,0 +1,67 @@
+<div class="row">
+
+<div class="small-12 large-12 columns">
+
+Loric are characters for the Storyteller. They’re more like special rules than characters all on their own. They cannot be killed and they alter the game itself. Loric characters bring extra spice to alter a game for the sake of a twist - while the Fabled solve problems, the Loric introduce new problems to make the game feel fresh and interesting.
+
+== How To Run ==
+
+'''Use the Loric whenever you want.''' If you have played a particular script many times, or you just want a change of pace, adding a Loric makes the game feel new and different. 
+
+'''To include the Loric in your game,''' simply choose one, tell the group which Loric is in play, and put the Loric character token in the center of the left side of the Grimoire as a reminder about what the character does. All Loric must be added at the start of the game. You may add multiple Loric at your own risk.
+
+'''The Loric cannot die or lose their ability.''' You are the Storyteller, not a player, so your Loric are immune to all game effects, including death, drunkenness, and poisoning. 
+
+'''Like Travellers and Fabled, the Loric do not count as players for the "two players remain alive" victory condition for the evil team.'''
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_big_wig.png|250px|thumb|center|link=Big Wig]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Big Wig}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_bootlegger.png|250px|thumb|center|link=Bootlegger]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Bootlegger}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_gardener.png|250px|thumb|center|link=Gardener]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Gardener}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_godofug.png|250px|thumb|center|link=God of Ug]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|God of Ug}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_hindu.png|250px|thumb|center|link=Hindu]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Hindu}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_knaves.png|250px|thumb|center|link=Knaves]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Knaves}}</p>
+	</div>
+</div>
+<div class='row'>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_pope.png|250px|thumb|center|link=Pope]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Pope}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_stormcatcher.png|250px|thumb|center|link=Storm Catcher]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Storm Catcher}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_tor.png|250px|thumb|center|link=Tor]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Tor}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_ventriloquist.png|250px|thumb|center|link=Ventriloquist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Ventriloquist}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_zenomancer.png|250px|thumb|center|link=Zenomancer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Zenomancer}}</p>
+	</div>
+</div>
+
+</div>
+</div>

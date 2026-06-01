@@ -1,0 +1,136 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_xaan.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Steven Medway</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>06/12/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Down they fall. One by one. By two, by three, by five."</p>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>b_1Jv-RD4zY</youtube>	
+
+		</div>
+
+	</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"On night X, all Townsfolk are poisoned until dusk. [X Outsiders]"
+
+The Xaan poisons all Townsfolk.
+* The Xaan poisons all Townsfolk players for one night then one day. The night that this happens equals the number of Outsiders in play. For example, if there are 2 Outsiders, the Xaan poisons on night 2.
+* There can be any number of Outsiders in play, but usually 1 to 4. This can be the normal number of Outsiders if the Xaan was not in play, or something different. This overrides other characters that add or remove Outsiders, such as the Baron.
+* If the number of Outsiders changes during the game, the Xaan poisons on the night corresponding to the number of Outsiders during setup.
+* The Xaan needs to be alive in order to poison.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+While setting up the game, before putting character tokens in the bag, add or remove any number of Outsider tokens, including zero. Remove any unnecessary Xaan reminders.
+
+On the 1st night, add the '''NIGHT 1''' Xaan reminder to the Grimoire. On the 2nd night, add the '''NIGHT 2''' Xaan reminder to the Grimoire. On the 3rd night, add the '''NIGHT 3''' Xaan reminder to the Grimoire. On the night that equals the number of Outsiders in play when the game began, add the '''X''' reminder to the Grimoire, and remove it the following dusk.
+
+When the '''X''' reminder is in the Grimoire, all Townsfolk players are '''poisoned'''.
+		</div>
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There are 3 Outsiders in play, due to the Xaan. On night 3, the {{Good|Exorcist}} chooses the Demon but nothing happens, the {{Good|Acrobat}} chooses the {{Good|Drunk}} but nothing happens, and the {{Good|Seamstress}} gets false information.
+			</div>
+
+			<div class='example'>
+				There is 1 Outsider in play. It is an 11-player game. On the first night, the Xaan poisons all 7 Townsfolk. On the second night, the {{Evil|Pit-Hag}} creates a {{Good|Hatter}}. Even though there are 2 Outsiders in play, all players are healthy tonight.
+			</div>
+			<div class='example'>
+				There are no Outsiders in play. The Xaan never poisons anyone. The Xaan bluffs as the {{Good|Zealot}}, and the good team believes that all Townsfolk are poisoned on night 1, but they are not.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+* Stay alive as long as you can - or at least until after night & day X! Remember, your ability only works while you are alive.
+
+* Get yourself killed before the start of night X, to hide that there is a Xaan in play and to make additional outsider claims look suspicious.
+
+* If there is no Xaan in play, bluff as an Outsider to make it look like there is a living Xaan. Evil team coordination goes a long way here - evil players who are bluffing as Townsfolk should give incorrect information on night 2 or night 3 to make good players believe there is a Xaan in play and back up the Outsider bluff!
+
+* If there is a Xaan in play, discredit some of the Outsiders. If 3 good players are claiming to be Outsiders, claim to be the {{Good|Investigator}} who has seen one of the Outsiders as the {{Evil|Poisoner}}. Or, claim to be a {{Good|Village Idiot}} who has learned that one or two of the Outsiders are evil. The more that the good Outsiders appear to be evil, the harder it will be for the town to identify that a Xaan is in play.
+
+* Solve for X! (This is totally what your teachers meant when they said that mathematics matters in the real world.) Seriously, though - identify how many Outsiders are in play! If you can figure out how many Outsiders there are in the game, you’ll know when night X starts, and you & your evil teammates can bluff poisoned information accordingly.
+
+* Listen to the information good players share, and identify inconsistencies. If you notice multiple sources of poisoned information on the same night, you’ll be able to figure out how many Outsiders started in play.
+
+* Fake a Xaan night/day! Coordinate with your evil team, and have every evil player bluff incorrect information and/or malfunctioning abilities on the same night. 
+
+* Be chaotic and draw attention towards yourself (and therefore away from your Demon)!
+
+* As evil players, bluff characters that receive lots of information, especially information that is usually difficult to bluff. Claiming to be a {{Good|Dreamer}}, a {{Good|Cannibal}}, or a {{Good|Washerwoman}} is much more believable with the Xaan on the script. Receiving poisoned information is much less suspicious when good players are expecting at least one night where all Townsfolk are poisoned. 
+
+* Be wary of bluffing true or healthy information, or bluffing that you know it can’t be a Xaan night or day because your ability “worked”. It’s much easier to claim that you were poisoned on a night when other players were sober, than it is to bluff that you were sober on a night when every Townsfolk was poisoned! 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Xaan ==
+* Look for information that confirms players who are claiming to be good Outsiders, because this can help the town figure out how many Outsiders are telling the truth about their character. 
+
+* Treat information with extreme caution, and pay attention to information that seems drunk or poisoned. If multiple players you trust socially are claiming to have received poisoned information on the same night, that might be night X.
+
+* Tell the truth about your information to see how it compares with other players’ information. If you learned a Yes as the {{Good|Fortune Teller}}, but the {{Good|Nightwatchman}} is claiming that the player they picked did not wake to learn about a {{Good|Nightwatchman}}, and the {{Good|Professor}} is claiming that the {{Good|Noble}} they tried to resurrect did not come back to life, you may want to take that Yes with a big grain of salt.
+
+* Lie about your information to confuse the evil team about which night is the Xaan night. If you’re the {{Good|Librarian}} confirming the {{Good|Plague Doctor}}, announce that you saw a {{Good|Goon}} between two different players. If evil players believe there are more or fewer Outsiders in play, they might try and bluff that it’s a Xaan night on a night or day when at least one Townsfolk can prove their ability is sober and healthy.
+
+* Solve for X, and then disregard any information from that night and that day. If you think there are 3 Outsiders in play, and the {{Good|Empath}} says they learnt a new number on Night 3, ignore it! 
+
+* When a player has sober and healthy information, and/or can prove their ability is working as it should, compare all the information players received on this night and day, and carefully consider the number of Outsiders you think are in play. If the {{Good|Dreamer}} and the {{Good|Washerwoman}} both received information on night 1 that seems sober and healthy, and the {{Good|Butler}} correctly learned that George is the {{Good|Nightwatchman}}, it’s highly unlikely that there is a Xaan in play with exactly 1 Outsider.
+
+* Don’t worry too much about the number of Outsiders in play. If it’s really a Xaan game, there can be any number of Outsiders, and “Outsider maths” won’t add up!
+
+* If you received information on the 1st night, wait a day or two to see if your information makes sense. As the {{Good|Librarian}}, if you learned that one of two players is the {{Good|Goon}}, it’s entirely possible that the Storyteller decided to show you an evil player on a Xaan night and there’s not even a {{Good|Goon}} in this town! 
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

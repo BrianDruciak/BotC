@@ -1,0 +1,120 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_thief.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I aint done nuffink. I weren't even in dat alley last night! It weren't me what stole Mayor Bruno's briefcase wiv all dem fancy dockoments innit. Besides, it was too 'eavy to carry far."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/17822079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-10%2Fcc1d04a9-265d-3055-64a5-de99c5104c77.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player (not yourself): their vote counts negatively tomorrow."
+
+The Thief steals votes from a player, making their vote count negatively.
+* When a player chosen by the Thief votes, the vote tally goes down by one instead of up by one. This happens every time that player votes that day.
+* The player with the negative vote changes back to having a positive vote immediately if the Thief dies, including if the Thief is exiled, because the Thief loses their ability.
+* Exiles are never affected by abilities, so the player with the negative vote can support exiles unaffected by the Thief’s ability.
+* Since the Storyteller counts the number of votes out loud as they move their hand around the circle, all players will know which player the Thief chose.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Thief. They point at any player. Mark the chosen player with the Thief’s '''NEGATIVE VOTE''' reminder. Put the Thief to sleep.
+
+Each time you tally the vote of a player marked '''NEGATIVE VOTE''', count it as subtracting one vote instead of adding one vote. (''Count this out loud, as normal.'')
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Thief chooses Marianna. The next day, while tallying the first vote, the Storyteller counts "1... 2... 3... 2... 3... 4... 5.” The nominated player now has five votes for their execution, and the nomination process continues.
+			</div>
+
+			<div class='example'>
+				The Thief chooses Abdallah. Abdallah votes for an execution, and instead of the tally being six, it is four. Since 10 players are alive, the nominee is not executed today. Later that day, the players are voting to exile the {{Traveler|Gunslinger}}. Abdallah votes to exile, and his vote counts as positive.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are good) ==
+
+* Use your ability to undermine players who you believe are evil! Secretly pick a player you suspect at night, and do not let them know tomorrow that their vote is now negative. When this player votes, they'll be voting with the expectation that they'll be counting towards the vote, when in fact they'll be undermining whatever cause they're working for. This is especially potent later in the game, when the evil team will be more aggressively voting to get good players killed and defend their own.
+
+* Weaponize your negativity - pick a player you believe to be good, and tell them about it! While this does mean one less good vote on the table, this player now has the very powerful ability to vote ''against'' a nomination. If you both believe the evil team is making a push, you can immediately counter them by throwing this unexpected negative vote into the mix.
+
+* Swap up who you are picking, especially if you're trying to pick evil players. Once a player knows their vote counts negatively, they can use it to their advantage. To avoid this, change who you pick each night, moving the negative vote around and keeping players guessing where the negative vote is hiding now. Keeping up this strategy can be beneficial even if you are primarily picking good players, since the evil team could kill a repeat player to stop them abusing your ability. Additionally, you will gain interesting information about every player you pick, so selecting as many unknowns as you can and trying to read their reaction can be very helpful!
+
+* Double and triple bluff who you picked publicly. Players who believe their vote counts negatively will react differently to players who think their vote is normal. With the power of words alone, you can be able to convince an evil player not to vote at a critical juncture, believing that they'll hurt their team if they do. Meanwhile, the vote is ''actually'' with a good player you trust. Combining this with a switching strategy will prevent anyone weaponizing your ability unless you actually want them to.
+
+* Remember that you can pick dead players if you want to. This is particularly useful on the final day, since that is when most dead players will be using their single vote. If a dead player asks you to pick them before the final day, this may be a useful option too. A dead {{Good|Virgin}} that you know is good and will use a single negative vote wisely, is often  better choice than a living player that intends to use their negative vote willy-nilly.
+
+* Keep quiet about who you pick so nobody knows what to expect! This will often mean that players you want to execute, don't get executed, which is an unfortunate downside. However, when each player first votes each day, you can observe their reaction and body language. If they seem pleased that a vote was negative, they are more likely to be an evil player, since they now have the power to prevent the Demon from being executed today.
+
+* If a {{Traveler|Bureaucrat}} is in play, and you think that they are good, co-ordinate with them and both choose the same player, giving a whopping 3 negative votes to a player of your choice. Even if you think the {{Traveler|Bureaucrat}} might be evil, you may be able to convince them to play along with the triple-negative vote strategy, for fear of being Exiled if they don't.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+
+* Pick good players who are figuring out who is good and who is evil, but don't tell them that you have stolen their vote. They will vote for executions that they want to pass, and this will often mean that they are voting for good players. Avoid choosing good players that are completely clueless as to who is evil, as their negative vote may have the opposite effect to what you want. In the situation where a good player has a negative vote, you may want to nominate suspicious-looking evil players earlier rather than later each day, because the good player with the negative vote will realize afterwards that they can deliberately make an execution fail. 
+
+* Lie about who you chose. This will cause confusion and trick the good players into making executions fail when they don't want them to. If a player believes that they have a negative vote, they will vote when they want an execution to fail, but accidentally increase its chances of succeeding instead.
+
+* Pick evil players, and tell them that you have picked them. Evil players know exactly who is good and who is evil, so will always use their negative vote effectively. You may need to swap between evil players - choosing the Demon one night, then choosing a Minion the next night.
+
+* On the final day, you definitely want to choose an evil player, and have them know that you have chosen them. Even if the good team exiles you after the fact, having a negative vote on the Demon is incredibly helpful. It may even win you the game!
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

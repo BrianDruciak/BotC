@@ -1,0 +1,142 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_barber.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Did you know that barbery and surgery were once the same profession? No? Well, now you do."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/19924261/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-21%2F109882967-44100-2-5ae5446e9feb3.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters."
+
+The Barber allows the Demon to swap any 2 player's characters.
+* The players’ alignments stay the same when they swap characters. Each player learns which character they become.
+* The Demon may choose not to swap players.
+* If a player becomes a new character, they gain the new ability, even if it was a “you start knowing” ability or a “once per game” ability that the original character already used.
+* If there is more than one living Demon, the Storyteller chooses which Demon makes the swap.
+* The Demon may choose themself to swap.
+* The Demon may not choose another Demon player to swap.
+* If a player dies then becomes the Barber, the Demon may not swap two players’ characters tonight.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+If the Barber dies, mark them with the '''HAIRCUTS TONIGHT''' reminder.
+
+During that night, wake the Demon. Show them the '''THIS CHARACTER SELECTED YOU''' info token, then the Barber token. The Demon either shakes their head no or points to two players. Put the Demon to sleep. Remove the '''HAIRCUTS TONIGHT''' reminder.
+
+If the Demon pointed to two players, swap the character tokens of the chosen players. One at a time, wake each swapped player, show them the '''YOU ARE''' info token and their new character token, then put them to sleep. If a player’s alignment does not match the color of their character token, turn it upside-down.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If a good player becomes a Minion or Demon, or an evil player becomes a Townsfolk or Outsider, you may wish to remind them that their alignment has not changed.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Barber dies. The Demon considers swapping the {{Good|Clockmaker}} and the {{Good|Juggler}}, but then does nothing.
+			</div>
+
+			<div class='example'>
+				The Barber dies. The Demon swaps the alive {{Good|Snake Charmer}} with the dead Barber. Now, there is an alive Barber and a dead {{Good|Snake Charmer}}.
+			</div>
+
+			<div class='example'>
+				The Barber dies. The {{Evil|Vortox}} swaps themself with an alive {{Evil|Witch}}.
+			</div>
+
+			<div class='example'>
+				The Barber dies. The {{Evil|Vigormortis}} swaps themself with a dead {{Good|Sweetheart}}. The old {{Evil|Vigormortis}} is now the evil {{Good|Sweetheart}}. Because the {{Evil|Pit-Hag}} created a good Demon during the previous night, the game continues.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Don't die! Your death will immediately give the evil team a massive advantage - they have a wealth of options available to them with your swapping ability, and will definitely utilize them to undermine the good team as much as possible.
+
+* Bluff as an undesirable target for the demon. To increase your chances of survival, claim to be a character that the demon wouldn't want to touch - this can be a character like the {{Good|Sage}}, who the demon wants to avoid at all costs, or characters like the {{Good|Artist}} and {{Good|Juggler}} who have used their abilities already. If the demon thinks you are low priority, they'll focus on other targets, allowing you to avoid death. (Note that it may be to your benefit to reveal your true identity to one or two people secretly so they know whatever 'information' you're offering is not true).
+
+* If you die, you should come out, but maybe not immediately. It's important for people to know that a Barber swap has taken place, but if you wait a few minutes, most good players will come out and let you know that they've had their characters changed. If you reveal ''after'' someone has come out as changed, you will look a lot more credible.
+
+* Deliberately dying might be viable in certain games - for example, if you have a good idea who all evil players are, OR if you're certain that most evil players are dead. These conditions block the most difficult Barber swap to detect (two evil players swapping characters), meaning the demon is more likely to try and swap good players (confirming you), or no players (thus minimize your effect on the game).
+
+* If you are a good player and your character changes on the night that the Barber died, it is usually best to tell the town as soon as possible, since you confirm the existence of the Barber, and can help you find the person you were swapped with. Unless you were swapped with an evil player, the other player will probably also want to come out, and then you know you can trust that person!
+
+* Help, I'm the demon and the Barber just died! The Barber's ability is very versatile and powerful, but it can be tricky to use, especially when you kill them unexpectedly! Here's a few options for the caught-off guard demon:
+** Swap two evil players. In nearly all cases, you're doing this to move the demon to another evil player, thus invalidating information from all sorts of good characters (including the {{Good|Flowergirl}}, {{Good|Savant}}, and even the {{Good|Dreamer}}). A well timed move of the demon can completely throw the good team off your trail.
+** Swap two good players! Keeping in mind that you can swap alive and dead players this way, you can use this to disable a troublesome {{Good|Philosopher}} or {{Good|Sage}}, among many other difficult characters... simply by swapping them with the newly dead Barber. You can also swap a known {{Good|Mutant}} to put a player in a difficult position where they cannot easily admit the swap has taken place. Finally, you can just swap two random players to create confusion! '''Be aware:''' Good players will obviously know that they've been swapped, and swapped players will know each others' characters and be able to trust each other. Make sure that neutralizing that troublesome townsfolk is worth the new information!
+** Swap an evil and a good player. This is usually not a good idea, since a good player with an evil ability can cause team evil a lot of damage. A good {{Evil|Witch}}, or a good {{Evil|Cerenovus}}, for example, are dangerous. However, they may be so dangerous to both sides that the good team decides to execute a good player that becomes an evil character and talks about it. However, it works both ways. If the evil team can gain a good player's ability that can be used against them, it can be devastating. For example, an evil player becoming a {{Good|Sweetheart}}, {{Good|Philosopher}} or {{Good|Snake Charmer}} can be awesome.
+** Sometimes, it is best to do nothing at all when a Barber dies. If you have no good characters that you feel like swapping, and you are happy with which evil players are which evil characters, simply do nothing. Since this choice has no game effect, this keeps your position strong, and either makes the Barber look like they are lying, or makes it look like the Demon and Minion swapped characters. Either way, this is false information to distract and confuse the good team.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Barber ==
+
+When bluffing as the Barber, there are a few things you should keep in mind:
+
+* Real Barbers often don't reveal they are the Barber. Stay silent about your character, or bluff as a different character, whilst you are still alive.
+
+* Alternatively, just come out early and say you are the Barber. Players will still probably want to keep you alive. It's not a big deal either way.
+
+* If you die, obviously no good players' characters will be swapped, so no good players will be telling the group that their characters swapped. If you die, you will need to convince the group that either the Demon did not swap any characters, or the Demon swapped two evil players.
+
+* Coordinated double punch! If you die in a game with 2 other evil players, have them claim that their characters are swapped. This makes you look super trustworthy as the Barber, and they look even better. For example, you are the {{Evil|Witch}}, claiming to be the Barber, and you die. The following day, the {{Evil|Vigormortis}} and the {{Evil|Pit-Hag}}, who were claiming to be the {{Good|Dreamer}} and the {{Good|Sage}}, tell the group that their characters swapped, that they are now the {{Good|Sage}} and the {{Good|Dreamer}}. Game. Set. Match.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Outsiders]]

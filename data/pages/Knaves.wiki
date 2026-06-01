@@ -1,0 +1,82 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_knaves.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Loric</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>19/03/2026</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>"Every wall is a door. Every meal is a feast."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"There are 2 Storytellers: one lies & one tells the truth. Once per game, at dusk, they might switch."
+
+The Knaves are two Storytellers.
+* When the Knaves is in play, there are two Storytellers. When players get their information from character abilities, one Storyteller gives true information, and the other Storyteller gives false information.
+* The players do not know which Storyteller is which. Each player chooses which Storyteller will give them information each time that they communicate.
+* Storytellers always tell the truth when it comes to game rules, and non-character ability information, such as declaring who has been nominated, giving Demon bluffs, the Minion info step etc.
+* If a player is drunk or poisoned, a Storyteller can tell the truth or lie.
+* Once per game, usually when the good players start to figure out which Storyteller is which, the truth-telling Storyteller can become the lying Storyteller, and vice versa.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+There are two Storytellers. Before the 1st night, decide which of you will tell the truth, and which will lie.
+
+Each night when a player wakes to receive information due to their ability, or when a player visits the Storyteller during the day, prompt them to choose which Storyteller will give them their info.
+
+Once per game, at dusk, if both Storytellers agree, the truth-telling Storyteller becomes the lying Storyteller, and the lying Storyteller becomes the truth-telling Storyteller.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There are two Storytellers, Ben and Lachlan. The {{Good|Chef}} wakes and chooses Lachlan, who is the lying Storyteller. The {{Good|Chef}} learns a "3", even though there are only 2 pairs of evil players.
+			</div>
+
+			<div class='example'>
+				Later that game, the Storytellers switch. The {{Good|Savant}} visits Ben and Lachlan and chooses Lachlan. The {{Good|Savant}} learns 2 pieces of true information.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

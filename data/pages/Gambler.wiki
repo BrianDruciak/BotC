@@ -1,0 +1,118 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_gambler.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Heads, I win. Tails, you lose."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/53447603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-13%2F271496074-44100-2-28e6bfe8b7bc7.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player & guess their character: if you guess wrong, you die."
+
+The Gambler can guess who is who... but pays the ultimate price if they guess wrong.
+* Each night except the first, the Gambler chooses a player and guesses their character by pointing to its icon on the character sheet. If the guess is correct, nothing happens. If the guess is incorrect, the Gambler dies.
+* The Gambler does not learn from the Storyteller whether their guess is correct or incorrect.
+* The Gambler may choose any player, dead or alive, even themself.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+Each night except the first, wake the Gambler. They point at any player, then point at any character icon on their character sheet. Put the Gambler to sleep. If the chosen player is a different character from the chosen character icon, the Gambler '''dies'''—mark them with the '''DEAD''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Gambler points to the {{Good|Minstrel}} player, then to the {{Good|Minstrel}} icon. This guess is correct, so the Gambler remains alive, but is killed by the Demon tonight anyway.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Devil's Advocate}} is bluffing as the {{Good|Pacifist}}. That night, the Gambler points to the {{Evil|Devil's Advocate}} player, then to the {{Good|Pacifist}} icon. This guess is wrong, so the Gambler dies.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Gambler is a high risk, high reward character. You get reliable information that can't be easily tainted, but you put your life on the line to do it. What a thrill! 
+
+* Probably one of the strongest uses of your ability is to confirm other good players. Backing up the claims of a couple of players and their characters will go a long way to building trust, and there's really no ''bad'' option to confirm: knowing for certain that a {{Good|Pacifist}} is in play can be just as useful as knowing that a {{Good|Chambermaid}} is who they say they are.
+
+* Choose the good players you most want to know about. The nature of your ability means that you're not the most likely to survive until final day, so try to maximize your chances of getting useful information before your luck runs out. This can mean taking a gamble on trusting one player for the sake of confirming a powerful role like the {{Good|Exorcist}} or {{Good|Courtier}}, giving the good team an ace in the hole at a critical moment later.
+
+* There's a difference between taking a well reasoned gamble and throwing caution to the wind entirely and leaving it all up to Lady Luck. Using your ability to try and guess evil characters can be like this. Even if you have very strong suspicions that someone is evil, you still have to guess if they are a Minion or a Demon, and ''then'' you have four options in each category! The odds are not really in your favor. With that said...get it right, and you've hit the ''jackpot''.
+
+* Deliberately die to prove you are the Gambler. This can seem counter-intuitive, but if you have a few nights of confirming players and you want to dispel any suspicions of your reliability, predict your own death (preferably in private to someone you trust), and then that night, choose wrong. Dying in this way makes it very likely you are who you claim, and can be trusted.
+
+* If you don't have any idea who to guess, you can guess yourself. Since you know for certain you are the Gambler, your ability will definitely not kill you that night, guaranteeing that ''you'' aren't responsible for your death. This is also useful if you suspect that you may be targeted by a wily Demon or {{Evil|Assassin}} in the night - if you choose yourself and still die, there's no ambiguity about the fact that you were targeted!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Gambler ==
+
+When bluffing as the Gambler, there are a few things you should keep in mind:
+
+* Help your fellow evil players by claiming to have guessed their character correctly, and that they are the good character that they are claiming to be. If you can convince the group that you are indeed the Gambler, you can convince the group that the {{Evil|Po}} that is claiming to be the {{Good|Tea Lady}} is actually the {{Good|Tea Lady}}, and you have the advantage.
+
+* If you back up good players by confirming that their characters are what they say, that makes you look good too. Players tend to trust players who trust them. However, since you are not putting any extra misinformation into the mix, good may be able to figure out who is evil.
+
+* It is riskier, but saying that you have chosen a good player, guessed their character, and died because you guessed their character wrong, heavily implies that they are evil. If you intend guess a good player's character, and claim that they are evil, you will need to co-ordinate with the Demon so that you die tonight. After all, when a real Gambler guesses incorrectly, they die.
+
+* If you unexpectedly die at night, you can use that as evidence that you are the Gambler. Make sure that your "information" is as disruptive to the good team as possible.
+
+* It is usually wisest to play it safe after a few nights of gambling. Guess 2 or 3 characters, spread some misinformation, then claim to be guessing yourself each night after that. Most Gamblers who continue pushing their luck night after night die fairly quickly, so when the late game arrives, you will want a believable excuse as to why you are still alive.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

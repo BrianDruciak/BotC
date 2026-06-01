@@ -1,0 +1,137 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_goon.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Caitlin Murphy</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Yes boss. I explained fings real good to dat geezer. He don't want me explain it again. Nah boss, I don't need no doctor - it's only a knife wound. Be right come mornin'"</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/45385559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-27%2F239661119-44100-2-107a571c26dd7.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Boffin|boffin|Evil|If the Demon has the Goon ability, they can’t turn good due to this ability.}}
+{{Jinx|Pit-Hag|pithag|Evil|If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, the 1st player to choose you with their ability is drunk until dusk. You become their alignment."
+
+The Goon is immune to other characters at night, but keeps changing allegiances. 
+* Each night, the first time a player wakes to use their ability and chooses the Goon, that player becomes drunk immediately. Their ability does not work tonight, nor the next day.
+* Later on the same night, if another player wakes to use their ability and chooses the Goon, their ability works as normal.
+* The Goon cannot make a player drunk unless the player chose the Goon. The Storyteller choosing the Goon due to an ability, such as the Grandmother’s, doesn’t count.
+* As soon as the Goon makes a player drunk, the Goon changes alignment to match theirs. The Goon still changes alignment, and makes the player drunk, if the player choosing the Goon was already drunk or poisoned.
+* If chosen by the Assassin, the Goon dies but still turns evil.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At night, if a player chooses to use their ability on the Goon and nobody is marked with the Goon’s '''DRUNK''' reminder, this player immediately becomes '''drunk'''—mark them with the '''DRUNK''' reminder. Finish resolving this player’s ability and put them to sleep. If this player’s alignment is different from the Goon’s alignment, rotate the Goon’s character token—right side up for good, upside-down for evil—to match this player’s alignment, then wake the Goon, give them a thumbs-up or a thumbs-down (''indicating their new alignment''), then put the Goon to sleep.
+
+The next dusk, the player that the Goon made drunk becomes '''sober'''—remove the Goon’s '''DRUNK''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Courtier}} chooses the Goon. The Goon turns good, and the {{Good|Courtier}} becomes drunk.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Shabaloth}} attacks the Goon, then the {{Good|Gossip}}. Since the {{Evil|Shabaloth}} became drunk as soon as they chose the Goon, neither player dies tonight, and the Goon turns evil. The next night, the {{Evil|Shabaloth}} attacks the {{Good|Gambler}} then the Goon. The {{Good|Gambler}} dies, then the {{Evil|Shabaloth}} becomes drunk again. The Goon is still alive and still evil.
+			</div>
+
+			<div class='example'>
+				The {{Good|Chambermaid}} chooses the Goon and the {{Good|Minstrel}}, and learns a "1" because the {{Good|Chambermaid}} is drunk. 
+			</div>
+
+			<div class='example'>
+				The {{Good|Tea Lady}} neighbours the good Goon and the {{Good|Tinker}}. The {{Good|Tinker}} is executed, but does not die. The next day, the Goon is evil. The {{Good|Tinker}} is executed again and dies.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Goon is in an interesting position compared to other players, as you can never be quite sure what team you'll be playing for until the very end. It is to your advantage to sit quietly, bluff as something else, and see how the game unfolds - your alignment switches will give you a ton of info, and you'll be in a good position to aid your team near the end of the game... no matter what side you're on.
+
+* Alternatively, and especially if you turn evil early - just come out! Letting both teams know you're in play can get them to fight for your allegiance, which is always entertaining. This also has the effect of letting players on both sides know that targeting you is a bad option... if that's something you'd like to get across. Note that this can be risky if you have a bloodthirsty town keen for executions - they could simply kill you for the crime of maybe being evil. You can try to stay their hand though - point out that once you're dead, your alignment is locked in since you will lose your ability, but if they let you live? Well, they can always turn you good again!
+
+* It is unlikely that you will die at night. Thanks to your powerful ability, other character's abilities will malfunction before they even get close - this is true even of the {{Evil|Pukka}}, who malfunctions before they can poison you. (Beware the {{Evil|Assassin}} though, who trumps you - the evil team ''can'' remove you if you annoy them too much!)
+
+* As you approach the end of the game, the alignment you currently are is probably the team you will be winning or losing with. If you are good, this means it is time to help - reveal who you are and give out your information! If your alignment switched on certain nights, that can be indications of when abilities failed, and can expose evil players using your silence as a safe space to bluff in. Once you do this, you'll ''really'' want to get the demon ASAP - the evil team could flip you if there's another night or two, and if that's the case you could very well hand the good team what they need to win and then not get to enjoy it.
+
+* If you are evil near the end of the game, it is time to sow some chaos (if you haven't been already!). While you have the option of revealing as the Goon and claiming to be good, this is not remotely your only option - you can bluff as anything you like to create confusion, or even just to keep up the facade that you are good when you are in fact a secret fourth evil vote. Trying to find the other evil players may be a good idea at this point too, so you can be sure you're coordinating with the right bunch of dastardly ne'er-do-wells.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Goon ==
+
+When bluffing as the Goon, there are a few things you should keep in mind:
+
+* The Goon can be a tricky bluff. You may want to stay silent about being the Goon for the first half of the game, or bluff as something else initially. Most Goons that come out as the Goon early in the game are killed by the good team, because the good team is afraid that a Goon will turn evil and be a liability. The good news is that staying silent about your character for a few days allows you to watch and listen, and pay attention to the things that will make your Goon bluff more believable, such as who is dying at night-time, and which "choose a character at night" characters are in play.
+
+* If you are bluffing as the Goon, the good team will want to know when you turned evil and when you turned good. Each time you turned evil would normally coincide with fewer deaths that night - since an evil player attacked you, nobody died due to their ability. Nights you "turned evil" will need to be chosen well, if the good team is to believe you. Also, you will need to know which good players chose you on which nights, if you are to believably claim that you turned good again on that night. You can request that good players choose you at night time so that you turn good, or you can simply claim that you turned good after the player in question mentions that they chose you at night time.
+
+* A riskier strategy, but one that sometime works, is to tell the group that you are the evil Goon early in the game. Since a Goon can change alignment many times whilst they live, but they stop changing alignment when they die (because the have no ability), an evil Goon that is executed will stay evil for the rest of the game. This means that it is in the good team's interest to keep an evil Goon alive for a day or three, in the hope that the Goon will turn good again. Unusually, it is of benefit to the good team to execute a good Goon, and to keep an evil Goon alive...at least in the early stages of the game. You can use this to your advantage by claiming to be an evil Goon in the early game, then a good Goon in the late game.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Outsiders]]

@@ -1,0 +1,123 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_noble.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Caitlin Murphy</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>01/08/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Sarcasm is indeed the lowest form of wit. But speaking in response to your criticism, Sir, it is, nevertheless, a form of wit."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>6J6szNHFzng</youtube>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing 3 players, 1 and only 1 of which is evil."
+
+The Noble learns that one of three players is evil.
+* The Noble learns their information on the first night only.
+* If a Noble is created mid-game, the Noble learns their information on their first night.
+* The Noble learns two good players and one evil player. They may not learn one good player and two evil players. They may not learn three evil players.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While preparing the first night, mark two good players' character tokens with Noble '''KNOW''' reminders. Mark any evil player's character token with the third '''KNOW''' reminder.
+
+During the first night, wake the Noble. Point to all three players marked '''KNOW'''. Put the Noble to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Noble is shown Marianna, Alex, and Abdallah. Marianna and Abdallah are good, and Alex is evil.  
+			</div>
+
+			<div class='example'>
+				The Noble learns Doug, Lachlan and Ben. Doug is the {{Good|Chambermaid}}. Lachlan is the {{Good|Barber}}. Ben is the {{Good|Recluse}}, who has registered as evil to the Noble.
+			</div>
+
+			<div class='example'>
+				On the third night, the {{Evil|Pit-Hag}} turns Amy into the Noble. Amy learns that 1 of Evin, Sarah, or Julian is evil. However, Sarah is the evil {{Evil|Spy}} and has registered as good, and Julian is the {{Evil|Po}}, who is also evil.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Come out with your information right away. If you tell the group that you are the Noble, and which three players you learned, the group can use this information. 
+
+* Wait until the game is nearly over to reveal what you know. It is likely that the Storyteller showed you one player that was a Minion, and did not show you the Demon player. If there are just 3 players left alive, and two of the players you know are dead, and you are fairly certain that the alive player you know is not the Demon, that increases your odds of choosing the right player to execute. If two players you know are still alive, that's even better.
+
+* Your information isn't great by itself. Knowing that one of three players is evil won't help you much until you are able to combine your information with what other players know. Be a team player and communicate as much as possible.
+
+* Remember that exactly one of the players you know must be evil. Unlike the {{Good|Investigator}}, who could learn two evil players, the Noble must learn exactly one evil player. So, if you can figure out which of the three is evil, then you have also learned that two players are good. Knowing the alignment of three players is enormously helpful. Figure out which player is evil, if you can. 
+
+* Test three different theories. If you assume that player one is evil, then what does that imply about the other players in the game? Does this make sense? If you assume that player two is evil, then what does that imply about the other players in the game? Does this make sense? If you assume that player three is evil, then what does that imply about the other players in the game? Does this make sense? Which of these three things makes the MOST sense? 
+
+* With characters like the {{Good|Undertaker}} in play, it is worth killing some characters to prove who they are. The Noble is not one of these characters. Even if you can prove who you are by dying, that still leaves three players to kill. It isn't worth having eight players die, seven of which are good, just to kill one evil player. (You die, then the Demon kills, then player one dies, then the Demon kills, then player two dies, then the Demon kills, then player three dies, then the Demon kills.) Instead, work with the information you have, and get people to trust that you are the Noble without killing you.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Noble ==
+
+When bluffing as the Noble, there are a few things you should keep in mind:
+
+* The easiest bluff as the Noble is to come out early, and point to three good players. This is also pretty fun! If you are evil, telling three good players that one of them is evil will cause a lot of paranoia between them, and it has the added benefit of being very difficult to prove or disprove. Unlike the {{Evil|Evil Twin}}, where the good player knows for certain that the other player is evil, or the {{Good|Empath}} that learns that one neighbour is evil (which means that each neighbour thinks the other is evil), the players the Noble learnt about can both claim to be good while also believing that another player learnt by the Noble is also good. Good players convincing each other that they are good is natural and believable (because they are good), but has the secondary effect that you seem good and the third player that the players are not currently talking about seems evil. By convincing themselves that they are good, they convince themselves that a good player is evil. 
+
+* Let the good players convince themselves which player of the three is evil. As long as the player that they decide is evil is actually good, you are in the clear. For the false Noble, nudges and suggestions are more effective than outright accusations, listening is more helpful than over-talking. Pretend to be a team player, helping out. 
+
+* If you are feeling adventurous, and there are three or more evil players in the game, claiming to be the Noble and pointing to two (or more!) evil players as a part of your three is sure to cause a lot of confusion among the good players. They are unlikely to suspect that two or three of the Noble player's are evil, because even if the real Noble was drunk, the Storyteller is unlikely to do this. Giving information that is unlikely to occur even for a drunk player can really throw the good team into confusion. Be aware though... at least one of the three players that you claim is evil will be executed. Maybe two. Maybe all three. 
+
+* If you are the Demon, bluffing as the Noble and giving correct information is fairly easy to do, and makes you look good. It is a safe, effective bluff. Unlike claiming to be the {{Good|Investigator}} and claiming to have seen a {{Evil|Baron}} but then the Outsider count doesn't match your words, or claiming to be the {{Good|Undertaker}} that has seen a {{Evil|Pit-Hag}} be executed but nobody has changed character, simply pointing out which players are evil is a lot easier to do since it is hard to disprove. Even if there is some character in play that makes you uncertain which players are Minions, such as a {{Good|Poppy Grower}} or {{Good|Magician}} or if you're a freshly converted {{Evil|Fang Gu}} or {{Good|Snake Charmer}}, you are fairly likely to choose a Minion just by random chance when picking three players. If you want to look good, stay safe, and sacrifice a Minion to do it, bluffing as the Noble and giving correct information is easy peasy.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

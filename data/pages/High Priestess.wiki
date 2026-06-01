@@ -1,0 +1,133 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_highpriestess.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>22/06/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>“There is life behind the personality that uses personalities as masks. There are times when life puts off the mask and deep answers to deep.”</p>		
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>xBnX6z1Q6nA</youtube>	
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, learn which player the Storyteller believes you should talk to most."
+
+The High Priestess acts on intuition.
+*  The High Priestess can be shown the same player multiple times in a row, or a different player every night.
+*  The shown player can be alive or dead.
+* The shown player can be good or evil.
+* There are no official criteria that determine which player the Storyteller must show to the High Priestess. It is up to the Storyteller’s judgement as to what they think will most benefit the High Priestess and the good team in general. It could be because the player has important information that has not been revealed yet. Or because the player is evil and has a bluff that doesn’t make sense. Or because the player is trustworthy and needs to be trusted more. Or because the player is good but on the wrong track and needs to be corrected. Or something new.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Each night, wake the High Priestess. Point to a player. Put the High Priestess to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				On the first night, the High Priestess learns Julian. Julian is the {{Good|Chef}} and has useful information to share. On the second night, the High Priestess is shown Marianna. Marianna is the {{Evil|Goblin}} and the Storyteller thinks that the High Priestess would benefit most from talking to Marianna to find this out as early as possible. On the third night, the High Priestess is shown Doug. Doug is the {{Good|Drunk}} whose information is wrong and harming the good team.
+		</div>
+			<div class='example'>
+For three nights in a row, the High Priestess learns Sarah. Sarah is the {{Good|Saint}} and the good team are trying to execute her. On the last night, the High Priestess learns Lewis. Lewis is the {{Evil|Imp}}, and his story is clashing with several good players.			</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Talk to the person the Storyteller gives you as soon as possible every day – the Storyteller believes they’re the most important person for you to talk to, so you should get hold of them immediately in order to try to gain trust and use their information to dictate how you should approach the rest of your day.
+
+* Don’t talk to your given player immediately. Instead, observe who they talk to and see if you can gain any clues as to why you should be talking to them from how they’re behaving and interacting. If they’re especially eager to talk to a couple of specific other people, maybe they’re a {{Good|Washerwoman}} or {{Good|Fortune Teller}}, for example, and knowing this might dictate how you approach them. Or they might seem slightly lost up until they speak to a specific other players and could be a Minion who just received bluffs.
+
+* Tell the person you saw that you’re the High Priestess and learnt them, see if they know a good reason why they might have been shown. Your information can be very nebulous but it’s possible that the player you saw has good theories based on whatever they’ve gained from their own character as to what they can offer to you and to the good team more widely.
+
+* Don’t tell that person that you’re the High Priestess, the Storyteller may not be intending for you to share all of your information with this player, only for them to potentially have things to say that might help you.
+
+* On the first night, the player you learn is most likely either a good player who already has information so that they can share it with you or a Minion who you might be able to get a social read from or trap without a bluff.
+
+* As the game goes on, the Storyteller is most likely to point you towards players that have information they haven’t fully shared yet (even if that information is just their character), dead players that need to know other information you’ve garnered or evil players who can’t further their agenda if they’re in a conversation with you rather than their evil fellows or the players they’re attempting to manipulate. 
+
+* In the late game the Storyteller is most likely to direct you to good players who are on the right track, to encourage you to convert to their perspective and reinforce their mentality to the group, or the Demon so you can try to pick holes in their arguments and push back on their claims.
+
+* If the good team is winning, the Storyteller will likely be directing you to players to reinforce that winning strategy. If not, they may be pointing you to contradictory information to try to draw your attention to alternate views and encourage you to abandon your previously strongly held views. How do you feel the game is going for the good team? Consider your information in this context at all times!
+
+* Did the Storyteller give you the same player twice in a row? Most likely what the ST wanted you to get from that conversation didn’t happen, so try again with an open mind!
+
+* At the end of the day, the High Priestess is a great value-add even if you don’t work out exactly why the Storyteller sent you to any given player. Even if all you do is just go and talk to your given player each day and never work out why, you’re talking to the people the Storyteller recommends and that can only turn out usefully for the good team.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the High Priestess ==
+
+* Claim to have been shown good players, then support them and their information from the start. While you’re reinforcing good information and that might harm your team, you’re also engendering a lot of trust in yourself from that player, which might pay dividends down the line. 
+
+* Conversely, claim to have been shown a good player, but claim that your conversation went very badly and you suspect that you were shown a Minion without a bluff or who has a weak story. 
+
+* Claim to have seen your fellow evil players. This provides you with an excellent excuse to talk to each other on the first day and share bluffs and any other information and kick off some planning of how you want to approach the game. Just make sure that whatever those players end up claiming in the long run have a good reason to have been shown to you on the first night.
+
+* Feel free to choose more or less whoever you want and you can always make up a reason as to why later, but the highest risk choice is your first night’s “information” – the character of the player you were shown on the first night is probably the Storyteller’s strongest opinion in the absence of any influence from how the game has unfolded or how people are thinking, so you’ll need to have strong justification.
+
+* Always have a backup plan in case you need to turn against a player you were shown – if their information is too powerful or they’re gathering too much of a trust circle, maybe you need to cast some suspicion that you were actually shown them to try and catch them out in a bluff, or that they’re actually the {{Good|Drunk}} and you were shown them to encourage you to work that out.
+
+* A great way to bluff High Priestess is to listen – you want players to suggest a reason you might have been shown them and if it’s incorrect, encourage the line of thought so it can mislead their strategy.
+
+* Wait until people have claimed characters before approaching them so you can approach sensible choices. You don’t want to be caught out mid-game when someone looks back at your early information and questions why you were shown a {{Good|Ravenkeeper}} and {{Good|Butler}} on the first two nights when there’s no good reason for the Storyteller to encourage you to speak to them.
+
+* Much more so than other characters, you can very much get away with feigning ignorance as the High Priestess, spending a good portion of the game “not knowing what’s going on” not only looks very good as good players are generally confused, but also encourages good players to try to help you out to work out the relevance of your information, which requires them buying into your viewpoint!
+
+* This is a great bluff for evil players to lead with and then back into another character, but it’s also a great bluff for good players, it’s a very strong way to be able to get into a conversation with a specific person you need to talk to without making it obvious why you need to do so.
+
+* Claiming to have seen someone even though the group consensus is that the player is most likely evil, especially after they’re executed and have died, is a great way to derail that consensus away from a correct view.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

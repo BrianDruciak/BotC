@@ -1,0 +1,129 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_towncrier.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Hear ye! Hear ye! Witchcraft in the labyrinth! Genius savant reveals all! Town in danger! Hear Ye!"</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/36357196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-29%2F201300987-44100-2-239325c1c46f1.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, you learn if a Minion nominated today."
+
+The Town Crier knows when Minions nominate.
+* Each night, the Town Crier learns either a “yes” or a “no”.
+* They do not learn which players are Minions or how many Minions made nominations, just whether or not any Minions made nominations today.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each dawn, mark the Town Crier with the '''MINIONS NOT NOMINATED''' reminder, and remove the '''MINION NOMINATED''' reminder, if any.
+
+Each day, if any Minion makes a nomination, replace the '''MINIONS NOT NOMINATED''' reminder with the '''MINION NOMINATED''' reminder.
+
+Each night except the first, wake the Town Crier. If the Town Crier is marked '''MINIONS NOT NOMINATED''', shake your head no. If the Town Crier is marked '''MINION NOMINATED''', nod your head yes. Then, put the Town Crier to sleep. Remove the '''MINION NOMINATED''' reminder, if any.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If you forget whether a Minion made a nomination or not, wake each Minion at night and ask by showing them the <span style='font-style: normal'>'''DID YOU NOMINATE TODAY?'''</span> info token. They must answer honestly, then go to sleep.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Today, four players nominated. Two of them were Minions. Many players voted, but there was no execution. That night, the Town Crier learns a “yes.”     
+			</div>
+
+			<div class='example'>
+				A Minion called for the exile of a Traveller, who was exiled. That night, the Town Crier learns a “no.” (Exiles are never affected by character abilities.)
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Pay attention to who is doing the nominating! This seems obvious, but your information only matters if you know who nominated to correspond with the info you get each night. Evil players will definitely lie to you if you rely on the town to remember on your behalf, and there's a lot of info flying around in general, which can lead to good players simply forgetting after a few days.
+
+* Get different people to nominate each day. You become more powerful the more people you detect over the course of the game. 
+
+* Unlike the {{Good|Fortune Teller}}, getting a "no" doesn't tell you very much. A "no" might still be a Demon whom you very much want to execute. Value your "yes" instead - this tells you that you have definitively got a Minion, and you can work on getting them neutralized or executed.
+
+* Beware the {{Evil|Witch}}! They want nominations as much as you do, since it increases their chance of killing players. Try to guess who the {{Evil|Witch}} may have chosen (e.g., Players who are playing very aggressively or have already nominated a lot), and encourage different players to be the ones to nominate instead.
+
+* If you are faced with an {{Evil|Evil Twin}}, you can get just one of them to nominate and get a read on which one is actually the Minion! Just be sure to combine your information with other Townsfolk and rule out dangers like the {{Evil|Vortox}} or your ability malfunctioning; getting the wrong Twin is a game over!
+
+* You have a special synergy with the {{Good|Flowergirl}}, who also has a vested interest in nominations and executions. While trying to get nominations, it can also help to pay attention to who is voting and when - it doesn't cost anything extra to help out your fellow good player, and it helps them avoid the risk of coming out to try and curry those votes themselves and exposing themselves to the demon.
+
+* If you learn that a particular player is a Minion early in the game, it is best to execute them. If you learn learn that a particular player is a Minion late in the game, then you may want to keep them alive, whilst you execute other players. After all, the aim of the game is to execute the Demon, not Minions.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Town Crier ==
+
+When bluffing as the Town Crier, there are a few things you should keep in mind:
+
+* Use your ability to control who nominates, and where those nominations go! The good team will be hungry for your information and the chance to prove they are not a Minion, and you can use this to request people nominate and target certain players. This is especially potent if you have a {{Evil|Witch}}, since you can pressure someone into nominating... and then they die. (Note: They will not be very happy with you if you choose to pull this.)
+
+* Give contrary information to help your team-mates look good, and good players look evil. If a Minion nominated, say they didn't. If a Minion did not nominate, say they did. Simple.
+
+* In the later game, make your fellow Minions look evil by claiming (correctly!) that they are Minions. This makes you look great, because you're outing a dangerous evil player - the good team will be much more likely to trust you. The later you do this, the less chance they have of actually executing your fellow evil player, too.
+
+* On the final day (or close to it), implicate the Demon as a Minion. If they believe you, the good team will not want to waste a precious execution on them when the "real" Demon is still lurking out there somewhere. Be careful not to do this too early, though, or they might just execute them to be on the safe side!
+
+* Have you got an {{Evil|Evil Twin}}? Tell the group that the good Twin registered for your ability! While they'll probably be very cautious to execute, this can be the first step to a smear campaign that could lead you to an unexpected victory.
+
+* Once all Minions are dead, don't accuse good players of being Minions. In Sects & Violets, Minions act in a public way, such as the {{Evil|Pit-Hag}} changing people's characters, or the {{Evil|Witch}} killing people who nominate. If good has an excellent reason to suspect that all Minions are dead due to the lack of visible game effects, then they will look with suspicion at any Town Crier who keeps claiming that a Minion is still alive.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

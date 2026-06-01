@@ -1,0 +1,132 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_gangster.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>02/05/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I like your shoes. It would be such a shame if you had a little accident, and they got ruined. Now that you mention it, I like your cufflinks too."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per day, you may choose to kill an alive neighbor, if your other alive neighbor agrees."
+
+The Gangster encourages their neighbors to kill each other.
+* The Gangster may kill one of their two living neighbors. Their dead neighbors are skipped over, and do not count.
+* To use their ability, the Gangster and one of their living neighbors must agree to kill the other living neighbor. The Storyteller must hear and confirm this agreement. The Gangster cannot kill without the Storyteller present.
+* Each day, the Gangster may say whatever they want, and offer any encouraging words they want to either player. Once an agreement has been reached, then the Gangster may not use their ability again today, even if that player didn’t die due to an ability protecting them.
+* The Gangster’s two living neighbors are always one clockwise, and one counter-clockwise.
+* If both living neighbors want to kill the other, the Gangster decides who dies.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+Once per day, the Gangster can declare that they wish to use their ability. If so, ask if an alive neighbor agrees. If an alive neighbor agrees, the other alive neighbor '''dies'''. If both alive neighbors agree, the Gangster chooses which alive neighbor '''dies'''. If neither alive neighbor agrees, the Gangster may not use their ability today.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Gangster neighbors the {{Good|Saint}} and the {{Evil|Baron}}. The Gangster asks the {{Evil|Baron}} if they want to kill the {{Good|Saint}}. The {{Evil|Baron}} agrees and the {{Good|Saint}} dies.
+			</div>
+
+			<div class='example'>
+				The Gangster neighbours the {{Good|Chambermaid}} and the {{Good|Poppy Grower}}, but they are both dead. The Gangster’s two living neighbours are the {{Good|Engineer}} and the {{Evil|Po}}. The Gangster talks with the {{Evil|Po}} and offers to kill the {{Good|Engineer}}. The {{Evil|Po}} declines. The Gangster talks with the {{Good|Engineer}} and the {{Good|Engineer}} asks the Gangster to kill the {{Evil|Po}}. The Gangster agrees, and the {{Evil|Po}} dies. Good wins.
+			</div>
+
+			<div class='example'>
+				The Gangster neighbours the {{Good|Fool}} and the {{Good|Sage}}. The {{Good|Sage}} and the Gangster kill the {{Good|Fool}} but the {{Good|Fool}} doesn’t die, because of the {{Good|Fool}}'s ability. The Gangster may not use their ability again today.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are good) ==
+
+* Find out the characters of your living neighbours. They will know you are the Gangster. It is best if you know their characters too. Learn what they are before making any rash decisions on who to kill. 
+
+* Talk to each living neighbour. Convince them to "give you permission" to kill the other player, even if they think the other player is good. You are good, so being able to kill either living neighbour at any time is a powerful, and hopefully helpful, option to have. You can always choose not to kill either player, even if both players want you to kill the other. 
+
+* If you can, kill every day. Just by playing the odds, killing two players per day (one by execution and one by Gangster) means that the good team is twice as likely to kill the Demon and win. Even if you think both your living neighbours are good, it's worth it. 
+
+* When choosing which player to kill, aim for evil players first. If you suspect someone of being evil, arrange for them to sleep with the fishes. If you don't really suspect either player of being evil, choose the player that has a character ability that seems less useful to the good team or the one that seems less willing to die.
+
+* If you believe that both your neighbours are good, and they both have character abilities that will continue to be useful for the rest of the game, don't kill today and don't ask for each player to kill the other. This way, they can both use their abilities to the fullest. You probably won't want to kill a {{Good|Mayor}}, a {{Good|Sage}} or a {{Good|King}}, and if they die at night, then you will get to use your ability on a new living neighbour instead - your ability is also very useful, and it would be a shame to never use it. 
+
+* If you think that a particular player is the Demon (or even a Minion), then kill players that are sitting between you and them. Hopefully, in a day or two, you and the Demon will be living neighbours and you can kill them with your ability. 
+
+* Before the final day, request that the group exile you. An evil Gangster that is alive when just 3 other players are left alive can win the game for the evil team by agreeing with the Demon to kill another player. Getting yourself exiled means that you won't be able to use your ability on the final day, but it will be a show of good faith to the good team. If the good team believes that you are good, they will look at your previous kills as the best choices of a good player, and not erroneously assume that you were just killing good players because you were evil.
+
+* Remember that you need your living neighbours to agree to use your ability. You can't just do it on their behalf. You'll need to make friends with them, and convince them that you are good and have the good team's interests at heart. They may not want you to use your ability, and with good reason. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+
+* If both your living neighbours are good, turn them against each other. If they both think that they are both good, they are unlikely to kill each other. Find some way to imply that at least one of them is evil, and one is likely to kill the other. 
+
+* If one of your living neighbours is evil, they have every reason to want to kill the other living neighbour. The trick won't be in convincing them to do it, but in coming up with a good reason why. Talk to your evil neighbour and help them formulate a valid reason to tell the group since evil players that are too gung-ho in using the Gangster may appear evil.  You can even act reluctant to kill the other neighbour and claim that you are doing so only because there is no better choice.
+
+* Get as many good players killed as possible. It doesn't matter how you do it. Every good player that dies is one fewer good player gaining information, one fewer player using an ability against the evil team,and one fewer good player voting.
+
+* Get any non-Demon player killed. Even if Minions die due to your ability, that means that the final day is sooner, and evil's victory is sooner. Similarly, if Outsiders die to your ability, then evil is closer to winning. Don't be too concerned about what each player's character is... as long as they are not the Demon, they are probably best dead. 
+
+* Talk to any evil living neighbours before talking to any good living neighbours. Many players will want to kill the other player before that other player kills them, and talking to an evil neighbour first gives you a good excuse to kill the good player. 
+
+* Every so often, it is better for the evil team if certain characters die by execution. Characters such as the Good Twin (see the {{Evil|Evil Twin}}) or the {{Good|Saint}} lose the game for the good team if executed, so it is best to not kill them using your Gangster ability. Beware of pushing too hard here, though, as there's little reason for a good Gangster to not be willing to kill a {{Good|Saint}}.
+
+* If you suspect that a good neighbour is about to be nominated and executed, don't kill them with your Gangster ability today. A death by the Gangster's ability doesn't count as an execution, and the day will continue afterwards. It is more helpful to the evil team if the day ends after the death occurs, so that the Demon can't accidentally be executed today as well. 
+
+* Choose players to die so that the distance between you and the Demon is maximised. Since the Gangster can only kill living neighbours, the good players may have some very strong opinions on which of your living neighbours should die. If one of your living neighbours is the Demon, they may put a lot of pressure on you to kill them, and while you can always choose not to, this may end up looking incredibly suspicious and reveal that you are evil and know who the Demon is. It is best to avoid this situation by never neighbouring the Demon in the first place. When the Demon is sitting 2, 3, 4, or more players away from you, keep it that way by killing players in the opposite direction.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Travellers]]

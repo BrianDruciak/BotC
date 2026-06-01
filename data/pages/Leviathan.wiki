@@ -1,0 +1,166 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_leviathan.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>07/04/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"To the last, I grapple with thee. From Hell’s heart, I stab at thee. For hate’s sake, I spit my last breath at thee."</p>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Banshee|banshee|Good|Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability.}}
+{{Jinx|Exorcist|exorcist|Good|If the Leviathan nominates and executes the Exorcist-chosen player, good wins.}}
+{{Jinx|Farmer|farmer|Good|Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die.}}
+{{Jinx|Grandmother|grandmother|Good|If the Leviathan is in play and the Grandchild dies by execution, evil wins.}}
+{{Jinx|Hatter|hatter|Good|The Leviathan cannot enter play after day 5.}}
+{{Jinx|Innkeeper|innkeeper|Good|If the Leviathan nominates and executes an Innkeeper-protected player, good wins.}}
+{{Jinx|King|king|Good|If the Leviathan is in play, and at least 1 player is dead, the King learns an alive character each night.}}
+{{Jinx|Mayor|mayor|Good|If the Leviathan and the Mayor are alive on day 5 & no execution occurs, good wins.}}
+{{Jinx|Monk|monk|Good|If the Leviathan nominates and executes the Monk-protected player, good wins.}}
+{{Jinx|Pit-Hag|pithag|Evil|The Leviathan cannot enter play after day 5.}}
+{{Jinx|Ravenkeeper|ravenkeeper|Good|Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die.}}
+{{Jinx|Sage|sage|Good|Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die.}}
+{{Jinx|Soldier|soldier|Good|If the Leviathan nominates and executes the Soldier, good wins.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins."
+
+The Leviathan doesn't kill.
+* All players know the Leviathan is in play, even if the Leviathan is created mid-game.
+* Any number of evil players may be executed, but if more than one good player is executed, evil wins. It doesn’t matter which characters were executed, only the alignment of the player at the time they were executed.
+* When the fifth day ends and night begins, if the Leviathan is still alive, evil wins.
+* All types of execution count, even if the player doesn’t die. A player executed due to the Virgin, or due to revealing that they are the Mutant, is still executed. An executed player who lives due to the Pacifist is still executed.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Immediately after dawn on the first day, declare that the Leviathan is in play. Mark the Leviathan with the '''DAY 1''' reminder. At the beginning of each following day, mark the Leviathan with '''DAY 2''', then '''DAY 3''', then '''DAY 4''', then '''DAY 5''' reminders. If a day ends and the Leviathan is marked with the '''DAY 5''' reminder, declare that evil wins.
+
+If a good player is executed, mark them with the '''GOOD PLAYER EXECUTED''' reminder.
+
+If a good player is executed and a player is already marked with the '''GOOD PLAYER EXECUTED''' reminder, declare that evil wins.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+For new players, it is helpful to declare that the Leviathan is in play each day, and to say what day it is. On the first day, say “The Leviathan is in play. It is day one.” On the second day, say “The Leviathan is in play. It is day two.” etc. This helps your players remember what Demon they are facing and avoid accidentally losing by forgetting to count the days.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				On the first day, the {{Good|Monk}} nominates the {{Good|Virgin}}, and is executed. On the second day, the {{Good|Courtier}} is executed. Evil wins. 
+			</div>
+
+			<div class='example'>
+				On the second day, the {{Evil|Scarlet Woman}} is executed. On the third day, the {{Evil|Poisoner}} is executed. On the fifth day, the {{Good|Soldier}} is executed. Evil wins.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Encourage the good team to execute early in the game. Since you are not able to kill players at night, being able to neutralise a very powerful character, such as the {{Good|Fortune Teller}} or the {{Good|Flowergirl}}, can be very helpful. Focus on removing characters that act every night, or only act once per game. There is little benefit to removing a character that only gets information on night one, or that has a once-per-game ability that has already been used. 
+
+* Pay attention to which types of characters the group wants to execute. If the group wants to execute characters that act only once, because they consider that a safer execution, then don't bluff as a character that acts only once. If the group wants to execute characters that act each night, because that is what the Demon should be bluffing as in a {{Evil|Leviathan}} game, then bluff as a character that has already acted, or an Outsider. This will help you avoid the first execution. 
+
+* If you don't know which character to bluff as, default to bluffing as a powerful character that would normally want to hide their identity. Since most players will still be alive on the final day, powerful good characters such as the {{Good|Slayer}}, {{Good|Chambermaid}}, {{Good|Savant}} or {{Good|Artist}} don't need to hide their identity for fear of the Demon killing them. The argument that "You aren't the character you say you are, because the Demon would have killed that character before the final day" makes no sense. 
+
+* Bluff early. Since players can only die by execution, most of the good players will not be secretive. Players who remain silent are much more likely to be seen as evil, and not as good players who are hiding something. 
+
+* Cast as much suspicion as possible on players that have abilities that detect the Demon. If good players can confirm good players, that is unhelpful, but not the end of the world. If good players can confirm Minions as Minions, that's not too bad, since an executed Minion isn't an executed Demon. But players that can confirm Demons are devastating. They need to be discredited. 
+
+* If you are the Demon, choose bluffs that are unfalsifiable. In a normal game, being able to fall back to saying that your information is wrong "because you might be drunk or poisoned" might work, since the good team has many executions to figure out what is true and what isn't. When {{Evil|Leviathan}} is in play, and there are lots of players alive on the final day, the good team will often revert to the simplest explanation instead of figuring out the big picture - by executing the one player whose information seems to be wrong. 
+
+* If you are a Minion, and a player has not been executed yet, do what you can to look like a good player. This allows you to survive as long as possible and spread misinformation. Being suspected of being evil and being executed is OK. But it is not helpful at all to be so suspected of being evil that after being executed, the good team executes again before the final day, confirming that at least one dead player is evil. 
+
+* If you are a Minion, and a player has already been executed, do everything you can to look like a Demon. With only one execution remaining, every player that the good team thinks could possibly be the Demon is a player that might get executed on day five instead of the Demon, granting evil the win.   
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Leviathan ==
+
+* Keep track of how many days have passed. If you know how much time you have left, you can plan your strategy accordingly, and you won't get surprised by an unexpected end to the game. 
+
+* Plan to only execute two players in total for the whole game. If you assume that the first player that is executed is good, you won't accidentally lose the game by executing a second good player. If you assume that the first player executed is evil and then execute again, you might have been wrong and accidentally executed two good players. Executing players every day and hoping that they are evil is very risky and may give evil the victory.
+
+* Wait until the third or fourth day to execute the first player. There is no rush. You can use this time to gather as much information as possible and make a wise execution later.
+
+* Wait until the fifth day to execute the second player. This guarantees that the good team won't lose the game by executing two good players, because the game will end at the end of the fifth day no matter the alignment of the executed player. Waiting until the fifth day gives the good team the maximum amount of time to collect information and to discuss the various possibilities of who is who. 
+
+* Execute players early in the game if you are fairly certain that they are Minions, and that they are the type of Minions that will cause trouble. Ignore players that are possibly but probably not Minions, and ignore players that are probably Minions but won't impact the good team's information too much. For example, killing a {{Evil|Poisoner}} or a {{Evil|Scarlet Woman}} early in the game is absolutely beneficial, but there isn't much benefit to killing a {{Evil|Baron}} or {{Evil|Spy}}. Sure, you remove those players' ability to vote, but since there are likely only two chances to execute the Demon, the good team has the best chance of winning by trying to execute the Demon on both executions. 
+
+* If you are almost certain that a player is a Minion, execute them early in the game. This will give the opportunity to execute three players over the course of the game. 
+
+* Some characters gain a benefit from executing players, such as the {{Good|Undertaker}} or the {{Good|Cannibal}}. If these characters are in play, then executing early might be of benefit. Also, because the {{Evil|Leviathan}} doesn't act at night, many characters are jinxed with it, and operate in strange and beneficial ways. Check with your Storyteller about the {{Fabled|Djinn}} special rules for these characters.
+
+* Find out which players are good. Even if you can build up a list of which players are 90% confirmed as good, this will narrow down the possibilities of which player is the Demon. If you can find out even two or three good players, when it comes time to execute the Demon, being able to choose between five players instead of eight players is much more likely to result in a win. 
+
+* Share your information on day one, as early as possible. Encourage others to do the same. Since players don't die at night, you can be fairly certain that most, if not all, information characters will survive until the final day. If the good team shares their information as early as possible in the game, they give themselves as much time as possible to discuss the possibilities. 
+
+* Share your information to the entire group as much as possible. There is little need for secrecy in a {{Evil|Leviathan}} game, and the more information everybody has, the better. 
+
+* If more than one player claims to be the same character as another player, treat it as an opportunity to create two possible world-views, and explore both. Usually, when two players both claim to be the same character, one of them is a Minion and it is best to execute them both. However, with limited executions available, it is usually best to treat both players as having possibly useful information, and to explore both. One of these players is probably a Minion, so doesn't need to be executed. The point is to find the Demon, not just evil players. 
+
+* If you feel like taking a risk, executing two players before the final day can grant fantastic information. If two players are executed and the game continues, you know for a fact that at least one of them is a Minion. Knowing something for a fact tends to snowball, and grant other pieces of useful information, even 100% confirming or denying a player's character. But beware... this strategy may lose the game in the process. 
+
+* Poisoning is the result of evil characters' abilities. Knowing which Demon is in play means you know which Demons aren't in play. Look at the possible Minions on the script, and that will tell you which, if any, characters are poisoning players. This can be crucial information. Focus on which Minions are possibly in play and work from there. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Demons]]

@@ -1,0 +1,134 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_godfather.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Normally, it's just business. But when you insult my daughter, you insult me. And when you insult me, you insult my family. You really should be more careful - it would be a shame if you had an unfortunate accident."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/61788082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-6%2F301512689-44100-2-3db86b4cb6e1b.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Heretic|heretic|Good|Only 1 jinxed character can be in play.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]"
+
+The Godfather takes revenge when the town kills Outsiders.
+* Whenever an Outsider is executed and dies, the Godfather chooses one player to die that night.
+* The Godfather only kills if an Outsider dies during the day. Outsiders that die at night don’t count.
+* If the Godfather is in play, this adds or removes one Outsider from play.
+* At the start of the game, the Godfather learns which Outsiders are in play.
+* If two Outsiders died today, the Godfather still only kills one player tonight.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While setting up the game, before putting the character tokens in the bag, either remove one Townsfolk and add one Outsider or remove one Outsider and add one Townsfolk.
+
+During the first night, wake the Godfather. Show them the character tokens of all Outsiders in play. Put the Godfather to sleep.
+
+If an Outsider dies during the day, mark them with the '''DIED TODAY''' reminder. That night, wake the Godfather. They point at any player. Put the Godfather to sleep. The chosen player '''dies'''—mark them with the '''DEAD''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Godfather learns that the {{Good|Lunatic}} and the {{Good|Moonchild}} are in play, so the Godfather bluffs as the {{Good|Tinker}}. During the third day, the {{Good|Lunatic}} dies by execution. That night, the Demon kills the {{Good|Minstrel}}, and the Godfather kills the {{Good|Pacifist}}.
+			</div>
+
+			<div class='example'>
+				The {{Good|Tinker}} is executed but remains alive, because they were protected by the {{Evil|Devil's Advocate}}. The Godfather does not act that night. The next day, the {{Good|Tinker}} dies due to their own ability. That night, the Demon kills a player, and the Godfather kills themself to appear like a good player.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Godfather either adds or removes an Outsider from the normal game setup at the Storyteller's discretion. You can then kill these innocent good players for an extra kill at night... but only if you can convince the town to do your dirty work for you! Your ability is subtle, but powerful when abused in the right ways.
+
+* You start knowing which Outsiders are in play, which can help you and your evil team have an idea of what to expect. If you know there's a {{Good|Lunatic}} for example, you can expect them not to come out for a while, and can bluff as an extra Outsider yourself. Alternatively if there is a {{Good|Goon}}, you may want to seek them out and make an allegiance, turning them evil to join you instead of just getting them killed. This is reliable, powerful information - use it however best helps your team.
+
+* If there's one less outsider than expected, you can fill this gap with a bluff - while players will suspect you in the event of there being more or less outsiders than expected, they tend to overlook entirely if there are exactly as many outsiders as there's supposed to be. (This can also make it an exceptional bluff for your demon!)
+
+* If there's one more outsider in play than expected, it's probably best to try and convince the town that there isn't a Godfather in play, and that one of the outsiders is bluffing and secretly evil. This not only keeps up the ambiguity of the minion in play (meaning the terrifying {{Evil|Mastermind}} continues to be a possibility), but if they believe you, they might even start executing, giving you a free extra kill!
+
+* Get them Outsiders executed by any means necessary! Not only are you killing a good player and activating characters like the {{Good|Moonchild}}, but you will get an extra kill that night. If you manage to time this well, your evil team can unleash a devastating counter-attack on the good team with your unexpected aid!
+
+* Coordinate with the demon when you have the chance to kill to maximize the amount of players that die. It can be a bummer to get a kill and then totally miss because the demon was going to kill them anyway. Plus, the more players who are dead in a single night, the more likely the good team are to just totally panic.
+
+* When you have a chance to kill, you can deliberately choose a dead player to mask your extra kill, hiding the fact that you are in play. This can be very useful if you are trying to push the narrative that no Godfather is in play - the good team typically stop killing Outsiders once they realize you're around, and this method keeps the shade firmly on them. Delaying gratification for a more deadly late game kill can be very satisfying!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Godfather ==
+
+* Count how many Outsiders are in play. If the number is 1 fewer or 1 greater than the number that there should be, then you probably have a Godfather in play. Some Outsider players, particularly the {{Good|Goon}} and the {{Good|Lunatic}} may not want to reveal who they are straight away, so this may be tricky at first. But, if you can get all Outsiders to reveal who they are, and the tally is different than expected, then you know that you have a Godfather in play or an Outsider is lying. 
+
+* If you know that a Godfather is in play, then you know that other Minions are not in-play (if there is only 1 Minion in-play). In this case, you know that the players claiming to be Outsiders are good and should not be executed, and also that you don't need to worry about the {{Evil|Mastermind}} or {{Evil|Devil's Advocate}}. 
+
+* If you suspect a Godfather, be cautious of killing Outsiders. Executing an Outsider loses you a good player, then you will lose another 2 (or more!) good players that night, which can be devastating. 
+
+* In [[Bad Moon Rising]], knowing which Minions are in-play is crucial to winning. If you don't know whether a Godfather is in play or not, and an Outsider is executed, pay particular attention to how many players die that night. If an extra player dies that night, or if the number is normal, you have information about which Minions are in-play. There may be other reasons that extra players die at night, such as the {{Good|Gambler}}, {{Good|Gossip}} or {{Good|Tinker}}, so rule these causes out first. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Minions]]

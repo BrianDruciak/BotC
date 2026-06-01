@@ -1,0 +1,158 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_philosopher.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"If anything is real, beer is real. Drink, for tomorrow we may die."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/30800276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-6%2F172637744-44100-2-c20b4ad433f7d.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Bounty Hunter|bountyhunter|Good|If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk."
+
+The Philosopher has no ability until they decide which character they want to emulate.
+* They can do this once per game. When they do so, they gain that character’s ability. They do not become that character. 
+* They may want to wait a while to choose. If the Philosopher chooses a character that is already in play, the player of that character becomes drunk. If the Philosopher then dies or becomes drunk or poisoned, the player they are making drunk becomes sober again.
+* If the Philosopher chose a character that was not in play at the time but is in play now, that character is drunk.
+* If the Philosopher gains an ability that works at night, they wake when that character would wake. If this ability is used on the first night only, they use it tonight.
+* If the Philosopher regains their ability via the Bone Collector, or uses their ability twice via the Barista, the Philosopher may choose a new ability, or the same ability as before.
+* If the Philosopher’s ability works while dead, such as the Klutz’s, it works if the Philosopher is dead.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Philosopher. They either shake their head no or point at any Townsfolk icon or any Outsider icon on their character sheet. Put the Philosopher to sleep.
+
+If they pointed to an icon of a character not in play, swap the Philosopher token with the chosen character token and mark them with the '''IS THE PHILOSOPHER''' reminder.
+
+If they pointed to an icon of a character in play, the player of the chosen character becomes '''drunk''' - mark them with the '''DRUNK''' reminder. (''You can now use the duplicated character’s reminders for the Philosopher''). If the Philosopher dies, the player made drunk by the Philosopher becomes '''sober''' - remove the '''DRUNK''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the first night, the Philosopher chooses to gain the {{Good|Dreamer}}'s ability. They gain the {{Good|Dreamer}}'s ability from now on and act when the {{Good|Dreamer}} normally acts. 
+			</div>
+
+			<div class='example'>
+				During the third night, the Philosopher chooses to gain the {{Good|Clockmaker}}'s ability. That night, they learn the distance from the Demon to their nearest Minion.
+			</div>
+
+			<div class='example'>
+				An {{Good|Artist}} is in play. The Philosopher chooses to gain the {{Good|Artist}}'s ability. The original {{Good|Artist}} becomes drunk. Later, the Philosopher dies, so the original {{Good|Artist}} becomes sober again. (The original {{Good|Artist}} would also become sober if the Philosopher became drunk.)
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Philosopher's strongest asset is their versatility. You can emulate ''any'' good character on the list! Try to get a read on what the good team is lacking and/or what would be most effective in countering the evil team. Every Townsfolk is a viable option:
+** {{Good|Clockmaker}} - Since the {{Good|Clockmaker}} gets their information on the first night, you can safely gain a {{Good|Clockmaker}}'s ability at any point in the game after that. Not only will this allow you to confirm an existing {{Good|Clockmaker}}'s information, but getting this information later in the game can help you make connections between Minions and Demons when combined with other players' information.
+** {{Good|Dreamer}} - If people are clamming up about their characters, choose the {{Good|Dreamer}} to get that information out in the open! A {{Good|Dreamer}} gets amazing information and can quickly build up trust with other good players. It is also a fantastic detector for the {{Evil|Vortox}}!
+** {{Good|Snake Charmer}} - The {{Good|Snake Charmer}} can detect who is and who isn't the Demon, and cannot be affected by the {{Evil|Vortox}}, making their information especially potent. It also affords you the opportunity to turn ''into'' the Demon, but surely you'd never abuse your power for something like that, right?
+** {{Good|Mathematician}} - Knowing who is and isn't getting reliable information is vital in Sects & Violets, especially when contending with Demons like the {{Evil|No Dashii}}. If you want to get a read on how accurate the good team's info is, nobody is more effective than the {{Good|Mathematician}}.
+** {{Good|Flowergirl}} - The innocent {{Good|Flowergirl}} terrifies Demons more than most Townsfolk in Sects & Violets. Knowing when the Demon did or didn't vote can be crucial information, narrowing down the places for the Demon to hide in the innocent village. Becoming this character ''secretly'' is even better, since you might be able to lull the Demon into a false sense of security.
+** {{Good|Town Crier}} - What the {{Good|Flowergirl}} is to Demons, the {{Good|Town Crier}} is for Minions. This is a great option if you have a {{Evil|Witch}} in play, since good players will be more nervous to nominate and evil players more bold. This is another one worth secretly selecting, as Minions will get comfortable thinking no {{Good|Town Crier}} is around... and then suddenly there you are!
+** {{Good|Oracle}} - Being able to trust the dead is extremely important in Blood on the Clocktower. Unfortunately, Demons like the {{Evil|Vigormortis}} make that a more difficult prospect in Sects & Violets, as the Minions infiltrate the dead under the guise of being innocent Demon victims. The ultimate counter to this is the {{Good|Oracle}}, who judges the dead. Even without worrying about the sneaky {{Evil|Vigormortis}}, your information is amazing.
+** {{Good|Savant}} - If you're feeling like there's just not enough information in the game in general, the {{Good|Savant}} is the solution. Getting hints every single day directly from the Storyteller will give you a lot of varied and interesting facts to work with, and will help the good team immensely as they try to piece together who is evil.
+** {{Good|Seamstress}} - Checking the alignments of other players will give you instant insight into whether you should trust them or not. If you have any suspicions about a particular player or player(s), the {{Good|Seamstress}} can give you some insight into their true selves. This also has the advantage of being a "once per game" ability, which means you can coordinate your transformation with the initial {{Good|Seamstress}}, and get you both reliable information.
+** {{Good|Artist}} - Being able to ask one yes/no question of the Storyteller about the game is ''very'' powerful - do not underestimate this ability and what you can bring to the game at a crucial moment.  The sky's the limit! Similar to the {{Good|Seamstress}}, the {{Good|Artist}} only uses their ability once, so be careful about your timing - you could end up getting two {{Good|Artist}} questions with a bit of care!
+**  {{Good|Juggler}} - The {{Good|Juggler}} acts on ''their'' first day, not the first day of the game. This means that a couple of days in, you can unexpectedly emerge as the {{Good|Juggler}} and confirm a number of claims quickly and easily. Many players will be reluctant to reveal themselves on the first day, but open up as time goes on - this gives you an edge over a real {{Good|Juggler}}.
+** {{Good|Sage}} - Claim to be any other Townsfolk on this list for any other reason, but actually acquire the {{Good|Sage}}'s ability. The concept of a {{Good|Flowergirl}} or {{Good|Savant}} appearing in town will make any Demon nervous... making it the perfect bait to get the Demon to kill you at night.
+
+* You can also select an Outsider, such as the {{Good|Barber}} or the {{Good|Klutz}}. This is not as powerful as transforming into a Townsfolk, but there's a couple of reasons why this might be worthwhile:
+** You make an existing Outsider drunk. If you think the Demon might target a {{Good|Sweetheart}}, for example, you can transform and make ''them'' drunk. This means at the point their ability would normally activate, they are drunk and harmless.
+** The {{Good|Klutz}}'s ability is scary, but reliable. You know for ''certain'' that if the game does not end, the {{Good|Klutz}}'s choice must be good (assuming they are the {{Good|Klutz}}). If you are desperate for information or just like taking risks, this might be a viable option for you.
+
+* Using your ability early can often be to your benefit - the earlier you act, the more information and impact your new ability will have on the game overall. It also means that if the Demon kills you, at least you've gotten something to work with. Nobody wants to die a mere Philosopher!
+
+* Selecting an ability later in the game is more risky, but allows you to make a more considered choice about who you become. You'll have a better idea of who is in play, what sort of evil you're competing with, and what kind of character would be most effective to strengthen the good team's position. For example, if you suspect a {{Evil|Vigormortis}}, choose the {{Good|Oracle}}. If you have a troublesome {{Evil|Evil Twin}} situation, perhaps select the {{Good|Seamstress}}. Just need a straight answer already? Go with the {{Good|Artist}}!
+
+* Gather information before you make a decision! Causing in-play characters to become drunk can hurt your team as much as you might potentially help. Knowing who is in play and who you can transform into without impacting your teammates is very important.
+
+* If a player is giving regular information, such as the {{Good|Oracle}} or the {{Good|Dreamer}}, then you can secretly, and deliberately, duplicate them. Since they are now drunk, their information should be different than yours, or show some other drastic change. If their information remains consistent, even after you have made them drunk, then they are almost certainly evil.
+
+* Screw the rest of the advice on this page and just pick your favorite character! {{Good|Snake Charmer}}, anyone?
+
+* Sometimes, it might be best to deliberately double up with an in-play character. This ensures that a particular character's information definitely gets into the game even if the Demon kills one of you. This also means that the good team is less incentivized to execute you. For example, if an {{Evil|Evil Twin}} is in play, and you are afraid that the {{Good|Town Crier}} will not survive the night, you can appropriate their ability. The good team still learns if a Minion nominated, as if you die tonight, the original {{Good|Town Crier}} will get the news. It's win-win.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Philosopher ==
+
+When bluffing as the Philosopher, there are a few things you should keep in mind:
+
+* To negate the effect of a particular player, claim to have selected their ability. You can claim to have already done this - because you didn't know that character was in play. Or you can claim to do it afterwards - because you didn't believe that the good player was the character they said they were, or you simply wanted to double up on the one character for extra insurance. For example, a {{Good|Savant}} is in play, and getting great information. That night, you claim to acquire their ability, which would mean the real {{Good|Savant}}'s information is entirely unreliable and should be ignored. When asked why you did this, you say that the {{Good|Savant}} information is very useful, and the Demon can not kill both {{Good|Savant}}s at once. And besides, you weren't so sure that the {{Good|Savant}} was actually telling the truth anyway.
+
+* The Philosopher is a good bluff to fall back on, if your initial bluff doesn't work, or your bluff doubles up with an in play Townsfolk. When the good player claims to be the same character as you, you can say that you are the Philosopher, later acquiring that character's ability.
+
+* To cause maximum confusion, choose a very disruptive information character. The {{Good|Savant}} is tricky, requiring an elaborate set of information for you to create each day, but can be very disruptive. A {{Good|Clockmaker}} is a simple bluff, but can lead the good team down the garden path very easily. The {{Good|Seamstress}} or {{Good|Artist}} can cause all manner of chaos, while the {{Good|Dreamer}} or {{Good|Juggler}} tend to confirm information that the good team already knows, while helping you hide without much disruption.
+
+* Instead of just telling the group which character you selected, get the group's input on what you should turn into. Ask them what character they think will be the most beneficial. You can do this in secret, by whispering to one or two people, or ask the group publicly. The good team has a tendency to trust helpful people, and there is nothing more helpful than getting their input into what character you should become.
+
+* If an evil player is bluffing as a character, and it is not going well, claim to have acquired that character's ability. If their information wasn't adding up, the good team may now believe them if they believe that you are the Philosopher that has turned into their character and is making them drunk. And if they are still suspicious for that evil player, then you can always say that you turned into their character because you thought they were suspicious too. For example, if a fellow Minion is bluffing as the {{Good|Flowergirl}} and the information that they are giving isn't making much sense, the good team will be suspicious that they are evil. If you say "Aha! The {{Good|Flowergirl}}'s information is wrong because I am the Philosopher-turned-{{Good|Flowergirl}}, and the original {{Good|Flowergirl}} is now drunk. That makes perfect sense!", then the good team may trust both you and the Minion. If, however, the good team is still suspicious that the Minion is not actually the {{Good|Flowergirl}}, you can say "I agree. That was why I was comfortable turning into a supposedly in play character. If the {{Good|Flowergirl}} ain't the {{Good|Flowergirl}}. then it doesn't matter if I steal their ability." Boom.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

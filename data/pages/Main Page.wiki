@@ -1,0 +1,54 @@
+Welcome to the biggest single resource on the internet for Blood On The Clocktower information, tips, tricks, secrets, rules, strategies and advice!
+
+== Characters By Edition ==
+
+<div class="row">
+	<div class="small-12 medium-12 large-3 columns">
+		[[File:Logo_trouble_brewing.png|250px|thumb|center|link=Trouble Brewing]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[Trouble Brewing]]</p>
+	</div>
+	<div class="small-12 medium-12 large-3 columns">
+		[[File:Logo_bad_moon_rising.png|250px|thumb|center|link=Bad Moon Rising]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[Bad Moon Rising]]</p>
+	</div>
+	<div class="small-12 medium-12 large-3 end columns">
+		[[File:Logo_sects_and_violets.png|250px|thumb|center|link=Sects & Violets]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[Sects & Violets]]</p>
+	</div>
+</div>
+
+== Characters By Type ==
+
+
+<div class="row">
+	<div class="small-12 medium-12 large-2 columns">
+		[[File:generic_townsfolk.png|250px|thumb|center|link=Category:Townsfolk]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[:Category:Townsfolk|Townsfolk]]</p>
+	</div>
+	<div class="small-12 medium-12 large-2 columns">
+		[[File:generic_outsider.png|250px|thumb|center|link=Category:Outsiders]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[:Category:Outsiders|Outsiders]]</p>
+	</div>
+	<div class="small-12 medium-12 large-2 columns">
+		[[File:generic_minion.png|250px|thumb|center|link=Category:Minions]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[:Category:Minions|Minions]]</p>
+	</div>
+	<div class="small-12 medium-12 large-2 end columns">
+		[[File:generic_demon.png|250px|thumb|center|link=Category:Demons]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[:Category:Demons|Demons]]</p>
+	</div>
+</div>
+<div class="row">
+	<div class="small-12 medium-12 large-2 columns">
+		[[File:generic_traveller.png|250px|thumb|center|link=Travellers]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[Travellers]]</p>
+	</div>
+	<div class="small-12 medium-12 large-2 columns">
+		[[File:generic_fabled.png|250px|thumb|center|link=Fabled]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[Fabled]]</p>
+	</div>
+	<div class="small-12 medium-12 large-2 end columns">
+		[[File:generic_loric.png|250px|thumb|center|link=Loric]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">[[Loric]]</p>
+	</div>
+</div>

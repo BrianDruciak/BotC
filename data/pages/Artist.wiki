@@ -1,0 +1,135 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_artist.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Mon Dieu! C'est lumineux! My work, she is... how you say... Magnifique! Dieu est révélé! Oui."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/24500817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-28%2F141298346-44100-2-2b2d864159e48.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, during the day, privately ask the Storyteller any yes/no question."
+
+The Artist may ask any 1 question, and get an honest answer.
+* The question may deal with anything at all, phrased in any way they want. The Storyteller honestly answers “yes,” “no,” or “I don’t know.”
+* It is up to the Artist to talk with the Storyteller, not the other way around. This isn’t a public conversation, and the group can’t listen in. It’s private.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+During any day, the Artist can request a private chat with you. Take them away from the circle so you cannot be overheard. They will ask you a question. Whisper “Yes,” “No,” or “I don’t know,” to them, or if you cannot answer in one of these ways, prompt the Artist to ask again in a different way. '''The Artist loses their ability''' - mark them with the '''NO ABILITY''' reminder.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Like the Savant, evil players bluffing as the Artist may request a private chat with you and pretend to ask a question. To help them bluff, you can pretend to give an answer by nodding or shaking your head.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Artist asks, "Is the Demon sitting in a brown chair?" The Storyteller answers, "No,” because the Demon is in a black chair.
+			</div>
+
+			<div class='example'>
+				The Artist asks, "Is David the {{Evil|Evil Twin}}?” and the Storyteller answers, "Yes,” because David is.
+			</div>
+
+			<div class='example'>
+				The Artist asks, "How many Minions are alive?” and the Storyteller says, "Please ask another question. I cannot answer that with a yes, no, or I don't know."
+			</div>
+
+			<div class='example'>
+				The Artist asks, "Are we winning?” and the Storyteller answers, "I don't know,” because even though all the Minions are dead, many good players trust the Demon.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Ask your question as soon as you can on the first day! Between the demon and the {{Evil|Pit-Hag}}, you risk losing your question every day that you do not use it. Using it right away negates this risk. There are a lot of questions you can ask knowing nothing else about the game that will give you a great head-start on detecting where evil is hidden in the town.
+
+* Hold onto your question for a few days. This is very risky, since the longer you are alive without using it, the greater chance you won't get to. With that said, Sects & Violets is a game stuffed to the brim with information - waiting to hear people's claims and the information they've got available to them can enable you to ask a much more specific and deadly question that could change the course of the game with a simple 'yes' or 'no'. In particular, characters like the {{Good|Flowergirl}}, {{Good|Town Crier}}, and {{Good|Oracle}} give information that can help you narrow down where the evil lies.
+
+* Being too specific with your question (e.g. Is Amy the demon?) will probably result in an unhelpful 'no'. Instead, ask questions that will divide the group into two halves. For example, ask if the demon is sitting in a particular group - yes or no, you have narrowed down where the demon is or isn't. Other questions can include asking if there's a concentration of evil players in a particular location, or asking about characters like the {{Evil|Evil Twin}}.
+
+* If you don't have a lot of in-game threads to follow, you can also ask for information outside of the game mechanics and still break the town into groups. For example, if a disproportionate number of players are wearing red shirts. you can ask if the demon is among them! 
+
+* Your ability can be used to replicate many information gathering abilities in the game - providing you can phrase them as a yes/no question! Listen to the claims of the people around you and craft your question to cover weaknesses in the good team's info, or to confirm/deny another person's claims.
+
+* Hiding from the demon so they don't kill you before you use your ability is imperative. You can try bluffing as another character, but another option is come out to the town and pretend you have already asked your question. The demon will not consider you as much of a threat if they believe you, and will probably prioritize more dangerous targets that appear to be still getting information.
+
+* Don't ask about the {{Evil|Vortox}} directly. Asking "is there a {{Evil|Vortox}} in play" will always result in a "no" - either there's no {{Evil|Vortox}}, or there is a {{Evil|Vortox}} and you're getting false information. To try and detect {{Evil|Vortox}}, you can instead give a statement that is definitely true (e.g. "Does 2+2 = 4?") - if the storyteller says "no", then you know your information has been compromised in some way.
+
+* Another way to inquire after {{Evil|Vortox}} is to ask after information that can be verified in-game as true. For example: Ask if the demon is among three players (Side note: These three players should not be close enough to be your neighbours, because the {{Evil|No Dashii}} will confuse your info). If you get a "Yes", then execute all of them. Then, if the game continues, you know it is probably {{Evil|Vortox}}. If you get a "No", then you either know three players who are not the demon, or you know that one of them is most likely the {{Evil|Vortox}}.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Artist ==
+
+When bluffing as the Artist, there are a few things you should keep in mind:
+
+* The Artist can receive practically any information in the game. Use this to your advantage when you are bluffing - giving information that compliments the narrative the evil team is trying to build against the good team.
+
+* Ask a question that implicates good players as evil. Some examples could include 'asking' if X character is in play, if Y player is sitting next to an evil player, etc. Every good player the town executes thanks to your dodgy information is an execution they didn't spent on your demon.
+
+* Ask a question that indicates your fellow evil players are good! Some examples could include 'asking' if there are more evil players to your left than your right, or if the demon is sitting somewhere you know they're aren't, or even if X character is in play (when it is actually a bluff being utilized by an evil player). Absolving evil players of guilt in the eyes of the town will see them turn their efforts elsewhere, waiting time on players who are not so much of a threat.
+
+* Decide whether your information is going to contradict the good team's information or not. This is riskier as a Demon, since if you contradict, the good team will likely kill you out of suspicion. As a Minion, you can be more deliberate about setting up a counter-argument, since your execution is not the end of the game, and if you manage to convince the group of something false in the meantime, all the better!
+
+* Beware of the {{Evil|Vortox}} - if you know one is in play, you'll have to be careful about giving 'true' information, since the {{Evil|Vortox}} would make your 'good' information false.
+
+* Don't reveal this bluff right away - in the early game, an Artist who has asked their question is prime bait for a mercy execution to appease a potential {{Evil|Vortox}}. If you're that {{Evil|Vortox}}, that would be an embarrassing end!
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

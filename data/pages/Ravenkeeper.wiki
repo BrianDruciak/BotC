@@ -1,0 +1,148 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_ravenkeeper.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"My birds will avenge me! Fly! Fly, my sweet and dutiful pets! To the manor and to the river! To the alleys and to the salons! Fly!"</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/9514918/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-6%2F42182196-44100-2-dcbc08a450cfc.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|Each night*, the Leviathan chooses an alive player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die.}}
+{{Jinx|Riot|riot|Evil|Each night*, Riot chooses an alive good player (different to previous nights): a chosen Ravenkeeper uses their ability but does not die.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If you die at night, you are woken to choose a player: you learn their character."
+
+If the Ravenkeeper dies at night, they get to learn one player's character.
+* The Ravenkeeper is woken on the night that they die, and chooses a player immediately.
+* The Ravenkeeper may choose a dead player if they wish.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+If the Ravenkeeper died tonight, wake them. They point at any player. Show the chosen player's character token to the Ravenkeeper. Put the Ravenkeeper to sleep.
+
+We advise you to discourage or even ban players from talking about what they are doing at night as they are doing it.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Ravenkeeper is killed by the {{Evil|Imp}}, and then wakes to choose a player. After some deliberation, they choose Benjamin. Benjamin is the {{Good|Empath}}, and the Ravenkeeper learns this.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Imp}} attacks the {{Good|Mayor}}. The {{Good|Mayor}} doesn't die, but the Ravenkeeper dies instead, due to the {{Good|Mayor}}'s ability. The Ravenkeeper is woken and chooses Douglas, who is a dead {{Good|Recluse}}. The Ravenkeeper learns that Douglas is the {{Evil|Scarlet Woman}}, since the {{Good|Recluse}} registered as a Minion.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* If the Demon knows you are the Ravenkeeper, they are very unlikely to kill you. It is to your benefit to bluff as a character who is a constant threat to the evil team, such as the {{Good|Empath}}, {{Good|Fortune Teller}}, {{Good|Slayer}}, or {{Good|Undertaker}}. Even bluffing as a good character that tends to be trusted by the good team (such as {{Good|Chef}} or {{Good|Washerwoman}}) can make you look like a trusted good player in the eyes of the Demon, and attract their attention at night.
+
+* The Ravenkeeper gets some of the best information in Trouble Brewing. Think about whose character you would like to learn before each night falls. You won't want to make a hasty decision and choose wildly in the moment.
+
+* Choosing living players in usually more beneficial than choosing dead players. If you learn a living player is good, you know not to execute them. If you learn a living player is evil, you know you shouldn't trust them! However, every so often, confirming that a dead player is good can be an enormous help. For example, confirming that a dead {{Good|Washerwoman}}, {{Good|Librarian}}, {{Good|Investigator}} or {{Good|Chef}} is telling the truth can help you verify their information, or picking a dead player you have suspicions about can confirm that an evil player is dead. That might even back up the {{Good|Investigator}} or {{Good|Fortune Teller}}.
+
+* Beware of the {{Evil|Spy}} and the {{Good|Recluse}}. If you believe a player is one of them, it is unlikely that you will learn their true character if you choose them, owing to their abilities to register as other characters. 
+
+* If you learn a player is the {{Good|Drunk}}, then not only do you know that they are good, you can be reasonably certain that any information they gave to the group is wrong.
+
+* Remember that you only get your information if you die at night. Getting killed during the day reveals nothing to you.
+
+* Sometimes, sitting quietly and refusing to give any information can give you the air of a powerful threat without actually having to provide any justification for your bluff.
+
+* You may want to tell the group that you are the Ravenkeeper first thing on the first day. This will almost guarantee that you are still alive on the final day, as the Demon will probably not kill you. This strategy means that you have more power in the late game (since living players may vote more than dead players), but you sacrifice the chance of gaining information by your death. Additionally, claiming Ravenkeeper is the sort of thing a {{Good|Slayer}} or {{Good|Undertaker}} might do early game, so it might just get you killed.
+
+* If you get to use your ability by dying at night, tell the group you are the Ravenkeeper the following day. Your information will be immediately useful. 
+
+* If you see a good token, consider keeping that information private. If the Demon knows that you know that a player is good, that player becomes a much higher priority target, and you want the player you trust alive as long as possible.
+
+* If you have told nobody that you are the Ravenkeeper, and you are still alive late in the game, then it is probable that a {{Evil|Spy}} is in play, telling the Demon who to attack. If you notice this happening, pay attention to who is whispering to whom.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Ravenkeeper==
+
+When bluffing as the Ravenkeeper, there are a few things you should keep in mind:
+
+* The Ravenkeeper would wake only when they die during the night, not the day. They would wake up and choose a player, then be shown a character token.
+
+* The Ravenkeeper is a fantastic bluff if you intend to pass the torch at some point to a Minion, or otherwise die protecting the Demon. Dying at night tends to make a player look good, and having information as a result of your death can allow you to throw blame, protect a fellow evil player, or make yourself look extremely trustworthy.
+** Throwing blame allows you to point the finger at a good player as an evil one - casting doubt on them, their information, and who they trust.
+** Alternatively you can back up the bluff of an evil player, confirming their identity and making them trustworthy for the good team. For example, if your Demon is claiming to be the {{Good|Monk}}, you can claim to have chosen them and seen the {{Good|Monk}} character token.
+*** An advanced technique is to claim they are in fact a different character than the one they have been claiming publicly. Your fellow evil player can then reveal they were lying all along, and you are actually correct! (Make sure your teammate knows you're going to do this, or can otherwise adapt on the fly!)
+** Finally, you can back up a good player's claim, which will get them to trust you and work with you. For example, if you know a player is the {{Good|Empath}}, claim you chose them and saw the {{Good|Empath}} token.
+
+* Don't know the identity of the player you are confirming? Claim that person is the {{Good|Drunk}}. This will also cast doubt on their information, adding an extra layer of usefulness to the strategy.
+
+* The Ravenkeeper is a fantastic bluff if you are trying to stay alive for the whole game. As the Demon will not want to kill a Ravenkeeper, you can claim that you are still alive in the late game because the Demon discovered your identity somehow (perhaps via the {{Evil|Spy}}, or just some good ol' fashioned eavesdropping).
+
+* You only get information if you die, so be careful about who you choose to confirm. Dying as a Ravenkeeper usually takes some effort, and if you then appear to 'waste' that on a {{Good|Chef}} that nobody doubts, you will look suspicious.
+
+* The Ravenkeeper is a great bluff to fall back on in the event that your bluff as a different character falls apart. Bluffs like the {{Good|Fortune Teller}}, {{Good|Undertaker}} or {{Good|Empath}} can all run into trouble if you don't appear to have the right information, but if you reveal you were the Ravenkeeper all along, suddenly your duplicity will make sense.
+
+* Some powerful characters will openly bluff as your character to protect themselves. Revealing yourself as the "real" Ravenkeeper and allowing them to keep the bluff can help you build trust with a good player while finding ways to undermine their ability.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

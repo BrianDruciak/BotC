@@ -1,0 +1,192 @@
+<div class="row">
+
+<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+<div id='edition-details'>
+[[File:logo_trouble_brewing.png|200px]]
+<table id='edition-details-characters'>
+<tr>
+<td class='edition-details-characters-title'>Townsfolk</td>
+<td>
+[[Washerwoman]]<br>
+[[Librarian]]<br>
+[[Investigator]]<br>
+[[Chef]]<br>
+[[Empath]]<br>
+[[Fortune Teller]]<br>
+[[Undertaker]]<br>
+[[Monk]]<br>
+[[Ravenkeeper]]<br>
+[[Virgin]]<br>
+[[Slayer]]<br>
+[[Soldier]]<br>
+[[Mayor]]<br>
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Outsiders</td>
+<td>
+[[Butler]]<br>
+[[Drunk]]<br>
+[[Recluse]]<br>
+[[Saint]]
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Minions</td>
+<td>
+[[Poisoner]]<br>
+[[Spy]]<br>
+[[Scarlet Woman]]<br>
+[[Baron]]
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Demons</td>
+<td>
+[[Imp]]
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+== Synopsis ==
+''Clouds roll in over Ravenswood Bluff, engulfing this sleepy town and its superstitious inhabitants in foreboding shadow. Freshly-washed clothes dance eerily on lines strung between cottages. Chimneys cough plumes of smoke into the air. Exotic scents waft through cracks in windows and under doors, as hidden cauldrons lay bubbling. An unusually warm Autumn breeze wraps around vine-covered walls and whispers ominously to those brave enough to walk the cobbled streets.''
+
+''Anxious mothers call their children home from play, as thunder begins to clap on the horizon. If you listen more closely, however, noises stranger still can be heard echoing from the neighbouring forest. Under the watchful eye of a looming monastery, silhouetted figures skip from doorway to doorway. Those who can read the signs know there is...'' '''Trouble Brewing'''.
+
+__TOC__
+
+== Gameplay ==
+
+Trouble Brewing has a little bit of everything. Some characters passively receive information, some need to take action to learn who is who, while some simply want to bait the Demon into attacking them. Both good and evil can gain the upper hand by making well-timed sacrifices. Trouble Brewing is a relatively straightforward Demon-hunt, but evil has a number of dastardly misinformation tricks up their sleeves, so the good players best question what they think they know if they hope to survive.
+
+Beginner. Recommended for players and Storytellers new to Blood on the Clocktower or to social deception games.
+
+When playing Trouble Brewing...
+
+'''Good players''' will need to figure out who is good and who is evil by using logic and intuition. Some players may want to reveal which character they are and share their information immediately (such as the {{Good|Chef}} or {{Good|Investigator}}), while others may want to lie about their identity so that the Imp avoids attacking them (such as the {{Good|Undertaker}} or {{Good|Fortune Teller}}). Some may lie about who they are so that the Imp does attack them (such as the {{Good|Ravenkeeper}} or {{Good|Soldier}})!
+
+Other good characters gain information by doing something and noticing the effect. Sacrificing one’s life by nominating a {{Good|Virgin}}, attempting to kill the {{Evil|Imp}} as a {{Good|Slayer}} and noticing what happens, or deliberately killing good players so that the {{Good|Undertaker}} can confirm which character they were—these are all ways to sacrifice life and power to gain information and achieve victory.
+
+'''Evil players''' will need to pretend to be good characters and do so well, giving false information to confuse the good team if necessary. With only true information, the good team will usually find out who is evil with enough time to spare. But with even a little believable falsehood in the air, evil has a chance. The {{Evil|Poisoner}} and {{Evil|Spy}}, if they pay attention, can cause huge confusion in the good team’s ranks by using their abilities sneakily. Evil will also need to decide when to make sacrifices. Will the {{Evil|Scarlet Woman}} kill the {{Evil|Imp}} to save their team? Will the {{Evil|Imp}} kill themselves to turn a more trustworthy player into the Demon? Will the evil team vote to execute a suspicious Minion in order to look like honourable members of the town? Or will the {{Evil|Baron}} give obviously false information to make it look like a {{Evil|Poisoner}} is in the game? Causing confusion about which Minions are in play can be the difference between victory and defeat.
+
+== Townsfolk ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_washerwoman.png|250px|thumb|center|link=Washerwoman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Washerwoman}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_librarian.png|250px|thumb|center|link=Librarian]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Librarian}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_investigator.png|250px|thumb|center|link=Investigator]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Investigator}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_chef.png|250px|thumb|center|link=Chef]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Chef}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_empath.png|250px|thumb|center|link=Empath]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Empath}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_fortuneteller.png|250px|thumb|center|link=Fortune Teller]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Fortune Teller}}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_undertaker.png|250px|thumb|center|link=Undertaker]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Undertaker}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_monk.png|250px|thumb|center|link=Monk]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Monk}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_ravenkeeper.png|250px|thumb|center|link=Ravenkeeper]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Ravenkeeper}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_virgin.png|250px|thumb|center|link=Virgin]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Virgin}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_slayer.png|250px|thumb|center|link=Slayer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Slayer}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_soldier.png|250px|thumb|center|link=Soldier]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Soldier}}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_mayor.png|250px|thumb|center|link=Mayor]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Mayor}}</p>
+	</div>
+</div>
+
+== Outsiders ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_butler.png|250px|thumb|center|link=Butler]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Butler}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_saint.png|250px|thumb|center|link=Saint]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Saint}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_recluse.png|250px|thumb|center|link=Recluse]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Recluse}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_drunk.png|250px|thumb|center|link=Drunk]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Drunk}}</p>
+	</div>
+</div>
+
+== Minions ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_poisoner.png|250px|thumb|center|link=Poisoner]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Poisoner}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_spy.png|250px|thumb|center|link=Spy]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Spy}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_baron.png|250px|thumb|center|link=Baron]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Baron}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_scarletwoman.png|250px|thumb|center|link=Scarlet Woman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Scarlet Woman}}</p>
+	</div>
+</div>
+
+== Demons ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_imp.png|250px|thumb|center|link=Imp]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Imp}}</p>
+	</div>
+</div>
+
+</div>
+</div>

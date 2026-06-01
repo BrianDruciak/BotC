@@ -1,0 +1,147 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_preacher.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>04/07/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"It is better to be rich and healthy than poor and sick."</p>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Legion|legion|Evil|If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion.}}
+{{Jinx|Summoner|summoner|Evil|If the living Summoner has no ability, the Storyteller has the Summoner ability.}}
+{{Jinx|Vizier|vizier|Evil|If the Vizier loses their ability, they learn this, and cannot die during the day.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability."
+
+The Preacher removes Minion abilities.
+* If the Preacher chooses a Minion, that Minion is woken to learn that they have been preached, and can no longer act while the Preacher is alive, sober, and healthy.
+* If the Preacher chooses a player who is not a Minion, nothing happens.
+* The Preacher may choose dead players.
+* If the Preacher is drunk or poisoned at the time they choose a player, that player is not affected by the Preacher’s ability.
+* If the Preacher becomes drunk or poisoned, preached Minions regain their abilities until the Preacher is sober and healthy.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Each night, wake the Preacher. They point to a player. Put the Preacher to sleep. If the Preacher choose a Minion, mark that Minion with a '''NO ABILITY''' reminder, wake the Minion and show them the '''THIS CHARACTER SELECTED YOU''' info token then the Preacher token, then put them to sleep.
+
+All Minions marked '''NO ABILITY''' have no ability while the Preacher is alive.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Preacher points to Alex, who is the {{Good|Engineer}}. Nothing happens.
+			</div>
+
+			<div class='example'>
+				The Preacher points to Lachlan, who is the {{Evil|Cerenovus}}. Lachlan wakes to learn that he has been preached, and is not woken to use his ability.
+			</div>
+
+			<div class='example'>
+				Doug is the Preacher. He points to Marianna, who is the {{Evil|Pit-Hag}}. Marianna wakes to learn that she has been preached, and is not woken to use her ability. The following night, the {{Evil|Poisoner}} points to Doug. Because Doug is now poisoned, Marianna wakes to use her ability.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* The Preacher’s ability can turn Minion abilities off. They learn this but will get it back as soon as you’re dead. While you don’t know whether you’ve successfully hit a Minion or not, watch your targets carefully the next day and see if their behaviour changes. If they do, and they suddenly seem more enthusiastic for executions, then you’ve probably got a Minion.
+
+* Be careful about revealing that you are the Preacher! Your ability is a thorn in the side of the evil team, defusing their {{Evil|Boomdandy}} or outsmarting their {{Evil|Mezepheles}}. Even just the threat of taking a Minion's ability away could unravel the evil team's elaborate plan, and thus make you a priority for death. Try to bluff as a more innocuous Townsfolk, or even an Outsider like the {{Good|Butler}} or the {{Good|Barber}}!
+
+* If a player is acting suspicious and they’re keeping to themselves, that’s a good target for you. While both good and evil players have reasons for trying not to be noticed, you have no effect on good players who aren’t actually Minions just trying to keep out of sight. You have nothing to lose for taking the shot in the dark!
+
+* On the first day, listen carefully for people who are making public claims. Remember that Minions do not get bluffs and tend to be the last to come out publicly. The players who get embroiled in double claims or only come out later into the game are very good targets for your ability.
+
+* If you have to pick between two potential Minions, pick the one doing the most ongoing damage. Hitting an {{Evil|Assassin}} after they've already killed doesn't really achieve too much for your team, but a {{Evil|Widow}} losing their ability has still seen the Grimoire, but will lose their ability to poison. A {{Evil|Pit-Hag}} would be a even more urgent priority again!
+
+* Once you're dead, coming out is important if you suspect you've disabled some Minions - now that you're dead, those abilities are back online now and a threat to your town!
+
+* The Preacher can target dead players! While this may not be helpful most of the time, this does make you a surprise counter to the {{Evil|Vigormortis}} and an evil aligned {{Traveler|Bone Collector}}. Some future Minions may even keep their abilities while dead - not that this keeps them safe from you!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Preacher ==
+
+When bluffing as the Preacher, there are a few things you should keep in mind:
+
+* Bluffing as the Preacher can be a little tricky, because even a real Preacher doesn’t have much feedback in the game to back up their claims. However, you can use your pretend ability to throw a little bit of shade on other players or build trust.
+
+* To lend credibility to your bluff, you can coordinate with the evil team to make a Minion ability disappear! Just use a Minion ability that has a public tell (like the {{Evil|Witch}} or {{Evil|Cerenovus}}), and then mask that ability by picking evil players for a time instead. You can then lay the blame for the lack of {{Evil|Witch}} deaths or madness at the feet of whatever poor innocent good player you please, claiming that since you "preached" them, that ability has vanished!
+
+* Be cautious of who you accuse to be a Minion! If the town believes you, they won't consider that person a Demon target, and since you have neutralised them, they might prefer to go around executing unknowns as opposed to the good players you're tarring with your accusations! (Of course, if you suspect they're going to do this, you can always deliberately throw shade on your Demon - the town will dismiss them as an insignificant Minion and leave them alone for another day!)
+
+* If someone’s behaviour dramatically changes from one night to the next, you can suggest that the change in their behaviour is because you’re the Preacher and you chose them last night. This implies that they’re suddenly acting differently because they’re just learned they have no ability.
+
+* You can try to use your ability to build trust. You can go secretly up to a good player and confide to them that you used your Preacher ability on them last night. You can go on to suggest that because they don’t seem to be acting very differently, you trust them more because they’re probably not a Minion (obviously you know they aren’t, but they don’t know that). This has a similar impact to a {{Good|Butler}} bluff - alone a Preacher doesn't have any way of confirming the people they choose, but just the act of being chosen and "cleared" can inspire trust in the other player.
+
+* If your bluff is falling apart, you can claim to have been the Preacher all along as a fallback. The Preacher is a prime target for the evil team if they come out, so it will make sense that you lied. This can serve as a last-ditch effort to survive execution as well, since you can warn that Minions will regain their powers without you!
+
+* Deliberately die at night and come out as a Preacher to throw shade on some good players! You can have the Demon kill you, or you can star-pass yourself if you're a Demon like the {{Evil|Imp}} for example. A Preacher dying at night has a lot more credibility than one who is executed.
+
+* Once you are dead, you can really sell that you're the real, bonafide Preacher if you have a Minion accomplice still alive. Simply have them mask their ability's existence until you're dead, and then go to town causing trouble in a public way (e.g. An {{Evil|Assassin}} kill or a {{Evil|Devil's Advocate}} execution block). Point out that you died just after you picked a certain player, and now the Minions are running rampant! It's tricky, but pull it off and the town will not only be sad you died, but furious with the patsy you have named the Minion!
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

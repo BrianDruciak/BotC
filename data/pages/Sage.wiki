@@ -1,0 +1,130 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_sage.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"These mountainous tomes guard the secret, I am sure of it! Twixt word and word, it lies in wait. More candles, boy! More ink! These notes may look arcane, but the infernal puzzle is revealing itself."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/33723053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-18%2F187488115-44100-2-f38d7c8e51b88.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die.}}
+{{Jinx|Recluse|recluse|Good|The Recluse might register as the Demon to the Sage.}}
+{{Jinx|Riot|riot|Evil|Each night*, Riot chooses an alive good player (different to previous nights): a chosen Sage uses their ability but does not die.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If the Demon kills you, you learn that it is 1 of 2 players."
+
+The Sage knows nothing while alive, but learns the most important information of all at the moment of their death - who killed them.
+* The Sage only gets this information when killed by a Demon attack. Being executed does not count.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+If the Sage was killed by the Demon, wake the Sage. Point at two players, one who is the Demon that killed the Sage. Put the Sage to sleep.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If the Sage dies early, you will probably want to show the Sage two alive players, which lets the evil team still have a slim chance of winning. If the Sage dies on the final night, feel free to show one alive and one dead player.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the second night, the Demon kills the Sage. The Storyteller points at two players, one of whom is the Demon.
+			</div>
+
+			<div class='example'>
+				During the final night, the Demon kills the Sage, who is drunk because of the {{Good|Sweetheart}}. The Storyteller points at a dead player and one of the remaining three alive players. This information is incorrect.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Pit-Hag}} creates a Demon. Because the {{Evil|Pit-Hag}} ability says that "all deaths tonight are arbitrary,” the Storyteller decides that the old Demon dies, and the Sage dies. Because the Sage died due to the {{Evil|Pit-Hag}}, not the Demon, the Sage does not wake to learn anything tonight
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Get killed by the Demon. Do it. By any means, and as quickly as possible. If the Demon kills you, you get fantastic information, so do whatever you can to make it happen. Pretend to be a character the Demon would want to kill, such as a {{Good|Flowergirl}} or a {{Good|Savant}}, or stay silent. Unlike the {{Good|Ravenkeeper}}, who benefits more so when the Demon attacks them later in the game, you benefit most when the Demon attacks you earlier in the game. If the Demon attacks you on the first or second night (or in the first half of the game), then you will have enough days left to execute both suspects you learn might be the Demon.
+
+* Reveal your information immediately if the Demon does kill you. The sooner the good team knows that you are the Sage, and that you know 1 of two players is the Demon, then the sooner you can figure out who the Demon is. If you wait until the final day to reveal your information (in the way that a {{Good|Fortune Teller}} might wait until the final day to reveal that 1 or 2 still-living players are not the Demon), then you may still only know that the Demon is 1 of 2 players. Also, in this case, you will have to convince the good team that you are the Sage, and you may not have enough time left to do so.
+
+* You can simply come out publicly as the Sage, in order to survive until the final day. If you believe that the group trusts you, telling the group that you are the Sage can be a great way to get the Demon to leave you alone, so that other players are killed at night, and other players are executed during the day. Having other players believe that you are good is crucial for this strategy to work. Surviving until the final day means that evil can not automatically win by having all 3 players alive be evil, and it also means that the good team is choosing between 2 players to execute, not 3.
+
+* If you die at night but didn't get any information, this is also great news! While you didn't get to find out who the Demon is, you know that the only way you can die at night but not be killed by the Demon is if you were killed by the {{Evil|Pit-Hag}}'s arbitrary deaths, so you can confirm that to town.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Sage ==
+
+When bluffing as the Sage, there are a few things you should keep in mind:
+
+* The power of the Sage only becomes relevant on death, and is incredibly powerful. If you intend to follow a Sage bluff through to completion, you should be prepared to die. It's worth it - if the good team believes you, they'll spend two days executing the people you accuse, instead of your demon! This can be especially effective if you are a {{Evil|Fang Gu}} (who may die unexpectedly by hitting an Outsider) or if a {{Evil|Pit-Hag}} is getting up to no good, causing random evil deaths.
+
+* As an evil player, you probably want to stay alive for as long as possible to wreak maximum havoc. This can make a Sage bluff more tricky, since you'll have no 'information' to back up your claim without a death at night - but you can turn your survival into a weapon just like your death. Talk to a player early on (someone you know is good - especially potent if they're a powerful character claim like the {{Good|Savant}} or {{Good|Flowergirl}}), and admit to being the Sage. Later, when the town is suspect of you, tell them you revealed your identity to exactly one person, and accuse them of either being the demon and avoiding killing you, or feeding the demon information about your role!
+
+* If you're bluffing as an information role and people are starting to notice that your information is not adding up, consider dropping that bluff and coming out as the Sage instead. Your confusing information will be revealed as not true, but the good team will hopefully think you were only lying for a good cause (to get the demon's attention), and leave you alone.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

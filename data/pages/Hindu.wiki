@@ -1,0 +1,93 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_hindu.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Loric</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>18/12/2025</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>“चत्वारो मृत्युमध्ये पतन्ति,<br>
+चत्वारो यात्री पुनरुद्गताः।<br>
+चत्वारो धर्मे स्थितचित्तवृत्तेः,<br>
+चत्वार एषां न पुनः क्षयः॥”
+</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"The first 4 players to die are immediately reincarnated as Travellers of the same alignment."
+
+The Hindu gives players that die early a new life.
+* The first four players to die become Travellers.
+* It doesn’t matter how the players died.
+* The Storyteller chooses which Traveller the player becomes. This is different to the normal rule that players choose their Traveller. The players’ alignment stays the same as it was before death.
+* If the script has five recommended Travellers, the Storyteller chooses from those.
+* Death is never simultaneous. For example, if the Shabaloth kills two players at night, it kills one, then the other.
+* If the Demon is one of the first four players to die, the game ends and good wins.
+
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+If a player dies, they become a Traveller character of your choice. Declare which Traveller they are.
+
+When four players have died and become Travellers, players die as normal.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+
+'''Optional rule''': If the Demon becomes a Traveller, a Minion becomes the Demon.
+
+</div> 
+
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Julian is a {{Good|Princess}}. He is executed and becomes the {{Traveler|Gangster}}.
+			</div>
+
+			<div class='example'>
+				Lachlan is the {{Good|Sweetheart}}. He dies and becomes the {{Traveler|Cacklejack}}. Nobody is drunk because the {{Good|Sweetheart}} is no longer in play. Evin is the {{Good|Engineer}}. He dies and becomes the {{Traveler|Judge}}. That night, the {{Evil|Po}} kills Marianna, Abdallah, and Lewis. Marianna becomes the {{Traveler|Gnome}} and Abdallah becomes the {{Traveler|Harlot}}.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

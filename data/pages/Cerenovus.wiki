@@ -1,0 +1,151 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_cerenovus.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Reality is merely an opinion. Specifically, my opinion."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/23286837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-30%2F133301587-44100-2-0dabf73e4624f.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Goblin|goblin|Evil|The Cerenovus may choose to make a player mad that they are the Goblin.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player & a good character: they are "mad" they are this character tomorrow, or might be executed."
+
+The Cerenovus encourages players to pretend to be different characters than they actually are.
+* The Cerenovus chooses Townsfolk or Outsiders that players are mad about being. They must try to convince the group that they actually are this character tomorrow, or else die.
+* Simply hinting is not enough to avoid death. The player must make a decent effort to convince the group. Mad players are never literally forced to say things they don’t want to—but if the Storyteller doesn’t hear them make an effort, they pay the price.
+* Mad evil players might be executed this way, but “might” means you can choose not to, to prevent evil from winning by this strategy.
+* Like the Mutant, an execution penalty counts as the one execution allowed per day.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Cerenovus. They point at any player and at any Townsfolk or Outsider icon on their character sheet. Put the Cerenovus to sleep. Mark the chosen player with the '''MAD''' reminder. Wake this player, show them the '''THIS CHARACTER SELECTED YOU''' info token, then the Cerenovus token, then the character token of the character they are mad about being. Put that player to sleep.
+
+During the next day or night, if you feel that the mad player has not done their best to convince the group they are this character, you can decide to execute them. Declare this to the group. They die. If you execute them during the day before the normal execution happens, go to the night phase. (''There is a maximum of one execution per day.'')
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Cerenovus makes the {{Good|Barber}} mad about being the {{Good|Savant}}. Tomorrow, the {{Good|Barber}} claims to be the {{Good|Savant}}, talks to the Storyteller, and tells the group two facts that they made up. When asked whether they are mad, the {{Good|Barber}} says "no" emphatically, so avoids being executed.
+			</div>
+
+			<div class='example'>
+				The dead {{Good|Artist}} is made mad about being the {{Good|Sage}}. The next day, they say nothing about being the {{Good|Sage}}. The {{Good|Artist}} is executed.
+			</div>
+
+			<div class='example'>
+				The Cerenovus makes the {{Good|Flowergirl}} mad about being the {{Good|Clockmaker}}. The {{Good|Flowergirl}} says to the group that they are the {{Good|Clockmaker}} and learned a "2,” but hints privately to other players that they are mad. The Storyteller overhears this and executes the {{Good|Flowergirl}}.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Madness is an infliction that can severely hinder the good team, and also a fine art - you can block a player from revealing information, force a player to change their story or double up with another good player, and even get your victim executed if they don't play along. When choosing who to make mad (and about what), think carefully about your preferred outcome!
+
+* Target players who have a lot to say. Most games will have those players who are running the show - maybe they've built up trust with other players and have some sway, or maybe they're just ''very'' sure they're right. Either way, forcing this sort of player to become mad will hinder them and their ability to coordinate with their allies... or sow seeds of doubt.
+
+* If a player is revealing a lot of important information, you can use your madness to neutralize them. The {{Good|Flowergirl}}, {{Good|Seamstress}} or {{Good|Oracle}} will have a hard time revealing their game-changing info if you're forcing them to act as the {{Good|Sweetheart}}. Track who people are listening to (publicly or privately) so you can focus on them.
+
+* One dastardly move that can really put the good team on the spot is to make them mad that they are a complicated character like the {{Good|Savant}}, who receives a ''lot'' of information... close to the end of the game. Watching this player scramble to invent 3+ days of information is not only hilarious, but a great distraction for the good team.
+
+* When choosing who you make mad, try to be subtle or consistent. Players who are no longer mad will immediately reveal to the group that they were affected by you, and at that point on the good team will be on the lookout for loud, bold madness. A way to avoid this are to consistently choose the same player, making them mad every single day so they have no chance to reveal what you're doing to them, at the cost of restricting your movements to this one player. Another way is to pick subtle, plausible characters for your madness - for example, having someone reveal as an Outsider in a suspected {{Evil|Fang Gu}} game, or someone who has given inconsistent information reveal as a character like the {{Good|Snake Charmer}}. 
+
+* An advanced way to use madness is to build a consistent narrative. For example, you can force a player to reveal as the {{Good|Sage}}.... but it'll lend a little credence to their forced bluff if you had them bluffing as a {{Good|Dreamer}} the day before, just like a real {{Good|Sage}} would. This allows you to undermine the real {{Good|Sage}} without it necessarily coming off as just one of them being mad - the simple logical thread you have created will be something the other players find pleasing and want to hold onto. Another option for a consistent narrative is to feed into the story the evil team is trying to make - for example, if you're trying to convince them a {{Evil|Fang Gu}} is in play, make people mad they are Outsiders.
+
+* If the good team suspects that the {{Evil|Vortox}} is in play, they will be very reluctant to end the day without an execution. If they don't have any strong leads on potential evil, they may fall back to 'safe' executions - players who have used their abilities (such as the {{Good|Clockmaker}} or {{Good|Artist}}). Causing a more powerful character to become mad they are one of these characters can see the good team executing them without you having to lift a finger - and if they protest, they might break madness and be executed anyway!
+
+* Your ability can also affect dead players! Even if they are dead, they can still be executed should they break madness (meaning the good team does not get to execute someone of their choice instead, and the evil team gets a free night to act). If you know who your demon is going to kill, hit them with a madness about being the {{Good|Barber}}, {{Good|Sweetheart}} or {{Good|Klutz}} for an extra fun distraction for the good team!
+
+* On paper, making someone mad that they are the {{Good|Mutant}} seems like a fun trick. In reality, this madness doesn't help you - your target will be forced to reveal they are the {{Good|Mutant}}, which obviously does nothing since they (probably) do not have the {{Good|Mutant}} ability. The good team will know they are probably afflicted by madness, thus revealing you are in play!
+
+* Target evil players deliberately to make them look good. This has some risk associated with it since they can be executed if they don't play the madness effectively, but if the good team believes a player has been targeted by evil abilities, they'll be more likely to trust them. Just... probably warn your demon before you do it.
+
+* Your ability is obvious for the good team - madness is a very public affliction, so the good team will know you are in play pretty confidently after a few days. Keep this in mind if your evil team is bluffing that other minions are in existence; for example, in a one minion game, your demon could not have been shape-shifted by a {{Evil|Pit-Hag}} if someone died because of your madness, which will expose them as a liar!
+
+* This is an advanced tip, but a fun one: The Storyteller is the one who decides how sincere a player is when playing out a madness. This allows for some leniency for newer players, and conversely a difficulty spike for the experienced players who know the game well and understand how madness works. Targeting the latter will give you a better chance of seeing complicated and sincere madness getting played out, since more is expected of them - and it's as entertaining as it is effective!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Cerenovus ==
+
+* Make sure you understand what "madness" means. If you are mad, or if you are dealing with a mad player, knowing how madness actually works is crucial. If the Cerenovus makes you mad that you are a particular character, you must do your best to convince the group that you are this particular character, or the Storyteller will execute you. Tell the group which character you are, if that character receives information, make up some information to tell the group. If another player claims to be the same character, tell the group that they are lying, because YOU are that character. Do whatever you need to do to convince the group that you are the character that the Cerenovus has made you mad about being. An important thing to note, is that simply saying "I am the {{Good|Dreamer}}", at the beginning of the day for example, then staying quiet, will probably result in your execution. It doesn't really matter "what" you say to the group, but your tone, enthusiasm, and the strength of your arguments. If the Storyteller thinks that you are putting in a genuine effort to convince the group that you are the character that you are mad about being, then the Storyteller will almost certainly not execute you.
+
+* If you are targeted by the Cerenovus, and you don't put in the effort to convince the group that you are this new character, the Storyteller may execute you. This is sometimes acceptable, or even beneficial to your team. For example, if you are the {{Good|Oracle}}, and have a huge amount of information to tell the group about the dead players, but haven't been able to due to being mad, it might be best to ignore the Cerenovus curse, tell the group that you are the {{Good|Oracle}} and then tell them your information, and simply be executed as a result. Sometimes, your information is worth more than your life. Similarly, if you are not very competent at being mad about a specific character, the Storyteller may execute you - this is not the end of the world. Play on, you'll have more days to find and execute the Demon.
+
+* Beware the Storyteller! When players are affected by the Cerenovus, the Storyteller will often be paying much closer attention to who is saying what. For example, if a player is publicly being mad about being the {{Good|Klutz}} (i.e. trying to the convince the group that they are the {{Good|Klutz}}), but winks when they think the Storyteller isn't looking, or has a whispered conversation where they tell a neighbour that they are actually the {{Good|Snake Charmer}}, if the Storyteller catches them in the act, they may be executed immediately. 
+
+* Beware evil players! If you are mad that you are a different character, but you decide to secretly tell a player or two in private what your real character is (when you think that the Storyteller isn't looking), you might accidentally be talking to an evil player that snitches on you. This player, if they signal to the group, or if they tell the Storyteller directly what you have told them, can deliberately get you executed.
+
+* If you think someone is targeted by the Cerenovus, don't pressure them too much about their information. They may be mad, they may be lying for a different reason. But if you, and a significant number of the group, believes that the mad player is just saying what they are because they are targeted by the Cerenovus, then the Storyteller may execute the player in question.
+
+* The Cerenovus can target dead people! The citizens of Ravenswood Bluff can, and sometimes do, execute corpses. It's a weird place. If a dead player has been targeted by the Cerenovus, that player may still be executed for not being mad enough. Since only one execution can occur per day, no nominations may take place, no other player may be executed today, and the night phase will begin.
+
+* As a group, you will probably know when a Cerenovus in is play. Players may be executed at odd times. Players may tell the group that they were Cerenovused *yesterday*, or on previous days, which they can safely do if they are not targeted any more. Pay attention to who claims to have been chosen by the Cerenovus, and backtrack with that information to get clues as to who is good and who is evil. If two people claim to have been chosen by the Cerenovus on the same previous night, then at least one of them is lying, and therefore probably evil. The Cerenovus will almost always choose good players, and will never choose the Demon (it's far too risky!) unless they have a death wish, so you can safely assume that players that have been chosen in the past are not the Demon. Keep these players alive, even if you think they might be a Minion, and focus on killing the Demon.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Minions]]

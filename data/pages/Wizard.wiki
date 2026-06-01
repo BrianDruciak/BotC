@@ -1,0 +1,179 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_wizard.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Lachlan Bastiaen</td>		
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>03/01/2025</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Every man and every woman is a star. Love is the law, love under will."</p>		
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>InGaK2TfNZ0</youtube>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Hard Claim Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center; margin-top: -5px;">by Viva La Sam</span>
+			<youtube>L1HbHm_IHSM</youtube>	
+
+		</div>
+
+	</div>
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature."
+
+The Wizard makes a wish.
+* This wish is limited only by the player’s imagination. It can be anything at all. The Wizard can write their wish on their phone and wake at night to show the Storyteller, or talk with the Storyteller in private during the day. The Wizard could even make a wish publicly if they are feeling foolish.
+* If the Storyteller tells the group that the Wizard has made a wish, they need not do so immediately, and can do so at any point later on.
+* Many wishes have a price. The price changes the game in some way, or changes the wish in some way. It can be anything at all, and is decided by the Storyteller. The Storyteller may or may not tell the Wizard what the price is. The purpose of the price is to rebalance a wish that is unfair for the good team on a mechanical level.
+* Many wishes leave a clue. The clue can be anything at all, is decided by the Storyteller, and is declared publicly. The purpose of a clue is to rebalance a wish that is unfair to the good team on an informational level.
+* When the Wizard dies, the wish may or may not still be in effect, depending on the nature of the wish and the nature of the price.
+* If the Wizard makes a wish that the Storyteller doesn’t understand, or feels like it would be impossible to implement, the Storyteller may ask the Wizard to wish again, or cancel the wish.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+When the Wizard makes a wish, either verbally or via text, decide whether to accept or decline the wish. If the wish is declined, prompt the Wizard to wish again, or tell them that they have no more wishes.
+
+If the wish is granted, say '''“Your wish is granted.”''' or '''“Your wish is my command”''', or nod, or otherwise signal that their wish is accepted. Now or later, you may make a price: make whatever mechanical adjustments to the game you feel are necessary for the wish to be balanced. Now or later, you may declare publicly that the Wizard has made a wish, then give the good team a clue about what was wished. 
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Storytelling the Wizard can be tricky. The Wizard is the most fun for everybody when all wishes are granted, all wishes leave a clue, and all wishes have a price. However...
+
+
+If you feel that by granting a wish, the evil team has benefitted a small amount but the good team still has all they need to figure out who the Demon is and to win the game, you may apply no clue and no price. You may even skip telling the good team that the Wizard has made a wish, or tell them but give no clue.
+
+
+If you feel that by granting the wish, the good team is at a severe disadvantage in terms of balance - the game rules have changed so that it is impossible for the good team to win even if they learn who the Demon is - then change the game rules or change the wish so that it is still fair for the good team.
+
+
+If you feel that by granting the wish, the good team is at a severe disadvantage in terms of knowledge - they lack the needed information to reasonably win the game - then give them a helpful clue to find out what the wish was.
+
+
+If you feel that the wish is so extreme and convoluted that you can think of no clue or price to balance it, or that it would just make the game unfun, then decline the wish completely.
+
+
+Overall, the wish should tip the scales in favour of the Wizard, but still allow the good team a reasonable chance of winning. Take your time in deciding how to do this.	
+</div>
+		</div>
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Wizard wishes to see the Grimoire. The Storyteller grants this wish, and there is no price and no clue.
+			</div>
+
+			<div class='example'>
+				The Wizard wishes that all good players are drunk. The Storyteller grants the wish. Later, they declare that the Wizard has made a wish and that “Things are wrong” but provide no further context. For the rest of the game, the Storyteller makes all information false.
+			</div>
+
+			<div class='example'>
+				The Wizard wishes that they become a Demon. The Storyteller grants the wish. Later, they declare that the Wizard has made a wish, and that “The student has become the master.” The Storyteller kills the {{Evil|Lord of Typhon}} and turns the Wizard into the {{Evil|Ojo}}. 
+			</div>
+
+			<div class='example'>
+				The Wizard wishes to win the game. The Storyteller grants the wish, and tells the Wizard that the evil team will win the game at the end of the day. The Storyteller declares that the Wizard has made a wish, and that either Ben, Amy, or Lewis is the Demon. The group executes Ben, who is the Demon, and good wins.
+			</div>
+
+			<div class='example'>
+				The Wizard wishes that all players have 5 lives, and all reminder tokens for the script are added to characters. The Storyteller judges that this wish is too awkward, confusing and boring, declines the wish, and asks the Wizard to wish again.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+* Make your wish immediately! The sooner you wish, the quicker your wish can take effect and start wreaking whatever havoc you’ve wished upon the town. 
+
+* Wait a few days to decide what kind of wish would be most helpful for your team. This can hide that there is a Wizard in play, which makes the good team suspect different in-play Minion abilities. A later-game wish can be much more targeted to disrupt the good team where it hurts the most.
+
+* Like every good Wizard should, be aware of how potent your wish is! If your wish is extremely powerful, you should expect it to come with a hefty price. If your wish is inherently balanced, the Storyteller might not need to set a price or leave a clue to the nature of the wish.
+
+* Before playing a script with the Wizard, brainstorm some things you’d like to wish for if you draw the token! This can make it less stressful to be the Wizard, as there’s no pressure to come up with a wish on the spot.
+
+* If your main priority is winning the game for the evil team, wish for something sensible that helps your team through misinformation or distraction.
+
+* If your main priority is having the most fun possible, wish for something bonkers. This may not be as likely to help your team win the game, but it will certainly be exciting and memorable!
+
+* Be ready for the Storyteller to declare that the Wizard has made a wish, or for the Storyteller to make an “unexpected” announcement. Act surprised that there is a Wizard in play, so other players can’t identify that you knew this was coming. 
+
+* Help good players figure out what the clue to the wish means. If you look like you’re legitimately trying to “solve” what’s happening with the Wizard wish, good players are more likely to trust you and therefore tell you the truth.
+
+* Pretend to help good players figure out what the clue to the wish means, but secretly lead them astray. If you act like you’re genuinely trying to “solve” what’s happening with the Wizard, and you can come up with an alternative explanation that sends good players down the garden path, they’ll spend more time talking about your nonsense, and less time talking about who they think the Demon is.
+
+* If you don’t mind the good team finding out what the wish is, focus the good players’ attention on figuring out what the Wizard has wished for. It’s difficult for players to figure out both the wish and who the Demon is at the same time, so if they spend all their time trying to figure out the wish, they’re spending less time finding the Demon.
+** If the wish is something like “Every Townsfolk receives false information”, this is probably bad for the good team to figure out, since they can reverse their information and use that to find the Demon. If solving your wish helps the good team solve the game, don’t help them figure it out!
+** If the wish is something like “One good player is permanently poisoned,” this is great for the good team to figure out! If they realize one player is poisoned, they don’t have the tools to figure out who is poisoned, so they’ll spend more time worrying about whose ability is poisoned. If solving your wish makes the good team panic and spend more time talking about the wish, you should definitely help them figure it out.
+
+* Work with the Storyteller to craft your wish, and respect the Storyteller’s judgment about what a fair price and clue for your wish might be. While you are part of an informed minority, the Storyteller still has more information about the game and can use it to inform how they balance your wish. 
+
+* Tell the rest of your evil team what you wished for! If the other evil players know what’s happening, they can incorporate your shenanigans into their bluffs. 
+
+* Be original! Original ideas are more likely to be granted by the Storyteller, and they are also trickier for the Storyteller to balance, since the Storyteller is less likely to be prepared for your unique wish. 
+
+* Keep it simple. Simple wishes can be incredibly strong, especially if used at the right time. Some of the funniest and most exciting games we’ve seen were games where the Wizard wished for everyone to have the {{Good|Tinker}} ability, or wished for the Storyteller to announce “The Wizard’s wish has been granted”. 
+
+* Make a wish that supports what your team wants to do. Be aware of what characters are in play, and how your wish might affect the in-play characters.
+
+* Be subtle. If you look like a good player, you’ll be able to help the evil team by gaining good players’ trust.
+
+* Out evil! Sow as much chaos and distraction as you can. As long as you’ve made a wish, the effects of your wish stay in play even after you are dead. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Wizard ==
+* Pay close attention to unusual things the Storyteller says or does - these are likely clues to the Wizard's wish, and can be helpful when you’re trying to figure out what’s happening.
+** Use the clues to your advantage! If the Storyteller says, “There is a {{Good|Tinker}} ability in play,” play as if you might die at any time. If your character changes, find other players who have also changed character. Talk about what you see and find, and try to identify what the clue might be telling you. 
+** You might not recognize a clue as a clue. Spend a little time (but not too much time) thinking carefully about unconventional phrases or behaviors the Storyteller uses. 
+
+* Put a lot of attention on the wish at first, but remember that your ultimate goal as a good player is to find and execute the Demon. Don’t focus too much on the wish in the late game, as it can distract you from solving the game.
+
+* Trust your Storyteller to set an adequate price and/or provide an appropriate clue for the Wizard’s wish. 
+** If you believe the Storyteller has not balanced the Wizard’s wish fairly, bring it up privately after the game. 
+** If you’re having a conversation with your Storyteller to reflect on your experience, focus the conversation around your experience in the game instead of blaming the Storyteller for their decisions. 
+
+* Have fun! If you’re expecting a “normal” game of Clocktower, you might be disappointed or caught off guard by a chaotic wish. Let go of your expectations for what is possible, and focus on any clues or unconventional shenanigans to help your team figure out what is happening.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

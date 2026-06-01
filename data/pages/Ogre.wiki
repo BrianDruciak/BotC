@@ -1,0 +1,171 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_ogre.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall </td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>24/05/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"&lt;grunt&gt;&lt;grin&gt;&lt;/grunt&gt;"</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>_Zahy8JCgU4</youtube>	
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Boffin|boffin|Evil|The Demon cannot have the Ogre ability.}}
+{{Jinx|Pit-Hag|pithag|Evil|If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability.}}
+{{Jinx|Recluse|recluse|Good|If the Recluse registers as evil to the Ogre, the Ogre learns that they are evil.}}
+{{Jinx|Spy|spy|Evil|The Spy registers as evil to the Ogre.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.”
+
+The Ogre is someone's best friend.
+* The Ogre's chosen player does not change, even if the Ogre is drunk or poisoned when they chose.
+* The Ogre becomes the same alignment as their chosen player immediately on the first night, even if the Ogre is drunk or poisoned.
+* The Ogre is not told their alignment at the beginning of the game.
+* If the Ogre changes alignment by other means, the Ogre learns their new alignment, as normal.
+* If an Ogre is created mid-game, the Ogre chooses a player that night, and becomes their alignment.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+During the first night, wake the Ogre. The Ogre points to a player. Put the Ogre to sleep. If the Ogre pointed to an evil player, flip the Ogre's character token upside down to represent that the Ogre is evil.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+'''Optional rule:''' Mark the Ogre’s chosen player with a '''FRIEND''' reminder. The Ogre is always the same alignment as their friend. If the Ogre’s friend changes alignment, the Ogre changes alignment too, but the Ogre does not learn this.
+
+
+This is only recommended for games of 15 players or more, so that there are not too many evil players.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				On the first night, the Ogre chooses the {{Evil|Summoner}}. The Ogre becomes evil, and stays evil for the rest of the game. 
+			</div>
+
+			<div class='example'>
+				On the first night, the Ogre chooses the {{Good|Banshee}}. The Ogre stays good. On the third night, the {{Evil|Mezepheles}} turns the {{Good|Banshee}} evil. The Ogre remains good.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+* The Ogre is in an interesting position compared to other players, as you do not learn your starting alignment, but you do know whose team you’re playing for. It is to your advantage to tell your friend that you’ve picked them early, and be honest with them, so they believe you. If you’re having this conversation publicly, your aim is to convince the group that you are aligned with your friend; if you’re having this conversation privately, your aim is to scheme together and come up with a game plan. 
+
+* If your friend does not believe you, be persistent. Assure them that you’re telling the truth, and seek out characters that detect alignment, such as the Empath, to make your argument even more compelling.
+
+* It can be fun (and useful) to tell your friend the truth, and lie to everyone else. If you are good, and the evil team doesn’t know who your friend is, evil may be more likely to leave your friend alone. If you are evil, and the good team doesn’t know who your friend is, good players may find it more difficult to explain what’s happening in the game.
+
+* Instead of telling your friend that you’ve chosen them, it can be useful to just watch them for a few days. You might be able to identify their (and your) alignment by seeing who they speak to, who they vote for, and who they seem to trust.
+
+* Vote the same as your friend! If your friend is evil, they will vote in a way that helps your team; if your friend is good, they are likely to vote in a way that they believe helps your team. 
+
+* Never vote for your friend. They may be good. They may be evil. You don’t know. But either way, if they die, you have just killed a teammate.
+
+* Tell multiple people that you’ve picked them, to see how they react and to hide where your true friend lies. Since you don’t know what team you’re playing for, it can’t hurt to be a little chaotic… right?
+
+* If your friend starts acting funny, and there are alignment-changing characters on the script, assume the worst - your friend may have joined the enemy! If you’re concerned that your friend no longer shares your alignment, you may want to limit how much you share with them, and look for other sources of information, like an {{Good|Empath}} or an {{Good|Artist}}, that can help verify your - or their - current alignment. 
+
+* If all else fails, assume that you are good (the odds are in your favour). 
+
+* If someone is claiming to be the Ogre, the person they are claiming to have picked is almost always a good player. Either that player is really a good Ogre who is aligned with the friend, or that player is evil and bluffing Ogre, in which case they are more likely to have picked a good player as their imaginary friend.
+
+* Get your friend to reveal everything they know - you don’t get information, so you’ll have to rely on other characters to share crucial information in the game. The only information that you will be close to sure of will come from your friend, so treat them well and request that they tell you everything that they know. Let them know that the more that they tell you, the more convinced you are that they are good, and the more that you will be able to help the good team. If your friend is evil and tells you everything that they know, then even better.
+
+* If you are good and a player claims to be your Ogre, it is usually best to tell them what you know. Either they are good, and deserve to know what you know, or they are evil, and know the most important information about who is who already. Lie, or don’t tell your Ogre anything, if you want to test to see if they are really the Ogre.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Ogre ==
+* Commit to whatever player that you pretend to have picked. Commit to your ‘friend’. If you picked the {{Good|Empath}}, pretend to believe the {{Good|Empath}} information all game. If you picked the {{Good|Saint}}, do whatever you can to prevent the good team from executing the {{Good|Saint}}. You never know when your ‘friend’ will be proven good. If you picked the {{Good|Banshee}}, for example, and the {{Good|Banshee}} gets killed by the Demon at night, you will have wanted to be friendly and convincing to the {{Good|Banshee}} for as long as possible beforehand. 
+
+* Pick a strong player. Someone that the good team is likely to trust, listen to, and defer to. With a strong, reliable player as your friend, the good team will likely keep you alive too. 
+
+* You don’t need to say which player you picked straight away. Sometimes, waiting a few days can be useful. Waiting until you can claim to have befriended a confirmed good player before coming out as the Ogre will be less believable for some, but for those that do believe you, that confirms in their mind that you are good.
+
+* Pick someone fun! Clocktower doesn’t need to be serious. The Ogre is a character that works better the more fun you are having, so picking someone that you have rapport with, someone who will enjoy your company for the entire game, will probably result in you having the confidence to convince the good team that you are the Ogre. 
+
+* Pick a character that you think will survive a long time. Characters like the {{Good|Mayor}} or {{Good|General}}, tend to have an easier time surviving until the final day. Whether the claimed Ogre is good or evil, it is usually in the good team’s interest to kill both of you, or keep both of you alive until the final day. 
+
+* If all else fails, you can befriend a player that you want to die. Maybe that {{Good|Undertaker}} or {{Good|High Priestess}} are really causing problems? Publicly pretend to be their lovely Ogre friend, and play badly. The good team may kill both of you, which will take two days and result in another two deaths at night. This way, four players die, including the one you wanted to. This strategy is recommended for Townsfolk, Outsiders, and Minions, but not Demons.
+
+* Don't tell anybody who your friend is. Mentally choose a player and vote whenever they vote, just like you are their {{Good|Butler}}, but wait until the late game to let the town know who your friend is. 
+
+* Pick a quieter player. Being a friend isn’t just a game term. Quieter players tend to want one or two players that they will trust for the whole game, as opposed to louder players who want more conversations and a more complicated trust diagram. Befriending a quieter player can have them protecting you for the whole game. Sneaky.
+
+* Wait a few days and pick a dead player to befriend. If you can convince them to use their vote foolishly, that weighs the game in your favour.
+
+* Pick someone who can't handle it. Having one player give you undivided attention for the whole game, who needs to know everything that you know, can be stressful! But it is a good stress! Someone who will lose their mind having you smiling at them for an hour, not knowing whether you are good or evil, can be fun. At least for you.
+
+* Pick an evil player as your friend. This is risky, since the good team will be assuming that you are on the same team, even though they don’t know which team that you are on. But assuming this information can lead the good team into logical inconsistencies if they assume that you are both good. Make sure that you and your evil friend’s fake information makes sense.
+
+* Pick a random good player as your friend. Since evil players know the other evil players, this is easy to do. It is also the most common option for real Ogres, just due to chance. Doing the common thing makes you look good, and builds trust between you and your friend.
+
+* Follow your friend’s lead. Tell your friend everything that good players tell you. Since real Ogres don’t know anything other than which player is on the same team as them, real Ogres tend to defer to the judgements of their friend. Do the same. At some point in the game, you will want to betray your friend, either by a wayward vote or a brilliant double cross, but once that happens you will be known to be evil, so wait until late in the game.
+
+* Pick multiple people, tell each of them that you are their Ogre friend, but also tell each of them to not tell anyone else. This will backfire eventually, but you can get several players making poor voting decisions in the meantime.
+
+* If you are evil and a good player claims to be your Ogre, be wary about telling them that you are evil. They may be lying about being the Ogre. Having an evil Ogre that believes everything you tell them can be unusually helpful, but having a pretend Ogre that is actually a good Townsfolk is disastrous if they find out that you are evil.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Outsiders]]

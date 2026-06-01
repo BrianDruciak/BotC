@@ -1,0 +1,167 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_boffin.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Lachlan Bastiaen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>26/09/2024</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Stellar hydrogen, vast, inert; carbon, oxygen, neon gases, all ruined. Molecular chaos, entropy, yields new cosmic phenomena, rebirth from atomic chaos, dense matter collapsing. All in a teeny little bottle."</p>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>MtjdB9pK1d4</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Alchemist|alchemist|Good|If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has.}}
+{{Jinx|Cult Leader|cultleader|Good|If the Demon has the Cult Leader ability, they can’t turn good due to this ability.}}
+{{Jinx|Drunk|drunk|Good|The Demon cannot have the Drunk ability.}}
+{{Jinx|Goon|goon|Good|If the Demon has the Goon ability, they can’t turn good due to this ability.}}
+{{Jinx|Heretic|heretic|Good|The Demon cannot have the Heretic ability.}}
+{{Jinx|Ogre|ogre|Good|The Demon cannot have the Ogre ability.}}
+{{Jinx|Politician|politician|Good|The Demon cannot have the Politician ability.}}
+{{Jinx|Village Idiot|villageidiot|Good|If there is a spare token, the Boffin can give the Demon the Village Idiot ability.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which."
+
+The Boffin replicates a good ability.
+* While the Boffin is alive, the Demon has a single Townsfolk ability or Outsider ability.
+* If the Demon is drunk or poisoned, the Demon keeps this good ability. If the Boffin is drunk or poisoned, the Demon temporarily loses this good ability.
+* If the Demon dies and has an ability that functions while dead, such as the Sweetheart, the Demon keeps this ability.
+* If a new Demon is created, such as via a Scarlet Woman or a Barber, this new Demon has an ability from the Boffin. This ability may be different to the previous Demon's ability.
+* If there are multiple Demons alive, only one alive Demon has an ability from the Boffin.
+* If the Demon has an ability that modifies the setup, such as a Choirboy, these changes are made during setup, as normal.
+* Both the Demon and the Boffin learn which good ability the Demon has. The Storyteller may wake these players independently, or together.
+* The not-in-play character may be 1 of the Demon's 3 bluffs.
+* The Demon also wakes at night at the time that the '''good''' character would normally wake. 
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+While setting up the game, before putting character tokens in the bag, make any changes that are indicated in brackets on the Demon's two character abilities. Afterwards, place this second character token by the Demon character token. 
+
+During the 1st night, wake the Boffin and the Demon. Show the '''THIS CHARACTER SELECTED YOU''' info token, then the Boffin token, then the good character token. Place this second character token by the Demon character token.
+
+Treat the Demon player as if they had this character ability, as well as their own Demon ability.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+Good abilities that would drunk/poison themselves, such as the Sailor, only drunk/poison the Demon's good ability.
+</div> 
+
+</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+The {{Evil|Imp}} has the {{Good|Virgin}} ability. The {{Good|Alsaahir}} nominates the {{Evil|Imp}}, and is immediately executed.
+		</div>
+			<div class='example'>
+The {{Evil|Lord of Typhon}} has the {{Good|Chambermaid}} ability. Each night, the {{Evil|Lord of Typhon}} wakes, chooses two players, and learns how many woke tonight. On the 4th night, the Boffin is drunk, so the Demon has no {{Good|Chambermaid}} ability, so does not wake.
+		</div>
+			<div class='example'>
+The {{Evil|Kazali}} has the {{Good|Banshee}} ability. The {{Evil|Kazali}} dies at night, and the {{Evil|Scarlet Woman}} becomes the {{Evil|Kazali}}. The dead {{Evil|Kazali}} may nominate and vote twice per day.
+			</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Coordinate with your Demon, no matter what ability they have! If the Demon has the {{Good|Virgin}} ability, find a powerful good Townsfolk to nominate them. If the Demon has the {{Good|Gossip}} ability, bluff {{Good|Gossip}} and make false statements when the Demon makes true {{Good|Gossip}} statements. If the Demon has the {{Good|Courtier}} ability, find out which good character they've drunked and convince that player their information is sober and healthy. 
+
+* Frame good players who have confirmable abilities. If the good team thinks there is a Boffin in play, build worlds where the confirmed {{Good|Nightwatchman}} or {{Good|Professor}} is really the Demon with a good character's ability. Push on these players late in the game to keep the Demon alive.
+
+* Stay alive! The Demon only gets to use their good character ability as long as you live! 
+
+* If the Demon has a once per game ability, encourage them to use it before you die.
+
+* As the Demon, claim to be the character whose ability you have. (Especially if you have a confirmable ability!)
+
+* As the Demon, claim to be a different not-in-play character. If you have the {{Good|Pacifist}} ability, don't tell anyone! Let good players build worlds where there is a {{Evil|Devil's Advocate}} protecting evil players, when it's really your {{Good|Pacifist}} ability preventing good players from dying to execution. Or, if you are the {{Evil|Vortox}} with the {{Good|Monk}} ability, protect good information-gathering Townsfolk like the {{Good|Seamstress}} or the {{Good|Town Crier}} so they receive true (and therefore contradictory) information in a {{Evil|Vortox}} game. 
+
+* As the Demon, use your ability to help the evil team gain information. As the {{Evil|Ojo}}, use the {{Good|Dreamer}} ability to learn the characters of players that you think lied to you. As the {{Evil|Fang Gu}}, use the {{Good|Librarian}} ability to identify an Outsider who wants to stay hidden from the evil team. 
+
+* As the Demon, use your ability to secretly hurt the town. Use the {{Good|Courtier}} ability to mess up a good player's information! Use the {{Good|Philosopher}} ability to drunk an in-play good character without their knowledge! 
+
+* As the Demon, claim to have your ability before you use it, in order to confirm yourself to a good player. Just make sure you use it before the Boffin dies! 
+
+* As the Demon, don't say anything about your ability at first, and confirm yourself to one or more good players.
+
+* If good players think the Boffin is in play, keep players with confirmable abilities alive, to frame them as the Demon. There's nothing like a final day with the confirmed {{Good|Virgin}}, {{Good|Golem}}, and {{Good|Nightwatchman}} as the last three players alive! 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Boffin ==
+
+* Remember that players who are “confirmed” are not necessarily good, and might be the Demon! Fortunately, at most one of the players who is confirmed to have a particular ability is the Demon. If players are claiming to be a {{Good|Fool}}, {{Good|Virgin}}, {{Good|Professor}}, and {{Good|Nightwatchman}}, at least 3 of those 4 players must be good!
+
+* Trust your social reads. There may not always be mechanical information to distinguish between a {{Good|Professor}} and a Demon with the {{Good|Professor}} ability.
+
+* If you have a confirmable ability, look for additional information to prove that you are a good player with your ability, and not a Demon masquerading as your good Townsfolk or Outsider ability. 
+
+* If you think there's a Boffin in play, kill players who have confirmed themselves as good. The Storyteller will often give the Demon a confirmable ability like the {{Good|Pacifist}}, {{Good|Golem}}, or {{Good|Nightwatchman}}, so killing these players can narrow down Demon candidates.
+
+* If strange and unexplainable things keep happening, consider worlds and explanations where an evil Demon is secretly using a good character's ability to cause chaos and confusion. For example, if the {{Good|Innkeeper}}'s protected players keep dying in the night, consider that the Demon may have used the {{Good|Philosopher}} ability to gain the {{Good|Innkeeper}} ability, making the real {{Good|Innkeeper}} drunk.
+
+* Be aware that the Demon may have an unhelpful Outsider ability.
+
+* If you think there's a Boffin in play, be wary of players who die in the night, especially if there are roles on the script that trigger on death. The {{Evil|Imp}} with the {{Good|Plague Doctor}} ability can target themself in order to put an additional Minion ability in play. The {{Evil|Fang Gu}} with the {{Good|Banshee}} ability can target an Outsider in order to activate their {{Good|Banshee}} ability. The {{Evil|No Dashii}} with the {{Good|Sweetheart}} ability can die with a {{Evil|Scarlet Woman}} in play in order to secretly {{Good|Sweetheart}} drunk one good player. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

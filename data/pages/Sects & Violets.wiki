@@ -1,0 +1,209 @@
+<div class="row">
+
+<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+<div id='edition-details'>
+[[File:Logo_sects_and_violets.png|200px]]
+<table id='edition-details-characters'>
+<tr>
+<td class='edition-details-characters-title'>Townsfolk</td>
+<td>
+[[Clockmaker]]<br>
+[[Dreamer]]<br>
+[[Snake Charmer]]<br>
+[[Mathematician]]<br>
+[[Flowergirl]]<br>
+[[Town Crier]]<br>
+[[Oracle]]<br>
+[[Savant]]<br>
+[[Seamstress]]<br>
+[[Philosopher]]<br>
+[[Artist]]<br>
+[[Juggler]]<br>
+[[Sage]]<br>
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Outsiders</td>
+<td>
+[[Mutant]]<br>
+[[Sweetheart]]<br>
+[[Barber]]<br>
+[[Klutz]]
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Minions</td>
+<td>
+[[Evil Twin]]<br>
+[[Witch]]<br>
+[[Cerenovus]]<br>
+[[Pit-Hag]]
+</td>
+</tr>
+<tr>
+<td class='edition-details-characters-title'>Demons</td>
+<td>
+[[Fang Gu]]<br>
+[[Vigormortis]]<br>
+[[No Dashii]]<br>
+[[Vortox]]
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+== Synopsis ==
+''Vibrant spring gives way to a warm and inviting summer. Flowers of every description blossom as far as the eye can see, tenderly nurtured in public gardens and window boxes overlooking the lavish promenade. Birds sing, artists paint, and philosophers ponder life's greatest mysteries inside a bustling tavern as a circus pitches its endearingly ragged tent on the edge of town.''
+
+''As the townsfolk bask in frivolity and mischief, indulging themselves in fine entertainment and even finer wine, dark and clandestine forces are assembling. Witches and cults lurk in majestic ruins on the fringes of the community, hosting secret meetings in underground caves and malevolently plotting the downfall of Ravenswood Bluff and its revelers.''
+
+''The time is ripe for...'' '''Sects & Violets'''. ''
+
+__TOC__
+
+== Gameplay ==
+
+Sects & Violets is the craziest of the three editions included in the base set. Good characters get amazing information each and every night. However, the evil team is extremely varied and threatening and can throw massive confusion into the mix. Characters change alignment. Players change characters. Even the evil team can lose track of who is who. This is also the first appearance of madness, which throws all manner of spanners into the works.
+
+Intermediate. Recommended for players who want to do wild and unexpected things, pushing the limits of what can be achieved in a bluffing game.
+
+When playing Sects & Violets...
+
+'''Good players''' will almost always have more information than they know what to do with. Unlike in Trouble Brewing, where the good team can trust most of their information most of the time, the good team in Sects & Violets will need to figure out which Demon is in play to even begin to make sense of what’s going on. With a {{Evil|Fang Gu}} in play, all information is true, except for any that pertains to the Demon, who may swap players. With a {{Evil|No Dashii}} in play, two Townsfolk are poisoned, but if the good team can deduce which players these are, they’ll have found the Demon. With a {{Evil|Vigormortis}} in play, Townsfolk get poisoned when Minions die at night. With a {{Evil|Vortox}} in play, all information is false. Once the good team notices what information is right and what is wrong, they can backtrack and reverse what they thought they knew and begin to learn something valuable. 
+
+To confuse things even further, Outsiders will usually want to lie about who they are for most of the game, and maybe even some Townsfolk will want to do the same. An Outsider that dies can cause terrible disadvantages for the good team, so wise Demons will usually want to kill them as soon as possible. 
+
+'''Evil players''' will want to kill or otherwise remove the threat of the most dangerous Townsfolk as soon as possible. Demons can only kill once per night, but Minions such as the {{Evil|Pit-Hag}}, {{Evil|Witch}}, and {{Evil|Cerenovus}} can really help thin out the good team’s ranks if the Minion is clever. Evil players should also consider whether they give true or false information to the group, since the group may reverse-engineer that information depending on which Demon they believe is in play.
+
+== Townsfolk ==
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_clockmaker.png|250px|thumb|center|link=Clockmaker]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Clockmaker}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_dreamer.png|250px|thumb|center|link=Dreamer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Dreamer}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_snakecharmer.png|250px|thumb|center|link=Snake Charmer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Snake Charmer}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_mathematician.png|250px|thumb|center|link=Mathematician]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Mathematician}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_flowergirl.png|250px|thumb|center|link=Flowergirl]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Flowergirl}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_towncrier.png|250px|thumb|center|link=Town Crier]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Town Crier}}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_oracle.png|250px|thumb|center|link=Oracle]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Oracle}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_savant.png|250px|thumb|center|link=Savant]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Savant}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_seamstress.png|250px|thumb|center|link=Seamstress]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Seamstress}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_philosopher.png|250px|thumb|center|link=Philosopher]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Philosopher}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_artist.png|250px|thumb|center|link=Artist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Artist}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_juggler.png|250px|thumb|center|link=Juggler]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Juggler}}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_sage.png|250px|thumb|center|link=Sage]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Sage}}</p>
+	</div>
+</div>
+
+== Outsiders ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_mutant.png|250px|thumb|center|link=Mutant]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Mutant}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_sweetheart.png|250px|thumb|center|link=Sweetheart]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Sweetheart}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_barber.png|250px|thumb|center|link=Barber]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Barber}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_klutz.png|250px|thumb|center|link=Klutz]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Klutz}}</p>
+	</div>
+</div>
+
+== Minions ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_eviltwin.png|250px|thumb|center|link=Evil Twin]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Evil Twin}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_witch.png|250px|thumb|center|link=Witch]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Witch}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_cerenovus.png|250px|thumb|center|link=Cerenovus]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Cerenovus}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_pithag.png|250px|thumb|center|link=Pit-Hag]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Pit-Hag}}</p>
+	</div>
+</div>
+
+== Demons ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_fanggu.png|250px|thumb|center|link=Fang Gu]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Fang Gu}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_vigormortis.png|250px|thumb|center|link=Vigormortis]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Vigormortis}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_nodashii.png|250px|thumb|center|link=No Dashii]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|No Dashii}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_vortox.png|250px|thumb|center|link=Vortox]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Vortox}}</p>
+	</div>
+</div>
+
+</div>
+</div>

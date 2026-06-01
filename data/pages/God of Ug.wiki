@@ -1,0 +1,87 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_godofug.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<span style="display: block; color: black; font-size: 15px; text-align: center; margin-top: 10px;">[[God of Ug (Ug Mode)|Ug Mode]]</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Loric</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>19/03/2026</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>"Blessed are my children, for they see the beauty in simple things."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat."
+
+The God of Ug makes players speak one-syllable words only.
+* When the player wearing the Ug hat votes, their vote counts as two votes. Use a physical hat if you can.
+* Any word that has one syllable counts. Shenanigans with hyphenated words don’t count. Saying a single multisyllabic word is enough to lose the Ug hat.
+* The Storyteller chooses who first wears the Ug hat. If a player says a multisyllabic word, or if the player takes too long to speak, or if the player isn’t having any fun, or if the player has been wearing the hat for too long, the Storyteller chooses a new player to wear the hat.
+* Any player may wear the Ug hat. They may refuse it if they want. A player may have the Ug hat more than once.
+* If the Storyteller is not present, the honor system is used. Any player who catches the player wearing the Ug hat saying multisyllabic words may say so, and the Ug hat is removed.
+* The Storyteller may choose a new player each day to start with the Ug hat, or keep the same player as the previous day.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+When the game begins, give the Ug hat to any player. If you or any player catches that player saying a multisyllabic word, give the Ug hat to a different player.
+
+If the player wearing the Ug hat votes, it counts as two votes.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+Optional rule: If wearing the Ug hat becomes unfunny, limit it to the nomination phase only.
+</div> 
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Amy is wearing the Ug hat. When nominated, she says, “It not me. I think Ben has been the talk with the bad guy. He bad.” Amy keeps the Ug hat.
+			</div>
+
+			<div class='example'>
+				Lewis has the Ug hat. In a private conversation with Julian and Alex, Lewis says, “I think that you are both good. I am the bird thing that can see one guy when I die. I want the Demon to kill me so that I get the guy and know things to tell you in the day that is next.” The Storyteller gives Abdallah the Ug hat, because “Demon” is a multisyllabic word.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

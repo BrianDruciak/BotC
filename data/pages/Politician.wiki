@@ -1,0 +1,154 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_politician.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>04/07/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I'm glad you asked that question. Truly, I am. But I think the REAL question here is..."</p>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Boffin|boffin|Evil|The Demon cannot have the Politician ability.}}
+{{Jinx|Legion|legion|Evil|The Politician might register as evil to Legion.}}
+{{Jinx|Pit-Hag|pithag|Evil|If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability.}}
+{{Jinx|Vizier|vizier|Evil|The Politician might register as evil to the Vizier.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If you were the player most responsible for your team losing, you change alignment & win, even if dead."
+
+The Politician changes teams if they are losing.
+* When the game ends, if the Politician was responsible for good losing, then the Politician turns evil and wins too.
+* The player needs to be very influential when determining who wins. Simply spreading false information or voting for good players is usually not enough – they need to be the player that was more responsible for the good team losing than any other good player, and preferably more responsible than any one evil player too. The Storyteller is the judge of whether the Politician’s actions qualify.
+* The Politician may still win with the good team, as normal.
+* A drunk or poisoned Politician can not change teams.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+When the game ends, if good lost and you feel that this was significantly due to the words and actions of the Politician player, declare that the Politician turns evil and wins too.
+
+In the rare instance that the Politician is evil, and plays a big part in losing the game for evil, declare that the Politician turns good and wins with the good team.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Politician has been trying to execute the Demon all game, without success. With just three players alive, the Politician convinces the group to not execute, since someone is claiming to be the {{Good|Mayor}}. There is no execution, and evil wins because a Minion was bluffing as the {{Good|Mayor}}. The Politician wins too.
+			</div>
+
+			<div class='example'>
+				On the final day, the Politician votes for the {{Good|Empath}}, and tells the group that the {{Good|Empath}} is evil. The {{Good|Saint}} is executed instead. The Storyteller judges that the good team lost due to their own actions as a group, not just the bad advice of the Politician. Good loses, and the Politician loses.
+			</div>
+
+			<div class='example'>
+				The Politician, believing that evil is winning, bluffs as the {{Good|Atheist}}. The Storyteller is executed. Evil wins, and the Politician wins too.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Come out with a bluff on day 1, and then stick with it. Don’t deviate from your claim, don’t change up your story, remain a consistent, static source of false information, and an unfailing obstacle to the good team’s ability to piece together the truth. Claim to be an {{Good|Artist}} who learned that {{Evil|Legion}} is in play, and force the good team to take that into account.
+
+* Bluff as extreme and ridiculous as you can! The more outlandish your bluff, the more chance that you will be the player most responsible for the loss, should the good team believe it! Pretend to be the {{Good|Atheist}}! Pretend a {{Good|Saint}} is your {{Evil|Evil Twin}}! Claim that you were Snakecharmed, then turned into the {{Good|Klutz}}! Dominate the game with your crazy schemes and spread as much misinformation as possible. If the good team believes you, you can lock in a win for the evil team. Even if they don’t, the havoc you have bring may be enough to lose the game for the good team anyway.
+
+* Bluff quietly and well. Do everything you can to make sure no one suspects you are the Politician, then feed in a crucial piece of misinformation at the last possible second. Come out with a piece of false {{Good|Seamstress}} information on the final day that frames a good player as evil, and clinch the win.
+
+* Make up some false information, and go hard after a specific player. Pretend to be an {{Good|Investigator}}, a {{Good|Fortune Teller}}, a {{Good|Bounty Hunter}}, and set up another player as evil. If they’re good, this can be the deciding factor that clinches a win for the evil team. If you accidentally get the Demon killed, well, you win anyway.
+
+* Pay attention to character win or lose conditions. Then try and trigger them. If you can engineer the execution of a {{Evil|Goblin}}, or a good Twin, or a second good player in a {{Evil|Leviathan}} game, your victory is all but assured. 
+
+* Make sure the Storyteller sees your efforts. Being a minor contributor to the good team’s downfall isn’t going to cut it. Make sure the Storyteller is aware that you are the player most responsible for your team losing.
+
+* Don’t rock the boat on the Outsider count. If there should only be one Outsider in play, and someone else is claiming to be the {{Good|Recluse}}, don’t challenge them. Remain hidden, and leave the good team in the dark – that single piece of misinformation about the Outsider count could be enough to win the day.
+
+* If good seems like they are on track to win, come out. Remember, you can win with the good team too. The information you can provide – which evil players are going along with your evil schemes, who has reacted to you double-claiming their characters, that you are an Outsider - could be the piece needed to win the game.
+
+* Try and catch characters who detect alignment (but not character) in your schemes. Convince a {{Good|Seamstress}} to check you against a confirmed good player, or a {{Good|Moonchild}} to choose you after they die. Remember, you register as good – having you confirmed in their eyes can lead a lot of credence to your devious claims.
+
+* Have characters with powerful, single-use abilities expend them on you. Convince a {{Good|Slayer}} to shoot you, nominate a {{Good|Virgin}}, or convince a {{Good|Professor}} to try and resurrect you. Make them use up their powerful abilities on a Politician, and undermine their efforts to gather information and make progress.
+
+* Tie the vote on the final day. Even if you are dead. This is MEAN, but it works! If the good team doesn't execute on the final day, and then the Demon kills that night, evil will win. To win as the Politician using this method, you will need to be the player that cast the crucial vote - if the good team accidentally tied the vote, you will lose too. Your ability says "If you were the player MOST responsible..."
+
+* Don't nominate at all on the final day if you think the other alive players are all evil. This will prevent the Demon from being nominated at all. 
+
+* If a Politician is on the script and you are not the Politician, be very careful who you trust. The Politician may be in play, throwing all manner of spanners in the works, yet registering as a good player. Just because someone appears good to a character like the {{Good|Seamstress}}, {{Good|Empath}} or {{Good|Noble}}, doesn't mean that you can trust them. Even if you are certain that nobody is drunk or poisoned.   
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Politician ==
+
+When bluffing as the Politician, there are a few things you should keep in mind:
+
+* It can be a lot of fun to tease the player group, by hinting that you are the Politician without outright coming out as the Politician. By being so over-the-top, you might make other players second guess themselves. Plus, it’s just awesome being outrageous. Then maybe hint that you're the {{Evil|Goblin}} if it's on the script and make them triple doubt themselves. 
+
+* If you’re on the chopping block as an evil player, claim that you’re the Politician as a way to explain away your shady or evil actions. Promise to be good if they keep you alive. And then continue to hold this threat over their heads if they don't. However, using the Politician as a back up bluff can still backfire as people might want to execute you to reduce your voting and nominating ability. 
+
+* If you think good is winning, claim that you’re the Politician just to throw a massive spanner into the works. Suddenly there’s a potentially extra evil vote in play, which the group has to take into account and it puts a lot more pressure on controlling the vote. 
+
+* Tell a few people discreetly that you’re the Politician, so that your shady and evil actions seem much more plausible later on. Afterwards, shamelessly nominate the {{Good|Saint}} and try to get them executed, or try to get the wrong twin from the {{Evil|Evil Twin}} pair executed. 
+
+* Tell one or two players that you’re secretly a Politician, and suggest that they can make it worth your while not to undermine the good team. Use the threat of you possibly turning evil as a way to get the good team to do your own dirty work. Nothing more fun than a cat’s paw. Direct which players the {{Good|Lycanthrope}} chooses at night, get the good team to rat out the {{Good|Poppy Grower}}.
+
+* Bluff as the Politician when there is already a Politician claim! This creates a lot of chaos and noise as players don’t know which player to believe. Best of all, you can lean into this nonsense by upping the stakes and gunning for the most evil action.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Outsiders]]

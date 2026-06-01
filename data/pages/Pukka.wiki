@@ -1,0 +1,142 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_pukka.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>	
+				</tr>
+			</table>
+
+			<p class='flavour'>"You truly have been kind welcoming me into your beautiful home. I am so sorry I accidentally scratched you. A little thing. No matter. But please, take this golden toothpick as a humble token of my regret."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/45973585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-10%2F241738306-44100-2-4321a5a600611.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Summoner|summoner|Evil|The Summoner may summon a Pukka on the 2nd night instead of the 3rd.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy."
+
+The Pukka poisons its victims, who die at a later time.
+* When the Pukka attacks, their victim is poisoned immediately. The next night, just after the Pukka attacks again, that player dies.
+* Unlike other Demons, the Pukka acts during the first night.
+* The Exorcist prevents the Pukka from waking to poison a player. The Innkeeper prevents the Pukka from killing a poisoned player, then that player is no longer poisoned.
+* If the Pukka is drunk and chooses a player, that player does not become poisoned, so does not die the following night.
+* If the Pukka was sober when they chose a player the previous night, but is drunk at night, that player does not die. But when the Pukka sobers up, the poison resumes and kills the player at night.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Pukka. They point at any player. Put the Pukka to sleep. The chosen player is '''poisoned'''—mark them with a '''POISONED''' reminder.
+
+Each night except the first, the other player marked '''POISONED dies'''—mark them with a '''DEAD''' reminder, then remove their '''POISONED''' reminder.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Players that the Pukka kills are still poisoned at their time of death. If you are using characters from other editions, you may need to keep the <span style="font-weight: bold; font-style: normal;">POISONED</span> reminder by the <span style="font-weight: bold; font-style: normal;">DEAD</span> reminder until their death ability is resolved. For example, if the Pukka kills the Sage, the Sage may get false information due to being poisoned by the Pukka.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Pukka poisons the {{Good|Chambermaid}}. The {{Good|Chambermaid}} gets false information. The next night, the {{Good|Chambermaid}} dies.
+			</div>
+
+			<div class='example'>
+				The Pukka poisons the {{Good|Fool}}. The next day, the {{Good|Fool}} is executed and dies because they have no ability. The next night, nobody dies and the Pukka poisons the {{Good|Gossip}}. The next night, the Pukka is drunk and tries to poison the {{Good|Tinker}}, but does not. The next night, the {{Good|Gossip}} dies because the Pukka is sober.
+			</div>
+
+			<div class='example'>
+				The Pukka poisons the {{Good|Pacifist}}. The next night, the {{Good|Exorcist}} chooses the Pukka to not wake tonight. The {{Good|Pacifist}} dies, but the Pukka does not wake to attack tonight.
+			</div>
+
+			<div class='example'>
+				The {{Good|Moonchild}} is executed, dies, and chooses the {{Good|Courtier}}. That night, the Pukka chooses the {{Good|Moonchild}}. The {{Good|Courtier}} does not die because the {{Good|Moonchild}} is poisoned.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The devious Pukka is the deadliest demon in [[Bad Moon Rising]] for its viciousness and cruelty. All the other demons give the town the courtesy of a single night; the Pukka has no such patience, sowing chaos into the town from the first night, selecting their first victim before the townsfolk even get a chance to act. The {{Evil|Zombuul}} may be a little hardier than you, and the {{Evil|Shabaloth}} and {{Evil|Po}} may kill more effectively, but they are vulnerable to the most deadly weapon the good team wields: information. Not only do you kill but you neutralize your victims, forcing them to spend their last days in delirium, their information confused and the danger they once posed reduced to nothing. The good team always hopes you are not in play, lest they have to spend the whole game doubting all of the information that would normally lead them right to your door.
+
+* Factor in who you want to poison as well as who you want to kill. An aggressive and talkative {{Good|Chambermaid}} who doesn't realize their last day of information is wrong can do a lot of legwork for you beyond the grave. If you get very lucky, you could catch an {{Good|Exorcist}} or {{Good|Courtier}} out before they catch you, or you can expose an {{Good|Innkeeper}}'s patrons to your {{Evil|Godfather}} or a {{Good|Moonchild}} curse with a little bit of a good timing. You are the only evil player in [[Bad Moon Rising]] who has the ability to befuddle your target's information, so why not take full advantage?
+
+* Target players who you don't think are going to be executed the next day. If the good team executes your poisoned victim, then there'll be no death that night from you... which wily good players might use to detect that you are in play. A badly timed execution will leave you scrambling to play catch up for the rest of the game!
+
+* Target players who the good team suspects are bluffing being immune to execution, like the {{Good|Sailor}}, or a {{Good|Tea Lady}} and her neighbour. Even with the lack of death the following night, it will look like they faked their ability using a {{Evil|Devil's Advocate}}, and can even lead the good team to believe they are in fact a {{Evil|Zombuul}}. (And any day the good team spends executing dead players is a good day for you!)
+
+* Your poison cannot be blocked by anything but the wily {{Good|Goon}}, but characters can still be protected from death at night by characters like the {{Good|Tea Lady}} or {{Good|Innkeeper}}. You have nothing to fear from a {{Good|Fool}} or a {{Good|Sailor}}, but choose carefully nonetheless - it won't do to miss a kill, especially since you're competing with the {{Evil|Shabaloth}} or {{Evil|Po}}. Reliable and methodical should be your goal.
+
+* Try to mask the fact that there is a Pukka in play for as long as possible. Once the good team know you are in play, they can start backtracking your poisoned information, undoing all your hard work! While it might seem like bluffing a {{Evil|Zombuul}} would be the obvious choice, in can in fact be easier to mimic a {{Evil|Po}} or even a {{Evil|Shabaloth}} with the help of an {{Evil|Assassin}} or a {{Evil|Godfather}}... or just some risk taking townsfolk. For example, if you know a {{Good|Gossip}} statement will produce a death that night, that can be the time to have your minions act, creating multiple deaths that mimic a charged up {{Evil|Po}} attack. While they may track you down eventually, the goal is that by the time they do... it's too late for them to stop you.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Pukka ==
+
+* The first step to fighting the Pukka is figuring out the Pukka is in play. Look for suspicious deaths at night, such as the {{Good|Fool}} dying early, or {{Good|Sailor}} dying at all. Or, consider that when nobody dies at night time, that it was due to the Pukka target being executed that day instead. If a pattern forms around these two signals, you almost certainly have a Pukka in the game.
+
+* Once you have figured out that a Pukka is in play, you'll need to do some informational backtracking. Each player that died last night, was poisoned the day and night beforehand. Dead {{Good|Tea Lady}}s have a reason that their ability did not work while alive. Dead {{Good|Gambler}}s have a reason that they did not die when they picked a player the night before. Dead {{Good|Chambermaid}}s got false information the night before last. Dead {{Good|Exorcist}}s might have actually chosen the Demon on a night where players died. Backtracking can be complicated, since what happened the night before last is more difficult to remember than what happened last night, but will grant enormous information if you can do it.
+
+* If Pukka is in play, nobody is safe. The {{Good|Fool}} and the {{Good|Sailor}} can not be protected by their character ability etc. Also, since the Pukka chooses who to kill a full night earlier than normal, it is beneficial for all good players to reveal their characters and information to the group publicly as soon as possible. Sometimes, with other Demons, it can be beneficial for some good players to not reveal who they are, so that the Demon attacks certain players and leaves others alone - but with the Pukka, this is not the case. Reveal everything, and work as a team to bring that pesky poisoner to justice!
+
+* If you have no idea which players are evil, execute players who you think are poisoned. All things being equal, it is best to execute a good player who is poisoned by the Pukka than a good player that is not, because when you execute a Pukka victim, nobody dies due to the Demon that night. Obviously, it is better to execute evil players, but if you have no information about who is good or evil, err on the side of voting to execute players that seem to be poisoned.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Demons]]

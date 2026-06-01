@@ -1,0 +1,110 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_summoner.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Lachlan Bastiaen</td>
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>21/03/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Hail the guardians of the north; by my intellect, thou art cut. Hail the guardians of the east; by my will, thou art dominated. Hail the guardians of the south; by that which lies beyond, the mystery is revealed. Hail the guardians of the west; a shield in the darkness"</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>LrcFyEg2DIs</youtube>	
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Alchemist|alchemist|Good|The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]}}
+{{Jinx|Clockmaker|clockmaker|Good|The Summoner registers as the Demon to the Clockmaker.}}
+{{Jinx|Courtier|courtier|Good|If the living Summoner has no ability, the Storyteller has the Summoner ability.}}
+{{Jinx|Engineer|engineer|Good|If the living Summoner is removed from play, the Storyteller has the Summoner ability.}}
+{{Jinx|Hatter|hatter|Good|If the Summoner creates a second living Demon, deaths tonight are arbitrary.}}
+{{Jinx|Kazali|kazali|Evil|If the Summoner creates a second living Demon, deaths tonight are arbitrary.}}
+{{Jinx|Legion|legion|Evil|If Legion is summoned, all evil players become Legion. }}
+{{Jinx|Lord of Typhon|lordoftyphon|Evil|If a Lord of Typhon is summoned, they must neighbor a Minion & their other neighbor becomes an evil Minion.}}
+{{Jinx|Marionette|marionette|Evil|If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor.}}
+{{Jinx|Pit-Hag|pithag|Evil|If the Summoner creates a second living Demon, deaths tonight are arbitrary.}}
+{{Jinx|Poppy Grower|poppygrower|Good|If the Poppy Grower is alive on the 3rd night, the Summoner chooses which Demon but not which player.}}
+{{Jinx|Preacher|preacher|Good|If the living Summoner has no ability, the Storyteller has the Summoner ability.}}
+{{Jinx|Pukka|pukka|Evil|The Summoner may summon a Pukka on the 2nd night instead of the 3rd.}}
+{{Jinx|Zombuul|zombuul|Evil|If the Summoner summons a dead player into the Zombuul, the Zombuul has already "died once".}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+
+The Summoner creates a Demon.
+* The Summoner may choose any player to become the Demon, even themselves.
+* The new Demon does not learn which players are Minions, or vice versa. The evil players will need to talk amongst themselves to figure this out.
+* Even though there is no Demon in play for two days, the game does not end. However, if the Summoner becomes unable to create a Demon (due to dying, becoming drunk on night 3 etc.) good wins.
+* The newly created Demon acts on the same night that it is created.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During the setup phase, remove the Demon and add a Townsfolk.
+
+When preparing the first night, put the Summoner’s '''NIGHT 1''' reminder by the Summoner. When preparing the second night, put the Summoner’s '''NIGHT 2''' reminder by the Summoner. When preparing the third night, put the Summoner’s '''NIGHT 3''' reminder by the Summoner.
+
+During the first night, show the Summoner 3 not-in-play characters as bluffs.
+
+During the night, if the Summoner has a '''NIGHT 3''' reminder, wake the Summoner. They point at a player, and to a Demon icon on the character sheet. Put the Summoner to sleep. Wake the chosen player. Show the '''YOU ARE''' info token, then the Demon token. Show the '''YOU ARE''' info token, then give a thumbs down. Replace their character token with the Demon token and put the new Demon to sleep.
+</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+On the third night, the Summoner chooses the {{Good|Snitch}} player, and the {{Evil|Lleech}}. The {{Good|Snitch}} becomes the evil {{Evil|Lleech}}, and chooses a player to poison, and a player to kill.
+		</div>
+			<div class='example'>
+On the first day, the Summoner is executed. Good wins.
+		</div>
+			<div class='example'>
+On the third night, the Summoner turns the {{Good|Alchemist}} into the {{Evil|Leviathan}}. At dawn, all players learn that {{Evil|Leviathan}} is in play, and that it is day three of five.
+</div>
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

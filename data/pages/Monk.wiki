@@ -1,0 +1,150 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_monk.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"'Tis an ill and deathly wind that blows tonight. Come, my brother, take shelter in the abbey while the storm rages. By my word, or by my life, you will be safe."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/10280962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-10%2F47612774-44100-2-1b41a517e93ce.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|If the Leviathan nominates and executes the Monk-protected player, good wins.}}
+{{Jinx|Riot|riot|Evil|If Riot nominates and executes the Monk-protected player, good wins.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player (not yourself): they are safe from the Demon tonight."
+
+The Monk protects other players from the Demon.
+* Each night except the first, the Monk may choose to protect any player except themself.
+* If the Demon attacks a player who has been protected by the Monk, then that player does not die. The Demon does not get to attack another player—there is simply no death tonight.
+* The Monk does not protect against the Demon nominating and executing someone.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+Each night except the first, wake the Monk. The Monk points at any player except themself. (If the Monk points at themself, shake your head no and prompt them to point at another player.) Put the Monk to sleep. Put the Monk's '''SAFE''' reminder token by the chosen player's character token.
+
+If the Demon attacks the player marked '''SAFE''', the player remains alive. (Do not mark them with the Demon's '''DEAD''' reminder token or add a shroud as you normally would.) At dawn, declare that no one died at night. (Do not say why.)
+
+At dawn, remove the '''SAFE''' reminder token.
+
+In other editions, Demons may have abilities other than killing. The Monk's protection also prevents all other harmful effects of the Demon's ability, such as poisoning or turning the protected player evil.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Monk protects the {{Good|Fortune Teller}}. The {{Evil|Imp}} attacks the {{Good|Fortune Teller}}. No deaths occur tonight.
+			</div>
+
+			<div class='example'>
+				The Monk protects the {{Good|Mayor}}, and the {{Evil|Imp}} attacks the {{Good|Mayor}}. The {{Good|Mayor}}'s "another player dies" ability does not trigger, because the {{Good|Mayor}} is safe from the {{Evil|Imp}}. Nobody dies tonight.
+			</div>
+
+			<div class='example'>
+				The Monk protects the {{Evil|Imp}} . The {{Evil|Imp}} chooses to kill themself tonight, but nothing happens. The {{Evil|Imp}} stays alive and a new {{Evil|Imp}} is not created.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Your goal is to keep valuable good players alive and stall the Demon's mayhem. Try to predict who the Demon may target each night based on the available information in the game and how the players are acting. Every Demon is different, and figuring out the methodology of yours can enable you to save more than one player.
+
+* Don't try to predict what the Demon will do. Instead, talk to your fellow players and find someone to keep alive at all costs. Valuable characters, such as the {{Good|Fortune Teller}} or {{Good|Empath}}, or players that you trust, such as a confirmed {{Good|Virgin}} can survive for entire games under your protection.
+
+* If you find a {{Good|Slayer}} or a {{Good|Virgin}}, you can convince them not to use their ability right away, since you can protect them. This will enable them to use their once per game abilities later, when more information is on the table.
+
+* You are the only player that you cannot protect, and if you thwart the Demon, they are probably going to want to identify and kill you, so try to avoid the Demon's attention. You can do this by bluffing as a low priority target for the Demon like the {{Good|Chef}}, or an undesirable one like the {{Good|Ravenkeeper}} or {{Good|Soldier}}.
+
+* Coming out publicly as the Monk can let you coordinate with the good team, finding the best choice for your protection that night. Even if you die, you are protecting the town; the night the Demon had to spend killing you was a night the Demon wasn't killing your {{Good|Undertaker}} or {{Good|Virgin}}. Beware of the {{Evil|Poisoner}} if you take this route! They can disable you and let the demon kill freely.
+
+* If you successfully protect someone at night, you can be reasonably certain that they are good, since the Demon wanted them dead. The only exception is the {{Evil|Imp}}, who has the special ability to die and pass their Demonhood onto one of their Minions, but the chances of this are slim.
+
+* If you suspect that someone is the {{Evil|Imp}} and about to kill themselves to move the Demon, you can deliberately protect them, preventing them from doing so.
+
+* Misdirect the Demon about who you are going to protect. You can do this publicly or by privately whispering to select players. If the Demon believes you are guarding the {{Good|Fortune Teller}}, they may not target them, leaving you free to provide your actual protection to someone else. Keeping the evil team guessing is a good way to spread your 'protection' among multiple players. Be aware, though, that if the player that you say you're going to protect dies, it might make you look evil, so consider confiding in them that they won't actually be protected.
+
+* If you wake up and nobody is dead, you might not have protected anyone. The Demon may have attacked a {{Good|Soldier}}.
+
+* If you think you've successfully protected your target, ask them to bluff as the {{Good|Soldier}}. This will cause the Demon to think they are not worth targeting again, and mask your existence for another night.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Monk==
+
+When bluffing as the Monk, there are a few things you should keep in mind:
+
+* The Storyteller would have woken you on nights that the {{Evil|Imp}} wakes - every night except the first - and you would have pointed to a player.
+
+* Your choice for who you 'protect' should have some logic behind it. If a publicly revealed {{Good|Fortune Teller}}  dies on your watch, that can be a big clue that you are not who you say you are. However, if you tell the group that you don't believe that the {{Good|Fortune Teller}}  is telling the truth, and that you instead protected a player that has privately revealed that they are the {{Good|Empath}} to you, your choices seem much more reasonable. You can come up with all sorts of reasons about why you protected player A instead of player B, particularly if you prepare what you are going to say beforehand.
+
+* The Demon can choose to pick a dead player instead of an alive player at night. If you are claiming to be the Monk, getting the Demon to do this supports your bluff. When nobody dies at night, all players will want to know why. This also means that the player you claimed to have protected from the Demon will look more trustworthy, since the Demon almost always attacks good players. The player that you claim to protect is likely to be seen by other players as the same alignment as you, so you can either ingratiate yourself by claiming to have picked a good player, or back up the Demon by saying you picked them.
+
+* The Monk usually operates in secret, not revealing who they are to the group until they have successfully protected a player from death. You can use this secrecy as an excuse to talk to many players in private, either spreading lies to the good players, or coordinating with your evil team mates. If anybody asks why you are being so secretive, the players that believe you are the Monk will come to your defense.
+
+* If you are still alive on the final day, and a player has died each night this game, the good players will probably be convinced that you are either a particularly inept Monk, or just evil. If you are a Minion, this can be quite helpful, since the good players will want to execute you, ending the game with an evil victory.
+
+* You can draw attention to yourself as a Minion by claiming to have protected the player who died last night. There are legitimate reasons why it might have happened - you could be the {{Good|Drunk}} or poisoned, but providing such an outlandish topic of discussion distracts from the information that the {{Good|Fortune Teller}} has pointing directly at your Demon.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

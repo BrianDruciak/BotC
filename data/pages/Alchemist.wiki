@@ -1,0 +1,104 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_alchemist.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Marianna Carr</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>07/10/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Visit the interior of the Earth. By rectification thou shalt find the hidden stone. Above the gold, lieth the red. Kether in Malkuth."</p>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>-m9QoOv6lms</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Boffin|boffin|Evil|If the Alchemist has the Boffin ability, the Alchemist does not learn what ability the Demon has.}}
+{{Jinx|Marionette|marionette|Evil|An Alchemist-Marionette has no Marionette ability & the Marionette is in play.}}
+{{Jinx|Mastermind|mastermind|Evil|An Alchemist-Mastermind has no Mastermind ability & the Mastermind is not-in-play.}}
+{{Jinx|Organ Grinder|organgrinder|Evil|If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play. If both are sober, both are drunk.}}
+{{Jinx|Spy|spy|Evil|An Alchemist-Spy has no Spy ability & a Spy is in play. After each execution, a living Alchemist-Spy may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight.}}
+{{Jinx|Summoner|summoner|Evil|The Alchemist-Summoner does not get bluffs, and chooses which Demon but not which player. If they die before this happens, evil wins. [No Demon]}}
+{{Jinx|Widow|widow|Evil|An Alchemist-Widow has no Widow ability & a Widow is in play. After each execution, a living Alchemist-Widow may publicly guess a living player as the Widow. If correct, the Demon must choose the Widow tonight.}}
+{{Jinx|Wraith|wraith|Evil|An Alchemist-Wraith has no Wraith ability & a Wraith is in play. After each execution, a living Alchemist-Wraith may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You have a Minion ability. When using this, the Storyteller may prompt you to choose differently."
+
+The Alchemist has a Minion ability.
+* The Alchemist’s ability is usually that of a not-in-play Minion, but can duplicate an in-play Minion ability. 
+* The Alchemist learns which ability this is on the first night.
+* They are still a good Townsfolk. They win when good wins, and lose when good loses. They register as good and as the Alchemist.
+* The Alchemist does not wake to learn who the other Minions are or who the Demon is, like Minions do.
+* If the Alchemist’s Minion ability adds or removes characters during setup, this still occurs during setup. 
+* If the Alchemist has an ability where the player chooses something, like the Poisoner or the Vizier, the Storyteller may ask the Alchemist to choose differently. The Alchemist must do so.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+During the first night, wake the Alchemist. Show the '''YOU ARE''' info token then the character token of a Minion. Put the Alchemist to sleep. If the Alchemist has a not-in-play Minion ability, mark the Alchemist with the '''IS THE ALCHEMIST''' reminder and swap the Alchemist token with this Minion token and turn it upside down. (''This shows they are still good.'')
+
+The Alchemist has this Minion ability. They use it as if they were a Minion, and wake at night when that Minion would normally wake to use their ability.
+
+If the Alchemist makes a choice using their ability, you may ask them to choose differently. If this is during the day, ask verbally. If this is during the night, shake your head, point at the Alchemist ability text on the character sheet, and wait for the Alchemist to choose again.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Alchemist has the {{Evil|Baron}} ability. There are 2 extra Outsiders in play.
+			</div>
+
+			<div class='example'>
+				The Alchemist has the {{Evil|Poisoner}}'s ability. On the first night, they wake and poison the {{Evil|Wizard}}. On the second night, they wake and poison the {{Good|Alsaahir}}. On the third night, they wake and try to poison the {{Evil|Lord of Typhon}}, but the Storyteller prompts them to choose differently. They poison the {{Good|King}} instead. The {{Evil|Lord of Typhon}} is not poisoned.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

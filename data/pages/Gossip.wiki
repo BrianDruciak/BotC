@@ -1,0 +1,134 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_gossip.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah. Blah."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/44812872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-14%2F237447804-44100-2-391d56ba555a8.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each day, you may make a public statement. Tonight, if it was true, a player dies."
+
+The Gossip deliberately speaks lies, in the hope of uncovering the truth.
+* Each day, the Gossip may make a public statement. If this statement is true, the Storyteller kills a player that night. If it is false, then no players die due to the Gossip.
+* Mumbled words, whispers, statements the Storyteller doesn’t know are true or false, or statements that someone cannot hear don’t count. Like the Slayer’s ability, the Storyteller and every player must be able to hear and understand the Gossip and be aware that the Gossip is using their ability in order for the Storyteller to judge what happens next.
+* If the Gossip made a true statement during the day while drunk or poisoned, but is sober and healthy when their ability triggers that night, the Storyteller still kills a player.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each day, if the Gossip makes a definite, true public statement, put the Gossip’s '''DEAD''' reminder in the center of the left side of the Grimoire as a reminder to yourself to place it tonight.
+
+Each night except the first, if the Gossip made a definite, true public statement today, you choose any player. The chosen player '''dies'''—mark them with the '''DEAD''' reminder.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+When choosing a player to die due to the Gossip ability, we recommend that you choose a character that will actually die, not one protected from death by an ability (like the Fool or Tea Lady). The Gossip gains knowledge when their statement caused a death. This is more helpful to the good team, and more fun for everyone.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the day, the Gossip says, "I am the Gossip. My public statement is: The Demon is wearing a hat." The Demon is not wearing a hat. That night, nobody dies due to the Gossip’s ability.
+			</div>
+
+			<div class='example'>
+				The Gossip neighbours a good Traveller and the {{Good|Pacifist}}. During the day, the drunk Gossip says, "Both my neighbours are good." At dusk, the drunk Gossip becomes sober. That night, the {{Good|Chambermaid}} dies.
+			</div>
+
+			<div class='example'>
+				During the day, the Gossip makes a true statement. That night, the Gossip is killed by the Demon. They lose their ability, so their statement does not kill anyone tonight.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Get over your fear of death! A lot of Gossips will be tentative about using their ability, since they're worried about causing a death accidentally. While it's true you should be cautious with any ability that could cause death, the potential gain in information more than makes up for the risk. Use your ability every day!
+
+* Similar to the {{Good|Artist}} in [[Sects & Violets]], you are an extremely flexible and versatile information gatherer. Since you can make literally any statement you like about anything, you can cover gaps in the good team, back up other players' information, or ask that one question that everyone desperately wants to know but have no way to find out! Take full advantage of this and the good team will be thanking you.
+
+* Be precise with your statements! A vague statement that could be true OR false (e.g. "The demon made someone look evil yesterday.") won't be helpful to you when you're trying to figure out if someone died as a result of your ability. Instead, aim for binary statements that are definitely true or false (e.g., "The demon nominated yesterday.")
+
+* Deliberately say statements that you believe are false. This reduces the risk that you will kill a player, but still allow you to gain information. If nobody dies (or at least, you don't ''think'' anyone died because of you), then you can reverse your statement to get the truth! For example, if you say "The {{Good|Chambermaid}} is not in play" because you believe another player ''is'' the {{Good|Chambermaid}} and no deaths occur, you can trust their claim!
+
+* Deliberately say true statements! This can be advantageous for two reasons. One, if someone dies because of you, it'll be hard to deny you're the Gossip (providing you can trace that death back to you and not one of the many other causes). This will be less effective in a game with a multi-kill demon like the {{Evil|Shabaloth}} or {{Evil|Po}}. Two, if someone dies as a result of your ability, then you can be very confident that the statement ''was'' true (deliberately saying false statements does not account for your ability malfunctioning, so if you suspect that could be the case, this is the way to confirm it!)
+
+* Be wary of the game state and time what kind of statements you say. If it's late enough in the game, an extra death at night could be all the evil team needs to squeeze out a victory. As the amount of living players runs low, try to avoid saying anything that could cause an extra death, just to be on the safe side.
+
+* Not sure what sort of statements you can make? Here's some examples!
+** "The demon is a {{Evil|Zombuul}}."
+** "Steven is evil."
+** "Two evil players are sitting next to each other."
+** "The {{Evil|Assassin}} has used their ability."
+** "Marianna is the {{Good|Courtier}}."
+** "Both of my neighbours are good."
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Gossip ==
+
+When bluffing as the Gossip, there are a few things you should keep in mind:
+
+* There are roughly two ways to bluff as the gossip - the safe way and the risky way. The safe way is to make safe statements, and do your best to give useless information to the group - this way, the good team is likely to believe that you are good, but ignore your information. Like bluffing as the {{Good|Soldier}}, this tends to be safe, but the lack of false information in the group discussion can bite you later on. The riskier way to bluff is to make your Gossip statements as controversial as possible, and do your best to convince the group that your false statements are true, and your true statements are false - this creates a lot of confusion and uncertainty. Like bluffing as the {{Good|Fortune Teller}}, this can be riskier initially, but the increased level of false information in the group can work to your advantage.
+
+* As a default, deliberately give false statements. Assuming there is no real Gossip in play to get people killed, giving false statements looks more reliable, as it matches the lower kill-count at night.
+
+* You can't kill with bluffing alone, so be careful giving statements you think are true. However, if you are a Minion that wants to be executed in order to save the Demon, then of course you want to give true statements that look suspicious! However, if the Demon is a multi-kill Demon such as the {{Evil|Shabaloth}} or {{Evil|Po}}, then giving regular true-sounding statements can be quite easily believable. Basically, coordinate your statements against the number of deaths at night - true statements are more believable when there's a lot of deaths, false when there are fewer.
+
+* Time a false Gossip statement with an unusual death, such as one caused by the {{Evil|Assassin}} or {{Evil|Godfather}}, to make it look like your last statement was true. Act shocked! Or, if a good player such as the {{Good|Tinker}}, {{Good|Gambler}}, or {{Good|Grandmother}} dies at night, you can convince the group that not only was your statement true, but that the {{Good|Tinker}}, {{Good|Gambler}}, or {{Good|Grandmother}} might be lying.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

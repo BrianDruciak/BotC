@@ -1,0 +1,121 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_butcher.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"It tastes like chicken. More please."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/40581673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-21%2F219606913-44100-2-e6c4fe58e8ff.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each day, after the 1st execution, you may nominate again."
+
+The Butcher allows a second execution to occur per day.
+* After the first executed player has died, the Butcher may nominate a second player for execution. The Butcher may nominate a player that has already been nominated today, and the Butcher may make a nomination even if the Butcher already made a nomination earlier today.
+* If a player is executed, even if they do not die, then the Butcher may use their ability. The players may choose to vote or not to vote, so there is no guarantee that this extra nomination will cause an execution—it still needs to get enough votes—but this second nomination does not need to exceed the vote tally of the previous nominations.
+* If no execution occurs today, then the Butcher may not use their ability at all today.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each day, immediately after a player is executed, the Butcher may nominate a player for execution. (''Remind them if needed.'') To succeed, this nomination must tally votes of at least half the alive players, as normal, but does not have to exceed the votes of the execution that prompted the Butcher ability. If this second execution succeeds, it does not allow the Butcher to nominate a third player.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Witch}} is executed and dies. The Butcher then nominates the {{Good|Sage}}, who gets enough votes to be executed. The {{Good|Sage}} dies too.
+			</div>
+
+			<div class='example'>
+				The {{Traveler|Bone Collector}} is exiled, and then the {{Traveler|Harlot}} is exiled. There are no executions today. The Butcher does not get to nominate again, because exiles are not executions.
+			</div>
+
+			<div class='example'>
+				The Butcher nominates the {{Good|Town Crier}}, but the {{Good|Town Crier}} is not executed. The {{Good|Mathematician}} gets more votes and is executed today. The game continues, and the Butcher nominates the {{Good|Town Crier}} again. This time, enough hands are raised, and the {{Good|Town Crier}} is executed.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are good) ==
+
+* Only nominate players that you think you can execute. Executing 2 players per day is extremely helpful to the good team. Instead of 1 player dying during the day by the choice of the group and 1 player dying at night (by the choice of the Demon), there will be 2 players dying per day by the choice of the group for every player that dies at night by choice of the Demon. The increase in probability alone is enough to give the good team a significant advantage. If you nominate players that end up executed, you maintain this advantage. If you nominate players that end up slipping the noose (even if you think they are evil), then you lose this advantage - your ability might as well be non-existent. 
+
+* During the normal voting process, pay attention to which players get a lot of votes, but are not executed, and which players don't get many votes, but are not executed. Players that get an overwhelming number of votes are unlikely to be the Demon, since Minions rarely vote for the Demon in such dangerous circumstances. Players that don't get many votes are more likely to be the Demon, since the Minions are not voting for them. When it comes time for you to use your ability, choose wisely. 
+
+* If the group keeps failing to vote for the players that you nominate, or if the group is talking about exiling you, then you can make a deal with them - you will nominate who they want you to nominate. Staying alive is better than being dead, even if it means that you go with the group's guesses instead of your own. You can always change your mind at the last minute and actually nominate a different player than the group wants you to... but they may exile you if you miss the Demon.
+
+* If there is an {{Evil|Evil Twin}} in the game, be much more frugal with your nominations. If the Demon and the {{Evil|Evil Twin}} are both still alive when just 3 players are alive, it is possible that evil has already won. You don't want to accidentally bring the game to an early end, and an early loss, due to too many frivolous executions. This is particularly true if a {{Evil|Witch}} or {{Evil|Cerenovus}} is in-play and still alive.
+
+* If the {{Evil|Witch}} curses you, this is great news! An Evil {{Evil|Witch}} will definitely want to keep an evil Butcher alive, so that fact that the {{Evil|Witch}} cursed you instead of a much more valuable target, basically confirms to the group that you are good. And, if you are good, the group knows that your choices for the extra nomination each day were made with the intention of killing the Demon. The group also knows that any other Travellers in play are much more likely to be evil, and should probably be Exiled. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+
+* Nominate. Nominate. Nominate. Vote. Vote. Vote. If you can secure an extra successful execution each day, then an evil victory is basically certain. Evil Butchers are incredibly dangerous. If the group kills a good player each day, and you nominate and execute a good player, and the Demon kills at night, that means 3 good players are dying each 24 hours. The good team can not sustain that level of loss for long. Even if the group kills a Minion each day, you nominate and execute a good player, and the Demon kills at night, that means that 2 good players and 1 Evil player is dying every 24 hours - even this rate of loss is crippling to the good team.
+
+* You know who the Demon is. Never nominate them using your ability. If even half the group votes, no other nominees can be nominated to exceed that tally, so there is no way to fix a foolish mistake. 
+
+* If you really, really think that the good team trusts the Demon player, nominate them using your ability. You need to be certain that even half the group won't vote for the Demon, and be prepared for the good team to think that you are evil - after all... why would a good Butcher nominate such a trusted player? However, looking like an evil player that just nominated a trusted good player can work wonders in cementing the Demon's reputation as good for the rest of the game. If you do this, do whatever you can to look as evil as possible. The more evil you look, the more good the Demon looks. 
+
+* Nominate Minions using your ability. Or don't. Whatever you think is best. 
+
+* If an {{Evil|Evil Twin}}, a {{Evil|Witch}}, or a {{Evil|Cerenovus}} are in play, co-ordinate with them to see if you can quickly get the number of living players to just 3 - the {{Evil|Evil Twin}}, the good twin, and the Demon. At this point, evil has usually already won. 
+
+* If the Demon is a {{Evil|Fang Gu}}, watch out! The Demon may change players without you realizing it, and you may accidentally nominate and execute the Demon. Talk with the other evil players to find out which Demon is in play, and stay up to date on all evil gossip. Similarly, if a {{Good|Snake Charmer}} becomes the Demon, you won't want to accidentally nominate your Demon, particularly late in the game. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

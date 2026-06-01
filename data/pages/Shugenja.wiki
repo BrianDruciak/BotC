@@ -1,0 +1,126 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_shugenja.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>28/09/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>これは夢。それも夢。すべて夢です。</p>		
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>T4TogcpvTGs</youtube>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary."
+
+The Shugenja trusts players to their left, or to their right.
+*  The closest evil player is the player with the smallest number of steps from the Shugenja to the evil player.
+*  If the evil players are ‘equidistant’, that means that the closest evil player clockwise is the same number of steps away from the Shugenja as the closest evil player anti-clockwise.
+* If the evil players are equidistant, the storyteller gives ‘arbitrary’ information to the Shugenja. This means that the Storyteller chooses whether to tell the Shugenja that the closest evil player is clockwise or anti-clockwise.
+* The Shugenja doesn’t know whether their information is arbitrary or not.
+* The Shugenja does not learn how many steps away the evil player is.
+* If a Shugenja is created mid-game, the Shugenja wakes that night to receive their information.
+* The Storyteller communicates with the Shugenja by pointing a finger in the appropriate direction, but may use other methods if they wish.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During the first night, wake the Shugenja. If the closest evil player is in a clockwise direction, point your finger horizontally in that direction. If the closest evil player is in an anti-clockwise direction, point your finger horizontally in that direction. If the two closest evil players are equidistant, point your finger horizontally in either direction. Put the Shugenja to sleep.
+	</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Organ Grinder}} is 2 steps away from the Shugenja in a clockwise direction. The {{Evil|Fearmonger}} is 3 steps away from the Shugenja in an anti-clockwise direction. The Shugenja wakes and learns that the closest evil player is in a clockwise direction.		</div>
+			<div class='example'>
+The {{Evil|Marionette}} is 1 step away from the Shugenja in  a clockwise direction. The {{Evil|Widow}} is 1 step away from the Shugenja in an anti-clockwise direction. The Shugenja wakes and the Storyteller chooses to tell the Shugenja that the closest evil player is in a clockwise direction.		</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+*  In general, it’s usually worth assuming that your information isn’t arbitrary due to equidistance as this is far less likely than to actually get one direction or the other. Obviously it’s worth bearing this potential in mind, but initially it’s usually best to assume your information is good and work on that basis.
+
+* If you learn clockwise, for example, you can most likely trust the player immediately anti-clockwise from you. Make it a priority to engage with them and build mutual trust as your information is likely indicating they are good and that you should be able to focus on a mutual opponent in the other direction.
+
+* If you feel like both your neighbours are good after some time getting a read, move one step further out and see what that next set of neighbours tells you. If you’re pretty certain that your neighbour’s neighbour is evil, that implies you can probably trust both of your neighbours plus the player two away on the opposite side.
+
+* If your information really doesn’t make sense and you don’t feel like you can trust your surrounding players, that’s the time to go back to the concept of equidistance. Have a look at each pair as you take steps away from yourself – do they make sense to be on an evil team together: have they spoken, does their info tie up with each other but no one else, are they voting together, are they collaborating or trusting each other without good reason?
+
+* Your information can feel incredibly nebulous at times. Is my clockwise neighbour evil? Or are they just good and it’s the next player round that’s evil? Or even the player after that? Or maybe my information is arbitrary and it’s actually a pair a couple seats away from me in each direction that’re evil together? The important thing to remember is that the longer the game goes on, the more ancillary information you can gather and the more you can narrow down the options. After all, unless the evil team has changed during the game, your information is just as useful in the final three to narrow down who might be evil as it was on day 1.
+
+*  Reveal your information early. This allows other players to target their abilities accordingly based on who they trust near you and try to use your information to narrow down candidates. It also potentially allows you to get players in the direction you learnt executed, in the absence of other information to guide town’s efforts.
+
+*Reveal your information late. If an evil player feels outed or that they have strong information on them early, they will often avoid speaking to their fellow evil team. You want to wait and watch so you can see who your suspected evil candidates speak to in order to try to follow this branch to the source, the Demon.
+
+* If you find an evil player in the direction you were given, you’ve confirmed at least one player in the other direction. You can now trust this player implicitly based on your information and should take advantage of this to work together for the rest of the game.
+
+* Lie to your neighbours (or everyone) about your information to see how they react. An evil player hearing this will obviously know you are either bluffing or have bad information through drunk or poisoning, but it’s in their interests to play along as it allows them to push using your info to get good players in the other direction from you executed. See who responds to your information and how to try to get a read on who seems overly invested in following through on where it points.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Shugenja ==
+
+* Pick a neighbour to make them look evil and get them executed. Obviously this has the primary benefit of getting a good player executed! But also, if you have another evil player sat in the other direction, this has the ancillary benefit of making that player look good, as if people believe that the good player you got executed was actually evil, this strongly implies that the player sat in the opposite direction is good by extension. Be a little careful of this one, though, as you don’t want the town to start wondering whether your information was in fact arbitrary and both players are evil.
+
+* Pick a neighbour to make them look good and build trust. This is doubly true if you find a neighbour who has misinformation or information that can be misinterpreted to throw doubt on the neighbour in the opposite direction – it will make it look like your information is complementary and beneficial and inspire more trust both in that player and in the broader town.
+
+* Don’t assume equidistance – you’re more likely to be able to push on good players if you assume your information is correct as you have a specific direction to target. If you’re assuming equidistance, your information becomes a bit more nebulous and harder to parlay into votes on good players.
+
+* Assume equidistance if you want to look good, but uncertain. This is great for a Demon who wants to coast under the radar – you can spend a decent amount of the game seeming like you’re earnestly trying to follow up your information but not wanting to accidentally get good players executed, so you can throw minor suspicion on several pairs of players extending out from yourself without drawing a huge amount of attention to yourself. After all, if any given pair trusts each other, that’s fine, that just means it must be a pair a different number of steps from you, right?
+
+* Always remember the equidistance question is there to fall back on if you start getting suspicion back on you for your information not seeming correct. After all, it’s not your fault that your information is arbitrary, maybe there’s just an evil pair that’re working together to make each other look good and making your information seem suspect as a result.
+
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

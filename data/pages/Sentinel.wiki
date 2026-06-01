@@ -1,0 +1,86 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_sentinel.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Fabled|Fabled]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Caitlin Murphy</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Name, please.<br>
+				Papers, please.<br>
+				Weapons, please."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"There might be 1 extra or 1 fewer Outsider in play."
+
+Add the Sentinel to your script to keep the number of Outsiders in play mysterious. 
+* The official character lists are carefully constructed so that the number of Outsiders is never completely known, which lets evil players safely bluff as Outsiders. Many of the games you create using the Script Tool will not have this luxury. If, for one reason or another, the number of Outsiders in a game will become certain, the Storyteller can add a Sentinel. This will confuse matters and help the evil team either bluff as Outsiders or make existing Outsiders look suspicious.
+* Games with a Sentinel in play might have one more Outsider than normal. They may have one less. They may have the normal amount. It is up to the Storyteller.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At the start of the game, declare that the Sentinel is in play. Add the Sentinel token to the Grimoire.
+
+While setting up the game, before putting character tokens in the bag, add an Outsider token and remove a Townsfolk token, remove an Outsider token and add a Townsfolk token, or do neither.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There are seven players in this game. There are no characters on the character list that add Outsiders. The Demon bluffs as the {{Good|Saint}}. A Sentinel is in play, so the good players are not sure if there is actually a {{Good|Saint}} or not.
+			</div>
+
+			<div class='example'>
+				There are nine players in this game. Even though a {{Evil|Baron}} is on the character list, the good players know no {{Evil|Baron}} is in play because the {{Evil|Witch}} just killed a player, so there should be just two Outsiders in play. However, the Outsiders cannot be trusted because a Sentinel is in play. Indeed, there is one less Outsider than normal in this game, and the {{Evil|Witch}} is bluffing as the {{Good|Butler}}.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Explanation ==
+
+The official character lists are carefully constructed so that the number of Outsiders is never completely known, which lets evil players safely bluff as Outsiders. Many of the games you create using the Script Tool will not have this luxury. If, for one reason or another, the number of Outsiders in a game will become certain, the Storyteller can add a Sentinel. This will confuse matters and help the evil team either bluff as Outsiders or make existing Outsiders look suspicious.
+
+Games with a Sentinel in play might have one more Outsider than normal. They may have one less. They may have the normal amount. It is up to the Storyteller.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Fabled]]

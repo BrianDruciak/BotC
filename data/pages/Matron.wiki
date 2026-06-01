@@ -1,0 +1,120 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_matron.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Miss Featherbottom, be quiet. Master Rutherford, a teacup needs just the four fingers, please. I know you are a father of nine, but age, or lack there-of as the case may be, is never an excuse for poor manners."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/68261195/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-9%2F322949990-44100-2-3f441a70e9976.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private."
+
+The Matron chooses which players sit where.
+* The Matron may swap two players’ seating positions, up to three times per day. The new seating order is permanent, unless changed again by the Matron.
+* The same player may be moved multiple times.
+* Some players may find moving difficult due to a physical disability or impediment. In these cases, they are immune to the Matron’s ability and can stay put.
+* With the Matron in play, players may not talk privately except with their immediate neighbors while sitting down. Players may not leave their seat to whisper something to any player, and may not even talk about the game to each other when going to the bathroom, and so on. Players should self-police this.
+* If the Matron swaps just one or two sets of players, they may not swap another set of players later that day.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Players who leave their seats cannot talk about the game to other players until they return.
+
+Each day, the Matron may choose two players and declare that they swap seating positions. Ask them to do so. Swap their character tokens and any reminders they have in the Grimoire. The Matron may do this up to three times, but all swaps happen one after the other.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The evil Matron rearranges the seating order so that she is sitting next to the {{Good|Tea Lady}}. This way, the two of them can whisper to each other, and the {{Good|Tea Lady}}'s ability does not work.
+			</div>
+
+			<div class='example'>
+				The good Matron swaps the seating position of the player they think is the Demon, so that player is far away from the player they think is the Minion. They may not whisper to each other now.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are good) ==
+
+* If you see players whispering and conspiring together, separate them. Since you prevent players from having private conversations unless they are sitting next to each other, when you see two players plotting together like they are evil, put them on opposite sides of the room so that they can't do that any more. 
+
+* Reseat players that you are suspicious of so that they neighbour you. This way, you can keep an eye (and an ear) on their activities. Minions and Demons will find it difficult to plot and scheme with their fellow players if you keep them under a close, watchful eye.
+
+* Reseat players that you trust so that they neighbour you. You can find out who they are, find out what they know, share what you know, and then reseat them again to neighbour other players that you trust. This way, you can control the flow of private information in the game in such a way that the players that you trust are only talking to other players that you trust.
+
+* Don't reseat any players to be next to you. This is one of the more common tricks for an evil Matron in order to learn info from the Demon/Minions as to what they should be doing. So if you make sure all of your swaps are elsewhere in the circle, you look more likely to be good.
+
+* Pay particular attention to where position-dependent characters are seated, and adjust the order of players accordingly. For example, a {{Good|Tea Lady}} can be repositioned between two good players (if you don't think the Demon knows who they are) so that their neighbours survive, or between players you suspect of being evil (if you plan to execute one of these players to test your theory). Seating a {{Good|Lunatic}} away from the players that they say are Minions prevents them from conspiring with them, should the {{Good|Lunatic}} actually be the Demon. If playing a custom script, put the {{Good|Empath}} between players that you want to learn about, or switch players around to prevent them from being poisoned by the {{Evil|No Dashii}}. Do whatever you need to make the most of which players sit where.
+
+* In [[Bad Moon Rising]], most good players will need to be secretive and proactive in order to make the most of their ability. The {{Good|Chambermaid}} needs to talk to the players they choose to find out who they are. The {{Good|Courtier}} needs to find out which characters are in-play. The {{Good|Sailor}} needs to find out who to make drunk. Listen to which players are which characters, and do what you can to facilitate their private conversations. If you think the {{Good|Goon}} really needs to talk to the {{Good|Exorcist}} because there was no death last night, and this could be the result of either of their abilities, seat them next to each other so that they can swap information.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+
+* Reposition evil players so that they are neighbouring you. This will allow you to talk in private, learn who the other evil players are, and figure out what your strategy is. After the two of you have said what you needed to say to each other, you can reposition them elsewhere in the room.
+
+* Sit evil players next to evil players. By repositioning the Minions and Demon so that they are next to each other, they can talk and coordinate better. The {{Evil|Assassin}} will need to know what the {{Evil|Godfather}} and the {{Evil|Po}} are planning, so that they don't both accidentally kill the same player, for example.
+
+* Pay particular attention to where position-dependent characters are seated, and adjust the order of players accordingly. For example, a {{Good|Tea Lady}} can be repositioned next to an evil player (if the Demon plans on killing one of them tonight). Seating a {{Good|Lunatic}} away from the players they believe are their Minions prevents them from talking to those players. If playing a Script game, put the {{Good|Empath}} next to the {{Good|Recluse}} to confuse their information, or switch players around to so that the most dangerous characters are being poisoned by the {{Evil|No Dashii}}. Do whatever you need to make the most of which players sit where.
+
+* In Bad Moon Rising, most good players will need to be secretive and proactive in order to make the most of their ability. The {{Good|Tea Lady}} needs to encourage the Demon to attack their neighbours, or even get them executed, but without revealing that she is the {{Good|Tea Lady}}.  The {{Good|Gambler}} needs to learn who is in play. The {{Good|Gossip}} should be making public statements based on information that they suspect to be false, but don't know for certain. Listen to which players are which characters, and do what you can to prevent useful private conversations. If you think that two good players would really benefit from talking with each other, separate them as much as you can.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

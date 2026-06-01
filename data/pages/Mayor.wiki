@@ -1,0 +1,153 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_mayor.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"We must put our differences aside, and cease this senseless killing. We are all taxpayers after all. Well, most of us."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/7236669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29755368-44100-2-bb562cd7e4f92.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|If the Leviathan and the Mayor are alive on day 5 & no execution occurs, good wins.}}
+{{Jinx|Riot|riot|Evil|The Mayor may choose to stop the riot. If they do so when only 1 Riot is alive, good wins. Otherwise, evil wins.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead."
+
+The Mayor can win by peaceful means on the final day.
+* To survive, the Mayor sometimes "accidentally" gets someone else killed. If the Mayor is attacked and would die, the Storyteller may choose that a different player dies. Nobody learns how they died at night, just that they died.
+* If there are just three players alive at the end of the day, and no execution occurred that day, then the game ends and good wins.
+* Travellers count as players for the Mayor's victory, so must be exiled first. Remember that exiles are not executions.
+* Fabled don't count as players for the Mayor's victory, as the Storyteller isn't a player.
+* If the Demon attacks the Mayor, and the Storyteller instead chooses a dead player, the Soldier, or a player protected by the Monk, that player does not die tonight.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+During the night, if the Mayor would die, you choose if the Mayor actually dies, or if the Mayor remains alive and another character '''dies''' instead—put the Demon's '''DEAD''' reminder token by that character token instead of the Mayor, and put a shroud on that character token instead of the Mayor.
+
+At dawn, declare that the player marked '''DEAD''' died at night. (Do not say how they died.)
+
+At dusk, if exactly three players are alive and no player was executed today, declare that the game ends and good wins.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+
+We recommend you keep the Mayor alive until the final day, since it is most fun for the players that way. On rare occasions, if the group is overwhelmingly convinced early in the game that the Mayor is the Mayor, let the Mayor die so that evil has a chance to win. 
+<hr>
+In TROUBLE BREWING, the Mayor’s phrase “your team wins” will always mean “good wins” because the Mayor is always good. In other editions, an evil Mayor means “evil wins” instead.
+
+</div> 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Imp}} attacks the Mayor. The Storyteller chooses that the {{Good|Ravenkeeper}} dies instead.
+			</div>
+
+			<div class='example'>
+				There are three players alive. There are no nominations for execution today. Good wins.
+			</div>
+
+			<div class='example'>
+				There are five players alive, including two Travellers. Both Travellers are exiled, and the vote is tied between the remaining players. Because a tied vote means neither player is executed, good wins.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Your power activates on the final day, when just three players are alive. You may not know who the Demon is, but you can definitely win by not executing. Do whatever you can to convince the group that you are the Mayor. Everything. If the good team believes you, they will either not nominate anybody, or will deliberately tie votes so that no execution occurs.
+
+* It is often best not to reveal that you are the Mayor until late in the game. If you reveal early, the Demon may spend night after night trying to kill you, and the Storyteller may let that attempt succeed. 
+
+* You might want to tell people that you're the Mayor. Winning the game with your ability requires trust from your fellow players, and being open and honest is a fine way to acheive that trust.
+
+* When a character that's an unlikely target for the Demon to pick dies at night, such as the {{Good|Butler}}, this may be an indication that you were attacked instead. When convincing other players that you are the Mayor, you can use this as evidence.
+
+* Once the Demon attacks you and somebody else dies, they will know for sure that you are the Mayor. At the very beginning of each morning, if a particular player looks surprised and confused, they are likely to be the Demon!
+
+* If you intend to use your ability to win the game by not executing, do everything you can to make sure you are not actually the {{Good|Drunk}}. Spend the game listening to other players, and verifying that any Outsiders are actually Outsiders. If you think a {{Good|Drunk}} is in play, you will need to figure out who it is, because if it is you, and you don't execute on the final day, evil wins. Similarly, if the only other players alive are the {{Evil|Imp}} and the {{Evil|Poisoner}}, then you will certainly be poisoned. You will need to make sure that the {{Evil|Poisoner}} is dead before using your Mayor ability.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Mayor ==
+
+When bluffing as the Mayor, there are a few things you should keep in mind:
+
+* The Mayor would never wake at night. You would never learn if you were targeted and caused another player to die instead.
+
+* The Mayor has a good reason to survive at night, which you can use to explain your longevity as other players die. This makes it a great bluff for a Demon in particular.
+
+* Come out to a few players in private early on in the game, so that when you eventually reveal you have some backup that you're not just coming out with this claim out of nowhere.
+
+* The Mayor is a fantastic fallback if another bluff doesn't work out. Coming out on the final day as the Mayor who was "in hiding" can alleviate suspicion that you may have come under if your {{Good|Fortune Teller}} information wasn't adding up.
+
+* Deliberately setting up a kill of a character that isn't 'optimal' can be used as evidence for a Mayor being in play. For example, you can target a {{Good|Recluse}}, or a {{Good|Washerwoman}} who has already given their information; both are normally low priority for the Demon, and so you can argue that this was a redirected kill from your ability.
+
+* As a good player, bluffing as the Mayor can get the Demon to target you, since they will either suspect you are a more powerful character bluffing as the Mayor to survive, or they just want to confirm the existence of a Mayor overall.
+
+* Good players are more likely to risk winning with the Mayor if they have no better leads. Coordinate with your evil team to keep confusion high so that on the final day, good does not feel like they have a clear path to victory.
+
+* If you are nominated on the final day, don't despair! Unlike a regular bluff where you must beat the votes against you, a Mayor can call for the town to tie the vote instead, since that will cause no execution, allowing the Mayor ability to activate normally.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

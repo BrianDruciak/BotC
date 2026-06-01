@@ -1,0 +1,166 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_pithag.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Round about the cauldron go; In the poison'd entrails throw; Toad, that under cold stone; Days and nights has thirty-one; Sweated venom sleeping got; Boil thou first in the charmed pot."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/31712902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-19%2F177062894-44100-2-832432a12a212.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Cult Leader|cultleader|Good|If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability.}}
+{{Jinx|Damsel|damsel|Good|If a Pit-Hag creates a Damsel, the Storyteller chooses which player it is.}}
+{{Jinx|Goon|goon|Good|If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability.}}
+{{Jinx|Heretic|heretic|Good|Only 1 jinxed character can be in play.}}
+{{Jinx|Leviathan|leviathan|Evil|The Leviathan cannot enter play after day 5.}}
+{{Jinx|Ogre|ogre|Good|If the Pit-Hag turns an evil player into the Ogre, they can't turn good due to their own ability.}}
+{{Jinx|Politician|politician|Good|If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability.}}
+{{Jinx|Summoner|summoner|Evil|If the Summoner creates a second living Demon, deaths tonight are arbitrary.}}
+{{Jinx|Village Idiot|villageidiot|Good|If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary."
+
+The Pit-Hag changes players into different characters.
+* Each night, the Pit-Hag chooses a player and a character to turn that player into.
+* They can’t create duplicate characters. If the character is already in play, nothing happens.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night except the first, wake the Pit-Hag. They point at any player and any character icon on their character sheet. Put the Pit-Hag to sleep.
+
+If the chosen character is in play, nothing happens.
+
+If the chosen character is not in play, wake the chosen player. Show them the '''YOU ARE''' info token, then their new character token, then put them to sleep. Replace their old character token with the new character token. (''You may need to turn character tokens upside-down to remind you that a player’s alignment is opposite to the color of the token. You may need to remind the player that their alignment is unchanged, by giving a thumbs-up or thumbs-down.'')
+
+If a Demon is created, you may choose any players to kill or to protect throughout the night to balance the game. Additional deaths are considered attacks from the Pit-Hag.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If the Pit-Hag changes a Demon into a new Demon, it is best to make no death occur tonight, so the good team gets a clue that the Demon has changed. You can even wake the Demon, see who they choose to attack, and decide that no one dies. If the Pit-Hag creates a new evil Demon, it is best to kill the old Demon and some other player, to signal to the good team that the Demon has changed. If the Pit-Hag creates a good Demon, it is best to kill either Demon (if it is the final night), or to just let two Demons run amok (if it is not the final night)—but since all Demons must die for good to win, use caution.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Pit-Hag turns the {{Good|Clockmaker}} into the {{Good|Mutant}}.
+			</div>
+
+			<div class='example'>
+				The Pit-Hag tries to turn the {{Good|Savant}} into the {{Good|Sage}}, but nothing happens because a {{Good|Sage}} is already in play.
+			</div>
+
+			<div class='example'>
+				The Pit-Hag turns the {{Good|Flowergirl}} into the {{Evil|Evil Twin}}. Now, there is a good {{Evil|Evil Twin}}, so the {{Evil|Evil Twin}} and an evil player are woken to learn each other's character.
+			</div>
+
+			<div class='example'>
+				During the final night, the Pit-Hag turns the {{Good|Oracle}} into a good {{Evil|No Dashii}}. The Storyteller kills the evil Demon only, so that only one Demon is alive during the final day.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Your ability changes a player's character, but ''not'' their alignment. This means that if you turn a good player into a {{Evil|Witch}}, they will be a good-aligned Minion. Similarly, if you transform an evil player into the {{Good|Philosopher}}, they are now an evil-aligned Townsfolk. Keep this in mind when deciding who to transform - there are benefits to creating evil Townsfolk/Outsiders and even good Minions/Demons, but it can be a nasty shock if you were expecting a new evil player to join your ranks!
+
+* Creating new demons is a unique ability within the Pit-Hag's domain. You can transform your existing Demon into a different type (introducing a {{Evil|Vortox}} unexpectedly to the game field), but you can also 'move' the Demon by transforming an evil player into a new Demon, and finally you can create a good Demon by transforming any of your foes! Naturally, this power comes with some major drawbacks - the Storyteller will balance any move you make by controlling the deaths that night. Often 'moving' the Demon will result in the death of an evil player (usually the former Demon) - they will not permit you to continue the game with multiple evil Demons alive! More subtle moves like changing what type of Demon is in play may simply result in no deaths at all, so the good team has an indication that something changed. Finally, while they may allow a good Demon to co-exist, you should be cautious, as that Demon has the ability to kill and every motivation to come after the evil team! (Additionally, be wary of transforming a {{Evil|Vigormortis}} - the second they are changed into something else, you will lose your ability if you are an undead Minion!)
+
+* Create outsiders! Got a pesky {{Good|Savant}} getting lots of helpful info? Turn them into a {{Good|Sweetheart}}! Suspect someone is a {{Good|Sage}} trying to trick your Demon? Now they're a humble {{Good|Klutz}}, and dying isn't looking so fortuitous anymore! Is your Demon a {{Evil|Fang Gu}} and out of places to hide? Create a new one!
+
+* Nerf troublesome Townsfolk by transforming them into less useful Townsfolk for the current game setup. For example, if you have a {{Evil|Vigormortis}} in play, the {{Good|Oracle}} is a particularly dangerous threat, while the {{Good|Clockmaker}}'s information may not be as worrisome. Alternatively (after warning your Demon), you can turn a player into a conditionally useful Townsfolk like the {{Good|Sage}}, neutralizing whatever information they were getting. It might seem easier to simply always turn people into Outsiders, but remember you can only transform someone into not in play characters - better to let a little info go by than to fail a transformation because there was already a {{Good|Barber}} lurking around.
+
+* Coordinate with your evil team to get the most use out of your transformations. Nothing is more frustrating than turning a Townsfolk into something useless and waking up the next morning to see that your Demon had the same idea and killed them. Working together with your Demon and Minions to neutralize multiple targets at once is very effective. Alternatively, you can create a {{Good|Klutz}} right as your Demon kills them, catching your victim off guard (since they won't have been thinking about who to trust in the event of their death).
+
+* Create Minions! Even good Minions! Characters like the {{Evil|Witch}} and the {{Evil|Cerenovus}} are ''fun'', and even when good-aligned can cause a lot of damage. If you have a player who is particularly accusatory or seems to be very certain... and is wrong, give them the power to act on their impulses and sit back to enjoy the carnage. As always, beware - these powers are just as effective on you as they are on good players!
+
+* Change yourself! While it will mean the end of your transforming days, there are many moments when turning yourself into another character will change the flow of the game. Have a lot of trust with the good team? Become a {{Evil|No Dashii}} and take over as the Demon! Want to sneakily undermine the {{Good|Flowergirl}}? Transform into the evil {{Good|Philosopher}}, then gain the ability of the {{Good|Flowergirl}}, making the existing one drunk! Just feeling like a change of pace? Become a {{Evil|Witch}}, and curse that one player who finally felt safe nominating! 
+
+* If you did not transform a player one night, get evil players to claim they were transformed into not in play good characters, even when they weren't. Players that publicly claim to be transformed tend to be immediately trusted by the good team, since the Pit-Hag usually transforms good players. Or, if you are an evil player that was transformed by the Pit-Hag last night. tell the group that you were transformed... into a good character.
+
+* At some stage in the game, stop transforming people. As long as you transform people, the good team will know that you are still alive, since a dead Pit-Hag has no ability. This strategy is particularly useful in a game with only one Minion, or a game where the only other Minion is the {{Evil|Evil Twin}}. If the good players know that all Minions are still alive, then they also know that all executed players are good. But when they get suspicious that a Minion is dead, from that point onward, they won't know which dead players are good, and which are evil.
+
+* If a fellow evil player is claiming to be the victim of the {{Evil|Cerenovus}}, or they are claiming that an {{Evil|Evil Twin}} is in play, then their claims may clash with a good player's claim that they were transformed by the Pit-Hag. If there is only meant to be 1 Minion in the game, and that Minion is the Pit-Hag, then claiming to be affected by the {{Evil|Cerenovus}} will not make sense. Pay attention to your fellow evil players, and don't transform people at night if you want their claims to be believed.
+
+* You ''can'' transform Travellers... maybe. It's an optional rule that your Storyteller may allow. Be careful though, as if a Traveller is changed into a non-Traveller, their token in the Town Square is changed so everyone will know there is a Pit-Hag in play.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Pit-Hag ==
+
+* If you get transformed by the Pit-Hag into a different character, tell the group what happened immediately the following day. Players will likely believe that you are good, simply because the Pit-Hag targeted you.
+
+* So long as transformations happen, you know that the Pit-Hag is still alive. This means that players that are dead are more trustworthy as good players. In a game with only 1 Minion, as long as the Pit-Hag reveals that they are still alive by changing players, you can trust all players that have been executed thus far, since they must all be good.
+
+* If characters have previously been transformed, but nobody was transformed last night, either the Pit-Hag has transformed an evil player (who is not telling the group), or the Pit-Hag has chosen an in-play character, or the Pit Hag has died. When no transformations occur, investigate these possibilities and see if they tell you anything useful.
+
+* If the number of deaths at night is more than 1, then the Pit-Hag has created a new Demon. Usually, if the Pit-Hag changes the Demon player into a new Demon character, no deaths will occur at night. If the Pit-Hag creates a new Demon player (by turning themselves or a fellow Minion into a Demon, for example), then 2 deaths occur at night... and one of those deaths is likely a Demon! When these unusual death patterns occur, assume that the Demon has changed type - it may now be a {{Evil|Vortox}}, when there was no {{Evil|Vortox}} previously, or it may now be a {{Evil|Fang Gu}} when it was previously a {{Evil|No Dashii}}, which means Townsfolk that were poisoned are poisoned no longer.
+
+* Remember that if you change character, you don't change alignment. If you are a good player, and are transformed into the {{Evil|Witch}}, you are still good - and can now use your {{Evil|Witch}} power to curse people... maybe even some evil players if you are lucky. If you are a good player, and are transformed into a Demon, then you are a good Demon - you can use your ability to kill players at night, and possibly kill the evil Demon this way. If you do become a good Demon, remember that good only wins once all Demons are dead, including you, so both you and the evil Demon will need to die in order for good to win.
+
+* The Pit-Hag's ability only creates not-in-play characters - bluff as an undesirable character so the Pit-Hag doesn't try to transform people into it. For example, if you bluff as the {{Good|Sweetheart}}, then the Pit-Hag will not try to turn Townsfolk players into the {{Good|Sweetheart}}, and may instead accidentally choose an in-play character... which means no transformation happens. Even if the Pit-Hag creates new characters, by bluffing as an undesirable character, you can almost guarantee that the Pit-Hag will avoid creating that particular undesirable character.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Minions]]

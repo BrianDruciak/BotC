@@ -1,0 +1,158 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_lordoftyphon.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall </td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>29/08/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"In the shadowed and forgotten corners of the cosmos, where the stars whisper secrets to the void, lies a truth so profound that the merest glimpse of it unravels the sanity of mortal minds."</p>	
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Summoner|summoner|Evil|If a Lord of Typhon is summoned, they must neighbor a Minion & their other neighbor becomes an evil Minion.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]"
+
+The Lord of Typhon is surrounded by Minions.
+* All evil characters sit next to each other in a continuous line.
+* All evil characters must be in the line at setup.
+* Evil Travellers and Evil Townsfolk may be part of the line, but do not have to be.
+* The Lord of Typhon must have an evil character on both sides. They cannot sit at the end of the line of evil characters.
+* The evil team starts with one additional Minion when the Lord of Typhon is in play.
+* Any number of Outsiders might be in play.
+* Like the Marionette, the Storyteller decides which players are Minions during setup. The Storyteller also decides which player is which Minion.
+* If a Lord of Typhon is created mid game, the Lord of Typhon does not need to sit in a line with the evil characters.
+
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During setup, remove all Minion tokens and add Townsfolk or Outsider tokens.
+
+During the first night, wake the appropriate number of players directly clockwise and anti-clockwise from the Lord of Typhon. Show each of these players a unique Minion token, and give a thumbs down. Replace these players' good character tokens with these Minion tokens and put these players to sleep. Then, do the Minion Info and Demon Info steps as normal.
+
+Each night except the first, wake the Lord of Typhon. They point at any player. That player '''dies'''—mark them with the '''DEAD''' reminder. Put the Lord of Typhon to sleep.
+	</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There are two Minions: the {{Evil|Organ Grinder}} and the {{Evil|Mezepheles}}. In between them, neighboring them both, sits the Lord of Typhon. The number of Outsiders is normal.
+			</div>
+			<div class='example'>
+				The {{Evil|Vizier}} neighbors the {{Evil|Harpy}}, who neighbors the Lord of Typhon, who neighbors the {{Evil|Goblin}}. There are ten players, and two Outsiders in play, due to the Lord of Typhon ability.
+			</div>
+			<div class='example'>
+				The {{Evil|Fearmonger}} neighbors the {{Evil|Boomdandy}}, who neighbors the Lord of Typhon, who neighbors the {{Evil|Poisoner}}, who neighbors the {{Evil|Mastermind}}. There are 15 players, but zero Outsiders in play, since the Lord of Typhon removed one Outsider, and the {{Good|Puzzlemaster}} became the {{Evil|Boomdandy}} during the first night.
+			</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+*  As a Minion, bluff as the character you drew at the start of the game. If the good team finds one evil player and figures out it’s a Lord of Typhon game, they find the whole evil team, so you need to seem extremely good.
+
+*  As a Minion, if you started with an Outsider token, use one of the Demon bluffs. If the good team thinks there is a nonstandard number of Outsiders in play, that may indicate the Lord of Typhon is in play.
+
+*  As a Minion, if you bluff as something else, use your starting character as a backup.
+
+*  Hide! The Lord of Typhon is not a Demon that rewards risky plays. Think carefully about the consequences of playing as an outed evil.
+
+*  Use the additional Minion to your advantage. +1 Minion means you are more likely to outvote the good team, and more likely to have more evil players alive later in the game.
+
+*  Keep track of how much voting power your team has compared to the good team.
+
+*  Don’t vote as a team. When the entire line votes together, the good team can find the line, especially when a {{Good|Flowergirl}} is carefully watching votes.
+
+*  Use your seats next to each other to swap information. Talk casually at the start of the day! Whisper to your neighbors during the night! You’re in the perfect position to make nonstop evil plans.
+
+*  Pay attention to who is watching you talk with your neighbors. Frame those players as evil to deflect attention from you and your team.
+
+*  Work to discredit or poison players whose information indicates the Lord of Typhon is in play.
+
+*  If the good team isn’t sure where the evil team is, make players sitting far away from you look evil. Claim to be the {{Good|Town Crier}} who learned that a Minion nominated when only players across from you nominated, or claim to be the Fortune Teller who got a Yes on two players sitting further from the line.
+
+*  If the good team is honing in on the evil team, frame the good players on the end(s) of the line.
+
+*  If players don’t think the Lord of Typhon is in play, let them! As a Minion, act evil to distract the good team and protect your Demon.
+
+*  Publicly disagree with your teammates to make it look like you are on opposite teams.
+
+*  If you are not on the end of the line, pick a good player far away from the line, and build trust with them.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Lord of Typhon ==
+
+* Pay close attention to voting patterns. Since the evil team is in a line, they have to vote together if they want to maximize their voting power. 
+
+* Identify one evil player. If you find an evil Minion, and rule out the possibility of different Demons in play, finding one evil player leads you to the entire evil team.
+
+* Find good players, because their neighbors can’t be the Demon - since the Lord of Typhon must sit in the middle of the line, the Demon always starts neighboring evil players in a Lord of Typhon game. 
+
+* Figure out what type of Demon is in play. 
+
+* Pay attention to how many Minion abilities are in play. An extra Minion means that a Lord of Typhon is in play. Knowing this is helpful.
+
+* If you’ve found a minion (or think that you have), kill both of their neighbors. If a Lord of Typhon is in play, you are guaranteed to kill a Minion, kill two Minions, or kill the Demon.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Demons]]

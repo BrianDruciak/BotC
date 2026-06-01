@@ -1,0 +1,156 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_cultleader.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>04/07/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Thinking themselves wise, they became fools."</p>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Boffin|boffin|Evil|If the Demon has the Cult Leader ability, they can’t turn good due to this ability.}}
+{{Jinx|Pit-Hag|pithag|Evil|If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, you become the alignment of an alive neighbor. If all good players choose to join your cult, your team wins."
+
+The Cult Leader wins if everyone joins their cult.
+* At the end of each night, the Cult Leader becomes the alignment of a living neighbor.
+* Once per day, the Cult Leader may publicly choose to form a cult. If all good players vote to join the cult, the game ends immediately and the Cult Leader’s team wins.
+* The Cult Leader may form a cult at any point in the day.
+* Voting to join a cult does not require a vote token.
+* Players may say whatever they want at any time, so a player bluffing as the Cult Leader may pretend to form a cult.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+Each night, turn the Cult Leader character token right side up (''if both alive neighbors are good'') or upside down (''if both alive neighbors are evil'') or either (''if one alive neighbor is good and the other alive neighbor is evil''). If the Cult Leader's alignment changes, wake the Cult Leader and give a thumbs up or a thumbs down, then put the Cult Leader to sleep. If the Cult Leader’s alignment doesn’t change, do not wake them.
+
+During the day, the Cult Leader may declare that they wish to use their ability. If so, enter the circle and run a vote in the same way that you would for an Exile. If all good players raise their hand, declare which team has won. If not all good players raise their hand, nothing happens.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				On day 3, the good Cult Leader’s living neighbors are the good {{Good|Town Crier}} and the evil {{Evil|Goblin}}. The Cult Leader requests to form a cult, and all good players vote to join the cult. The game ends and the good team wins!
+			</div>
+
+			<div class='example'>
+				The Cult Leader neighbors the {{Evil|No Dashii}}. On day 2, the Cult Leader attempts to form a cult. All players vote to join the cult, but a cult is not formed, because the Cult Leader is poisoned.
+			</div>
+
+			<div class='example'>
+				The Cult Leader’s living neighbors are the evil {{Evil|Poisoner}} and the good {{Good|Fortune Teller}}. The {{Evil|Poisoner}} chooses the Cult Leader, and the {{Evil|Kazali}} kills the {{Good|Fortune Teller}}. The Cult Leader’s living neighbors are now the evil {{Evil|Poisoner}} and the evil {{Evil|Wizard}}. While the Cult Leader’s living neighbors are both evil, the Cult Leader doesn’t turn evil, because they cannot change alignment while poisoned.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Come out as the Cult Leader early, as your chances of being good are much higher early in the game. It is true that on the first night you can turn evil, but this will probably not be the case. However, that being said, the town may be hesitant to gun for a Cult Leader win on the first day as this feels like a cheap win and they won't have much evidence either way about your alignment.
+
+* Come out late as the Cult Leader since you'll have more information to share. However, beware, players are prone to distrusting Cult Leaders towards the end of the game as the chance you are evil increases near the end of the game because good players are more likely to have died than evil, so your living neighbours get increasingly likely to be evil in the late game. 
+
+* Come out as the Cult Leader while evil (without admitting that you are evil), because it will be easier to get the evil team to back your plays for executions and Cult Leader votes. 
+
+* Get other players to use detection abilities on your neighbours to verify your claims. Get the {{Good|Chambermaid}} or the {{Good|Seamstress}} to pick both your neighbours at night, to verify your claims of alignment. 
+
+* Try and execute players between you and those verified as good by Townsfolk, such as the {{Good|Virgin}} or the {{Good|Noble}}, as this will help make the town trust that you are good for a Cult Leader victory. 
+
+* Don't admit you are evil until you are good again, or else you might get executed and locked into evil. However, if it's the final day, coming out as evil can destroy the good team for an easy win. If you were evil the night before and you're good now, you can tell the group that you have been evil and that therefore one of your neighbours must be evil. 
+
+* Ignore the Cult Leader's cult joining ability, and just quietly learn if you have evil neighbours like an {{Good|Empath}}. Over the course of the game, keep a mental note of when you have been evil, especially if your neighbours die across the course of the game. Then you'll have some good information on which players are probably good and probably evil.
+
+* Always use the Cult Leader's cult joining ability, and observe voter behaviour. Evil knows if you're next to an evil player, and are more likely to vote on you then. Cult Leaders can have a hard time convincing the whole group to vote, as there is usually one good player that holds back thinking "what if they're evil?". That's okay, you can still learn a lot just by watching how players vote, because evil players are much more enthusiastic to vote as their vote doesn't impact the outcome anyway.
+
+* During the end game, if players are not sure about who the Demon is, you have a victory condition that can be a Hail Mary. If the odds of finding the Demon are worse than 50/50, then a Cult Leader offers better odds. If it is suddenly clear based on voter patterns that the Demon has escaped execution, you can offer a backup plan. You might be evil, but it's still a better chance at victory for the good team, than knowing that the Demon cannot be executed. 
+
+* Remember on the final day, if there are only 3 players alive and you're one of them, you are next to the Demon. If the third player is evil, then all three of you are evil, meaning no one will nominate the Demon for an easy evil victory. If you're good, then you know for sure that the Demon is only evil player left alive. 
+
+* Player count is important: in games with 9, 12, or 15 players, you have the highest good to evil player ratio. This means that your chances of being good are higher, but you also have more people to convince to join your cult. In a 9 player game, there are 7 good players and only 2 evil players, so while the chances of you being next to an evil player are much lower, you still have 6 other people to convince to join your cult.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Cult Leader ==
+
+When bluffing as the Cult Leader, there are a few things you should keep in mind:
+
+* When bluffing as the Cult Leader, keep one crucial point in mind - you want people to be paying a lot of attention to you and your phony cult, but at no point do you want them reaching a consensus on the matter. You are not a real Cult Leader! What would you even do with all those disciples if you had them? The town will obviously notice if they all agree to join your cult and nothing happens, so make sure that someone always has their hand down. Bonus points if it is a fellow evil member who will look like a good player as a result of that!
+
+* Bluffing as the Cult Leader can be a lot of fun! Due to the nature of your alignment shifting, the town will naturally distrust you anyway, allowing you to be bolder about appearing "evil" for a day or two. 
+
+* If the town threatens to execute you, just claim to be "currently" evil, and warn them you'll stay that way if they take you out now! Bonus points if that means they turn on one of your innocent, good neighbours to "turn you good" again.
+
+* A Cult Leader is a character that is likely to survive until the end of the game, since the Demon probably wants to keep them alive on the chance that they turn evil. This means it can be a great bluff to help you stay alive. Just be careful to keep your finger on the pulse of how the town is feeling about evil-aligned Cult Leaders - at some point, they may decide to cut their losses and execute you just on the off chance that you are bluffing. (To be fair to them, you ''are''!)
+
+* While bluffing as the Cult Leader, try to get a vote happening every day, especially if you can get all the other evil players to vote along with you. Having a lot of players put their hands up for the cult suddenly might catch good players unawares, thinking that the others know something they don't - if you time it well, you might just be able to sway some people in the heat of the moment! Not only does this create a lot of noise and distract the good team from trying to find the Demon, but you can weaponise the vote to cast doubt on players who won't join you! 
+
+* Alternatively, if you think you've managed to recruit a large part of the town to your cause, get your evil team to not vote with the cult; when your ability "fails", this will make them look like a resistant good player.
+
+* If you have fellow evil among your neighbours, stick to being "good" for the entire game. Or, if an evil player ''becomes'' your neighbour, claim to have been previously evil and have now turned good, casting doubt on the dead ''and'' bolstering your teammate at the same time!
+
+* While bluffing as the Cult Leader, you can actually come out as evil, since this throws shade on your neighbours and perhaps draws attention away from you. Players are much more likely to want to execute someone who is evil and stays evil rather than someone who might turn good again. This can help provide cover for you as to why you’re registering evil to characters like the {{Good|Empath}} or the {{Good|Seamstress}}.
+
+* If the town ever bites the bullet and executes you, let them know that you are evil - your actual alignment will probably back this up if checked by an {{Good|Oracle}} for example, meaning the good team will have to worry about an imaginary extra evil vote for the rest of the game! (Beware of the {{Good|Undertaker}} or {{Good|Dreamer}} though - they'll condemn you pretty quick.)
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

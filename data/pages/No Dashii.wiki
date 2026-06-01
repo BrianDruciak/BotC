@@ -1,0 +1,121 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_nodashii.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"By the sins of Arnoch, I feel thy laden stench. By the curs-ed sun and her foul legion of tiny grinning gods, I corrupt thee. By the blessed night and the hidden depths of the horrid and unholy sea, I end thy squalid life upon this plane."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/34603276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-31%2F192148915-44100-2-b780a317d2e3b.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned."
+
+The No Dashii poisons their neighboring Townsfolk.
+* The No Dashii’s closest clockwise and counterclockwise Townsfolk neighbors are poisoned, regardless of whether they are alive or dead. If a No Dashii dies or otherwise loses their ability, then those two players become healthy. Two Townsfolk players will always be poisoned this way, as neighboring Outsiders, Minions, or Travellers are skipped.
+* If a new player becomes the No Dashii, or a poisoned Townsfolk changes into a non-Townsfolk character, the players who are poisoned may change immediately based on who the neighbors of the No Dashii are.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+While preparing the first night, the two Townsfolk neighboring the No Dashii become '''poisoned''' - mark them with '''POISONED''' reminders.
+
+If a Townsfolk poisoned by the No Dashii becomes a non-Townsfolk character, or the No Dashii turns into a different character, or if a new player becomes the No Dashii, the new neighbors of the No Dashii become '''poisoned''', and the old neighbors become '''healthy''' - move the No Dashii’s '''POISONED''' reminders immediately if needed.
+
+Each night except the first, wake the No Dashii. They point at any player. That player '''dies''' - mark them with the '''DEAD''' reminder. Put the No Dashii to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				At the start of the game, the No Dashii neighbors a {{Good|Town Crier}} and a {{Good|Snake Charmer}}. They are both poisoned. A few days later, they are both dead, and the closest alive neighbors to the No Dashii are an unpoisoned {{Good|Clockmaker}} and an unpoisoned {{Good|Barber}}.
+			</div>
+
+			<div class='example'>
+				Clockwise from the No Dashii sits a {{Good|Philosopher}}, a {{Good|Mathematician}}, then a {{Good|Sage}}. Anticlockwise from the No Dashii sits a {{Evil|Witch}}, a {{Good|Mutant}}, then a {{Good|Seamstress}}. The {{Good|Philosopher}} and the {{Good|Seamstress}} are poisoned
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Find out who your neighboring Townsfolk are. You may be sitting next to Minions, Travellers or Outsiders, so it may not be immediately obvious who you have poisoned. 
+
+* Once you know who your neighboring Townsfolk are, support them as much as possible. Listen to them. Repeat their arguments to the group. Since they are poisoned, their information is probably false, and spreading their false information will make others look dodgy, particularly when it is not you that revealed the false information originally.
+
+* At night, don't kill your neighboring Townsfolk. Since they are poisoned, the longer they stay alive, and the shorter that unpoisoned Townsfolk live, the more misinformation will be in the game, and the more chance you have of winning.
+
+* Kill your neighbors, if people begin to think that a No Dashii is in play. Doing this makes it look like someone else is the No Dashii, or at least it makes it look like you are a different Demon than the No Dashii.
+
+* If all evil players are spreading false information, then it can sometimes look like a {{Evil|Vortox}} is in play. Making the argument that the Demon is actually the {{Evil|Vortox}} makes the remaining good players mistrust their own information, and makes you look good. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the No Dashii  ==
+
+* The No Dashii's poisoning skips Minions, Outsiders and Travellers. Thanks to this, the No Dashii does not have to be your ''immediate'' neighbor in order to poison you.
+
+* In rare circumstances, the No Dashii's nearest townsfolk may change - this would be thanks to characters like the {{Good|Barber}} or the {{Evil|Pit-Hag}}. When this happens, the new nearest Townsfolk will become poisoned from that point on. For example - the Demon is sitting next to a {{Good|Flowergirl}}, and next to them is a {{Good|Savant}}. The {{Good|Flowergirl}} is therefore poisoned. That night, the {{Evil|Pit-Hag}} turns the {{Good|Flowergirl}} into the {{Good|Klutz}}. As the {{Good|Klutz}} is an Outsider, the new nearest Townsfolk is the {{Good|Savant}}, who becomes poisoned from this point onward. Another example - the nearest character to the Demon is their Minion, a {{Evil|Witch}}, who the Demon swaps with the {{Good|Snake Charmer}}. As the new (evil) {{Good|Snake Charmer}} is now the closest Townsfolk to the Demon, they are poisoned and the {{Good|Mathematician}} is now sober.
+
+* There are a few sources of misinformation in Sects & Violets, but if you are a Townsfolk and suspect that your information is being interfered with, a good start is to look hard at your neighbors and see if any of them are suspicious. If the No Dashii is the culprit, they'll have to be close to you.
+
+* Depending on the game size, figuring out that a No Dashii is in play as opposed to, say, a {{Evil|Vigormortis}}, can often be fairly simple. If most of the good players' information is making sense, there is probably no No Dashii in play. However, if a lot of the good team's information is not making sense, you may be facing either a No Dashii or a {{Evil|Vortox}}. Figuring out whether ALL information is bogus, or just that MOST information is bogus, can make the difference between winning, and losing so bad that people bring it up at parties unrelated for years to come!
+
+* Come up with a cool and interesting strategy we haven't thought of, and post it on this wiki!
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Demons]]

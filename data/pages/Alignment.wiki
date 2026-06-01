@@ -1,0 +1,46 @@
+<div class="small-12 large-12 columns">
+	
+Blood on the Clocktower is a team game; every player is either good or evil. Additionally, all teams win and lose together; there are no individual conditions for victory or lose. This means when a character ability states "you win" or "you lose", they mean your entire team.
+<br><br>
+ 
+<div class="small-12 large-6 columns" style="padding-left: 0px">
+== Good ==
+
+<div class="row">
+
+<div class="small-12 large-9 columns">
+The Good team comprises the majority of the town and are represented by the color blue. It is made of up [[Character Types#townsfolk|Townsfolk]] and [[Character Types#outsider|Outsiders]]. Their goal is to find and execute the demon. Once the demon is dead, the good team wins.
+
+Good players do not start knowing each other and must use their abilities, information and intuition to form bonds of trust and seek out evil. 
+</div>
+
+<div class="small-12 large-3 columns">
+[[File:alignment_good.png|200px|thumb|center]]
+<p style="text-align: center; font-size: 14px;">The {{Good|Flowergirl}} is an example of a Townsfolk & the {{Good|Sweetheart}} is an example of an Outsider.</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="small-12 large-6 columns">
+
+== Evil ==
+<div class="row">
+
+<div class="small-12 large-9 columns">
+The Evil team are a small, sinister minority in the town and are represented by the color red. It is made of up [[Character Types#minion|Minions]] and [[Character Types#demon|Demon]]. Their goal is to reach a point where only two players are left alive (one of which is the demon).
+
+While they lack numbers, the evil team have the advantage of secretly knowing each others' identities from the start. In addition, the Demon receives knowledge about characters not in play in order to provide them with clean bluffs.
+</div>
+
+<div class="small-12 large-3 columns">
+[[File:alignment_evil.png|200px|thumb|center]]
+<p style="text-align: center; font-size: 14px;">The {{Evil|Baron}} is an example of a Minion & the {{Evil|Shabaloth}} is an example of a Demon.</p>
+</div>
+
+</div>
+
+</div>
+
+</div>

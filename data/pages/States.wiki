@@ -1,0 +1,121 @@
+<div class="row">
+
+	<div class="large-12 columns">
+
+In Blood on the Clocktower, players can be lots of things - this character or that one, drunk or sober, alive or dead, healthy or poisoned. (Of course, we don’t mean literally.) These are called states. Basically, they’re permanent elements of a player that are independent from each other. For example, if you’re drunk and change your character, you stay drunk. If you’re poisoned, you can be drunk too.
+
+== Life and Death ==
+
+At any given time, a player is either alive or dead. Generally, players die during the day from execution and die at night from characters’ abilities. 
+
+'''Execution is different from death.''' Sometimes, a player may be executed but remain alive rather than die. Players may be executed multiple times, and even dead players may be executed again, just to be sure. Regardless of whether the group executes an alive or dead player, this counts as the one execution allowed for the day. 
+
+'''A dead player cannot die again.''' If a dead player is attacked by the Demon, for example, they do not die again, and the group does not learn that they died last night.
+<br><br>
+
+== Alignment and Character ==
+
+At any given time, a player is either good or evil. Characters start as either good or evil, but their alignment may change. Sometimes, a Townsfolk will be evil. Sometimes, a Demon will be good.
+
+If a good player has an evil character, or an evil player has a good character, turn their character token upside-down to remind yourself that the player’s alignment is the opposite of the color of the token.
+
+'''Character is independent of alignment.''' If a player changes alignment, their character stays the same, and vice versa. For example, if the Goon becomes evil, they’re still the Goon. Or if the Pit-Hag turns the good Juggler into the Witch, then the Witch is still good.
+
+'''The player learns of changes...''' If a player’s alignment or character changes, they learn this at the earliest opportunity, in secret. You will usually show the YOU ARE info token and then their new character or alignment. The night sheet or character almanac will tell you when an alignment or character changes, prompting you to wake the changed player and inform them. Learning a new character or alignment isn’t information in the normal sense. It is not affected by drunkenness or poisoning, or by characters such as the Vortox. This is so that players know their own alignment and character.
+
+'''...with a few exceptions.''' Sometimes, a player thinks they are a character or alignment that is different from their true character or alignment. For example, the Drunk and the Lunatic are designed to not know who they really are.
+<br><br>
+
+== Drunkenness and Poisoning ==
+At any given time, a player is either sober or drunk, and either poisoned or healthy. Being drunk and being poisoned do the same thing. Alive and dead players alike can be drunk or poisoned.
+
+'''A drunk or poisoned player has no ability.''' A drunk Slayer cannot slay anybody, a poisoned Demon cannot kill anyone, a drunk Virgin cannot cause an execution with their ability, a poisoned Courtier cannot make anyone drunk. If a player tries to use their “once per game” ability while drunk or poisoned, they do not get to use it again. It is gone. 
+
+'''They can get their ability back.''' If a drunk player becomes sober again, or if a poisoned player becomes healthy again, they regain their ability. That said, if they used their “once per game” ability already, then tough luck.
+
+'''Do not tell them they are drunk or poisoned!''' Instead, act just like they’re sober and healthy. For example, a drunk Monk still wakes each night and chooses a player to protect... but that player won’t be protected. A poisoned Demon still wakes to attack a player, but nobody dies, and the Demon won’t know exactly why. Sometimes you may want to hint to them that they are drunk or poisoned, such as by showing the Undertaker that the Mayor got executed when nobody is claiming to be the Mayor, but such times are exceedingly rare.
+
+'''You can give them false information.''' A drunk or poisoned player does not have an ability, but they think they do. If their ability gives them information, you can give them incorrect information. For example, a drunk Empath still wakes each night and gets shown a finger signal, but you can show the wrong number of fingers. A poisoned Undertaker gets shown the character token of the player who died by execution today, but you can show the wrong character token. You’re not required to give incorrect info, but you can—and you usually should! 
+
+'''Drunkenness and poisoning do not cancel out.''' A poisoned drunk does not become sober or healthy! They’re just both poisoned and drunk.
+
+'''Abilities used on a drunk or poisoned player work normally.''' For example, an Empath correctly learns the alignment of their drunk neighbors. A Fortune Teller correctly identifies a poisoned Demon. If the Duchess - a Fabled character that grants information to three players - is visited by a poisoned Slayer, then the Slayer gains correct information. In this case, the Duchess’s ability is working properly, while the Slayer has no ability.
+
+'''Always give correct information about the rules''', even to drunk or poisoned players. They need to be able to trust you at least that much.
+
+'''The player is drunk or poisoned, not the character''', even though it is common to refer to a drunk or poisoned character. If a drunk player becomes a new character, they are still drunk. If a poisoned player swaps characters with another player, the player remains poisoned.
+
+'''The timing of drunkenness and poisoning can vary''' slightly with unusual character combinations. Normally, if an ability is a permanent ability or is already affecting the game, the player loses their ability when they become drunk or poisoned, and that ability resumes when they become sober and healthy again.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Tea Lady is poisoned, so she does not protect her neighbors. Later, the Tea Lady becomes healthy, so she protects her neighbors again.
+<hr />
+The sober Witch has cursed a player. The Witch becomes drunk, so that player is not cursed. Later, the Witch becomes sober again, so that player is cursed again.
+</div>
+
+If an ability is triggered or used when the player is drunk or poisoned, the ability is wasted. It has no effect now, and no effect later on, even if the player later becomes sober and healthy.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+A poisoned Sweetheart dies. The Sweetheart does not make a player drunk, even if the Sweetheart becomes healthy later on.
+<hr />
+A drunk Innkeeper chooses two players to protect. They are not protected, even if the Innkeeper becomes sober later on.
+</div>
+
+If an ability is triggered or used when the player is sober and healthy, the ability works normally, even if the ability relies on some condition being true in the past and the player was drunk or poisoned at that time in the past.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+A sober Juggler wakes at night and learns correct information, even though the Juggler was drunk when they made their guesses earlier that day.
+</div>
+
+Clocktower is designed so that such odd timing situations are rare. When in doubt, refer to the character’s almanac entry for clarification.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+<span style='font-style: normal'>'''TIPS.'''</span> To run drunkenness and poisoning well, listen to the bluffs of the evil players, and support those bluffs wherever possible. For example, if the drunk Ravenkeeper chooses to learn about Doug, who is the Baron but bluffing as the Mayor, you can help the evil team if you show the Ravenkeeper the Mayor token. If the drunk Ravenkeeper instead chooses to learn about a good player, it can be helpful to show an evil character token instead. Normally, you should make drunkenness and poisoning as harmful as possible to the drunk or poisoned player.
+</div>
+<br><br>
+
+== Madness ==
+
+Madness is introduced in the [[Sects & Violets]] edition. It’s fairly rare, with only about a dozen characters that cause madness over the many editions. It is more like a real-world state than a game-state. You cannot look in the Grimoire and see which characters are mad or not, but you can watch and listen to what people are saying to determine if players are mad or not.
+
+'''When a player is mad about something, that means they’re trying to convince the group that something is true.''' Some players are instructed to be mad about something, and some players are instructed to not be mad about something.
+
+'''When a player is instructed to be mad about something, but they aren’t, the Storyteller might give them a penalty.''' Likewise, if they are mad about it, the Storyteller might give them a bonus. The specific instructions, benefits, and penalties of madness are written on the character token or character sheet.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Mutant’s ability is “If you are ‘mad’ about being an Outsider, you might be executed.” Alex, the Mutant player, is trying to convince the group that he is the Mutant, an Outsider character, so he is mad about being an Outsider. Alex might say something obvious, like “I am the Mutant!” or “I am not a Townsfolk... but I’m not going to tell you my character.” In either case, the Storyteller is welcome to execute him.
+<br><br>
+Alex may instead try something more subtle. He might say something like “I am not going to tell you who I am, but I’m definitely not the Mutant,” with a mischievous grin on his face, or he may even say nothing at all while other players accuse him of being the Mutant. In either case, the Storyteller may judge that Alex is trying to convince the group that he is the Mutant. In the first case, he is saying one thing and meaning another. In the second case, he is saying nothing at all but hoping that, because of it, the group will conclude that he is the Mutant. In either case, the Storyteller might execute him.
+<br><br>
+Similarly, even if the Storyteller doesn’t spot Alex telling anyone that he is an Outsider, but an evil player comes up to the Storyteller in private and says, “Alex told me he is the Mutant,” then that’s evidence enough that he’s trying to convince the group that he is the Mutant, so the Storyteller can execute him.
+</div>
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Cerenovus’ ability tells a player that they should be mad about being a specific character or else they might be executed. The Cerenovus chooses Sarah to be mad about being the Sage, so Sarah should do her best to convince the group that she is the Sage, or else she risks being executed.
+<br><br>
+Sarah simply sits there and says nothing, so she has certainly acted the way a Sage would act—staying quiet—but she has not tried to convince the group that she was in fact the Sage. Something much more convincing would be required—a great start would be saying “I’m the Sage. I lied about who I was yesterday so that the Demon would attack me, but alas, it didn’t work. But, yes, no lies, I am the Sage.” Instead, Sarah stays quiet, and because the Storyteller believes that Sarah isn’t trying very hard to convince people that she is the Sage, the Storyteller is free to execute her.
+</div>
+
+'''Players are never forced to be mad.''' Players may say whatever they want at any time—they are never compelled to say anything they do not wish to say. With madness, however, they are incentivized to say particular things and disincentivized to say others. If a player flat out says, “I am mad,” or otherwise heavily implies it, then the Storyteller can give them the appropriate penalty or remove the appropriate benefit. This kind of statement is usually a player’s way of saying “I do not wish to be mad about this thing, and I would rather take the penalty.” Even if a player merely implies that they are mad, that counts.
+
+'''A previously mad player can talk about it without penalty.''' Once they are no longer mad, players can let the group know that they were mad without suffering the consequences. For example, a player that was picked by the Cerenovus two nights ago, but not last night, can happily tell the group this without fear of execution. A dead Mutant no longer has their ability, so need not fear its consequences.
+
+'''You, the Storyteller, are the final judge about who is and who is not behaving madly.''' There are no rules about what must or must not be said. What matters is what you think the player is trying to do.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Returning to the Mutant example above, if you think that the player is genuinely trying to convince the group that they are not the Mutant, they are not mad about being the Mutant. But if you think they are trying to convince the group that they are an Outsider, however subtly, then it’s curtains for them. Execute them at will.
+<br><br>
+Returning to the Cerenovus example above, if you think that the player instructed to be mad by the Cerenovus is genuinely doing their best to convince the group (verbally) that they are the Sage, then they are mad that they are the Sage, and therefore safe. But if you believe that they are just half-heartedly saying a few token words, and that they pretty much expect to be disbelieved, or even if you think that they are doing their best to be disbelieved, then they pay the penalty of being executed at your leisure.
+<hr />
+Generally, be firm in your judgment. If players come to believe that all they need to do is put in a half-assed effort to avoid the madness penalty, then that’s what they will do. It’s not the end of the world if this happens, but the fun in being mad is in being incentivised to spread lies and misinformation to your own team and to not be able to own up to it until you are sane again!
+</div>
+
+'''Advanced players should know how to play madness well''', while beginner players may be confused. Take this into consideration when deciding whether or not to penalize a player for madness.
+
+For example, if Abdallah, an advanced player, is instructed to be mad about being the Flowergirl, then he better be telling the group which days the Demon voted and did not vote. If Abdallah was truly the Flowergirl and had revealed his character to the group, there would be little reason for him to withhold his Flowergirl information. Abdallah is an advanced player, so he should not be getting any free passes. If he puts in a solid effort in convincing the group he actually is the Flowergirl, then he lives!
+
+'''Beginner players should be given a little more leeway.''' As long as you believe they are putting in a genuine effort to convince the group, then you can be more forgiving. Players don’t have to actually convince anyone in order to count as mad... they just need to put in a sincere-looking effort.
+
+	</div>
+
+</div>

@@ -1,0 +1,93 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_doomsayer.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Fabled|Fabled]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"And on the Seventh Day, there shall be a great flood and a pestilence upon the People of the Village of the Ravens! The dead shall rise and the living shall repent! O Woe! O Unholy day! Only by great sacrifice shall they prevail! So sayeth the Sages of Nostros and so sayeth I."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If 4 or more players live, each living player may publicly choose (once per game) that a player of their own alignment dies."
+
+Use the Doomsayer to make large games take less time.
+* The Doomsayer allows players to sacrifice their allies in order to gain information, which shortens the game.
+* Only alive players may use the Doomsayer ability, and each may do so only once per game. It is their responsibility to remember to not use it again.
+* If a player says something like “I use the Doomsayer ability,” then the Storyteller chooses which player to kill, but they must kill an alive player of the same alignment as the player who used the Doomsayer ability. So, if a good player uses the ability, then a good player dies. If an evil player uses the ability, then an evil player dies.
+* Once three players are left alive, the Doomsayer ability may no longer be used.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At any time, declare that the Doomsayer is in play. Add the Doomsayer token to the Grimoire.
+
+At any time during the day, if four or more players are alive, a player can declare that they wish to use the Doomsayer ability. When this happens, choose one player of the same alignment. The chosen player dies.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+You won’t want to kill the Demon this way, unless the game can continue afterwards for some reason, such as if a Scarlet Woman is in play.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Monk}} uses the Doomsayer ability, and the {{Good|Washerwoman}} dies. Later that day, the {{Evil|Poisoner}} uses the Doomsayer ability, and the {{Evil|Baron}} dies.
+			</div>
+
+			<div class='example'>
+				An evil {{Traveler|Thief}} uses the Doomsayer ability, and the {{Evil|Scarlet Woman}} dies. Later, the {{Evil|Spy}} uses the Doomsayer ability, and the good {{Traveler|Gunslinger}} dies. Later, the Demon uses the Doomsayer ability, and the {{Evil|Spy}} dies.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Explanation ==
+
+The Doomsayer allows players to sacrifice their allies in order to gain information, which shortens the game. Only living players may use the Doomsayer power, and may do so only once per game. It is their responsibility to remember to not use it again.
+
+If a player says something like "I use the Doomsayer Power", then it is your choice as a Storyteller which player to kill, but you must kill a living ally of the player that used the Doomsayer power. So, if a good player uses the power, then a good player dies. If an evil player uses the power, then an evil player dies. 
+
+Obviously, you won't want to kill the Demon this way, unless the game can continue afterwards for some reason, such as a {{Evil|Scarlet Woman}} being in play. Sometimes, it may be best to kill the player who uses the Doomsayer ability. Such cases are rare, but occasionally it may be the best decision to not grant either team a large advantage.
+
+Once 3 players are left alive, the Doomsayer ability may no longer be used.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Fabled]]

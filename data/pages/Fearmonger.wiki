@@ -1,0 +1,155 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_fearmonger.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>09/09/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Beware of gazing long into the Abyss, lest the Abyss also gaze into you."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>Rf4EqoVk_54</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Plague Doctor|plaguedoctor|Good|If the Storyteller would gain the Fearmonger ability, a Minion gains it, and learns this.}}
+{{Jinx|Vizier|vizier|Evil|The Vizier wakes with the Fearmonger, learns who they choose and cannot choose to immediately execute that player.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player."
+
+The Fearmonger creates paranoia about who nominates whom.
+* During the first night, when the Fearmonger selects a player, all players learn this.
+* During other nights, each time the Fearmonger selects a new player, all players learn this. If the Fearmonger selects the same player as previously, the players learn nothing.
+* The players only learn that the Fearmonger has acted, not which player was selected.
+* If the Fearmonger nominates their chosen player, and that nomination results in their execution, the chosen player loses, their team loses, and the game ends.
+* Only the currently chosen player is susceptible to the Fearmonger’s ability. Previously chosen players don’t count.
+* If the chosen player is executed but does not die, the chosen player’s team still loses.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Fearmonger. They point at any player. Put the Fearmonger to sleep. Mark the chosen player with the '''FEAR''' reminder. If the Fearmonger chose a player who wasn’t already marked with the '''FEAR''' reminder, declare that “The Fearmonger has chosen a player.” (''This informs the group that the Fearmonger is alive and has chosen a new player.'')
+
+If the Fearmonger nominates the player marked '''FEAR''', and that nomination results in their execution, declare that the game is over and which team has won.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				On the first night, the Fearmonger chooses the {{Good|Butler}}. All players learn the Fearmonger has chosen a new player. During the day, the Fearmonger nominates the {{Good|Butler}}, and the {{Good|Butler}} is executed. Evil wins. 
+			</div>
+
+			<div class='example'>
+				At night, the Fearmonger chooses the {{Good|Juggler}}. The {{Good|Flowergirl}} nominates the {{Good|Juggler}}, and the {{Good|Juggler}} is executed. The game continues.
+			</div>
+
+			<div class='example'>
+				The Fearmonger chooses the {{Good|Empath}}. The next night, the Fearmonger chooses the {{Good|Soldier}}. The Fearmonger nominates and executes the {{Good|Empath}}. The game continues because the Fearmonger has selected the {{Good|Soldier}}, not the {{Good|Empath}}. 
+			</div>
+
+			<div class='example'>
+				The Fearmonger accidentally chooses the {{Evil|Baron}}, due to the {{Good|Poppy Grower}} being in play. The Fearmonger nominates and executes the {{Evil|Baron}}. Good wins.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* On the first night, choose any player. It is unlikely that you will be able to nominate and execute the player that you want on the first day without knowing which characters are in play, so don't get too fussy about who you choose. You can always change your mind on night two. 
+
+* On the first few days of the game, pay attention to which players are seen as the most suspicious, or are the most likely to be executed. This could be because they are a character that is often killed early in the game, like a {{Good|Clockmaker}} or a {{Good|Slayer}}, or it could be because the player is acting shifty and staying silent about their character. If you can guess which players are likely to be executed the following day, choose that player tonight. This will drastically increase your chances of winning the game via your ability, since that player is likely to be executed by someone - hopefully you. 
+
+* If you have chosen a player that is likely to be executed, pay attention to the Storyteller and how they are acting. If you get a good sense of when nominations are about to be called, you should be able to be the first player to make a nomination, which guarantees that it will be you to nominate the player you chose. 
+
+* If you have chosen a player that is likely to be executed, but you feel it would look too suspicious to be overly-enthusiastic about nominating them, generate discussion that they should definitely be executed, but let the good team decide on who should nominate them. If you are able to make yourself look like a good player, you might be able to convince them (or let them convince themselves) that it should be you to nominate them. 
+
+* If you don't think that you are likely to win via your Fearmonger ability, stop choosing new players each night. The fact that the good team will no longer be learning that the Fearmonger has chosen a player will often lead them to believe that the Fearmonger is dead. As they cast their gaze onto the dead players, trying to figure out which one is evil, they will likely interpret a good player that has given true information as an evil player that has given false information. This strategy works best when all dead players are good. 
+
+* If you don't think that you are likely to win via your Fearmonger ability, choose a new player every night! If the good team is constantly reminded that a Fearmonger is in play, they are much less likely to vote for frivolous-seeming nominations. The more uncertain the good team is, the better for the evil team. Even reminding the good team publicly each day that they should be wary of the Fearmonger can make them reticent to cast their vote on nominated players, even evil nominated players. This strategy works best when there is more than one Minion in play, because if there is only one Minion in play, and the good team knows that the Fearmonger is still alive, they also know that all dead players are good, which is crucial information. 
+
+* If you are an evil player that isn't the Fearmonger, do everything you can to make the Fearmonger look like a good player. Often, the good team will want to find a single good player to make all the nominations, since that player is the most trusted. If you can imply that the Fearmonger is good by claiming to be a {{Good|Washerwoman}} who has learnt their character, or a {{Good|Juggler}} who has confirmed who they are, or even an {{Evil|Evil Twin}} who has died and heavily implied that the Fearmonger is the good twin, or something similar, this will help. If the good team trusts the Fearmonger to be the player most likely to be good, the Fearmonger should be able to nominate each day without suspicion. 
+
+* If you are evil player, even if you are not the Fearmonger, nominate as much as you can get away with. The good team will often want to keep nominations to a minimum, pay close attention to not only the nominated player but also the nominating play, and not have a chaotic mess of too-many nominations to keep track of. If only a few people are nominating each day, and the majority of those players are evil, then the majority of the voting focus will be on good players (assuming that the evil players are not nominating the Demon). 
+
+* It is quite unlikely that the evil team will win directly via the Fearmonger's ability. In most games, the benefit of having a Fearmonger comes from the paranoia and over-cautiousness of the good team when they vote. If you can use this to your advantage by discouraging the execution of evil players, then the Fearmonger has had a large impact on the game, even if it might not seem like it to you. Sometimes, the Fearmonger can win the game for the evil team by a million tiny decisions that the good team are encouraged to make out of fear of what MIGHT happen, not what did happen. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Fearmonger ==
+
+* You start the game knowing that a Fearmonger is in play. This is something. In a one-Minion game, this means that you know three Minions which are not in the game, which is quite useful information to have. In a two Minion game, spending some time to figure out which is the other Minion character can be very helpful, and very achievable. 
+
+* As long as the Fearmonger chooses a new player each night, you know that the Fearmonger is still alive. In a one-Minion game, this will mean that all the dead players are good (since the Demon must also still be alive). Talk to the dead players, and trust what they say. They are on your side, and not only have valuable information to share, but a vote that you can count on. 
+
+* If you can convince the group that you are likely good, nominate every day. It doesn't matter who you nominate, or even if your nominations don't get enough votes. You can even ask the group to suggest who you should nominate each day. What matters is that a good player - you - is making a nomination each day. If you are nominating, and you are trusted, then the Fearmonger is much less likely to be nominating and be trusted. Your nomination is 100% confirmed to not grant evil the win via the Fearmonger ability, since you know you are not the Fearmonger. No other nominating player can give that level of certainty to you. 
+
+* If you are not able to convince the group that you are good and therefore that your nomination can be trusted, work with the group to find to most confirmed good player. Talk to everyone and find out everything you can. Get this player to nominate each day, but discuss which player they should nominate. Of course, the choice is up to them, but having your input and the groups input can go a long way in getting the player that the group thinks is most deserving of execution nominated each day. If the group can decide which player to execute, and the group can decide which player should be the one to make that nomination, and that player is on board with the group's decision, then you can at least focus your attention on who needs to be executed. 
+
+* Discourage frivolous nominations and voting. Only vote for players that you think are evil, but you are also convinced that the nominator is good. 
+
+* Pay attention to any players who seem too keen to nominate. They may be the Fearmonger. 
+
+* Each day, it is usually best to have a number of nominations that exceed the number of evil players. For example, if there are 2 evil players, have at least 3 people nominate. If there are 4 evil players, have at least 5 people nominate. This guarantees that at least one good player is nominating each day. If only evil players are nominating each day, only good players will be dying, and the chance of the good team winning will get smaller and smaller each day.
+
+* It is quite unlikely that the evil team will win via the Fearmonger's ability. It does happen, but it happens far less than the standard win conditions. The bigger danger is the good team becoming paralysed and undecided on who to execute. Too much carelessness can certainly make it likely that the Fearmonger will nominate and execute, but too much concern will mean that the good players don't execute at all. Aim for a nice middle-ground. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

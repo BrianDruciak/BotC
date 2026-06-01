@@ -1,0 +1,87 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_godofug.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Facts</span>
+
+			<span style="display: block; color: black; font-size: 15px; text-align: center; margin-top: 10px;">[[God of Ug|Big Word Mode]]</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Green</td>
+				</tr>
+				<tr>
+					<td>Art</td>
+					<td>Chlo M</td>			
+				</tr>
+				<tr>
+					<td>When</td>
+					<td>19/03/2026</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>"Me go Ug. Too eas- oh no!"</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Ug ==
+"One Ug hat. When wear Ug hat, must speak one sound at a time but vote twice. If fail, pass Ug hat."
+
+The God of Ug make you speak one sound word and not more than that.
+* When the one who wear the Ug hat votes, their vote counts as two votes. Use a real hat if you can.
+* All words that have one sound count. Mash two words with a dash? No can do! If you say just one word with more than one sound, you lose hat.
+* The One With The Big Book picks who wears the Ug hat first. If the one with the hat says a word with more than one sound, or if they take too long to speak, or if this is not fun for them, the One With The Big Book picks a new one to have the hat.
+* Each one may wear the Ug hat. They may say no to the hat if they want. One may have the Ug hat more than once.
+* If the One With The Big Book is not here, use trust. If you catch the one with the hat say a word with more than one sound, say so! And the Ug hat goes bye bye.
+* The One With The Big Book may choose a new one to start each day with the Ug hat, or keep the same one as the last day.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+When the game starts, give the Ug hat to one. If you or one of them catch that one say a word with more than one sound, give the Ug hat to a new one.
+
+If the one who wear the Ug hat votes, it counts as two votes.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+Can be a rule: If wear the Ug hat start to be not fun, keep it to noms and talk with all the sounds in the day.
+</div> 
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Like This ==
+
+			<div class='example'>
+				Ame wear the Ug hat. When nom, she says, “It not me. I think Ben has been talk with the bad guy. He bad.” Ame keep the Ug hat.
+			</div>
+
+			<div class='example'>
+				Lew has the Ug hat. In talk with Jule and Al, Lew say, “I think that you are both good. I am the bird thing that can see one guy when I die. I want the Demon to kill me so that I get the guy and know things to tell you in the day that is next.” The One With The Big Book gives Ab the Ug hat, since the word for the Big Bad That Kill has more than one sound. 
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

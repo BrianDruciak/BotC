@@ -1,0 +1,119 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_cacklejack.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Wire α To wire β. LigHt oN. BuZZer off. GAzOinks! Arms STra1ght. FingER 2 nose. hOooLd stiLL. BoiNgo-banGo! Ha-ha-ha!"</p>	
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each day, choose a player: a different player changes character tonight."
+
+The Cacklejack causes character-changing chaos.
+
+* The Storyteller chooses one player to change character each night. This player can be evil or good, dead or alive.
+* The Storyteller also chooses which character they become. This may be an in-play or a not-in-play character.
+* Each day, the Cacklejack chooses a player that is immune - the Storyteller must choose a different player to change character that night.
+* The Cacklejack may choose publicly or privately, but must choose during the day.
+* Each time a player’s character changes, this is treated as a new instance of that character ability. For example, if a player becomes the Chef on Night 3, they immediately learn how many pairs of evil players there are.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+Each day, the Cacklejack chooses a player. Mark them with the '''NOT ME''' reminder.
+
+Each night, except the first, replace any player’s character token with a different character token. Wake that player. Show the '''YOU ARE''' info token, and their new character token, then put them to sleep.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+Remember that the night order is just a guide. The Cacklejack may act at any point in the night if you need it to.
+</div> 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the day, the Cacklejack chooses Evin. That night, Amy changes from the {{Good|Acrobat}} into the {{Good|Clockmaker}}. Amy learns a 2.
+			</div>
+
+			<div class='example'>
+				During the day, the Cacklejack chooses Abdallah. That night, Julian changes from the {{Good|Drunk}} into the {{Good|Flowergirl}}. Julian does not learn that he is now sober.
+			</div>
+
+			<div class='example'>
+				During the day, the Cacklejack chooses Alex. That night, Lachlan changes from the {{Evil|Leviathan}} into the {{Evil|Shabaloth}}. Lachlan has fun.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are good) ==
+* Talk to everyone! Figure out which players have abilities they’d like to keep, like a powerful {{Good|Fortune Teller}} or a curious {{Good|Amnesiac}}, and choose one of those players with your ability each day.
+
+* Avoid choosing players whose abilities can harm the good team, like the {{Good|Recluse}} or the {{Good|Barber}}, in the hopes that the Storyteller will Cacklejack them into a more helpful character for your team.
+
+* Be intentional about whether your choices are public or private. If you publicly choose the socially trusted Undertaker, the good team is likely to think you’re a good Cacklejack, but the public announcement might tip off the evil team, allowing evil players to deduce that your chosen player is a powerful Townsfolk. If you make your choice privately, you’ll hide it from evil players, but good players will have less incentive to trust you and believe you’re telling the truth about your choice.
+
+* Reflect on who wants to change and who doesn’t, and consider whether this lines up with the characters these players are claiming to be. A {{Good|Clockmaker}} who is begging not to be picked could be evil, or they could be a good player lying about their ability. Similarly, a player claiming {{Good|High Priestess}} who desperately wants to be picked might be a {{Good|Mutant}} or a “You start knowing” character looking to gain additional information from a new ability.
+
+* Each day, ask players if their character changed in the night, in order to figure out who was affected by your ability! If no one is claiming to have changed, it’s possible that an evil player was changed, or a player changed in a way they cannot detect (such as a Townsfolk becoming a {{Evil|Marionette}} or a {{Good|Drunk}}). If a player is claiming to have changed in a way that benefits the good team, it’s more likely they are good.
+
+* Meta the Storyteller. If players are becoming especially powerful good characters, the Storyteller might be signalling that the good team is losing and needs more helpful information. If players are changing arbitrarily, the good team may be on the right track and not need additional help from your ability.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+* If an evil player has changed characters, encourage them to lie and say they’ve become a new good character! If good players are searching for which player changed and can’t find it, they’re more likely to assume that you’re evil, because evil players tend to have more reason to lie about what’s happening. Plus, since the Cacklejack’s ability may create duplicate characters, your evil teammate isn’t at risk of getting in a double claim.
+
+* If a visibly evil character has been created, stay silent and encourage your teammates to lie. If someone is suddenly {{Evil|Cerenovus}}-mad on day 3, convince a Minion to say they were mad on the first 2 days, to hide that the Cerenovus just entered play.
+
+* When good players change, make them seem suspicious and unhelpful. If a good player is claiming to have become the {{Good|Soldier}}, for example, act suspicious of their claim, and say things like, “I don’t think the Storyteller would do that.” 
+
+* On your first few days, publicly pick trusted good players with powerful abilities in order to gain the good team’s trust. After that, privately pick players like the {{Good|Goon}}, the {{Good|Politician}}, or the {{Good|Mutant}}, who can help the evil team by staying the same character.
+
+* Pick randomly, and trust the Storyteller to make changes that benefit your team. 
+
+* Ask good players what character they are, pretending that you’d like to know so you can figure out who you should pick each day. Then, tell your Demon everything you’ve learned so they know who to target at night!
+		</div>
+	</div>
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Travellers]]

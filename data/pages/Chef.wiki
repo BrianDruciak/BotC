@@ -1,0 +1,133 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_chef.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"This evening's reservations seem odd. Never before has Mrs Mayweather kept company with that scamp from Hudson Lane. Yet, tonight, they have a table for two. Strange."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/11398740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-23%2F58269121-44100-2-6c052d168e896.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing how many pairs of evil players there are."
+
+The Chef knows if evil players are sitting next to each other.
+* On the first night, the Chef learns exactly how many pairs of evil players there are in total. A pair is two players, but one player may be a part of two pairs. So, two players sitting next to each other is one pair. Three players sitting next to each other is two pairs. Four players sitting next to each other is three pairs. And so on.
+* The Chef detects evil Travellers just like other character types, but only if those Travellers joined the game before the Chef acts.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+During the first night, wake the Chef. Show the Chef fingers (0, 1, 2, etc.) equaling the number of pairs of neighboring evil players. Put the Chef to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				No evil players are sitting next to each other. The Chef learns a '0'.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Imp}} is sitting next to the {{Evil|Baron}}. Across the circle, the {{Evil|Poisoner}} is sitting next to the {{Evil|Scarlet Woman}}. The Chef learns a '2'.
+			</div>
+
+			<div class='example'>
+				An evil {{Traveler|Scapegoat}} is sitting between the {{Evil|Imp}} and a Minion. Across the circle, two other Minions are sitting next to each other. The Chef learns a '3'.
+			</div>
+
+			<div class='example'>
+				The {{Good|Recluse}} is sitting between the {{Evil|Imp}} and the {{Evil|Poisoner}}. The Chef learns a '1'. Here, the {{Good|Recluse}} is registering as evil for the {{Evil|Imp}}-{{Good|Recluse}} pair, but as good for the {{Evil|Poisoner}}-{{Good|Recluse}} pair.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* At the start of the game, your information is not very useful by itself, but can be extremely helpful when combined with the information of your allies. If you can find an {{Good|Empath}}, or {{Good|Fortune Teller}}, then knowing who is Good or Evil, or who is or is not the Demon, can be very powerful. This is because you know something about their neighbours too. Even learning about a {{Good|Washerwoman}}'s, {{Good|Librarian}}'s or {{Good|Investigator}}'s information can be great. For example, if you know that Evil players are sitting next to each other, and the {{Good|Investigator}} says that either player A or player B is a Minion, you know that a neighbour of player A or B is more likely to be Evil.
+
+* If an {{Good|Undertaker}} sees that an Evil player was executed, you have information about their neighbours. If you got a "0", their neighbours are likely good, but you should be suspicious of them if you learnt anything higher.
+
+* Your information will be most useful towards the end of the game, so remember to be vocal at that point. When just three players are left alive, and you know for a fact that at least one of them is Evil, the knowledge that Evil players are, or are not, sitting next to each other, can decide the fate of the game. Remind the group of your vital information at this point.
+
+* Getting a "0" means that no Evil players are sitting next to each other; look for players who are getting up and whispering with each other during the day. They may be Evil, but remember that they may also just be Good players with secrets to tell.
+
+* If you know that Evil players are not sitting next to each other, and you believe that a particular player is Evil, you know their neighbours are Good. So, if the player two steps away from you is Evil, then the player sitting between the two of you must be Good.
+
+* Getting a "1" or more means that Evil players are sitting next to each other. Pay attention to which players are whispering to each other and forming subtle alliances.
+
+* Getting a "2" can mean that there are two separate pairs of Evil players, or three Evil players sitting in a row. Remember that Evil Travellers count, and this can give you valuable information about their neighbours.
+
+* The {{Evil|Spy}} might not register as an Evil player for your information, giving you an incorrect count. Similarly, the {{Good|Recluse}} might register as an Evil player for your information. For you to be able to trust your information, you will need to do what you can to reveal the existence of a {{Evil|Spy}} or a {{Good|Recluse}} as soon as possible. Simply asking the group if anybody is the {{Good|Recluse}} is sometimes enough. Finding out that a {{Evil|Spy}}  is in play may require you to use your intuition and to pay attention to which players are dying at night. If it looks like the Demon is killing far too efficiently, then a {{Evil|Spy}} may be helping them.
+
+* If the game is a Teensyville game (any game with just five or six players), then the Demon and Minion won't know each other, and will be desperately trying to find out who each other are. Giving false Chef information to the group can trick the Evil players into trusting the wrong people. For example, saying that Evil players are sitting next to each other, when you know that they are not, means that the Demon may reveal themselves to a Good neighbour accidentally, or that a Minion will not vote for their Good neighbour's execution and will vote for the Demon's execution instead.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Chef==
+
+When bluffing as the Chef, there are a few things you should keep in mind:
+
+* You would have received your information on night one, and so should have it from that point onward. You will have been shown a number.
+
+* Claiming that either zero or one pair of evil players are sitting next to each other is usually quite believable. Larger claims, such as two or three pairs of evil players, are statistically more unlikely and therefore less believable. Also, keep in mind that in smaller games, claims that there are two pairs of evil players sitting next to each other won't make sense, as there are only two evil characters in play. In general, even if the {{Good|Recluse}} registers as Evil to the Chef, there can never be more pairs of Evil players in the game then there are Evil players. In Trouble Brewing, the only way to exceed 4 is with Evil Travellers.
+
+* Giving false information to the group can be very confusing to the good team. If the good team thinks that evil players neighbour each other, but they do not (or vice versa), then they will often tear each other apart due to their own suspicions, whilst you sit back and watch.
+
+* Giving true information to the group can confirm some players' alignments, and help the good team figure things out. The upside is that because you have been so helpful, the good team will trust you, and keep you alive. Or, if they think you are evil, then they will often assume that the information you provided to the group was a lie, and then be operating on shaky ground from that point onward. 
+
+* The Chef is a fairly easy character to bluff as. If you are a beginner, pretending to be the Chef can be a way to spread false information to the group, without needing to continually update your information as the game progresses.
+
+* Be wary of the {{Good|Recluse}}! If you know that they're sat next to an Evil player, telling the group that there are Evil pairs may accidentally condemn your teammate to an early grave. If you are or have access to a {{Evil|Spy}}, you may also wish to tailor your information based off the location of the {{Good|Fortune Teller}}'s Red Herring.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

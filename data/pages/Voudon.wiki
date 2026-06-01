@@ -1,0 +1,117 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_voudon.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Bien venu. Sit down. Breathe deep. Enter the land of the dead. See with their eyes. Speak with their voice. Yon sel lang se janm ase."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/69973994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-8%2F328273329-44100-2-ef0cfd2697427.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Only you & the dead can vote. They don't need a vote token to do so. A 50% majority isn't required."
+
+The Voudon gives the voting power to the dead instead of the living.
+* The dead and the Voudon may vote as many times per day as they wish. They do not need a vote token to vote, and do not lose their vote token when they do so. Alive players cannot vote. It is not the case that they may put their hand up but the votes don’t count—their hands must stay down during voting.
+* The number of votes required to execute a player is no longer half or more of the alive players. The player with the most votes is executed each day, but even a single vote is enough to execute a player if no other player gets more votes.
+* The Voudon does not alter who can make nominations. As normal, alive players may make nominations, and dead players may not. Since Travellers are exiled, not executed, all players, alive or dead, may support exiling the Voudon or other Travellers.
+* If a player is about to die and then the Voudon is exiled, that player is still about to die and nominations continue, but alive players vote as normal. If a later nomination gets more votes and it tallies to half or more of the alive players, this new player is about to die instead.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+During votes for execution, only dead players and the Voudon may raise their hand to vote. The dead may vote even if they have no vote token, and voting does not use a vote token. If a nominee gets at least one vote, they are about to die by execution until a different player gets more votes.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There are 12 players alive, and three dead. An alive {{Good|Innkeeper}} nominates the {{Good|Moonchild}}. Of the four players that can vote, three do. All other nominations today get fewer than three votes, so the {{Good|Moonchild}} dies.
+			</div>
+
+			<div class='example'>
+				It is the first day. Only the Voudon can vote, but does not. The players call for the Voudon to be exiled. Five players support the exile, and seven oppose. The Voudon lives.
+			</div>
+
+			<div class='example'>
+				Two dead players vote for the {{Evil|Mastermind}} to be executed. Then, the Voudon, the dead {{Good|Fool}} and the apparently dead {{Evil|Zombuul}} all vote for the {{Good|Gossip}}. The {{Good|Gossip}} is executed. 
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are good) ==
+
+* You start the game extremely powerful, but get less and less powerful as the game progresses. On the first day, you decide who is executed, since you are the only player that can vote. Make the first day your best day, by putting a lot of thought into who you want to die. You have the authority to choose, so kill an evil player if you can. Execute on the first day, no matter what, because if you don't, you won't have the same voting power tomorrow.
+
+* The more evil players that you kill, the more dead evil players will be voting. This means that the best case scenario (for a game with three Minions) after 3 days, is that 3 dead players are evil, and more or less controlling who is executed next. If you suspect that this is the case, call for your own exile, because when you die the voting power goes back into the hands of the living, good players.
+
+* The more good players that die, the more that the good team controls the vote. Sometimes, it might be worth killing players that you suspect of being good just to get a few more good votes and a few less evil votes the day afterwards. This strategy relies on you staying alive, so make sure you have the good team's support. If you don't, remember that they can exile you just as easily as any other Traveller.
+
+* On the final day, remember that the dead have all the power. The living players should be talking to the dead like sleazy politicians campaigning for votes. The living are still the players making the nominations, but more often than not, all living players will be nominated on the final day anyway, which means the dead decide who wins, and who loses. Engage the dead players. Talk to them. Listen to them. Build trust and coordinate with them. Involve the dead players as much as possible, because active dead players are more likely to make good decisions, and passive dead players are more likely to be bamboozled by evil players' lies and vote counter-productively.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+
+* For the first few days of the game, you will have enormous power to get good players killed. On the first day, you can kill any good player of your choice, since you are the only voting player. On the second day, with 2 or 3 players voting, you still have a strong possibility of swinging the votes you don't like in the direction of players you want to die, and not those you don't. From the third day onward, your personal voting power is much the same it would be in an ordinary game. Use those first two days wisely by getting as many good players killed as possible, and by killing specifically the players that will cause the most trouble if left alive.
+
+* If you have done your job well and all the dead players are good, you can call for your own exile - once you die, only the living may vote again as normal. This means that the voting power is once again in the hands of the evil players! Double whammy.
+
+* Alternatively, you can kill an evil player or two in the first few days. This will mean that the evil team controls the voting process by sheer numbers in the mid-game, which is very powerful. With just 3 evil players and 3 good players voting, for example, it will be impossible for the good team to execute who they want to. Even with 2 evil players voting and 4 good players voting, good will need to coordinate extremely well to offset the enormous sway of the evil voting bloc. When you are the Voudon, death is not the end for evil players... many become significantly more influential.
+
+* Engage the dead as much as possible, but discourage them from taking an active part in figuring out who is who. If YOU are the only person that really cares what the dead think, and you act as the coordinator between the dead players, who do you think that they will vote for on the final day? The player that you told them to vote for. Many living players only communicate with the living players. This is a mistake, but doubly so when the Voudon is in play, because the dead hold all the power. If you arrange things so that the living players are doing all the talking, and the dead are sitting there passively (or talking among themselves, or just to you), then the massive power of the dead will be overlooked, and they will vote foolishly. Ignore the living players, and make the dead players your friends and confidants, and victory is assured.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

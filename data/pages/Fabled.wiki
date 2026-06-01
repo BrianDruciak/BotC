@@ -1,0 +1,97 @@
+<div class="row">
+
+<div class="small-12 large-12 columns">
+
+Fabled are characters for the Storyteller. They’re more like special rules than characters all on their own. They cannot be killed and they alter the game itself. Fabled characters are not extra spice to alter a game for the sake of a twist - they help the Storyteller to run more balanced, more inclusive games and to solve real-world issues that may arise.
+
+For example, if a player has an intellectual disability that would normally mean they couldn’t understand the game rules or communicate with the group, a Fabled can allow them to join in. If a new player is worrying they will die early, a Fabled can protect them. If there are too many players for the time available, a Fabled can make the game run faster. If someone is shy or soft-spoken and has trouble getting the group’s attention, a Fabled can give them the floor without interruption. If the game needs to end earlier than expected, a Fabled can decide a winner. If you’ve made your own character list using the Script Tool, a Fabled can help make it more fun.
+
+__TOC__
+
+== How To Run ==
+
+'''Use the Fabled only when you need them.''' They can be incredibly useful in making your games more enjoyable and accessible to players of all sorts, but adding them willy-nilly to every game is unnecessary and gets old quickly.
+
+'''To include a Fabled in your game,''' simply choose one, tell the group which Fabled is in play, and put the Fabled character token in the center of the left side of the Grimoire as a reminder about what the character does. Some Fabled are added at the start of the game, while others can be added and removed at any time. You may add multiple Fabled if you wish.
+
+'''The Fabled cannot die or lose their ability.''' You are the Storyteller, not a player, so your Fabled are immune to all game effects, including death, drunkenness, and poisoning. 
+
+'''Like Travellers, the Fabled do not count as players for the "two players remain alive" victory condition for the evil team.'''
+
+== Social Interactions & Accessibility ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_angel.png|250px|thumb|center|link=Angel]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Angel}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_buddhist.png|250px|thumb|center|link=Buddhist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Buddhist}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_doomsayer.png|250px|thumb|center|link=Doomsayer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Doomsayer}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_fiddler.png|250px|thumb|center|link=Fiddler]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Fiddler}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_hellslibrarian.png|250px|thumb|center|link=Hell's Librarian]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Hell's Librarian}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_revolutionary.png|250px|thumb|center|link=Revolutionary]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Revolutionary}}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_toymaker.png|250px|thumb|center|link=Toymaker]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Toymaker}}</p>
+	</div>
+</div>
+
+== Custom Scripts ==
+
+<div class="row">
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_djinn.png|250px|thumb|center|link=Djinn]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Djinn}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_duchess.png|250px|thumb|center|link=Duchess]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Duchess}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_fibbin.png|250px|thumb|center|link=Fibbin]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Fibbin}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_sentinel.png|250px|thumb|center|link=Sentinel]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Sentinel}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_spiritofivory.png|250px|thumb|center|link=Spirit of Ivory]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Spirit of Ivory}}</p>
+	</div>
+</div>
+
+== Experimental ==
+
+<div class="row">
+
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_deusexfiasco.png|250px|thumb|center|link=Deus ex Fiasco]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Deus ex Fiasco}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_ferryman.png|250px|thumb|center|link=Ferryman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Ferryman}}</p>
+	</div>
+</div>
+
+</div>
+</div>

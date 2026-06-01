@@ -1,0 +1,153 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_dreamer.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Caitlin Murphy</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I remember the Clockmaker. The sky was red and it was raining fractal triangles. There was a smell of violets and a bubbling sound. A woman with glowing eyes and a scraggly beard was hissing at the sky. Then, I awoke."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/23936593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-14%2F137739790-44100-2-e44d9bd4c207b.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct."
+
+The Dreamer learns players' characters, but is not sure if their information is entirely correct.
+* Each night, the Dreamer chooses a player and learns two characters—one that the player is, and one that the player isn’t.
+* The false character token depends on the chosen player’s true character type. If the Dreamer chooses a player who is a Townsfolk or Outsider, the false character token is any Minion or Demon. If they choose a player who is a Minion or Demon, the false character token is a Townsfolk or Outsider.
+* The Dreamer may not choose themself, and may not choose a Traveller.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Dreamer. They point at any player. If the chosen player’s character is a Townsfolk or Outsider, show their character token and any Minion or Demon token to the Dreamer. If the chosen player’s character is a Minion or Demon, show their character token and any Townsfolk or Outsider token to the Dreamer. Then, put the Dreamer to sleep.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If the Dreamer chooses an evil player, you can help the evil team if you show the Dreamer the good character that this evil player is bluffing as, or if you show a more secretive character such as the Snake Charmer, Sage, Mutant, or Klutz.
+</div>
+
+<div id='example'>
+
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Dreamer chooses a player who is the {{Good|Mutant}}. The Dreamer learns that this player is either the {{Good|Mutant}} or the {{Evil|Cerenovus}}. 
+			</div>
+
+			<div class='example'>
+				The Dreamer chooses a player who was the {{Good|Philosopher}} but gained the {{Good|Flowergirl}} ability earlier that night. The Dreamer learns that this player is either the {{Good|Philosopher}} or the {{Evil|Vigormortis}}.
+			</div>
+
+			<div class='example'>
+				Today, both the {{Evil|Evil Twin}} and the {{Good|Artist}} claimed to be the {{Good|Artist}}. That night, the Dreamer chooses the player who is the {{Evil|Evil Twin}}. If the Storyteller wanted to help the good team, they could show the {{Evil|Evil Twin}} and the {{Good|Sweetheart}}. But the Storyteller decides to help evil, so they show the {{Evil|Evil Twin}} and the {{Good|Artist}} to the Dreamer.
+			</div>
+
+			<div class='example'>
+				The Dreamer chooses a player who is the {{Evil|Vortox}}. The Dreamer's information must be false because the {{Evil|Vortox}} is in play, so the Dreamer learns that this player is either the {{Good|Oracle}} or the {{Evil|No Dashii}}.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Every time you choose a player, you learn a potential evil character that they could be. Pay close attention to these, because they give you a surprising amount of information even if they are wrong. For example, any player who registers as a Minion cannot be a Demon, so you can exclude them from your list of potential suspects. 
+
+* Your ability is a fantastic detector for the {{Evil|Vortox}} and {{Evil|No Dashii}}, because unlike other players, it can be very easy to confirm if your information is correct or not. If you get one player who doesn't add up, be suspicious. If you get ''three''? It's time to look at other options.
+
+* Try to choose players who are not close to you. If you are neighbouring a {{Evil|No Dashii}}, you will be poisoned, and your information will favor the Demon. By choosing someone further away from you in the town, you're much less likely to hit an evil player early and get unreliable information about them. (Feel free to revisit your neighbours in the future though!)
+
+* Giving your information tends to be more powerful in the early game rather than later. Fewer people will have publicly stated their character, and since an evil pair often needs time to coordinate, you'll have a better chance of proving you are a good player.
+
+* When swapping your information with your chosen target, be careful not to reveal your information first. If you are dealing with an evil player, telling them a potential good character might be feeding them a bluff. Instead, have them reveal to you and see if your information aligns with their claims.
+
+* Revealing your information first when swapping information will conclusively prove to the player you're speaking to that you are the Dreamer... providing your information is good. This will allow them to put a lot of trust in you right away, because it's very difficult to have that information otherwise.
+
+* Encourage players to not reveal who they are in the early game. If people come out with who they are, you can still check their claim, but it's much harder for you to confirm yourself if everyone is open about who they are from the get go!
+
+* Check people who you think are lying, not those you think are telling the truth. Catching players out in a lie is awesome, because you'll know what evil player they are and can decide right then and there if you want them dead.
+
+* Check players whom you think are telling the truth; not only does this enable you to back up players whom you trust, but if your information is differs from what you expect, then you can be suspicious that it has been tampered with.
+
+* You should never receive information about a {{Evil|Vortox}}, because the {{Evil|Vortox}} forces all information received by good players to be false. This means that if the {{Evil|Vortox}} is play, your information about them will be incorrect, so you will always receive a different evil character. 
+
+* If you have an {{Evil|Evil Twin}}, don't bother checking them. You will receive the Good Twin's character and the {{Evil|Evil Twin}} for both players, which is... not very useful. One exception: You can check for {{Evil|Vortox}} this way, since the information would have to be false!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Dreamer ==
+
+When bluffing as the Dreamer, there are a few things you should keep in mind:
+
+* The first day is the toughest. If you reveal who you are early on the first day. you will be doing so before they have revealed who they are. It is easier to select a fellow evil player, and hope that they are savvy enough to co-operate with your bluff. This can be especially successful if you are the Demon, since you know three not-in-play good characters to suggest. For example, if you claim to be the Dreamer, and you claim that your Minion is either the {{Good|Town Crier}} or the {{Evil|Fang Gu}}, it looks like you are in fact the Dreamer if they claim to be the {{Good|Town Crier}}.
+
+* If you have chosen a player, and you don't know which character they are, encourage them to reveal who they are, then nod sagely and say 'as I expected', or otherwise confirm them. Good players rarely bluff, so will often reveal their actual character if nominated, or simply asked.
+
+* Pretend to have chosen players that have already revealed themselves to the group. This way, you make yourself look good to that player. For example, if you tell the {{Good|Clockmaker}} that they are either the {{Good|Clockmaker}} or the {{Evil|Vigormortis}}, the {{Good|Clockmaker}} is more likely to think that you are good than if you had told them that they were either the {{Good|Juggler}} or the {{Evil|Witch}}.
+
+* If you want to make good players look shady, at the risk of making yourself shady too - but hopefully less shady, then you can reveal that you learnt that they were a secretive character, one that would not want to reveal who they are to the group, such as the {{Good|Sage}} or the {{Good|Mutant}}, {{Good|Sweetheart}}, or {{Good|Klutz}}. Even after the good player denies being one of these characters, the good team may think that you are indeed the Dreamer, who has gotten useful information.
+
+* If you are claiming that a player might be a particular Minion, make sure that you know which Minion is in play, because that is the Minion you want to suggest. For example, if only one Minion is in play, and all players know that Minion is the {{Evil|Witch}} because a player has already died by nominating, claiming that a player is either the {{Good|Flowergirl}} or the {{Evil|Cerenovus}} doesn't make you look trustworthy. The Storyteller should almost always show real Dreamers in-play Minions, so as to confuse the Dreamer.
+
+* When giving information about good players, tend toward revealing that they are possibly a Demon over possibly being a Minion. Good players are more suspicious of possible Demons, and are more likely to execute them.
+
+* When giving information about evil players, try revealing that they are possibly a Minion over possibly being a Demon. Good players are less suspicious of possible Minions, and are less likely to execute them than if they thought they were a possible Demon.
+
+* Wait for a few days before revealing that you are the Dreamer. This gives you some time to get your story straight.
+
+* Never say that you learnt a player was possibly the {{Evil|Vortox}}! If a {{Evil|Vortox}} was actually in play, then the Dreamer could never learn that a player was possibly the {{Evil|Vortox}}, since all Dreamer information would be false.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

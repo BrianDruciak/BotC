@@ -1,0 +1,143 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_grandmother.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Take a jacket if you go outside, dearie. And your thermos. And your scarf. I have a weak heart, you know. Whatever would I do if you caught cold...or worse?"</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/54362016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-4%2F274871541-44100-2-f07ecc0b8e7c6.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|If the Leviathan is in play and the Grandchild dies by execution, evil wins.}}
+{{Jinx|Riot|riot|Evil|If Riot is in play and the Grandchild dies by execution, evil wins.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing a good player & their character. If the Demon kills them, you die too."
+
+The Grandmother knows who their grandchild is, but if they are killed by the Demon, the Grandmother dies too.
+* During the first night, the Grandmother learns their Grandchild—a good player who is a Townsfolk or Outsider. The Grandchild does not learn that they have a Grandmother.
+* If the Demon kills the Grandchild, the Grandmother dies too. If the Grandchild dies by any other means—such as execution, or another type of death at night—the Grandmother does not also die.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+When preparing the first night, choose a Grandchild by marking any good character with the '''GRANDCHILD''' reminder.
+
+During the first night, wake the Grandmother and show them the character token marked '''GRANDCHILD''', then point at the Grandchild player, then put the Grandmother to sleep.
+
+If the Demon kills the Grandchild, the Grandmother '''dies''' - mark them with the '''DEAD''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the first night, the Grandmother wakes and learns that Julian, their Grandchild, is the {{Good|Professor}}. Three nights later, Julian is killed by the Demon, so the Grandmother dies too.
+			</div>
+
+			<div class='example'>
+				The Grandmother knows that Lewis, their Grandchild, is the {{Good|Gambler}}. Lewis gambles and dies because of it. The Grandmother remains alive.
+			</div>
+
+			<div class='example'>
+				The Grandmother knows that Sarah, their Grandchild, is the {{Good|Tinker}}. Sarah is killed by the Demon, but the Grandmother is drunk because of the {{Good|Sailor}}, so the Grandmother remains alive.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Protect your beloved grandchild! They are almost certainly good, and that is a certainty that is rare and precious in Bad Moon Rising. Also, if they're killed by the Demon, you will die too - extra motivation! 
+
+* Talk to your grandchild, feed them cookies, and get them to trust you! Unlike similar characters like the {{Good|Washerwoman}}, your information is so absolute since you only learn one player and their identity - there's no benefit to getting them to admit who they are first unless you ''sincerely'' doubt your sobriety. When you get a chance, reveal that you know their character and how, and you will have a lot of trust from the get go.
+
+* Don't reveal the identity of your grandchild to anyone! If the evil team know how you are connected, they'll absolutely want to kill them and score your death as a free bonus. Keep them secret to keep them safe.
+
+* Reveal your identity and your grandchild early to a couple of players. This has a couple of bonuses - if these people are trustworthy, they will know to trust you and your grandchild in turn. However, if you and your grandchild suddenly die, you can look at these players with great suspicion - it's possible that one of them is actually the Demon! (If you suspect you're talking to evil players, you don't have to tell them who your ''real'' grandchild is...)
+
+* There are many ways to build trust with the good team using your information! 
+** Encourage protective characters to cover your grandchild. If you know the identity of an {{Good|Innkeeper}}, or your grandchild is close to a {{Good|Tea Lady}}, try getting things set up so that your grandchild can be covered at night, keeping both of you safe. 
+** Similarly, you can warn away players like the {{Good|Sailor}} and the {{Good|Exorcist}}, who will be making your grandchild drunk OR just wasting their ability on someone you know for certain is good. 
+** Finally, you can encourage the {{Good|Gambler}} and the {{Good|Chambermaid}} to use their abilities on you or your grandchild, expanding the circle of trust when your information lines up!
+
+* If you and your grandchild are the only ones to die at night, you probably died because of your ability. If you suspect this is the case, make sure to let the good team know, as otherwise two deaths at night is an early indicator that the deadly {{Evil|Shabaloth}} or {{Evil|Po}} is lurking, when in fact the {{Evil|Zombuul}} or {{Evil|Pukka}} are still very viable options.
+
+* Don't talk to your grandchild right away. Whispering together, especially in the early days of the game, will attract both good and evil attention, and a Demon may just pick you two off on suspicion that you're Grandmother and grandchild.
+
+* Reveal to the group that you are the Grandmother, but without saying which player your grandchild is. For example, you can simply say "I am the Grandmother, I know there is an {{Good|Exorcist}} in the Town", or something similar. This lets the group know that you are a Townsfolk character, and also lets them know to expect an {{Good|Exorcist}} to reveal themselves at some stage
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Grandmother ==
+
+When bluffing as the Grandmother, there are a few things you should keep in mind:
+
+* The easiest way to bluff as the Grandmother is to claim that you are the Grandmother, and claim that an evil player is your grandchild. You probably won't want to do this on the first day, since most Grandmothers take a day or two to reveal their information. Waiting a day or two also gives your fake grandchild a chance to tell the group who they are, so you can copy them. Or, you can simply say that you are the Grandmother, declare that an evil player is a particular good character, and hope that they see what you are doing, and claim to be that character too.
+
+* Convince a good player that you are their Grandmother. This is easiest to do if the good player has revealed their character to you beforehand, or revealed their character publicly. If you know their character, you can tell the group the same thing. If you don't know their character, you can have a guess... or refuse to say anything at all.
+
+* Ask your fellow evil players to secretly find out which good players are which, and to get this information back to you. Once you know the identity of a good player without that good player knowing that you know, it is much easier to convince them that you are their Grandmother.
+
+* Bluff as the grandchild! You can claim to be a good character and still claim to be the grandchild. Tell the group that the Grandmother has approached you privately, and you trust them completely. Hopefully, an evil player will later claim to be the Grandmother and corroborate your story. 
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

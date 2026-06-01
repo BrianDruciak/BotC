@@ -1,0 +1,92 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_ventriloquist.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Loric</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Lachlan Bastiaen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>12/02/2026</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>"Well, folks, gather ‘round! This here’s my pal Charlie, and he’s got a mouth on him that’d make a mule blush. But don’t worry folks, I do all the talkin’... or do I?"</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If a player is mad as a fresh character during their nomination, they might not die if executed today."
+
+The Ventriloquist rewards players for lying about who they are.
+* Being "mad as a fresh character" means to claim to be a character that is different to a character that you have previously claimed to be.
+* A player benefits from the Ventriloquist only if they are mad as a fresh character during the time that they are nominated.
+* It doesn’t matter what their real character is. Players may be mad as a fake character then later mad as their real character, mad as their real character then later mad as a fake character, or mad as two fake characters.
+* If the player does not die, they learn this after the execution happens. They don’t learn whether it was due to the Ventriloquist or not.
+* The Storyteller judges whether the player is mad or not, and might let them die even if they were convincingly mad.
+* This can protect the Demon, but the Storyteller will not protect the Demon if that means that evil wins.
+* A player is only protected from dying on the same day that they were mad as a fresh character. 
+
+
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+When a player is nominated, before the vote is completed, if they are mad as a character that is different from a character they have been mad as previously, even if either character is their true character, and that player becomes '''about to die''', mark them with the '''MAD''' reminder.
+
+If an execution occurs, and the executee is marked '''MAD''' due to the Ventriloquist, declare that they are executed and you may declare that they do not die.
+
+</div> 
+
+		</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Abdallah is the {{Good|Gambler}}. On the 1st day, he is mad that he is the {{Good|Gambler}}. When nominated, he is mad that he is the {{Good|Hatter}}. Later that day, Abdallah is executed and does not die.
+			</div>
+
+			<div class='example'>
+				Marianna is the {{Good|Professor}}. She has been claiming to be the {{Good|Empath}} all game. When nominated, she claims to be the {{Good|Huntsman}}. When executed, Marianna does not die.
+			</div>
+
+			<div class='example'>
+				Julian is the {{Good|Hermit}}. Julian is quiet for 3 days. When nominated, Julian is mad as the {{Good|Knight}}, and says that Evin and Alex are not the Demon. When executed, Julian dies, because he was not mad as a fresh character.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

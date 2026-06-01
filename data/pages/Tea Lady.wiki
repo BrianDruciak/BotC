@@ -1,0 +1,119 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_tealady.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>	
+				</tr>
+			</table>
+
+			<p class='flavour'>"If you are cold, tea will warm you. If you are too heated, tea will cool you. If you are depressed, tea will cheer you. If you are excited, tea will calm you."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/43401976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-15%2F231294105-44100-2-662e0f80f9778.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If both your alive neighbors are good, they can't die."
+
+The Tea Lady protects her neighbours from death... as long as they are good.
+* If both alive neighbours  of the Tea Lady are currently good, those neighbours cannot die. The Demon cannot kill them, nor the Godfather, nor the Gossip. If they are executed, they do not die. The only exception is the Assassin, who can kill someone protected from death.
+* The Tea Lady’s alive neighbours are the two alive players closest to the Tea Lady—one clockwise and one counterclockwise. Skip past any dead neighbours.
+* However, if either alive neighbours is evil, or both are, then the Tea Lady does not protect her alive neighbours . If an evil player dies and the Tea Lady is now neighbouring two good players, then neither can die.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+If both alive neighbours of the Tea Lady are good, mark those neighbours’ character tokens with the Tea Lady’s '''CANNOT DIE''' reminders. If either alive neighbour of the Tea Lady is evil, remove these reminders. Update these reminders immediately based on this condition throughout the entire game (''such as if a player’s alignment changes'').
+
+If a player marked '''CANNOT DIE''' would die, they remain alive. If a player marked '''CANNOT DIE''' is executed, declare that the marked player is executed but remains alive. (''Do not say why.'')
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Tea Lady starts the game neighbouring the {{Evil|Mastermind}} and the good {{Good|Goon}}. The {{Evil|Mastermind}} is executed and dies. Now, the Tea Lady's alive neighbours are the good {{Good|Goon}} and the {{Good|Courtier}}. The Demon attacks the {{Good|Courtier}}, but the {{Good|Courtier}} remains alive. Later, the {{Good|Goon}} turns evil, and the Demon attacks the {{Good|Courtier}} again. This time, the {{Good|Courtier}} dies.
+			</div>
+
+			<div class='example'>
+				The Tea Lady's alive neighbours are a good {{Traveler|Matron}} and a good {{Traveler|Judge}}. The {{Traveler|Matron}} is exiled but remains alive.   
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Tea Lady is a powerful protector, but is vulnerable themselves. Deciding when and who you should reveal to will decide the strategies that you implement for each game moving forward. Revealing right away can help you coordinate executions on your neighbours early (best case scenario: confirming two good players), but will expose you to the evil team. Staying quiet or playing cautiously can make it harder to confirm information, but you will survive longer and could trick the demon into targeting your protected neighbours, wasting a precious kill. There's no right or wrong way to play - judge for yourself which strategy will play out best for the game you are in!
+
+* Execute your neighbours! If both your neighbours are good, they cannot die. The quickest and easiest way to test this is to execute - if they don't die, there's a good chance that it was your ability that saved them. Avoid characters who have immunity to execution normally (e.g. {{Good|Sailor}}, {{Good|Fool}}) as they will muddy the waters. You should also be cautious of the {{Evil|Devil's Advocate}}, who could mistakenly trick you into believing that an evil neighbour is actually good by timing their ability with your execution. Finally, be aware of the {{Good|Pacifist}} - while they're alive, the storyteller may choose to spare any good executees, which is indistinguishable from your ability activating.
+
+* You can also choose not to be proactive at all - instead, reveal nothing and wait to see how it plays out! This gives you the security of the demon not knowing who you are for certain, which can grant advantages to you based on the composition of your neighbours. If you have two good neighbours for example, the demon might attack them at night in their ignorance. For any other scenario, you must have at least one evil neighbour, which you will know for sure if any of your neighbours die, and can then choose to reveal once you have a suspect in mind. (Particularly potent versus characters like the {{Evil|Zombuul}}, who might choose to 'die' early, not realizing that you are their neighbour and they should not be able to!)
+
+* Build trust with your neighbours. Even before they have been confirmed as good, you should be encouraging them to work with you - after all, if they can prove that they're both good, then you can trust that your ability will be active and protecting them. In smaller games where executions are more precious, this can be critical in helping you rally the good team without necessarily having to spend time killing your neighbours to prove they are good.
+
+* Whatever strategy you use, you can switch it up every time a neighbour dies, particularly if you believe that neighbour was the evil one. Your ability extends around to the closest living players, so every time you lose a player, you gain a player, and this time you may actually have two good neighbours! Beware though - as the game goes on, the chances of you acquiring an evil neighbour will get higher and higher. In the final days, you probably should assume that ''someone'' near you is evil unless you have strong evidence to the contrary.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Tea Lady ==
+
+When bluffing as the Tea Lady, there are a few things you should keep in mind:
+
+* If both your living neighbours are good, do your best to get one or both of them executed. If the good team believes that you are the Tea Lady, they will usually be keen to execute your neighbours to gain information on their alignment. Keep doing this, if you can, until you run out of good living neighbours.
+
+* If 1 or both of your living neighbours are evil, it is best to play it safe and campaign to keep your living neighbours alive. The good team wants to kill the Demon more than they want to kill willy-nilly, so you have some leeway.
+
+* Choosing when to reveal that you are the Tea Lady is crucial. If you reveal too early, the good team may wonder why you are still alive after 4 or 5 nights of the Demon killing other players. If you reveal too late, the good team may be suspicious that you were being too silent. Find the sweet spot in the middle.
+
+* If a {{Evil|Devil's Advocate}} is in play, get them to pick one of your living neighbours, then execute that player the following day. That will look exactly like you are the Tea Lady, who's ability has saved a good player. If you use this strategy, make sure that looking good is actually what you want. If you look like the Tea Lady, and you convince the group that both your living neighbours are good too, then the good team will be keen to execute anybody except the three of you.
+
+* If the group believes you are the Tea Lady, you need to direct the executions in way that is helpful to you. Chewing through players and getting closer and closer to the Demon can be dangerous. It is usually better to execute clockwise, if the Demon is close to you in an anti-clockwise direction, and to execute anti-clockwise if the Demon is close to you in a clockwise direction.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

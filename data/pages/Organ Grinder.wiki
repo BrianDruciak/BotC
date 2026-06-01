@@ -1,0 +1,151 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_organgrinder.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>23/03/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Round and round the handles go. The more you dance the less you know."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>Ku_V4l1cICo</youtube>	
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Alchemist|alchemist|Good|If the Alchemist has the Organ Grinder ability, the Organ Grinder is in play. If both are sober, both are drunk.}}
+{{Jinx|Butler|butler|Good|If the Organ Grinder is causing eyes closed voting, the Butler may raise their hand to vote but their vote is only counted if their master voted too.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk until dusk."
+
+The Organ Grinder makes voting secret.
+* When a player is nominated, players vote with eyes closed.
+* The Storyteller does not count the votes out loud, and does not reveal how many players voted once voting is complete.
+* The Storyteller doesn’t reveal which player is “about to die”.
+* After nominations have closed, the Storyteller reveals which player is executed, as normal.
+* Dead players may vote once if they have a vote token. Their vote token is removed at the end of the day instead of after the vote.
+* If the Organ Grinder is drunk, the vote happens with eyes open, as normal. The Storyteller makes no comment as to whether the Organ Grinder is dead or alive. That night, the Organ Grinder chooses to become sober or drunk again.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+Each night, wake the Organ Grinder. The Organ Grinder either nods or shakes their head. If they nod their head, mark them with the '''DRUNK''' reminder. Put the Organ Grinder to sleep.
+
+When a player has been nominated and a vote is just about to begin, and the Organ Grinder is sober, ask all players to close their eyes. If they ask why, tell them that an Organ Grinder is in play. When counting votes, do so silently. Afterwards, do not reveal how many players voted, nor if the nominee is “about to die”. If there were enough votes to execute the nominee, mark them with the '''ABOUT TO DIE''' reminder. Ask players to open their eyes, and if there are any more nominations.
+
+When nominations are closed, declare that the player marked '''ABOUT TO DIE''', is executed.
+
+Each dusk, remove the '''DRUNK''' reminder.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Players are not allowed to use other methods to determine who is voting, such as touch or sound. It is a secret.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There are 8 players alive. The {{Good|Noble}} is nominated. All players close eyes to vote and the {{Good|Noble}} gets 5 votes. The {{Evil|Imp}} is nominated. All players close eyes to vote and the Imp gets 7 votes. The {{Good|Pixie}} is nominated. All players close eyes to vote and the {{Good|Pixie}} gets 4 votes. After nominations close, the Storyteller declares that Doug (the {{Evil|Imp}}) is executed and dies, and that good has won.	
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Consider carefully if you ever want to get yourself executed. Bearing in mind that when you die, it’s likely you’ll be outed as the Organ Grinder because votes will suddenly become open. Maybe you think your Demon might be executed instead if you don’t get enough votes yourself? Maybe your Demon is the one leading the charge against you and getting executed at their behest will convince town that they’re most likely good?
+
+* Consider when you’re going to claim to have voted - you can’t afford to claim too wildly about when you’ve voted and when you haven’t, as the good team will work out that something is awry when the votes claimed don’t line up with actual executions. It’s often best to only lie about who you’ve voted for at crux moments so you can hide among the masses.
+
+* Don’t feel the need to vote for people you don’t want executed in order to blend in. No-one knows who you’re voting for, so you never need to vote for an evil player in the entire game if you don’t want to!
+
+* Try to create situations where there are lots of nominations in a day. The good team will struggle to try and keep track of all the votes that happen and which ones they did and didn't vote on which will give Evil players to bluff being confused as well.
+
+* Lie with abandon about when you’ve voted! No-one can know for sure who’s the one lying among the group, you’re only one vote among several that had to vote a given way for anyone to be executed, so you can just say whatever you like about voting to suit your agenda.
+
+* Remember that you don’t know who’s been voted for and put on the block either. Be wary of any nomination of your Demon as you can never know if there was actually a groundswell of support for their execution that you hadn’t expected and they might now be on the block.
+
+* Coordinate votes with your evil team - while you don’t have a majority in votes, the good team not being able to coordinate as easily means that uniting together behind certain nominations might allow you to swing executions in your favour, especially if your whole team is alive in the mid-game.
+
+* Be wary of endgame. If the game goes to a final three and the good team are pretty certain that you are the Organ Grinder, then they’ve got a 50/50 between the other two living players as to which is the Demon. Do your best to continue to obfuscate that fact in the endgame - you very much need to still be a viable Demon candidate in final three or your chances aren’t great! This might be a good reason to vote for yourself on the penultimate day - yes your ability goes out of play, but it’s an execution on someone who isn’t your Demon and it leaves three Demon candidates on the final day, not just two.
+
+* Control the narrative. Try to organize the entire town to execute people you think would be good to execute. The good team’s only hope of executing is by working together as they can't see who is voting for what, so try to get them voting on the same page as you.
+
+* Promise dead players you will vote with them and then don't do so. Any ghost votes that get used and wasted early or mid-game on anyone that's not the Demon are a success for you.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Organ Grinder ==
+
+* Discuss your nominations before making them. It is more likely for a vote to go through if all good players fully understand the accusation and logic before the nomination is made and other players might be able to contribute information towards a nomination that you can try to rally people behind.
+
+* Make your intent to vote clear early! It’s a natural instinct in Clocktower to want to watch the other votes as they go round in order to inform your own, so you may not speak up earlier to not lock yourself into voting one way or the other. In an Organ Grinder game, though, you can’t see the votes and you want to coordinate, so it’s worth letting people know you intend to vote so they know it’s potentially worth voting with you.
+
+* Conversely, make your intent not to vote clear as well! If you think you probably got enough votes on someone who feels like the best execution for the day, publicly announce you won’t be voting for anyone else as you think that person is the best choice. Encourage others to consider the same position - after all when you don’t know the results of a vote, fewer nominations means fewer chances to accidentally tie…
+
+* Pay attention to which players say they are voting on executions that seem to get beaten or fail. Evil will be saying they’re voting on things that they aren’t and not voting on things that they are.
+
+* If you’re reasonably confident who the Organ Grinder is, maybe don’t bother nominating them. That’s one player that’s definitely not the Demon and having them go to the final 3 gives you a 50/50 choice between the other two!
+
+* Save your ghost vote for the final day, so you know it's making an impact. Amongst other things, Organ Grinders often want to die before the final day if they've been outed, so it's quite possible if you hold your ghost vote to the final day you might get to use it with your eyes open. Even if you don't get to keep your eyes open, it is still the day with your best odds of getting the Demon successfully.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

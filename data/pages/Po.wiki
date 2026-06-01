@@ -1,0 +1,120 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_po.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Would you like a flower? I'm so lonely."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/63544517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-16%2F307696123-44100-2-acae1b50169b5.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight."
+
+The Po can choose to attack nobody at night, but goes on a rampage the following night.
+* The Po attacks one player per night, like many other Demons. However, if the Po chooses to attack nobody, then they may attack three players the following night.
+* If the Po was drunk or poisoned when they chose nobody last night, they still choose three players tonight.
+* A Po must choose three players when prompted to do so. They cannot choose no one again.
+* The Po only gets three attacks if they chose nobody. The Po does not get three attacks if they chose to attack someone the previous night, but that player did not die.
+* The Po doesn’t act on the first night, but this night does not count as a night where the Po “chose no one.”
+* If the Exorcist selects the Po, the Po does not act, but this night does not count as a night where the Po “chose no one.” However, if the Po chose no one the night before the Exorcist chose the Po, the Po chooses three players the night after the Exorcist chose the Po, because their last choice was no one.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night except the first, wake the Po. They either shake their head no or point at any player. Put the Po to sleep. If they shook their head no, mark the Po with the '''3 ATTACKS''' reminder. If they chose a player, that player '''dies'''—mark them with a '''DEAD''' reminder.
+
+If the Po wakes to act while marked '''3 ATTACKS''', they point at any three players, one at a time. In the order chosen, each chosen player '''dies'''—mark them with '''DEAD''' reminders. Remove the '''3 ATTACKS''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				On the second night, the Po attacks one player. On the third night, the Po chooses to attack nobody. On the fourth night, the Po attacks three players.
+			</div>
+
+			<div class='example'>
+				The Po chooses to attack nobody, but is drunk. The next night, the Po is poisoned. They choose three players, but none of them die. The following night, the Po is sober and healthy and attacks a player, who dies.
+			</div>
+
+			<div class='example'>
+				The Po attacks the {{Good|Moonchild}}, then the {{Good|Goon}}, then the {{Good|Grandmother}}. Only the {{Good|Moonchild}} dies, because the Po became drunk when they attacked the {{Good|Goon}}.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The boisterous Po is the deadliest demon in [[Bad Moon Rising]] for its patience and ferocity. No other demon can hope to unleash as much devastation in a single night as you are capable of. Unlike the brutal {{Evil|Shabaloth}}, none of your victims are coming back from the dead unexpectedly. Unlike the {{Evil|Zombuul}} and the {{Evil|Pukka}}, you only wait if ''you'' choose it. The good team should tremble in fear at the mere thought that you are in play, knowing that at any time, you will unleash hell and leave the town torn asunder.
+
+* Playing the Po is all about choosing how you want to kill. You have a few more options available to you than your average demon, and utilizing them well will be key for your victory.
+** Kill once per night, ignoring the charge ability entirely in favor of consistency. One advantage of this is it eliminates the 'charge' night of no deaths that is your most obvious tell, and makes you almost indistinguishable from a {{Evil|Zombuul}} or {{Evil|Pukka}}... at least initially. The good team wasting resources trying to detect a dead demon or doubting their own information is great for you! The obvious disadvantage is that you kill much less, which gives the good team a little longer to see through your deception and track you down.
+** Don't hold back - charge and kill consistently. By utilizing your charge ability every single night, you basically get to 'kill two, kill one free' - meaning that you get one more kill than normal across the two nights. If the good team is dead, they won't be able to detect a dang thing! The downside to this method is that it will be pretty obvious that you are in play - you get the most kills in a single night of any character, and the good team will pick up on that. This can back you unexpectedly into a corner, as characters like the {{Good|Courtier}} may wine and dine you, making you drunk, or the {{Good|Gossip}} can start getting ''very'' specific in the statements that they make. 
+** Finally, mix and match! Both methods above are viable depending on the game, but it pays to be flexible - kill once per night for a while, wait until you have three targets earmarked who you ''know'' will die, and then unleash your charged kill. Or unleash a charged kill early... but bluff as a {{Good|Gossip}} to mask the extra kill, and then kill normally for the rest of the game. By mixing and matching your charged kill and regular kill, you can adapt to the situation as it unfolds - maybe the good team is wily and has a lot of information, and hiding your demon identity is crucial. Or maybe they're scattered, and you should finish them off before they have a chance to unite. Either way, you are versatile, so you might as well take full advantage of it. The downside to this method is that timing is everything - you have to plan your moves in advance, which means that if you didn't charge a kill on a night you ''really'' need more than one person dead, you could end up in hot water. 
+
+* Co-ordinate with the {{Evil|Assassin}} and the {{Evil|Godfather}} (and even the good players!) to mask the nights you don't kill. If a death occurs on the night where you are preparing for a triple kill, the good players will usually believe the death was due to the Demon attacking, and this false information will lead them astray about which demon is in play, and may even make them believe good players are lying when they are not. For example, if you don't kill one night (because you are preparing for a triple kill the following night), but that night, a player dies due to the {{Good|Gossip}} having made a true public statement during the day, the good team may believe that the {{Good|Gossip}}'s statement was false, since they believe that the death was due to the Demon attacking and not the {{Good|Gossip}}. Tricky.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Po ==
+
+* Figure out that the Po is in play as soon as you can. Determine how deaths happen due to a night action - 1 player dying each night as regular as Clockwork implies a Po is in play, as does nobody dying one night then 2 or 3 people dying the next. The {{Evil|Shabaloth}} usually kills more players each and every night, and the {{Evil|Zombuul}} and the {{Evil|Pukka}} often have a night with no death, but without the extra kills the following night. If you figure out a Po is in play, the {{Good|Courtier}} can nullify their power effectively, and other good players that kill players, such as the {{Good|Moonchild}}, {{Good|Grandmother}}, {{Good|Gambler}} and {{Good|Gossip}}, know to be particularly careful.
+
+* Good characters that can prevent death need to co-ordinate well, and use their abilities to the fullest. {{Good|Tea Lady}}s, {{Good|Fool}}s, {{Good|Innkeeper}}s, even {{Good|Goon}}s and {{Good|Sailor}}s, should be doing whatever that can to use their powers to the maximum, saving valuable lives so that the Po triple-kill doesn't destroy the town.
+
+* Always pay attention to how many players are left alive. Once just 5 players are left alive, the Po can win that night if the good team executes nobody that day. If other characters that cause death due to a night action are in-play, that number is even higher. If you think a Po is in-play, and 4, 5 or even 6 players are alive, think seriously about who you will execute that day... it may be your last!
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Demons]]

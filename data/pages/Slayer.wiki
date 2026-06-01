@@ -1,0 +1,155 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_slayer.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Die."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/4340831/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-24%2F21609314-44100-2-94d8d2e8d0bf8.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Lleech|lleech|Evil|If the Slayer slays the Lleech host, the host dies.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, during the day, publicly choose a player: if they are the Demon, they die."
+
+The Slayer can kill the Demon by guessing who they are.
+* The Slayer can choose to use their ability at any time during the day, and must declare to everyone when they're using it. If the Slayer chooses the Demon, the Demon dies immediately. Otherwise, nothing happens.
+* The players do not learn the identity of the dead player. After all, it may have been the Recluse!
+* A Slayer that uses their ability while poisoned or drunk may not use it again.
+* The Slayer will want to choose an alive player. Even if the Slayer chooses a dead Imp, nothing happens, because a dead player can't die again.
+* Players may say whatever they want at any time, so a player who's pretending to be the Slayer may pretend to use the Slayer ability.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+During the day, the Slayer can declare that they wish to use their ability. If so, the Slayer points at any player. If the chosen player is an alive Demon, declare that the chosen player dies—put a shroud on their character token in the Grimoire. If the chosen player is not an alive Demon, say "Nothing happens." Either way, the Slayer loses their ability—put the Slayer's '''NO ABILITY''' reminder token by the Slayer token.
+
+If a player is bluffing as the Slayer and declares they wish to use their ability, act as if they were indeed the Slayer—allow time for discussion, let them make the decision, and act like you're fiddling with tokens in your Grimoire, then say "Nothing happens."
+
+When the Slayer declares that they wish to use their ability, give the group a minute or two to discuss who the Slayer should choose. This allows the group to feel responsible for the win (or the loss!), but the Slayer always makes the final choice.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Slayer chooses the {{Evil|Imp}}. The {{Evil|Imp}} dies, and good wins!
+			</div>
+
+			<div class='example'>
+				The Slayer chooses the {{Good|Recluse}}. The Storyteller decides that the {{Good|Recluse}} registers as the {{Evil|Imp}}, so the {{Good|Recluse}} dies, but the game continues.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Imp}} is bluffing as the Slayer. They declare that they use their Slayer ability on the {{Evil|Scarlet Woman}}. Nothing happens.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Using your ability late in the game is far more effective than using it early in the game. When fewer people are alive, there is a greater chance that you will select the Demon and win the game. Also, if fewer than five players are alive, then the {{Evil|Scarlet Woman}} cannot become the Demon after you kill it.
+
+* However, using your ability early in the game is better than not using your ability at all because you're dead. Most players will die before the final day arrives, so the odds that you'll also be dead by then are high. Make sure you use your ability before you die. The Demon will want to kill you as soon as possible, so it is usually best to wait, then claim to be the Slayer only on the day that you intend to use your ability.
+
+* Coordinate with the other good players to help you select which player to choose. When you tell the group that you are the Slayer, you may find that many players reveal who they are and what information they have, so that you can make the best decision about who to slay. You can make particular use of a {{Good|Fortune Teller}}'s info to find people who might be the Demon.
+
+* Most of the time, the player that you choose to slay will not be the Demon. This is still useful to do, since you now know a player that is definitely NOT the Demon. Knowing who the Demon isn't is almost as useful as knowing who the Demon is.
+
+* Sometimes, it can be useful to choose to slay a player, not because you think that they are the Demon, but because you just want to make sure that they are not. For example, if a player is claiming to be the {{Good|Saint}}, and is about to be executed, you can prove that they are not the Demon by using your ability on them - if they don't die, you will probably want to execute somebody else instead!
+
+* An advanced strategy can be to try to influence the Demon's kills with your shot. If someone claims to be the {{Good|Ravenkeeper}}, try to slay them. If they aren't the {{Evil|Imp}}, the real Demon will be forced to make a difficult choice: to kill them, and give them information, or to leave them alive late into the game with everyone knowing they aren't the Demon?
+
+* When you choose to use your ability, the Storyteller should allow a minute or so for the group to discuss who they think you should choose. They may give you advice, but it is always your decision. This period can be a good time to pretend to be "about to choose" a particular player... just so you can watch to see how much they sweat under pressure. If, for example, you really want to slay the player claiming to be the {{Good|Mayor}}, you can tell the group that you are really keen to choose the player claiming {{Good|Soldier}}, but secretly you want to see how the {{Good|Soldier}} player reacts before making your final choice.
+
+* If you find a {{Good|Monk}} in play, convince them to protect you every night. This way, you can publicly claim to be the Slayer, safe in the knowledge that the Demon can not kill you tonight. Whilst the {{Good|Monk}} is alive, you know you will always be alive tomorrow, so are under no pressure to use your ability today. If the {{Good|Monk}} dies at night, you are no longer safe, but if you die at night whilst the {{Good|Monk}} is still alive, then you know the player is not actually the {{Good|Monk}}.
+
+* Beware the {{Evil|Poisoner}}! If you publicly claim to be the Slayer, even if the {{Good|Monk}} is protecting you, you are a prime target for poisoning.
+
+* Your ability may work on the {{Good|Recluse}}, since the {{Good|Recluse}} might register as the Demon. If your target dies, and claims to be the {{Good|Recluse}}, then they might actually be the {{Good|Recluse}}... or they could have been the Demon, but had a {{Evil|Scarlet Woman}} who is now the Demon.
+
+* You can use your ability at any time during the day. There's no need to rush. You can even use it with the day about to end. On the block? Take your shot. Even if you don't have a clue who the Demon is, it's better to have shot someone than to die unspent.
+
+* Remember that your ability only works on the Demon. A person surviving your shot does not prove that they are good, merely that they are not the Demon.
+
+* Be aware that the {{Evil|Imp}} may change players throughout the game. If you choose to slay a Minion early in the game, nothing will happen, but that same player may be the {{Evil|Imp}} by the end of the game.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Slayer ==
+
+When bluffing as the Slayer, there are a few things you should keep in mind:
+
+* You would never wake in the night as the Slayer. Instead, you should publicly announce that you want to claim to be the Slayer, and the Storyteller will take care of the rest of your bluff for you. There is nothing tricky about this character as a bluff.
+
+* Nobody will ever die as a result of you "using your Slayer ability". With this in mind, there are a few ways you can choose to handle it:
+** Deliberately slaying a Demon or another evil player to make them look like they are not the Demon, which can be useful for setting up bluffs. This is an especially good tactic when combined with the {{Evil|Scarlet Woman}}, since the real Demon can die and pass their ability to a player who has already been exonerated.
+** Slaying a good player to confirm them as not the Demon; this will enable you to 'trust' them, and will enable them to want to team up with you because of it.
+** Alternatively, you can deliberately slay a good player, and then start to appear evil (e.g. {{Good|Empath}}, setting yourself up to be read by an {{Good|Undertaker}}, etc.) Since you 'protected' a player from suspicion with your ability, they will appear evil as well.
+
+* Solicit the opinion of the group on who you should pick. Good players will be keen to help you make the right choice, and working with them will make you look good, also potentially coaxing information characters out from hiding who want to guide you to the right choice.
+
+* The Slayer is a good "backup bluff". If you claim to be a character that is already in play, or you are otherwise under suspicion by the group, claiming that you were lying about who you were so that you could survive an extra day or two as the Slayer is believable - after all... that is what a real Slayer might very well do.
+
+* Bluffing as a Slayer also works for good players! A Slayer with no ability is not a high priority target for the Demon, enabling you to survive and continue secretly gathering information.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

@@ -1,0 +1,315 @@
+Since experimental characters do not yet have a home script, some character descriptions, jinxes, and almanac entries may be updated to resolve an issue with the way that character works, or to make it more fun. 
+
+Changes are released in conjunction with regular updates to the official app, and will be updated on the wiki accordingly. These updates may be modified or updated again in the future. This page is a record of all changes made from May 2024.
+
+{{TOClimit|2}}
+= July 17th 2025 =
+
+== New characters ==
+=== Cacklejack ===
+Don't get attached to your character. Welcome the {{Traveler|Cacklejack}}.
+
+= July 3rd 2025 =
+
+== New characters ==
+=== Wraith ===
+Eyes open! Welcome the {{Evil|Wraith}}.
+
+= June 26th 2025 =
+
+== New characters ==
+=== Princess ===
+Carpe Diem (at least the first one anyway). Welcome the {{Good|Princess}}.
+
+= June 19th 2025 =
+
+== New characters ==
+=== Deus ex Fiasco ===
+Make some mistakes. Welcome the {{Fabled|Deus ex Fiasco}}.
+
+= June 12th 2025 =
+
+== New characters ==
+=== Hermit ===
+3 for the price of 1. Welcome the {{Good|Hermit}}.
+
+= January 17th 2025 =
+
+== Ability text changes ==
+=== Vizier ===
+* Previous → All players know you are the Vizier. You can not die during the day. If good voted, you may choose to execute immediately.
+* Current → All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.
+
+=== Organ Grinder ===
+* Previous → All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not.
+* Current → All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk until dusk.
+
+= January 3rd 2025 =
+
+== New characters ==
+=== Wizard ===
+Genies are overrated. Welcome the {{Evil|Wizard}}.
+
+=  December 6th 2024 =
+
+== New characters ==
+=== Knock-knock, open up the door, it's real ===
+Start counting Outsiders. Welcome the {{Evil|Xaan}}.
+
+== Ability text changes ==
+
+=== Alchemist ===
+* Previous → You have a not-in-play Minion ability.
+* Current → You have a Minion ability. When using this, the Storyteller may prompt you to choose differently.
+
+=== Al-Hadikhia ===
+* Previous → Each night*, choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.
+* Current → Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die.
+
+=== Riot ===
+* Previous → Nominees die, but may nominate again immediately (on day 3, they must). After day 3, evil wins. [All Minions are Riot]
+* Current → On day 3, Minions become Riot & nominees die but nominate an alive player immediately. This must happen.
+
+== Updated Jinxes ==
+
+=== Jinx list recalibration. ===
+The jinx list has been recalibrated. This has been done to result in a cleaner presentation, and it will be easier to remember which characters are jinxed. You can see the recalibrated list on the {{Fabled|Djinn}} page.
+
+=== Riot / Leviathan ===
+All Riot and most Leviathan jinxes have been updated, or removed.
+
+=  November 8th 2024 =
+
+== Ability text changes ==
+
+=== Alsaahir ===
+* Previous → Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.
+* Current → Each day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.
+
+=== Damsel ===
+* Previous → All Minions know you are in play. If a Minion publicly guesses you (once), your team loses.
+* Current → All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.
+
+=== Farmer ===
+* Previous → If you die at night, an alive good player becomes a Farmer.
+* Current → When you die at night, an alive good player becomes a Farmer.
+
+=== King ===
+* Previous → Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are.
+* Current → Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows you are the King.
+
+=== Nightwatchman ===
+* Previous → Once per game, at night, choose a player: they learn who you are.
+* Current → Once per game, at night, choose a player: they learn you are the Nightwatchman.
+
+=== Plague Doctor ===
+* Previous → If you die, the Storyteller gains a Minion ability.
+* Current → When you die, the Storyteller gains a Minion ability.
+
+=== Snitch ===
+* Previous → Minions start knowing 3 not-in-play characters.
+* Current → Each Minion gets 3 bluffs.
+
+=== Vizier ===
+* Previous → All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.
+* Current → All players know you are the Vizier. You can not die during the day. If good voted, you may choose to execute immediately.
+
+== New Jinxes ==
+=== Cannibal ===
+* {{Good|Cannibal }} / {{Good|Poppy Grower}}: If the Cannibal eats the Poppy Grower, then dies or loses the Poppy Grower ability, the Demon and Minions learn each other that night.
+
+== Removed Jinxes ==
+=== Lycanthrope / Gambler ===
+* {{Good|Lycanthrope}} & {{Good|Gambler}} are no longer jinxed.
+
+=  November 1st 2024 =
+
+== New characters ==
+=== Gnome ===
+GNOME MERCY! Welcome the {{Traveler|Gnome}}.
+
+== Ability text changes ==
+=== Boomdandy ===
+* Previous → If you are executed, all but 3 players die. 1 minute later, the player with the most players pointing at them, dies.
+* Current → If you are executed, all but 3 players die. After a 10 to 1 countdown, the player with the most players pointing at them, dies.
+
+=== Lycanthrope ===
+* Previous → Each night*, choose an alive player: if good, they die, but they are the only player that can die tonight.
+* Current → Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil.
+
+== Removed Jinxes ==
+=== Organ Grinder ===
+* {{Evil|Organ Grinder}} & {{Evil|Lil' Monsta}} are no longer jinxed.
+
+=  October 18th 2024 =
+
+== Ability text changes ==
+=== Organ Grinder ===
+* Previous → All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.
+* Current → All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk or not.
+
+=== Acrobat ===
+The Acrobat has become a Townsfolk.
+* Previous → Each night*, if either good living neighbour is drunk or poisoned, you die.
+* Current → Each night*, choose a player: if they are or become drunk or poisoned tonight, you die.
+
+== Updated Jinxes ==
+=== Kazali / Goon ===
+* Previous → If the Kazali chooses the Goon to become a Minion, remaining Minion choices are decided by the Storyteller.
+* Current → The Kazali can choose that the Goon player is one of their evil Minions.
+
+=== Kazali / Soldier ===
+* Previous → If the Kazali turns the Soldier into a Minion, the Soldier chooses which not-in-play Minion to become.
+* Current → The Kazali can choose that the Soldier player is one of their evil Minions.
+
+== Removed Jinxes ==
+=== Organ Grinder ===
+* {{Evil|Organ Grinder}} & {{Good|Minstrel}} are no longer jinxed.
+* {{Evil|Organ Grinder}} & {{Good|Preacher}} are no longer jinxed.
+
+=  September 27th 2024 =
+
+== New characters ==
+=== Boffin ===
+Be confirmed and be evil! Welcome the {{Evil|Boffin}}.
+
+=  August 29th 2024 =
+
+== New characters ==
+=== Lord of Typhon ===
+Keep your enemies close, but your friends closer. Welcome the {{Evil|Lord of Typhon}}.
+
+== Updated Jinxes ==
+=== Marionette / Balloonist ===
+* Previous → If the Marionette thinks that they are the Balloonist, +1 Outsider was added.
+* Current → If the Marionette thinks that they are the Balloonist, +1 Outsider might have been added.
+
+=  July 26th 2024 =
+
+== New characters ==
+=== Zealot ===
+They've got my vote. It's the {{Good|Zealot}}.
+
+== Ability text changes ==
+=== Lleech ===
+* Previous → Each night*, choose a player: they die. You start by choosing an alive player: they are poisoned - you die if (& only if) they die.
+* Current → Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead.
+= June 27th 2024 =
+
+== New characters ==
+=== Alsaahir ===
+Guess who? It's the {{Good|Alsaahir}}.
+
+== Ability text changes ==
+=== Balloonist ===
+* Previous → Each night, you learn 1 player of each character type, until there are no more types to learn. [+1 Outsider]
+* Current → Each night, you learn a player of a different character type than last night. [+0 or +1 Outsider]
+
+=== Harpy ===
+* Previous → Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.
+* Current → Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.
+=== Lil' Monsta ===
+* Previous → Each night, Minions choose who babysits Lil' Monsta's token & "is the Demon". A player dies each night*. [+1 Minion]
+* Current → Each night, Minions choose who babysits Lil' Monsta & 'is the Demon'. Each night*, a player might die. [+1 Minion]
+=== Plague Doctor ===
+* Previous → If you die, the Storyteller gains a not-in-play Minion ability.
+* Current → If you die, the Storyteller gains a Minion ability.
+
+== New Jinxes ==
+=== Kazali ===
+* {{Evil|Kazali}} / {{Good|Soldier}}: If the Kazali turns the Soldier into a Minion, the Soldier chooses which not-in-play Minion to become.
+=== Legion ===
+* {{Evil|Legion}} / {{Good|Minstrel}}: If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion.
+=== Summoner ===
+* {{Evil|Summoner}} / {{Good|Preacher}}: If the Preacher chose the Summoner on or before the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player.
+
+== Updated Jinxes ==
+=== Al-Hadikhia / Mastermind ===
+* Previous → Only 1 jinxed character can be in play. Evil players start knowing which player and character it is.
+* Current → If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins.
+=== Legion / Preacher ===
+* Previous → Only 1 jinxed character can be in play.
+* Current → If the Preacher chooses Legion, Legion keeps their ability, but the Preacher might learn they are Legion.
+=== Lil' Monsta / Magician ===
+* Previous → Only 1 jinxed character can be in play.
+* Current → Each night, the Magician chooses a Minion: if that Minion & Lil' Monsta are alive, that Minion babysits Lil’ Monsta.
+=== Organ Grinder / Minstrel ===
+* Previous → Only 1 jinxed character can be in play. Evil players start knowing which player and character it is.
+* Current → If the Minstrel makes everyone drunk, the Organ Grinder keeps their ability but the Minstrel keeps their eyes open when voting.
+=== Organ Grinder / Preacher ===
+* Previous → Only 1 jinxed character can be in play. Evil players start knowing which player and character it is.
+* Current → If the Preacher removes the Organ Grinder ability, the Organ Grinder keeps their ability but the Preacher keeps their eyes open when voting.
+
+== Removed Jinxes ==
+=== Organ Grinder ===
+* {{Evil|Organ Grinder}} & {{Good|Flowergirl}} are no longer jinxed.
+
+= June 6th 2024 =
+== New Jinxes ==
+=== Philosopher ===
+* {{Good|Philosopher}} / {{Good|Bounty Hunter}}: If the Philosopher gains the Bounty Hunter ability, a Townsfolk might turn evil.
+
+== Updated Jinxes ==
+=== Organ Grinder / Flowergirl ===
+* '''Previous''' → If players' eyes were closed during the nominations, the Flowergirl learns how many times the Demon voted.
+* '''Current''' → If the Organ Grinder is causing eyes-closed voting, the Flowergirl wakes tonight to choose a player: they learn if that player voted today. (instead of their normal ability)
+
+= May 24th 2024 =
+== New Jinxes ==
+=== Cannibal ===
+* {{Good|Cannibal}} / {{Good|Juggler}}: If the Juggler guesses on their first day and dies by execution, tonight the living Cannibal learns how many guesses the Juggler got correct.
+
+== Updated Jinxes ==
+=== Vizier / Magician ===
+* '''Previous''' → Only 1 jinxed character can be in play. Evil players start knowing which player and character it is.
+* '''Current''' → If the Vizier and Magician are both in play, the Demon does not learn the Minions.
+
+= May 15th 2024 =
+== Ability text changes ==
+=== King ===
+* '''Previous''' → Each night, if the dead outnumber the living, you learn 1 alive character. The Demon knows who you are.
+* '''Current''' → Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are.
+
+== Almanac changes ==
+=== Goblin ===
+* The {{Evil|Goblin}} now has a rulebook entry in the experimental almanac.
+== New Jinxes ==
+=== Pit-Hag ===
+* {{Evil|Pit-Hag}} / {{Good|Cult Leader}}: If the Pit-Hag turns an evil player into the Cult Leader, they can't turn good due to their own ability.
+* {{Evil|Pit-Hag}} / {{Good|Goon}}: If the Pit-Hag turns an evil player into the Goon, they can't turn good due to their own ability.
+=== Politician ===
+* {{Good|Politician}} / {{Evil|Vizier}}: The Politician might register as evil to the Vizier.
+
+=== Summoner ===
+* {{Evil|Summoner}} / {{Good|Courtier}}: If the Summoner is drunk on the 3rd night, the Summoner chooses which Demon, but the Storyteller chooses which player.
+* {{Evil|Summoner}} / {{Good|Engineer}}: If the Engineer removes a Summoner from play before that Summoner uses their ability, the Summoner uses their ability immmediately.
+* {{Evil|Summoner}} / {{Good|Hatter}}: The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary.
+* {{Evil|Summoner}} / {{Evil|Pit-Hag}}: The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary.
+* {{Evil|Summoner}} / {{Evil|Pukka}}: The Summoner may choose a player to become the Pukka on the 2nd night.
+* {{Evil|Summoner}} / {{Evil|Zombuul}}: If the Summoner turns a dead player into the Zombuul, the Storyteller treats that player as a Zombuul that has died once.
+
+== Updated Jinxes ==
+
+=== Pit-Hag / Politician ===
+* '''Previous''' → The Pit-Hag cannot create an evil Politician.
+* '''Current''' → If the Pit-Hag turns an evil player into the Politician, they can't turn good due to their own ability.
+
+=== Spy / Damsel ===
+* '''Previous''' → Only 1 jinxed character can be in play.
+* '''Current''' → If the Spy is (or has been) in play, the Damsel is poisoned.
+
+=== Summoner / Kazali ===
+* '''Previous''' → The Kazali can not choose to create a Summoner.
+* '''Current''' → The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary.
+
+=== Summoner / Riot ===
+* '''Previous''' → If the Summoner creates Riot, the chosen player and all evil players become Riot. The chosen player must be one of the Summoner's living good neighbours.
+* '''Current''' → If the Summoner creates Riot, all Minions become Riot.
+
+=== Widow / Damsel ===
+* '''Previous''' → Only 1 jinxed character can be in play.
+* '''Current''' → If the Widow is (or has been) in play, the Damsel is poisoned.
+
+== Miscellaneous ==
+=== Teensyville ===
+* Teensyville scripts now have 6 Townsfolk, 2 Outsiders, 2 Minions, and 2 Demons.

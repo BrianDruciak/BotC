@@ -1,0 +1,138 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_lycanthrope.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>07/01/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Beneath the thin veneer of civilisation lies a howling madness."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>wjdXh6CxB6E</youtube>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose an alive player. If good, they die & the Demon doesn’t kill tonight. One good player registers as evil."
+
+The Lycanthrope roams at night, killing the innocent, whilst the Demon cowers indoors.
+* The Lycanthrope must choose an alive player each night. If the Lycanthrope chooses a dead player, the Storyteller shakes their head no and prompts the Lycanthrope to choose a different player.
+* If the player that the Lycanthrope chooses is good, that player dies, and the Demon cannot kill tonight.
+* If the player the Lycanthrope attacks is evil, that player does not die, and the Demon may still kill tonight.
+* If the Lycanthrope attacks a good player but that good player doesn’t die, the Demon may still kill tonight.
+* While the Lycanthrope lives, one good player registers as evil. They cannot be killed by the Lycanthrope.
+* This evil-registration does not effect win conditions. The good player that registers as evil still wins or loses with the good team.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+During setup, mark one good player with the Lycanthrope’s '''FAUX PAW''' reminder.
+
+Each night except the first, wake the Lycanthrope. They point at any player. Put the Lycanthrope to sleep. If the chosen player is good, that player dies—mark them with the Lycanthrope’s '''DEAD''' reminder. Later that night, wake the Demon, as normal, but the Demon cannot kill. If the chosen player is evil, nothing happens.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Lycanthrope attacks the {{Good|General}}. The {{Good|General}} dies. Later that night, the {{Evil|Imp}} attacks the {{Good|Amnesiac}}. The {{Good|Amnesiac}} does not die, because the {{Evil|Imp}} cannot kill tonight.
+			</div>
+
+			<div class='example'>
+				The Lycanthrope attacks the {{Good|Farmer}}. The {{Good|Farmer}} dies, and another good player becomes a {{Good|Farmer}}. The {{Good|Magician}} was poisoned by the {{Evil|Pukka}} last night but does not die tonight, because the {{Evil|Pukka}} cannot kill tonight.
+			</div>
+
+			<div class='example'>
+				The Lycanthrope attacks the {{Evil|Godfather}}. The {{Evil|Godfather}} does not die, because the {{Evil|Godfather}} is evil. The Lycanthrope attacks the {{Good|Zealot}}, who is registering as evil due to the Lycanthrope’s ability. The {{Good|Zealot}} does not die. The Demon attacks the Lycanthrope and the Lycanthrope dies. 
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Try to identify good players whose death will not cause a catastrophic loss of utility to the good team. By killing them and identifying them as good, you can begin to build a circle of trust among your allies.
+
+* Beware of characters who can register as different alignments, such as the {{Evil|Spy}} and the {{Good|Recluse}}. They may die in the night or live through the night despite you choosing them, confusing your information.
+
+* In order to regain control of night-time deaths, the evil team will need to neutralize you. Consider being somewhat reserved in your daytime conversations.
+
+* To build trust with other good players and to share as much information with the good team as possible, publicly claim to be the Lycanthrope on the first day. Since you choose who dies at night, the only way that you can die is if the good team executes you. You don't need to fear the Demon killing you, so being forthright and public with your information is usually very helpful for the good team. However, if there are evil characters on the script who can kill you by other means such as the {{Evil|Assassin}} or the {{Evil|Psychopath}}, or if you are uncertain which players are good and evil and have only chosen evil players at night so far, you may want to delay publicly declaring that you are the Lycanthrope for a day or two. The evil team will want to remove a Lycanthrope as early as possible, but they usually won't be able to, so feel free to be as public as you want. Beware of poisoners, though, as they can neutralise you without killing you if you come out and you won't be able to tell if you picked an evil player or were poisoned!
+
+* Don't be afraid to attack good players at night. If you attack an evil player, this allows the Demon to attack a good player anyway. Since a good player is almost certainly going to be the player that dies at night, who would you rather have choose which good player dies? You? Or the Demon? 
+
+* If you are fairly certain that a particular player is evil, and you don't mind dying to learn whether or not you are correct, attack them at night. If they are evil, they will not die to your choice and either the Demon will kill them by chance and have killed an evil player for you or they will not die and the Demon will kill another player - which is great because you've just learnt that a particular player is evil and the player that died instead is almost certainly good.
+
+* On the second day, the Demon (and shortly thereafter, the evil team), will likely know that there is a Lycanthrope in play. Since the Demon will choose a player to kill at night, and a different player will be revealed to have died in the morning, the Demon will quickly assume that there is a Lycanthrope. If you don't want the Demon to know which character you are, avoid staying silent and instead choose a different character to bluff as all the other players are revealing theirs.
+
+* If you publicly claim to be the Lycanthrope, players are likely to suggest during the day which players you should attack at tonight. You can listen to the group's advice, or be more secretive and individualistic. After all, some evil players may be giving you bad advice on who to attack, and changing your mind at the last minute will certainly keep them on their toes!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Lycanthrope ==
+
+When bluffing as the Lycanthrope, there are a few things you should keep in mind:
+
+* As the evil team, you can simply kill anyone you like and attribute it to whichever of you is bluffing as the Lycanthrope.
+
+* As the Demon bluffing Lycanthrope (or as a Minion who is coordinating kills with their Demon), you could consider killing one of your own Minions to legitimize their bluff, given that they would only have died to the Lycanthrope’s ability if they were good.
+
+* Alternatively, kill a good player and claim that you had chosen a different good player, making the player you're claiming to have chosen look extremely evil.
+
+* If there is an evil character on the script which causes poisoning or drunkenness, you could complain that none of your attempted kills are working and frame one of the good players you've spoken to as a potential Minion or Demon that is keeping you poisoned to block your ability.
+
+* Some Lycanthrope players tell all players that they are the Lycanthrope on day one and request the group's advice on who they should attack each night. Doing this as a Minion pretending to be the Lycanthrope is risky, as the good players may advise you to attack the Demon player. Doing this as a Demon pretending to be the Lycanthrope is much safer, as the good team is hardly going to advise you to attack yourself. Either way, coming out at the Lycanthrope early in the game and regularly sharing information each day is a very involved bluff. Like bluffing as the {{Good|Fortune Teller}} or the {{Good|Savant}}, be prepared for things to get complicated. 
+
+* If you tell the group all your Lycanthrope information all at once later in the game, but a night passes without you dying, they may request to execute you, since the Demon is likely to have chosen to kill a trusted Lycanthrope at the first opportunity they got. Have a ready-made excuse for why you didn't die on the night(s) that you supposedly attacked an evil player. You don't need an excuse for every night, just the ones where you claim to have attacked a player who didn't die. 
+
+* Saying that players are good is safer than saying players are evil. If you say that a good player is good, they won't protest. If you say an evil player is good, they won't protest. If you say a good player is evil, they will protest and they will know that you are lying, or drunk or poisoned. If you say an evil player is evil, either they protest (which makes you look evil) or they play along and make themselves look evil - which gives the good team information about who one evil player is. Telling the group that a particular player is good is safer and will cause less problems, but sooner or later you will need to tell the group that a particular player is evil, otherwise you will be claiming that all players that you have killed at night are good, which is unlikely. Choose which player you are going to claim is evil with care, and come up with a reasonable sounding argument as to why. Unless you are a Minion and are looking to get executed, of course!
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

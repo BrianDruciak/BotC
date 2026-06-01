@@ -1,0 +1,147 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_virgin.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I am pure. Let those who are without sin cast themselves down and suffer in my stead. My reputation shall not be stained with your venomous accusations."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/12659710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66021931-44100-2-3748891a6a9a9.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+
+The Virgin may inadvertently execute their accuser, confirming which players are Townsfolk in the process.
+* If a Townsfolk nominates the Virgin, then that Townsfolk is executed immediately. Because there can only be one execution per day, the nomination process immediately ends, even if a player was about to die.
+* Only Townsfolk are executed due to the Virgin's ability. If an Outsider, Minion, or Demon nominates the Virgin, nothing happens, and voting continues.
+* The Virgin's ability is powerful because if a Townsfolk nominates them and dies, then both characters are almost certainly Townsfolk.
+* After being nominated for the first time, the Virgin loses their ability, even if the nominator did not die, and even if the Virgin was poisoned or drunk.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+If the first player to ever nominate the Virgin is a Townsfolk, immediately declare that the nominating player is executed. That player '''dies'''—put a shroud on their character token in the Grimoire. '''The Virgin loses their ability'''—put the Virgin's '''NO ABILITY''' reminder token by the Virgin token. End the nomination process and proceed to the night phase. (No one else can be executed today.)
+
+If the first player to ever nominate the Virgin is not a Townsfolk, continue the vote as normal. '''The Virgin loses their ability'''—put the Virgin's '''NO ABILITY''' reminder token by the Virgin token.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Washerwoman}} nominates the Virgin. The {{Good|Washerwoman}} is immediately executed and the day ends.
+			</div>
+
+			<div class='example'>
+				The {{Good|Drunk}}, who thinks they are the {{Good|Chef}}, nominates the Virgin. The {{Good|Drunk}} remains alive, and the Virgin loses their ability. Players may now vote on whether or not to execute the Virgin. (This happens because the {{Good|Drunk}} is not a Townsfolk.)
+			</div>
+
+			<div class='example'>
+				A dead player nominates the Virgin. The dead, however, cannot nominate. The Storyteller declares that the nomination does not count. The Virgin does not lose their ability.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* You are one of the few Townsfolk in the game that can be absolutely confirmed as good. If a player is executed for nominating you, that is absolute and undeniable proof that you are the Virgin.
+
+* Characters who have received their information or have used their ability already (like the {{Good|Washerwoman}}, {{Good|Investigator}} or {{Good|Slayer}}) are great choices to encourage into nominating you. Not only will they and their information be validated by their death, but they don't lose out on gaining any more information as the game continues.
+
+* Characters like the {{Good|Undertaker}}, {{Good|Fortune Teller}} or even {{Good|Empath}} are great choices if they have received a little information and want to confirm they are good, or if they are under suspicion and want to remove themselves as a potential Demon.
+
+* An Outsider who nominates you will not be executed. Your ability requires your nominator to be a Townsfolk, not merely good.
+
+* Don't like any of your potential suitors? You can nominate yourself and trigger your ability, proving you are the Virgin! This can prevent an evil Minion or hapless Outsider from wasting your ability.
+
+* Once your ability activates, the nominator is immediately executed, ending the day (even if someone else had the votes and was due to be executed). Using this strategically can allow you to block an execution from happening in addition to proving yourself as good.
+
+* If you are known to be the Virgin but haven't used your ability yet, you are a prime target for death or poisoning. Using your ability early minimizes this risk and allows you to be a rally point for the good team to work around.
+
+* Waiting a couple of days before announcing that you're the Virgin can give you a chance to decide who should nominate you. A player being proven good, a few days into the game, can completely unravel an evil narrative.
+
+* Not claiming to be the Virgin until you get nominated can be a powerful strategy to uncover an evil player who is claiming to be a Townsfolk, but might not be willing to nominate you if you were to claim to be the Virgin.
+
+* If you can find a player that is claiming to be the {{Good|Monk}}, convince them to protect you every night. Since you no longer have to fear death in the night, you can always wait another day to get somebody to nominate you.
+
+* If your ability doesn't activate, this can mean a few things:
+** The person who did the nominating is evil! Evil players can nominate the Virgin so that your ability does not activate, leaving you unable to be confirmed and throwing you both into doubt.
+** The person who nominated is an Outsider. This includes the {{Good|Drunk}}, who thinks they are a Townsfolk.
+** You are in fact the {{Good|Drunk}} or poisoned, so you have no ability.
+
+* Your ability only triggers the first time you are nominated. Even if you were poisoned or nominated by a non-Townsfolk, your ability is already spent, and you can no longer cause an execution from your ability.
+
+* Beware the {{Evil|Spy}}! It is the only evil character that can activate your ability, since it registers as a Townsfolk.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Virgin ==
+
+When bluffing as the Virgin, there are a few things you should keep in mind:
+
+* You would never wake during the night. Pay attention to who is the first person to nominate you; it's only the first nomination that counts.
+
+* A good player will never be executed due to nominating you. This means that when you are nominated, one of you will look evil, or at least drunk. If you can, get a player that the group is suspicious might be evil to nominate you. This way, if they are believed to be evil, you will be believed to be good.
+
+* If a Virgin is nominated, but either player is the {{Good|Drunk}}, the Virgin ability does not trigger, since either the Virgin is the {{Good|Drunk}} (not the Virgin), or the nominating player is an Outsider (not a Townsfolk). When nobody dies after nominating you, you can usually make a strong case that one of you is the {{Good|Drunk}}. This has the added benefit of any real {{Good|Drunk}} gong undetected by the group, or an outsider, perhaps even a {{Good|Saint}}, being executed because the good team think there are too many Outsiders in play.
+
+* If you are a Minion, you can get your Demon to nominate you and then bring suspicion on yourself. The more evil you look, the less evil the Demon looks, since your Demon will be the 'victim' of your bluff, and players will be more inclined to trust them.
+
+* Beware bluffing as the Virgin if a real Virgin is in play. If you have told the group that you are the Virgin, and the real Virgin proves themself by getting a Townsfolk executed, you can not possibly be the Virgin. You will need to get an evil character to nominate the real Virgin so that this doesn't happen, so the good team remains confused about who the real Virgin is.
+
+* Bluffing as the Virgin, being nominated, then continuing to live afterwards, is a great opportunity to come up with another bluff. Claiming that you are actually the {{Good|Undertaker}}, or the {{Good|Monk}} for example, can be believable even if you claimed to be the Virgin for the first day or two. Since the Demon will usually rather not kill a Virgin that is under suspicion of being evil, and instead want to kill an {{Good|Undertaker}}, or a {{Good|Monk}}, then 'lying about who you were temporarily' can be very believable.
+
+* If you are confident that the group believes you are the Virgin, then insist that the player who is the most dangerous to you be the one to nominate you! They will look evil when you don't die. For example, if an {{Good|Empath}} is giving the evil team a lot of trouble, you can insist that they nominate you, which will discredit them.
+
+* Bluffing as the Virgin can be particularly potent if you are a Minion, since a good team who believes that either you or the person who nominated you is evil might spend two days executing both of you and not executing your Demon.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

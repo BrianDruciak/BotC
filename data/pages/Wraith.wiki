@@ -1,0 +1,117 @@
+__NOTOC__
+<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+	<div id='character-details'>
+		[[File:icon_wraith.png|250px]]
+		<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+		<table style="width: 90%; margin: 0 auto;">
+			<tr>
+				<td>Type</td>
+				<td>[[Character Types#Minion|Minion]]</td>
+			</tr>
+			<tr>
+				<td>Artist</td>
+				<td>Lachlan Bastiaen</td>
+			</tr>
+			<tr>
+				<td>Revealed</td>
+				<td>03/07/2025</td>
+			</tr>
+		</table>
+		<p class='flavour'>"Ra'āb ina pān ṣilli ša dāri. Rigim qallu ina šūri, šītu ša šunātīka iredde, u napšutka idlul ina pān maṣṣartī dāriti."</p>
+	</div>
+	<div id='jinxes'>
+		<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+			Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+		</span>
+		<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Alchemist|alchemist|Good|An Alchemist-Wraith has no Wraith ability & a Wraith is in play. After each execution, a living Alchemist-Wraith may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight.}}
+{{Jinx|Magician|magician|Good|After each execution, the living Magician may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight.}}
+{{Jinx|Plague Doctor|plaguedoctor|Good|If the Storyteller would gain the Wraith ability, a Minion gains it, and learns this.}}
+		</table>
+	</div>
+</div>
+<div class="small-12 large-9 large-pull-3 columns">
+	<div class="row">
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You may choose to open your eyes at night. You wake when other evil players do."
+
+The Wraith knows and shares what happens at night.
+* The Wraith may open their eyes at any point during the night, for as long or as short a time as they wish.
+* They may open their eyes fully, or just peek.
+* The Storyteller wakes the Wraith when other evil players also wake, such as when the Demon kills a player, an evil Traveller uses their ability, or a Cult Leader learns that they are evil.
+* When several players have their eyes open at once, they may communicate if they wish.
+* If a good player catches the Wraith with their eyes open, there is no mechanical effect. 
+* A dead Wraith may not open their eyes at night. A drunk or poisoned Wraith is told by the Storyteller that they may not open their eyes that night.
+		</div>
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Each time you wake an evil player at night, first wake the Wraith. When you put that evil player to sleep, put the Wraith to sleep.
+
+If the Wraith loses their ability while alive, privately tell the Wraith that they may not choose to open their eyes tonight, and do not wake them when other evil players wake.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+Optional rule: Once per game, a player that is mad that you are the Wraith, dies.
+</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Examples ==
+			<div class='example'>
+				During the first night the Wraith peeks at other players, and notices which good players wake and which do not. During the second night, the Wraith opens their eyes more fully and notices that Doug was woken and pointed to two players tonight. During the 3rd night, when both the Wraith and the Demon wake together, the Wraith uses body language and points to the character sheet to communicate to the Demon to kill Doug, whom the Wraith believes is the {{Good|Fortune Teller}}. 
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+* Look at everything! You’re far more powerful than a {{Evil|Spy}} or {{Evil|Widow}}, because you can learn how good players are using their abilities. Wake up with the {{Good|Fortune Teller}} and see who they pick, or wake up with the {{Good|Nightwatchman}} to find out who’s confirming them. But be careful - if you get caught, the good team might want to execute you as soon as they can.
+* Communicate as much as possible with your evil teammates at night. Waking when other evil players do is one of the most powerful parts of your ability, because you can coordinate how your teammates use their abilities. Ask the Demon to show you the bluffs on the first night of the game. Let the {{Evil|No Dashii}} know who is {{Evil|Witch}} cursed, so they kill someone else. Point the {{Evil|Poisoner}} towards a good player you’ve seen waking multiple nights in a row.
+* If you have a pen and paper, you can write something down and hold it up so your teammates can read it. Or, hold up your phone to show notes to your fellow evil players. If you’re playing online, use the Wraith’s built-in messaging feature to send private messages to other players during the night.
+* You are the strategic leader of your team! Take advantage of the information you gain from waking with your evil teammates and use it liberally. Each night, give your evil teammates recommendations on who to target and who to frame.
+*  Avoid private chats with your evil teammates during the day. You can coordinate with them at night, so use the day to get information from good players.
+* If you think other good players suspect you as being evil or being the Wraith, have lots of private chats with the same 1 or 2 good players, to make them look suspicious.
+* Do most of your peeking early on in the game, when you can gain the most information (since the majority of good players are alive and using their abilities). As the game goes on, it may be better to keep your eyes closed, especially if you’ve evaded being caught so far! If you are caught, everyone will know you’re the Wraith, and late in the game, that also means you’re not a Demon candidate.
+* Listen carefully during the night phase. Pay attention to recognizable cues such as footsteps from the Storyteller, or players shifting in their seats or stopping mid-sentence. This can help you figure out what’s happening at night and when it might be best to sneak a peek at the town.
+* Keep your eyes open while the Storyteller is walking around, and close your eyes just before a player wakes to receive information. You’ll be able to deduce which good players are which characters based on their waking patterns, and while you won’t know what information they receive, you also have no risk of being seen waking at night.
+* If you get caught, own it. So what if a good player knows you’re the Wraith? That doesn’t tell them who your Demon is. If multiple players know you are evil, be shameless about it. Join private conversations during the day, and be as chaotic as you please.
+* Take a selfie, for posterity.
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Wraith ==
+* If you wake at night, look around! This is your time to see if you can spot the Wraith. However, remember to pay attention to your own night actions - if you miss your information because you were too busy Wraith-hunting, the Storyteller isn’t obligated to tell you again.
+* Ask other players if they’ve seen anything suspicious during the night. By asking, you’ll also get a better sense of which players are claiming to wake up at night due to their own abilities!
+* If you catch the Wraith, tell everyone! 
+* If you have a hunch that a specific player might be the Wraith, find a player who’s claiming to wake at night, such as a Courtier or an Oracle, and ask them to watch that player carefully.
+* If you suspect the Wraith is in play, pay attention to which players are having private conversations during the day. When the Wraith is in play, the evil team can coordinate during the night phase, so evil players are much less likely to have private conversations during the day - meaning most private conversations you see will have at least one good player.
+* If you find the Wraith, leave them alive - they’re not a Demon candidate, and you may be able to gain information based on their voting patterns and nominations.
+* If you find the Wraith, kill them! Get them out of the way early to limit evil’s voting and nominating power. 
+			</div>
+		</div>
+	<div class="row">
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Accessibility ==
+When developing the Wraith, we wanted to make sure the character would remain accessible for visually-impaired players. We’d like to give an extra-special shoutout to the Newcastle, AU players for helping us test accommodations to allow blind & low vision players to play with the Wraith! 
+
+If a visually-impaired player is the Wraith:
+* The Wraith should use a phone screen reader to communicate with the Storyteller. 
+* During the night, after the Storyteller wakes a player, the Storyteller should text the Wraith and explain what the player did (e.g. Evin pointed at Ben, Karen learned a 1, etc.)
+* If the player is very experienced, the messages can be very short (ex. “Karen 1” instead of “Karen learned a 1”). Using shorthand helps make the night phase run more quickly & makes it less likely for other players to identify that the Wraith might need specific accommodations. 
+* When another evil player wakes, the Storyteller should hand their phone to the waking evil player, so the Wraith can communicate with their teammate via text message. When the Storyteller puts the player to sleep, they’ll need to remember to get their phone back!
+
+If a visually-impaired player is evil with a Wraith on their team:
+* The Wraith should use a phone screen reader to communicate with their evil teammates.
+* The Storyteller should hand their phone to the Wraith when the visually-impaired player wakes up, so the Wraith can communicate directly to their teammate.
+
+In any situation, when a different person is messaging a visually-impaired player, they should clarify that a new person is sending messages. For example: The Storyteller gives their phone to the Poisoner. The Poisoner says “Hi, it’s Sam. Did you see if Josh woke up last night?” The Storyteller takes the phone back and says, “It’s the Storyteller again!” before continuing with the night phase.
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+[[Category:Experimental Characters]]
+[[Category:Minions]]

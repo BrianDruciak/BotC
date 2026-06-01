@@ -1,0 +1,125 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_ojo.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>19/10/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Like a bonfire on a moonless night... I see you, mortal."</p>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>rhU0atqSAcE</youtube>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies."
+
+The Ojo chooses specifically which character dies.
+*  Unlike other Demons, the Ojo must choose a character, not a player. The Storyteller may need to remind the player of this. We recommend that all players have their character sheet handy during the night phase.
+*  The Ojo can kill evil characters, if they wish.
+* If there are multiple copies of a particular character in play, and the Ojo chooses that character to die, only one of those characters dies.
+* If the Ojo chooses a character that is not in play, the Storyteller will almost always kill a living good player. It is possible, but uncommon, for the Storyteller to choose a dead player or an evil player to die.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Each night except the first, wake the Ojo. The Ojo player points to a character icon on their character sheet. If that character is in play, that player dies—mark them with the “Dead” reminder. If that character is not in play, choose any player. That player dies—mark them with the “Dead” reminder. Put the Ojo to sleep.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If the Ojo is on a script with a Demon that kills multiple times per night, such as the Shabaloth, and the Ojo chooses a not-in-play character, you may choose more than one player to kill that night. This helps the Ojo player pretend that a different Demon is in play.
+</div>
+	</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Ojo chooses the {{Good|Plague Doctor}}. The {{Good|Plague Doctor}} dies. The next night, the Ojo chooses the {{Good|Poppy Grower}}. The {{Good|Poppy Grower}} dies. The next night, the Ojo chooses the {{Good|Empath}}. There is no {{Good|Empath}} in play, so the Storyteller chooses that the  {{Good|Shugenja}} dies instead.		</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+*  Choose the most powerful characters first. The joy of your ability is that you can get rid of the characters you’re most concerned about playing against as soon as you want, so just start killing them!
+
+* Think about the other Demons on the script – is it worth trying to kill as though one of those might be in play? If you do, though, you’re likely to have to sacrifice killing all the most worrisome Townsfolk first, which is your main ability, so think about whether it’s worthwhile.
+
+* If you think players are going to work out you’re an Ojo, make sure you bluff as a less powerful Townsfolk or Outsider. You don’t want people to be asking why you haven’t died before the final three when all the other most powerful Townsfolk have died already.
+
+* Bluff as a powerful Townsfolk and get your Minions to do so too! If there are multiple powerful characters that haven’t died, it makes it look less like an Ojo game, plus your whole evil team gets to spread powerful misinformation at the same time.
+
+* If you’re not sure if someone is telling the truth about being a certain character, you can pick it and find out. If they die, great, you know you have to take their information into account. If not, they were bluffing and you can move on.
+
+* Pay attention when a player you weren’t expecting to die dies. Maybe they had swapped claims with another player and were actually the character you tried to kill. Or maybe that character was out of play and the Storyteller has just chosen that kill.
+
+* If you’re playing a script with Demons that can kill multiple times at night, you can deliberately choose a not in play character (maybe one of your bluffs?) to allow the Storyteller to make multiple kills to keep the option alive that one of those multi-kill Demons is in play. While those kills likely won’t be as good for you as you choosing the exact characters you want to snipe, it will continue to hide which Demon is actually in-play.
+
+* Don’t forget Outsiders. If you focus all your attention on killing Townsfolk, you might end up in a final three with just two Outsiders that’re confirmed by Outsider count, so don’t forget that they’re also worthwhile kills.
+
+* If you or one of your Minions wants to bluff a character that’s not in your bluffs, you can choose that character at night to find out if it’s in play or not and adjust your bluffs accordingly.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Ojo ==
+
+* If you’re powerful, bluff that you are something else even if you die immediately. The Ojo has gotten to gain from their ability by killing you immediately, but if they think they missed and you were something weaker, you can surprise them with your information later in the game.
+
+* Trust powerful characters that die early if it becomes clear it’s an Ojo game. While they may not have much information, you can almost certainly trust whatever information they have got as the Ojo doesn’t contribute misinformation and them dying early in an Ojo game tells you they are most likely good and the character they say they are.
+
+* To work out if an Ojo is in play, look at who dies. If players are dying that you’d expect to die in a normal game – those that claim powerful info publicly, those that are inferred to be powerful based on public or semi-public information, it’s likely not an Ojo game. If players who haven’t claimed their character at all and have been skirting under the radar are dying and have powerful characters, it might be an Ojo game.
+
+* Don’t be thrown off thinking it might be an Ojo game by one or two early kills of Outsiders or Townsfolk that aren’t having much impact. The Ojo might be either deliberately trying to throw you off or they might have been accidentally picking out of play characters and the Storyteller is picking weaker kills for them accordingly.
+
+* Pay attention to which characters are claimed by the players who die at night. Consider who, of the living players, is likely to think that this specific order of deaths is best for the evil team. Knowing your fellow players’ sense of priority regarding Ojo kills can really help you work out who the actual Ojo is!
+
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Demons]]

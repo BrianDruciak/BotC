@@ -1,0 +1,13 @@
+# Core pipeline
+rapidfuzz>=3.6        # fuzzy-match detected character names to the canonical 183
+openpyxl>=3.1         # read the games Excel sheet (values + embedded hyperlinks)
+
+# Vision extraction (lazy-imported; only needed for real extraction)
+google-genai>=1.0     # Gemini 3.5 Flash / 3 Pro multimodal extraction
+
+# Image handling (used for cropping/optional icon-hash verification + downloads)
+Pillow>=10.0,<12
+
+# Interactive stats UI (Phase 5)
+fastapi>=0.110
+uvicorn[standard]>=0.29

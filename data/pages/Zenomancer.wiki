@@ -1,0 +1,88 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_zenomancer.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Loric</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>20/11/2025</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>"The universe is a verb not a noun, they say, and it is turtles, turtles all the way down. Turtles all the way down, my friend, turtles all the way down."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"One or more players each have a goal. When achieved, that player learns a piece of true info."
+
+The '''Zenomancer''' gives mini quests.
+* One or more players may be given goals by the Storyteller. These goals are given privately. They may be given goals at the beginning of the game, or at some time during the game. Different players may be given goals at different times.
+* A goal can be anything. It can be something to do with the game, or something beyond the game.
+* The Storyteller is the judge of when a goal is achieved. When this happens, the player learns one piece of information about the game. This is true even if they are drunk or poisoned, since this is due to the Zenomancer, not their character.
+* Goals may clash, or may not be achieved.
+* Usually, 1 to 3 goals will be given throughout the game, and most goals will be given at the beginning of the game.
+* Players may bluff that they have been given goals, or bluff that they have achieved a goal.
+* Any player may be given a goal, even Travellers and dead players.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+At any time, communicate to a player that they have a goal. Either tell them privately, or wake them at night and show them a written note. Mark this player with the Zenomancer’s '''GOAL''' reminder. 
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+Add “...without telling anyone your goal” to make your goals more interesting. Most goals are more fun for the player if they are unable to communicate it.
+</div> 
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Alex is the {{Evil|Pit-Hag}}. He is given the goal “create an evil Outsider”. Alex turns the {{Evil|Witch}} into the {{Good|Sweetheart}}, and learns that Lewis is the drunk {{Good|Sage}}.
+			</div>
+
+			<div class='example'>
+				Evin is given the goal “convince Sarah that she is the {{Evil|Marionette}}”. The Storyteller judges that Sarah is adequately confused about whether she is the {{Evil|Marionette}} or not. Evin learns that there is no {{Evil|Marionette}} in play. Meanwhile, Ben has the goal “nominate and execute a Minion”. This does not happen, and Ben does not get his Zenomancer information.
+			</div>
+
+			<div class='example'>
+				Julian has the goal to “steal all the comfy pillows from the couch, without touching them”. Amy has the same goal. Amy convinces Marianna to engage Julian in a private chat while Abdallah steals the pillows and gives them to her. Amy learns that the Demon is a {{Evil|Fang Gu}}.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

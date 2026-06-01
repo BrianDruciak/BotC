@@ -1,0 +1,160 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_eviltwin.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I'm not Sara! I'm Clara! SHE is Sara! Sara is the evil one! Not me!"<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/41997486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-19%2F225349499-44100-2-504aa217fbee.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Plague Doctor|plaguedoctor|Good|If the Storyteller would gain the Evil Twin ability, a player becomes the Evil Twin.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live."
+
+The Evil Twin mirrors a good character, so that the players don't know which twin is good and which twin is evil.
+* The Evil Twin is paired with a good player, chosen by the Storyteller, called the Good Twin.
+* On the first night, the Evil Twin and Good Twin both wake, make eye contact, and learn each other’s character.
+* If the Good Twin is executed, evil wins. If the Evil Twin is executed, the game continues. A dead Evil Twin has no ability, so evil doesn’t win if the Good Twin is later executed. 
+* Good cannot win while both twins are alive. Even if the Demon is killed, the game continues. Good will need to kill the Evil Twin as well as the Demon to win.
+* If a good player is turned into an Evil Twin, they are still a good player, with an evil player becoming their twin. It doesn’t matter which twin is which character, what matters is their alignment—the good team can execute the evil player safely, but if they execute the good player, evil wins.
+* If both Twins are the same alignment, the Storyteller chooses a new Twin.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+While setting up the game, choose a Good Twin by marking any good character with the '''TWIN''' reminder. During the first night, wake both Twins. Let them make eye contact. Point at the Evil Twin, then show the Evil Twin token to the Good Twin. Point at the Good Twin, then show the Good Twin’s character token to the Evil Twin. Put them both to sleep.
+
+While both Twins are alive, the good team cannot win. If a good-aligned Twin is executed, the evil team wins.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If a Pit-Hag creates an Evil Twin during the final night, either make the other Twin the Demon player or a dead player, so that the good team is still able to win.
+<hr />
+It is rarely a good idea to choose a Traveller to be a Twin.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Both twins are claiming to be the {{Good|Oracle}}. The Evil Twin is executed. The game continues.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Pit-Hag}} turns the good {{Good|Sage}}, who is also the Good Twin, into the {{Good|Mutant}}. Both twins try to convince the group that they are the {{Good|Mutant}}. The Storyteller immediately executes the {{Good|Mutant}}, who is also the Good Twin. The game ends and evil wins.
+			</div>
+
+			<div class='example'>
+				The Good Twin and the Evil Twin are both loudly claiming to be the {{Good|Artist}}. Both players approach the Storyteller to ask a question in private. The good players, confused, execute the Demon. The game continues, with no death during the night from now on.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Pit-Hag}} turns a good player into the Evil Twin, who remains good. The group executes the good-aligned Evil Twin. Evil wins.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Say that the good twin is the Evil Twin. Say it again, and again, and again. After all, that's what the good twin will be doing!
+
+* Claim that you are the same character as the good twin. On the first night, you learn the character of the good twin, and they learn yours. This is a hint to help you know a character that is safe to bluff as. Obviously, as you bluff as this character, the good twin will also be claiming to be this character, so you will double up. However, since the good twin will be screaming that you are evil anyway, both of you claiming to be the same character is not incriminating you any further. In fact, bluffing as their character is the safest option - if you bluff as a different character and that character is already in play, then the good players will be certain that you are evil. For example, the good twin is the {{Good|Clockmaker}}, and the Evil Twin bluffs as the {{Good|Clockmaker}} too - the good players know that one of the {{Good|Clockmaker}}s are evil, but not which one. In the next game, the good twin is the {{Good|Klutz}}, but the Evil Twin bluffs as the {{Good|Juggler}} - the real {{Good|Juggler}} reveals who they are, and since the good players know that one of the twins is evil, they execute the one claiming to be the {{Good|Juggler}}, because they also know that one of the {{Good|Juggler}}s is evil.
+
+* Be passionate, not relaxed. Sometimes it is perfectly ok for a good player to die, so it is perfectly ok for an evil player to play it cool and pretend to not care about being executed. Such is not the case with pretending to be the good twin. Since the game ends, and evil wins, whenever the good twin is executed, the good twin is almost always very vocal and insistent that they do not be executed under any circumstances. Their situation is much like the {{Good|Saint}}, in [[Trouble Brewing]]. So, any Evil Twin that is laissez faire about being executed, probably will be executed, since a good twin would have protested more. 
+
+* One strategy, although usually not a very good one, is to deny everything. Never claim that an  Evil Twin is in play. Claim that the player accusing you if being the Evil Twin is lying. This strategy rarely works, because the good team is faced with a dilemma that has a "best" solution... either they believe that the good twin is telling the truth, and execute you (which kills a Minion), or they don't believe the good twin is telling the truth, and execute them (which ends the game and makes evil win). Since the risk of executing the good twin that is accusing you is so high, clever players will almost always execute you as the safer option.
+
+* Get the good twin executed, however you can. Give false information that indicates that your fellow evil players information is true. Give true information so that you look more trustworthy. Make whatever arguments you need to make so that the good team comes to believe that the good twin is actually the Evil Twin. If they are executed, evil wins.
+
+* Similarly, if you are an evil player that is not the Evil Twin, do whatever you can to support your ally and to make the good twin look suspicious. Give false information that indicates that the good twin is evil. If the situation warrants it, you can sometimes give true information that makes the good twin look evil (for example, if the group thinks that a {{Evil|Vortox}} is in play, you can say you are the {{Good|Artist}}, and learnt that the Evil Twin is evil). Support the Evil Twin, and campaign for the good twin's execution.
+
+* If you are the Demon, cease killing at some stage, to pretend that the Demon was executed that day. Normally, if the Demon is executed, the game continues (the Evil Twin character says that while the Evil Twin is alive, "Good can not win"). So, when the Demon is executed, the night phases continue without any deaths, and the good players quickly figure out who the Demon was - the player that was executed yesterday. However, if you are still alive, and choose to attack dead players of a night time, it will make it seem like the Demon has been executed already... and the poor schmuck who was the last player executed will be the only suspect!
+
+* If you are the Demon, feel free to try riskier bluffs that you may not otherwise feel fully capable of succeeding with. Since the game continues if you die, it matters less than normal if you are executed. Having an Evil Twin in play, it might be a good opportunity for you to bluff as the {{Good|Savant}} or the {{Good|Dreamer}}, the {{Good|Snake Charmer}} or the {{Good|Flowergirl}} if you are not normally confident in doing so.
+
+* It is rare, but if there is no Evil Twin in play, 2 evil players can both bluff as the good twin. If both are claiming to be the good twin, then the good players will assume that one of them is the Evil Twin, and eventually execute one of them. Since both players will be claiming to be the good twin, and both claiming that the other is the Evil Twin, then it is best that the twin that the evil team actually wants to die makes themself look a little bit more evil than the twin the evil team wants to live. In [[Sects & Violets]], to bluff that there is an Evil Twin in play when there isn't, may require that the real Minion(s) doesn't use their ability in an obvious way. For example, if there is only one Minion in play, and you claim that the Minion is an Evil Twin, but a player dies from a {{Evil|Witch}} curse, everyone will know you are lying.
+
+* If there is no Evil Twin in play, an evil player can bluff as the good twin, and claim that a particular good player is the Evil Twin. Obviously, this player will have no idea what you are talking about, and deny that they are either the good twin or the Evil Twin, so beware. However, if you bluff well, you might be able to get that player executed, and have them look evil (and yourself good) for the rest of the game. In [[Sects & Violets]], to bluff that there is an Evil Twin in play when there isn't, may require that the real Minion(s) doesn't use their ability in an obvious way. For example, if there is only one Minion in play, and you claim that the Minion is an Evil Twin, but a player dies from {{Evil|Cerenovus}} madness, everyone will know you are lying.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Evil Twin ==
+
+* If two players claim that each other are the Evil Twin, then you can safely assume that you have an Evil Twin in play. If there is only one Minion in this game, you know you are safe from the {{Evil|Witch}}, the {{Evil|Cerenovus}} and the {{Evil|Pit-Hag}}.
+
+* Once you have determined that an Evil Twin is in play, because two players are claiming that the other is the Evil Twin, then there is no rush to execute either of them. If you make a foolish decision early in the game and execute the wrong twin, good loses. It is best to wait for at least a few days, or even to the final third of the game, before choosing which twin to execute. By that time, you will have as much information as possible with which to make your decision.
+
+* The good team MUST execute the Evil Twin in order for the good team to have a chance at winning. And they must NOT execute the good twin, or good immediately loses. As a group, put the majority of your attention and deduction skills towards finding out which twin is which. Ignore the question of who the Demon is until you have found out who the Evil Twin is. If you kill the Demon, the game continues anyway, and you also need to execute the Evil Twin to win. Since evil will win if the Evil Twin and the Demon are both alive when just 3 players are left alive, you may need to kill the Evil Twin before you kill the Demon! 
+
+* Compare both twin's information, to determine which twin is which. If both twins are claiming to be the {{Good|Artist}}'s but are giving conflicting information, follow each of their claims and see if you can determine which one is true. The Evil Twin is the one who is lying. If both twins are claiming to be the {{Good|Juggler}}, but their information conflicts, see if you can determine which twin's information is accurate. The real {{Good|Juggler}} should be the one with accurate information.  
+
+* Certain Townsfolk characters can directly help the good team figure out which twin is which. A {{Good|Town Crier}} can detect when the Evil Twin nominated. A {{Good|Juggler}} can guess that the Evil Twin is, and learn that night if they were correct. A {{Good|Seamstress}} can determine whether an twin is the same alignment as a non-twin character. A {{Good|Clockmaker}} may be able to gain information on who the demon probably is (based on their proximity to the Evil Twin), then reverse engineer this information to find out who the Evil Twin is. The {{Good|Artist}} can ask directly. However, if you are the {{Good|Dreamer}}, don't choose to dream about either twin - any Storyteller worth their salt will tell you that the player is either the Evil Twin, or the character that they are claiming to be.
+
+* If only 1 person accuses a player of being the Evil Twin, trust the accuser, not the accused. Most Evil Twins will also claim that their accuser is the Evil Twin, but not always. In the situation where only one player is accusing another of being the Evil Twin, you are faced with a choice: either trust that the accuser is telling the truth and kill the accused, the possible consequence being that you have killed a Minion; or, you can trust that the accused is telling the truth, and execute the accuser, with the possible consequence that you lose the game. It is far too risky to kill the accuser, at least until you have damning evidence against them, so if you must kill one of them, execute the accused.
+
+* When killings stop happening of a night time, you have almost certainly executed the Demon. Since the game continues when the Demon dies (the Evil Twin's ability says "good can not win" whilst the Evil Twin is alive), then once the killings stop, the Demon is probably dead. The most recent player executed, is almost certainly the Demon - they were killing of a night time, and now that they are dead, they cannot do so any more.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Minions]]

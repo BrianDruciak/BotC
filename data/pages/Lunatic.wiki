@@ -1,0 +1,144 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_lunatic.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I am the night... I think."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/58177916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-27%2F287849182-44100-2-c98750243c266.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Mathematician|mathematician|Good|The Mathematician might learn if the Lunatic attacks a different player than the real Demon attacked.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You think you are a Demon, but you are not. The Demon knows who you are & who you choose at night."
+
+The Lunatic thinks that they are the Demon.
+* Much like the Drunk, the Lunatic does not know their real character or real alignment. They are woken each night to attack as if they were the Demon that is in play, but their choices have no effect because they have no Demon ability.
+* The Lunatic wakes during the first night to learn three bluffs and the appropriate number of Minions, but this information may be wrong.
+* The real Demon knows which players the Lunatic chose to attack each night.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While setting up the game, put the Lunatic and Demon tokens in the bag. Once all tokens have been returned to you, swap the positions of the Lunatic and Demon tokens in the Grimoire. 
+
+During the first night, wake the Lunatic and act as if they are the Demon. Show them the '''THESE ARE YOUR MINIONS''' info token and point to a number of players equaling the number of Minions in play. (''These can be any players, whether or not they are Minions.'') Show any three good character tokens as bluffs. (''These can even be characters that are in play.'')
+
+During the first night, wake the Demon. Show them the '''YOU ARE''' info token, then their Demon token. (''This tells them they are the real Demon.'') Show them the '''THIS PLAYER IS''' info token, then the Lunatic token, then point at the Lunatic player. 
+
+Each night, before the Demon wakes to attack, wake the Lunatic to act as if they were that Demon. Put a '''CHOSEN''' reminder on each player they chose, then put them to sleep. Wake the real Demon, point at the Lunatic, show the Lunatic token to the real Demon, and point at the players that the Lunatic chose. Then the Demon acts as normal.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+You can make the Lunatic think they are a different Demon than the in-play Demon by instead putting two Demon tokens in the bag, then replacing one of them with the Lunatic token once they are in the Grimoire.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Lunatic, thinking they are the {{Evil|Shabaloth}}, wakes each night to choose two players. The chosen players do not die.
+			</div>
+
+			<div class='example'>
+				The Lunatic, thinking they are the {{Evil|Zombuul}}, does not wake often at night. The real {{Evil|Zombuul}}, who is pretending to be the Lunatic's Minion, often attacks the same players the Lunatic chooses, to keep up the illusion that the Lunatic is the Demon.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Drawing a demon token is always an exciting experience: you will be fighting the good team, killing them off at night, and lying to their faces by day! You are a dangerous scourge on the town, threatening to rip them all to shreds!! .... Well, either that, or you're the Lunatic. 
+
+* The Lunatic is a unique outsider, tricking a good player into believing they are playing for evil, only to find that reality does not match up with that belief. Fortunately, these breaks in your evil narrative will be what helps you determine if you are truly evil or not! In nearly all cases, it's best to assume you are legitimate, and only actually begin to doubt if you encounter something that doesn't make sense. For example:
+** The players you kill don't die, but others do. You're a {{Evil|Shabaloth}}, but for some reason only 1 out of 2 of your kills are happening every night. You're the {{Evil|Zombuul}}, but there was an execution ''and'' a kill last night. While the real demon can see and try to mimic your choices to kill, the demons in [[Bad Moon Rising]] are colorful and varied - pay close attention to why kills succeed or fail. Is a wily {{Good|Innkeeper}} getting the better of you, or does the real demon not care for your delusions?
+** Talk to your 'minions'. Like a real demon, you will be told players who are evil along with you. If they are real minions, they will know you are the demon. If you are a Lunatic, however... they could be anyone! Townsfolk, other Outsiders, the real demon's minions... Keep an eye on your evil team and see how they behave. If they are backing you up and working with you, you probably have nothing to fear. If they are giving you odd looks, fighting against you, or even outright tell you that they're not your minion, well... that might be an indication everything isn't on the level.
+** Like a real demon, you will also receive three characters that are not in play. If you are the Lunatic, these can be anything, and often will include characters that are actually in play - a hint to your true nature. If you know there's no {{Good|Tea Lady}} in play, and then across the room a {{Good|Tea Lady}} proves themselves (by executing one of their neighbours), it might be time to doubt your evil identity.
+** This one seems obvious, but should you die and the game continue, that's a ''huge'' indication that you were probably not the demon haunting this town. Of course, keep in mind that if you are the {{Evil|Zombuul}}, you get one extra life, and the {{Evil|Mastermind}} forces the game to continue for one more day in the event of your death. So maybe don't jump to conclusions ''right'' away depending on how the game is looking.
+
+* If you have come to the conclusion that you are the Lunatic, don't despair - all that means is that your true objective has been revealed, and it's time to fight for the good team. You may have spent the first half of the game believing you were a bloodthirsty demon, but that doesn't mean you can't be a productive member of society now, lending your vote and voice to fighting the true evil lurking in this town.
+
+* Don't come out right away once you figure it out - not only will the good team tend towards being suspicious and may just execute you anyway, but there's a lot you can do if the evil team thinks you're under the thrall of your own lunacy still. For example, the demon knows who you choose to kill each night - if they believe you believe, then you may be able to point towards players you suspect are ''actually'' evil. If the demon has been faithfully following you until that night and suddenly swerves, you may have hit pay-dirt. ''Evil'' pay-dirt.
+
+* If you think that you are the Lunatic, tell the group this as soon as possible. The sooner that you stop accidentally playing for the evil team, and start playing for the good team, the sooner you can put all your information together. When the good team believes that you are the Lunatic, the correct number of Outsiders can be determined, and any false information that you have given up until this point can be reversed.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Lunatic ==
+
+When bluffing as the Lunatic, there are a few things you should keep in mind:
+
+* Bluff as a different character for a while first. Act like a demon would act for a little while before "figuring out" that you are a Lunatic. This can work even if the bluff you have chosen duplicates an in-play good character. After all... a real Lunatic often gets shown bluffs that are in-play characters.
+
+* Sincerity is key. Whilst most other characters can coldly give their information, Lunatics tend to have an obvious emotional reaction - an "aha!" moment - when they figure out that they are the Lunatic. This emotional reaction can be difficult to fake for some people, but you are much more talented than that. You know how to put a little oomph into your words, and you know how effective it can be in convincing the good team that you are good.
+
+* If you come out as the Lunatic, the good team will want to know which players you were shown as your Minions. This is something that you will want to have thought about beforehand - pick the appropriate number of good players, and approach them privately, asking them "are you my Minion?". When they say "no", which they will, because they are good players, that will give you further credibility when you do come out as the Lunatic later on.
+
+* Another way to falsely claim to be the Lunatic, is to reveal your actual Minion(s) to the group when you come out publicly. Tell the group that you approached your (actual) Minions, but they claimed to not be your Minions... which makes you believe that you are the Lunatic.
+
+* If you are claiming to be the Lunatic, the group may want to know which players you attempted to attack at night time. You can claim to have attacked the same players that the Demon has attacked, or different ones. It is up to you.
+
+* If you are a Minion, and the real Demon has talked to you in private to confirm that you are indeed a Minion, so as to confirm to themselves that they are not the Lunatic, feel free to lie to your own Demon. If the Demon's Minions claim to not be Minions, then the Demon will be completely convinced that they are the Lunatic, and the sincerity with which they tell the group that they are good will be palpable. After all, it is not difficult to bluff as the Lunatic if you genuinely believe that you are! You can always tell the Demon the truth later in the game, after they have convinced the good team that they are the Lunatic, so that they have all the information that they need to win as evil.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Outsiders]]

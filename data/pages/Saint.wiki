@@ -1,0 +1,136 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_saint.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Wisdom begets peace. Patience begets wisdom. Fear not, for the time shall come when fear too shall pass. Let us pray, and may the unity of our vision make saints of us all."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/15144691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-13%2F82007111-44100-2-b610318605aae.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If you die by execution, your team loses."
+
+The Saint ends the game if they are executed.
+* If the Saint dies by execution, the game ends. Good loses and evil wins.
+* If the Saint dies in any way other than execution—such as the Demon killing them—then the game continues.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+If the Saint dies by execution, declare that the game ends and evil wins.
+
+The Saint's ability has the strange phrase "your team loses." In Trouble Brewing, this will always mean "evil wins" because the Saint is always good. In other editions, it is possible for characters to change alignment. If the evil Saint is executed, good wins.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There are seven players alive and nominations are in progress. The Saint gets four votes and is about to die. Then, the {{Evil|Baron}} is nominated but only gets three votes. No more nominations occur today. The Saint is executed, and evil wins.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Imp}} is nominated, and the players vote. The {{Traveler|Gunslinger}} kills the Saint. The Saint dies, and the game continues.
+			</div>
+
+			<div class='example'>
+				The Saint is executed. However, the  {{Traveler|Scapegoat}}'s ability is triggered, so the {{Traveler|Scapegoat}} dies instead. The game continues, because the Saint did not die.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Do not get executed.
+
+* No, really. Don't. If you die by execution, the game ends, and your whole team loses. Make sure the good team knows you are the Saint! Tell it in the streets! Tell it from the rooftops! Tell it to everybody! You must be believed to be a good player, or it's curtains. If you have been nominated, cry black and blue that you are the Saint, loudly and publicly... the fate of the game depends on it.
+
+* To help prove that you are good, you can arrange for other good players to confirm your identity. Kill players sitting between you and an {{Good|Empath}} so that the {{Good|Empath}} learns your alignment. Convince the {{Good|Fortune Teller}} to select you at night to prove you are not the Demon. Find a {{Good|Ravenkeeper}} and get them to agree to choose you so they learn who you are. Get a {{Good|Slayer}} to attempt to slay you. The Demon will usually not want to kill you at night, so the question of who you really are will be asked by the group at some stage, and having some players back you up could be crucial.
+
+* Alternatively, either stay silent, or bluff as a juicy target for the Demon to attack, such as the {{Good|Slayer}} or the {{Good|Monk}}. If you die at night, then you remove the possibility of being executed accidentally by the good team. It's only executions that count for your ability.
+
+* Find out which other Outsiders are in play. If there are supposed to be two Outsiders in the game, and the only Outsiders to come out publicly are you and the {{Good|Recluse}}, for example, then even though you both look inherently suspicious, there are supposed to be two Outsiders in play, so the good team may believe that you are good for this reason alone. If you're the only one, so much the better! It must be you and a {{Good|Drunk}}.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Saint ==
+
+When bluffing as the Saint, there are a few things you should keep in mind:
+
+* You would never wake, learn anything, or act during the day, except on your execution, at which point the game is already over.
+
+* Because of the Saint's lose condition, it is easily one of the best evil bluffs in the game. It is such a risk to execute you that the good team will usually err on the side of caution and leave you alone. This does not mean that it is bulletproof; on the final day, you're at the same risk as everyone else (since if they don't execute the Demon, they lose anyway). You'll also come under a reasonable amount of scrutiny as the game progresses.
+
+* Saint is often an excellent bluff for the {{Evil|Poisoner}} in particular. Even if the good team truly believe you to be evil, perhaps with information from all three of the {{Good|Investigator}}, {{Good|Empath}}, and {{Good|Ravenkeeper}}, the good team may still be too scared to execute you before the final day, by when you've already done all the damage you need to. You can then either get executed and win for the evil team, or if you think the good team know you're not the Demon, have the {{Evil|Imp}} attack themself in the night and make you the new Demon.
+
+* If you are the {{Evil|Imp}}, you know that your execution causes your team to lose if there's no {{Evil|Scarlet Woman}} in the game. Because of that, if you're slated to be executed and try desperately to save yourself, the good team may correctly interpret that as a Demon trying to save themselves, at least long enough to kill themself and pass on the responsibilities to a Minion. That is severely limited by the Saint bluff, however - they may read that you want to avoid execution to stop your team from losing, but not know which team that is.
+
+* Bluffing as the Saint in a game with no {{Evil|Baron}} can be tricky since you will likely be conflicting with other Outsiders. Fortunately, your lose condition makes you a larger threat to execute over a {{Good|Butler}} or {{Good|Recluse}}; use this to your advantage to leverage the execution of a good player.
+
+* You may be detected as evil at some point during the game. A great counter-argument is that because you are the Saint, you are being targeted by the Storyteller. For example, you could say you are the {{Good|Fortune Teller}}'s false positive, or that an {{Good|Empath}} getting an evil read on you is actually {{Good|Drunk}}. 
+
+* Good players benefit from bluffing as the Saint as well! Demons are unlikely to target a Saint since they would much rather they be executed. Using this to your advantage can allow you to survive a few days longer as an {{Good|Empath}} or {{Good|Fortune Teller}}.
+
+* If you are executed, it will become immediately obvious you are not the Saint when the game doesn't end. Be prepared to have a back up bluff, such as the {{Good|Recluse}}, or a powerful Townsfolk who didn't want to die (like the {{Good|Undertaker}} or {{Good|Slayer}}).
+
+* Beware of {{Good|Slayer}}(s)! The Saint is usually a very powerful bluff to keep yourself safe from execution, but if a {{Good|Slayer}} is in play, they will very likely want to test you, and would not trigger the Saint's lose condition using their ability. One good way to circumvent this is to have a Minion bluff as the Saint, get slayed, and then have the {{Evil|Imp}} pass the Demonhood to them after that.
+
+* If you get nominated, drop any previous bluff and come out as the Saint. Claim that your previous information and character were a ploy to attempt to get the Demon to target you. This will usually give the good team significant pause.
+
+* Don't be afraid to claim to be the Saint, even if there's already one in play. The good team can usually resolve cases of two players claiming to be the same character by executing them both in either order, but this is not possible to do with the Saint.
+
+* Claiming to be an Outsider can obfuscate the presence of the {{Good|Drunk}}, or cause the good team to think that a {{Evil|Baron}} is in play.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Outsiders]]

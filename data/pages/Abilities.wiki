@@ -1,0 +1,34 @@
+Each character in Blood on the Clocktower has a unique ability as described on their character token, character sheet, and character almanac. The character token and character sheet give plain-language versions of the abilities that will serve you well in almost all cases, but if you run into a conflict or strange interaction between abilities and need to find a more specific explanation, follow the rules written in their character almanac.
+
+'''When used, abilities work immediately.''' For example, if the Demon attacks the Fortune Teller, the Fortune Teller dies immediately—they do not get to wake up later that night to use their ability. Or if the Monk wakes up and protects the Empath, then the Demon wakes up just after that and attacks the Empath, the Empath does not die.
+
+'''Only tell a player what their own character’s ability says they learn.''' Secrets are secret. If the Imp dies and the Scarlet Woman becomes the Imp, do the other players learn that this has happened? No. If the Slayer uses their ability and nothing happens, do the players learn that the Slayer is the Slayer? No. If the Monk protects the Washerwoman, does the Washerwoman learn that she was protected? No. When the night ends, do players learn which ability killed which player? No, they only learn which players died, not how.
+
+'''Abilities are lost immediately on death, poisoning, or drunkenness.''' If a character dies, they lose their ability immediately and any of its persistent effects end, so you can remove their reminder tokens. For example, if a Poisoner poisons the Slayer at night, then the Poisoner dies later that same night, the Slayer is no longer poisoned. Even though the Poisoner’s ability says that it lasts “until dusk”, once the Poisoner dies, they lose their ability and its persistent effect ends.
+
+If a player becomes drunk or poisoned, you can remove their reminder tokens. However, it is sometimes more helpful to not remove them and instead turn them upside-down, in case the player becomes sober and healthy again.
+
+You can ignore these reminder tokens for the time being since drunk or poisoned players have no ability, as if they were dead. For example, if the sober Innkeeper protects the Chambermaid, but then the Innkeeper becomes drunk, the Chambermaid stops being protected. Or if Julian poisons Amy, and then Evin poisons Julian, then Amy is no longer poisoned.
+
+'''Some characters keep all or part of their ability when they die.''' If the ability says “even if dead” or happens when the character dies, it does so. This ability is still lost if the player becomes drunk or poisoned.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Ravenkeeper is killed at night, then uses their ability. Their ability says “If you die at night, you are woken to choose a player: you learn their character.” Even though the Ravenkeeper is dead, they still have their ability for a short while, because their ability says it happens when the Ravenkeeper dies.
+</div>
+
+'''If an ability does not say “choose” the Storyteller makes the decision.''' For example, if an ability says “A player is poisoned each night”, then the Storyteller chooses who. If the ability says “Each night, choose a player: they are poisoned”, that means that character’s player chooses.
+
+'''If a player tries to use their ability incorrectly, let them know.''' Tell them verbally if it is day, or shake your head if it is night. The Monk cannot choose themself, so if the Monk player chooses themself, shake your head no, then motion for them to choose a different player. The Chambermaid must choose alive players, so if the Chambermaid player chooses a dead player, shake your head no and motion for them to choose again.
+
+'''If a player becomes a new character, they gain the new character’s ability immediately.''' They lose their old ability immediately and any of its persistent effects end. If the new ability is a “once per game” ability and has already been used, they may use it again. If the new ability normally only functions on the first night, it functions tonight. Players that are brought back from the dead, or players that become a new character via a character swap, gain their ability in this way too.
+
+If a player becomes a Minion or Demon character, they do not learn who the other evil players are. That information is for the evil players at the beginning of the game, and has nothing to do with abilities.
+
+If a player becomes a character whose ability text has square brackets - [like this] - that portion of the ability has no effect. Square brackets indicate a different game setup, and this is not
+changed mid-game.
+
+'''Some abilities may happen at a different time than what is listed on the night sheet.''' The night sheet lists which characters act in what order, but some abilities may take effect earlier or later, such as when an ability triggers immediately when a character dies. The night sheet order is a guide to remind you to wake players and to place reminder tokens and shrouds, so that no character is forgotten. The ability text on the character token is more important than the order of resolution on the night sheet.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Demon kills the Sage. The Storyteller should wake the Sage immediately, but forgets. The next character on the night sheet to act is the Sweetheart. The Sweetheart died today. The Storyteller forgot to make a player drunk as soon as the Sweetheart died, so they do so now. The next character on the night sheet to act is the Sage. The Storyteller wakes the Sage and resolves the Sage ability.
+</div>

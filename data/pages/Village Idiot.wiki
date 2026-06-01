@@ -1,0 +1,141 @@
+__NOTOC__ 
+<div class="row">
+
+   <div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+      <div id='character-details'>
+
+			[[File:icon_villageidiot.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>25/01/2024</td>			
+				</tr>
+			</table>
+
+         <p class='flavour'>"Roses are blue, and violets are red, Please reverse what I just said."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>m0b8lAjfDp8</youtube>
+      </div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Boffin|boffin|Evil|If there is a spare token, the Boffin can give the Demon the Village Idiot ability.}}
+{{Jinx|Pit-Hag|pithag|Evil|If there is a spare token, the Pit-Hag can create an extra Village Idiot. If so, the drunk Village Idiot might change.}}
+			</table>
+
+		</div>
+
+   </div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+      <div class="row">
+
+         <div class="small-12 large-6 columns"> 
+== Summary == 
+"Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]"
+
+The Village Idiots are a group that learn players’ alignments. 
+* The Village Idiot that is drunk is chosen by the Storyteller during the game setup. 
+* There may be one, two, or three Village Idiots in play, irrespective of the number of players. 
+* If there is only one Village Idiot in play, they are sober. 
+* The drunk Village Idiot may get true information. 
+* When Village Idiots are added to the game during setup, they replace other Townsfolk. 
+* If a Village Idiot is created mid-game, only one is created. 
+* Village Idiots act one at a time, not all together. 
+* If all sober Village Idiots exit play, the remaining drunk Village Idiot remains drunk. 
+* If a sober Village Idiot becomes drunk or poisoned by other means, the drunk Village Idiot remains drunk. 
+         </div>
+
+         <div class="small-12 large-6 columns" style="padding-right: 0;"> 
+== How to Run == 
+While setting up the game, before putting the character tokens in the bag, replace zero, one or two Townsfolk tokens with Village Idiot tokens. While preparing the first night, mark one Village Idiot with the '''DRUNK''' reminder. 
+
+During each night, wake any Village Idiot. They point to a player. Give a thumbs up or a thumbs down. Put that Village Idiot to sleep. Repeat until all Village Idiots have acted. 
+         </div>
+
+      </div>
+
+   <div class='row'>
+
+      <div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples == 
+			<div class='example'> 
+				Doug, Lewis, and Amy are all Village Idiots. Doug is drunk. At night, they all choose Evin, the {{Evil|Kazali}}. Doug learns that Evin is good. Lewis and Amy learn that Evin is evil. 
+			</div>
+			<div class='example'> 
+				Ben and Marianna are Village Idiots. Marianna is drunk. Sarah is evil, and bluffing as the Village Idiot. Ben chooses Sarah and learns that she is evil. Marianna chooses the {{Good|Heretic}} player and learns that they are good. Sarah claims to have chosen Ben and learnt that he is evil. 
+			</div>
+
+      </div>
+
+   </div>
+
+   <div class='row'>
+
+      <div class="small-12 large-12 columns" style="padding-right: 0;"> 
+
+== Tips & Tricks == 
+*  Find your fellow idiots. The easiest way for you to find out which of you is drunk is to compare your information and spot where there are agreements and disagreements. And, if you’re the only Village Idiot out there, you know you’re sober! 
+
+* Collaborate with other Village Idiots to all choose the same player. This can help determine which of you is drunk (if one person’s information differs), or whether there are multiple people bluffing as Village Idiots (if all information is the same). 
+
+* If there are exactly two of you and you haven't been able to work out who’s drunk, make sure to choose different players so you still get information. Two Village Idiots always choosing the same player won’t get any useful information. 
+
+* Remember that there being three Village Idiot claims doesn’t prove any of you good. Be aware of evil players bluffing, as long as there aren’t too many Village Idiots as a result, one of your compatriots could be evil and trying to make you look drunk when you’re not! 
+
+* Ignore the other Village Idiots, and assume that your information is correct. If all Village Idiots do this, the net effect will most likely be positive. 
+
+* Execute the Village Idiot that you think is drunk (in case they are actually evil). 
+
+* If a player is confirmed or strongly believed to be good or evil, choose them to determine whether you are the drunk VI or not. 
+
+* Be aware that the Storyteller may still give correct information to the drunk Village Idiot in order to prevent you becoming too powerful.
+
+* Wait a while before revealing you are a Village Idiot. If three or more other players claim to be a Village Idiot, you’ll know at least one of them is lying. 
+
+      </div>
+
+   </div>
+
+   <div class='row'>
+
+      <div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Village Idiot == 
+* If you find a Village Idiot pair, bluff as the third Village Idiot and “confirm” the drunk Village Idiot’s info, to provide misinformation. 
+
+* If you find a Village Idiot pair, bluff as the third Village Idiot and “confirm” the sober Village Idiot’s info, to gain trust with the group by maybe throwing one of your more expendable evil players under the bus, then use that trust later in the game. 
+
+* If you get Village Idiot as a bluff, considering whether you want to get more than one evil player to bluff Village Idiot. One solo Village Idiot is often suspicious, but multiple evil players bluffing Village Idiot ties you together as a potential evil team. If the good team is not executing Village Idiots, get the Demon to bluff Village Idiot. 
+
+* As the demon, you can still safely bluff Village Idiot even if you don’t get it shown as one of the demon’s three bluffs, you may just need to back out quickly if there are three already that go on the warpath. 
+
+* Bluff as the Village Idiot temporarily, until you want to reveal your main bluff – it’s great cover to pass out your “actual” info without having to claim your real character. 
+
+* If you receive the Village Idiot as a demon bluff, stay mindful of good players pretending to be Village Idiots. They may actually be powerful Townsfolk, or detrimental Outsiders like the {{Good|Damsel}} or {{Good|Heretic}}. 
+      </div>
+
+   </div>
+
+</div>
+
+[[Category:Experimental Characters]] 
+[[Category:Townsfolk]]

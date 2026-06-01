@@ -1,0 +1,122 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_gnome.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>01/11/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Four the score or seven beers, no shows are goes for me and my. A prank to crack the cranks and planks o' the floor foundation length, so incontravertabubbilly mini. The large essays down streams of joyce, no greater than is scene, not inherdt, Ha-urrumph.o."</p>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>DQwvN-wYogY</youtube>	
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"All players start knowing a player of your alignment. You may choose to kill anyone who nominates them."
+
+The Gnome protects one player on their team.
+* The Gnome starts as the same alignment as one other player - their "amigo". The Storyteller publicly announces which player this is.
+* When their amigo is nominated, it is the Gnome's responsibility to speak up. The Storyteller may not prompt them to use their ability.
+* If their amigo changes alignment, the Gnome's alignment does not change.
+* The Gnome may use their ability any number of times over the course of the game, including zero. Their amigo may still only be nominated once per day.
+* When the Gnome uses their ability, and the Storyteller confirms it, the nominator dies immediately. Voting for execution still occurs.
+* Regardless of what the group wants, it is always the individual player's decision whether they wish to nominate or not, and always the Gnome player's decision on whether they wish to use their ability or not. If the Storyteller feels that a player is being pressured into nominating or using their ability when they don't want to, the Storyteller may not recognize that nomination or ability use.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+During the day, as soon as the Gnome has entered play, mark a player of the same alignment with the '''AMIGO''' reminder. Declare that this player is the same alignment as the Gnome.
+
+If this player is nominated, but before you have started the voting process, if the Gnome player declares that they wish to use their ability, the nominator '''dies'''.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Gnome starts the game at the same time as the rest of the players, and is good. Amy is the {{Good|Alsaahir}}. Before the first night, the Storyteller announces that the Gnome is the same alignment as Amy. The {{Good|Engineer}} nominates Amy on day 3. The Gnome does not use their ability.
+			</div>
+
+			<div class='example'>
+				The Gnome enters the game on the 2nd day, and is evil. Lewis is the Demon. At this time, the Storyteller announces that the Gnome is the same alignment as Lewis. On the 2nd day, the {{Evil|Boffin}} nominates Lewis, and is killed by the Gnome. On the 3rd day, the {{Good|Zealot}} nominates Lewis, and is killed by the Gnome. On the 4th day, the {{Good|Village Idiot}} nominates Lewis, and the Gnome does not use their ability.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are good) ==
+* Get as many players as possible to nominate your amigo. This gives you more opportunities to use your ability to target evil players, and gives you opportunities to learn more about which players are comfortable or hesitant to die to your ability.
+
+* Stay silent so players forget you are in play, then jump in to use your ability when they least expect it! (because no one expects the Spanish Inquisition)
+
+* Taunt or dare players to nominate your amigo to see how they respond.
+
+* Don't vote for your amigo, & encourage other players not to vote for your amigo. You know they are good, so it's in your best interests to keep them alive!
+
+* Talk to players in the game to gain information about whether or not you want to use your ability to kill them. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks (if you are evil) ==
+* If your amigo is the Demon, get as many players as possible to nominate them.
+
+* If your amigo is a Minion, get as few players as possible to nominate them.
+
+* If your amigo is a Minion, make sure the Demon is bluffing a role that wouldn't want to nominate your amigo. Otherwise, good players will pressure the Demon to nominate your amigo, and you'll all look suspicious when your Minion doesn't kill them!
+
+* Your social play reflects on your amigo! If you look too evil, you risk good players figuring out that your amigo is evil by association. 
+
+* Be a part of discussions about which players should nominate your amigo. This will influence good players' opinions about who is a good player to kill. 
+
+* If your amigo is a Minion and players think you're evil, be distracting! Draw heat away from your Demon by focusing conversations and discussion on you and your amigo.
+
+* Be chaotic and surprise players with how you use your ability. And if worst comes to worst, if you really want to sow confusion, you can always nominate your amigo and then kill yourself...
+		</div>
+	</div>
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Travellers]]

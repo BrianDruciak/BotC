@@ -1,0 +1,132 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_minstrel.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"And I shall hear, tho' soft you tread above me... And all my dreams will warm and sweeter be... If you'll not fail to tell me that you love me... I simply sleep in peace until you come to me."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/49402892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-21%2F255124222-44100-2-39655467df082.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Legion|legion|Evil|If Legion died by execution today, Legion keeps their ability, but the Minstrel might learn they are Legion.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"When a Minion dies by execution, all other players (except Travellers) are drunk until dusk tomorrow."
+
+The Minstrel makes everybody drunk if a Minion dies.
+* If a Minion is executed and dies, all players (except the Minstrel) become drunk immediately and stay drunk all through the night and all the following day. Townsfolk, Outsiders, Minions, and even Demons become drunk, but not Travellers. This doesn’t happen if a Minion died at night.
+* If a dead Minion is executed, the Minstrel ability does not trigger—a dead character cannot die again! If a Minion is executed but does not die, the Minstrel’s ability does not trigger. If the Minstrel is drunk or poisoned when a Minion dies by execution, the Minstrel ability does not trigger.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+During the day, if a Minion dies by execution, all other players except Travellers become '''drunk'''—put the Minstrel’s '''EVERYONE IS DRUNK''' reminder in the center of the left side of the Grimoire. 
+
+At dusk tomorrow, all players made drunk by the Minstrel become '''sober'''—remove the '''EVERYONE IS DRUNK''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the first day, the {{Good|Pacifist}} dies. That night, players act as normal, because the {{Good|Pacifist}} is not a Minion. During the second day, the {{Traveler|Judge}} executes the {{Evil|Godfather}}. That night, everyone is drunk, including the Demon, so nobody dies. During the third day, a Minion who is protected by the {{Evil|Devil's Advocate}} is executed and dies, because the {{Evil|Devil's Advocate}} is drunk. Again, since a Minion died during the day, the Minstrel makes everyone drunk.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Assassin}} is executed, so the Minstrel makes everyone drunk. The next day, the {{Evil|Godfather}} is executed, so the Minstrel makes everyone drunk again. The Demon could not kill on either night. The next day, the evil {{Traveler|Apprentice}} Mastermind is exiled, so that night everyone becomes sober again, because the Minstrel ability doesn't trigger from a Traveller being exiled.  
+			</div>
+
+			<div class='example'>
+				During the day, the {{Evil|Assassin}} dies, so the Minstrel makes everyone drunk. The following day, the {{Evil|Zombuul}} is executed and dies for the first time. Good wins, because the {{Evil|Zombuul}} is drunk and so has no ability. 
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* At first glance, the Minstrel does not seem that powerful, but in actuality you gain some of the most reliable information in the game. After any day with an execution, you know with confidence that if ''anyone'' dies at night, the recent executee is not a Minion. Since an executed Demon typically ends the game ({{Evil|Zombuul}} and {{Evil|Mastermind}} aside), you can in fact be reasonably confident that they are actually good! 
+
+* If the town does successfully execute a Minion, the Minstrel ability will activate, and nobody will die that night. This does not mean that a night without death is any guarantee that your ability was the cause though. In [[Bad Moon Rising]], there are as many reasons people don't die as there are reasons they do (e.g. {{Good|Exorcist}}, {{Good|Innkeeper}}, {{Evil|Po}} charging up)! To be sure your ability is the cause and the recent executee should be condemned, do some sleuthing - since you affect ''all'' abilities in the game, you should be able to find evidence that other abilities did not work as expected. As an example, characters like the {{Good|Chambermaid}} or {{Good|Gambler}} could get odd results. Additionally, nobody will be safe from execution (e.g. {{Good|Pacifist}}, {{Evil|Devil's Advocate}}), and characters like the {{Good|Tinker}} will not randomly die that day.
+
+* Gun for executions! The more executions, the better chance you have of getting a minion. Good players may be reluctant to execute anyone who isn't a demon suspect as the death count can be unexpected and heavy in [[Bad Moon Rising]], but it is worth it to remove powerful Minions like the {{Evil|Assassin}} or {{Evil|Mastermind}} from play before they can do too much damage. Combined with the one night reprieve your ability grants on successful execution, your ability should be plenty of incentive to be more aggressive than usual!
+
+* Demons may be less likely to target you since they underestimate your power! Unless Minions are getting executed left and right, the Minstrel is likely to survive a little longer than other townsfolk without protections, simply because a Demon is going to be much more worried about an {{Good|Exorcist}} or a {{Good|Tea Lady}} surviving for another night. Take full advantage of this blind spot - hopefully by the time the evil team realizes what a danger you are, a Minion or two has fallen!
+
+* If your evil team is a little more savvy, they may be keen to target you earlier, especially if the good team is zeroing in on some of the Minions. Keeping your identity under your hat for a few days can allow you to spring an unpleasant surprise on these clever sorts, since they won't know that you've blocked them from acting and exposed a demon until nobody gets to act. Your unexpected death can also be an indicator that you were hot on the trail of a minion that the evil team really didn't want confirmed as such.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Minstrel ==
+
+When bluffing as the Minstrel, there are a few things you should keep in mind:
+
+* The Minstrel is a good passive or 'cover' bluff. There is not much you need to do other than remind people that you are the Minstrel every so often. Because it is easy, some good players will pretend to be the Minstrel to cover the fact that they are the {{Good|Exorcist}}, for example. You can do the same.
+
+* At least once per game, get the Demon to avoid killing at night. If no other deaths occur, this will simulate what occurs when a real Minstrel is in-play and a Minion is executed. If you do this after a suspicious player is executed, not only do you confirm the group's suspicions in that player's nefariousness, but you also convince the group that they were drunk that night - which throws a huge spanner in the works for characters that rely on night-time information and feedback, such as the {{Good|Exorcist}}, {{Good|Chambermaid}}, {{Good|Gambler}} and even the {{Good|Moonchild}}.
+
+* If you are claiming to be the Minstrel, and a fellow evil player is executed, having the Demon kill as normal that night is a great way to convince the group that the executed player was good. You may not even need to say anything more than the fact that you are the Minstrel - and let them figure the rest out themselves.
+
+* Encourage executions - of players other than yourself and your Demon, of course. 
+
+* If a real Minstrel is in play, and you are the Demon, choose not to kill every so often so as to throw the Minstrel off the scent. If a Minstrel is assuming that the group just executed a Minion when they in fact executed a Townsfolk, then not only will that Townsfolk look evil, but the rest of the good players will assume they were drunk tonight (due to the Minstrel ability), even though they were completely sober.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

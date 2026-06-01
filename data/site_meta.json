@@ -1,0 +1,127 @@
+{
+  "scraped_at": "2026-06-01T02:30:15Z",
+  "source": "https://wiki.bloodontheclocktower.com",
+  "siteinfo": {
+    "mainpage": "Main Page",
+    "base": "https://wiki.bloodontheclocktower.com/Main_Page",
+    "sitename": "Blood on the Clocktower Wiki",
+    "mainpageisdomainroot": false,
+    "logo": "https://wiki.bloodontheclocktower.com/skins/pivot/assets/images/logo.png",
+    "generator": "MediaWiki 1.39.2",
+    "phpversion": "8.0.30",
+    "phpsapi": "fpm-fcgi",
+    "dbtype": "mysql",
+    "dbversion": "8.0.45-0ubuntu0.22.04.1",
+    "imagewhitelistenabled": false,
+    "langconversion": true,
+    "linkconversion": true,
+    "titleconversion": true,
+    "linkprefixcharset": "",
+    "linkprefix": "",
+    "linktrail": "/^([a-z]+)(.*)$/sD",
+    "legaltitlechars": " %!\"$&'()*,\\-.\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+",
+    "invalidusernamechars": "@:>",
+    "allunicodefixes": false,
+    "fixarabicunicode": true,
+    "fixmalayalamunicode": true,
+    "case": "first-letter",
+    "lang": "en",
+    "fallback": [],
+    "rtl": false,
+    "fallback8bitEncoding": "windows-1252",
+    "readonly": false,
+    "writeapi": true,
+    "maxarticlesize": 2097152,
+    "timezone": "UTC",
+    "timeoffset": 0,
+    "articlepath": "/$1",
+    "scriptpath": "",
+    "script": "/index.php",
+    "variantarticlepath": false,
+    "server": "https://wiki.bloodontheclocktower.com",
+    "servername": "wiki.bloodontheclocktower.com",
+    "wikiid": "wiki",
+    "time": "2026-06-01T02:30:10Z",
+    "misermode": false,
+    "uploadsenabled": true,
+    "maxuploadsize": 104857600,
+    "minuploadchunksize": 1024,
+    "galleryoptions": {
+      "imagesPerRow": 0,
+      "imageWidth": 120,
+      "imageHeight": 120,
+      "captionLength": true,
+      "showBytes": true,
+      "showDimensions": true,
+      "mode": "traditional"
+    },
+    "thumblimits": {
+      "0": 120,
+      "1": 150,
+      "2": 180,
+      "3": 200,
+      "4": 250,
+      "5": 300
+    },
+    "imagelimits": {
+      "0": {
+        "width": 320,
+        "height": 240
+      },
+      "1": {
+        "width": 640,
+        "height": 480
+      },
+      "2": {
+        "width": 800,
+        "height": 600
+      },
+      "3": {
+        "width": 1024,
+        "height": 768
+      },
+      "4": {
+        "width": 1280,
+        "height": 1024
+      },
+      "5": {
+        "width": 2560,
+        "height": 2048
+      }
+    },
+    "favicon": "https://wiki.bloodontheclocktower.com/favicon.ico",
+    "centralidlookupprovider": "local",
+    "allcentralidlookupproviders": [
+      "local"
+    ],
+    "interwikimagic": true,
+    "magiclinks": {
+      "ISBN": false,
+      "PMID": false,
+      "RFC": false
+    },
+    "categorycollation": "uppercase",
+    "nofollowlinks": true,
+    "nofollownsexceptions": [],
+    "nofollowdomainexceptions": [
+      "mediawiki.org"
+    ],
+    "externallinktarget": false
+  },
+  "statistics": {
+    "pages": 422,
+    "articles": 201,
+    "edits": 3085,
+    "images": 195,
+    "users": 10,
+    "activeusers": 0,
+    "admins": 3,
+    "jobs": 0
+  },
+  "counts": {
+    "pages": 205,
+    "characters": 183,
+    "images_listed": 195,
+    "images_downloaded": 195
+  }
+}

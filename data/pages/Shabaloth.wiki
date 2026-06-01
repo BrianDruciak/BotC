@@ -1,0 +1,125 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_shabaloth.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/50124642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-5%2F257985104-44100-2-464a9618a9043.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose 2 players: they die. A dead player you chose last night might be regurgitated."
+
+The Shabaloth eats two players per night, but may vomit one of them back up the following night.
+* Unlike most Demons, the Shabaloth attacks twice per night. The night after the attack, the Storyteller may decide that one of the players attacked by the Shabaloth comes back to life.
+* This can be an alive player that was killed, or a dead player that was attacked.
+* The regurgitated player regains their ability, even a “once per game” ability already used. If they had a “first night only” or “start knowing” ability, they may use it again.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night except the first, wake the Shabaloth. They point at any two players, one at a time. Put the Shabaloth to sleep. In the order chosen, each chosen player '''dies'''—mark them with '''DEAD''' reminders.
+
+Each later night, just before waking the Shabaloth, you can choose one character marked with the Shabaloth’s '''DEAD''' reminder, and the chosen player becomes '''alive''' again—replace the '''DEAD''' reminder with the Shabaloth’s '''ALIVE''' reminder, and remove their shroud. They wake later tonight if they normally would. If they wake on the first night only, they wake now to use their ability. At dawn, after declaring which players died, declare which player is alive again. (''Do not say why.'')
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Since the Shabaloth cannot regurgitate themself—they have no ability when dead—it is best to only rarely make the Shabaloth regurgitate. Once per game, maybe twice, is usually sufficient.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Shabaloth attacks the {{Good|Gossip}}, then the {{Good|Gambler}}. The {{Good|Gossip}} dies, but the {{Good|Gambler}}, who was protected by the {{Good|Innkeeper}}, remains alive. 
+			</div>
+
+			<div class='example'>
+				The Shabaloth attacks the alive {{Good|Courtier}} and the dead {{Good|Exorcist}}. The {{Good|Courtier}} dies. The next night, the Storyteller decides that the {{Good|Exorcist}} becomes alive again. The {{Good|Exorcist}} doesn't act tonight--they normally act before the Shabaloth.
+			</div>
+
+			<div class='example'>
+				The Shabaloth attacks the {{Good|Tea Lady}}’s neighbour, then the {{Good|Tea Lady}}. The {{Good|Tea Lady}}’s neighbour, who is protected by the {{Good|Tea Lady}}, doesn’t die, but then the {{Good|Tea Lady}} dies.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The mighty Shabaloth is the deadliest Demon in [[Bad Moon Rising]] for its brutality and consistency. Neither the {{Evil|Pukka}} or {{Evil|Zombuul}} can match your multiple kills a night on their own, and while the {{Evil|Po}} can edge you out in numbers on a single night, you take back the crown thanks to their need to charge. The good team can and should rightfully panic when they suspect you are in play; only the accidental regurgitation of one of your victims will give them anything to counter you!
+
+* Kill aggressively, and don't give good team a chance to catch their breath. You are not the most... nuanced of Demons, but to be fair, nobody has ever pretended you are. Smash your way through the town like Godzilla on a good day, gobbling up any character claims who can't block you. The {{Good|Chambermaid}} can't detect your bluff is phony if you've ''eaten them''. With some clever picks and an ear to the ground about which players are protected at night, you can end this game in half the time of any other Demon.
+
+* Alternatively, you may want play a more low-key game. You might be a hideous, ever-hungry monster, but that doesn't mean you aren't capable of a little ''strategy''. Deliberately choosing to hide your second kill can create some confusion about which Demon is in play - the good team will always be paranoid about which Demon is in play if they can't confirm it with any certainty, since relaxing for a moment is exactly when the {{Evil|Po}} can abruptly strike. This can be helpful for you since the strategies to handle the other Demons are very different to the strategies for dealing with you, and the poor good team will be caught flat-footed once you reveal yourself! It can also help you avoid the debilitating drunkenness of a {{Good|Courtier}} (who will be on the lookout for any reliable tell of what Demon is in play)... until you can find them and eat them, anyway.
+
+* Did the mean old town execute your Minion? Just for the crime of worshiping an ever-hungry Demon who wants to devour them all? How cruel! How unfair! Luckily for them, you are a unique Demon among your brethren, as your saliva has healing properties. Eat up your Minion's corpse at night to try and get them brought back to life. You will be subject to the whims of the Storyteller... but maybe they'll take pity on you and give you back your beloved Minion, especially if the evil team is struggling. This has the added bonus of making your Minion look ''really'' good, since typically you only regurgitate good players.
+
+* Sometimes your acid re-flux will get the better of you (or the Storyteller will decide you're doing too well), and you'll vomit up a good player, restoring them to life unexpectedly. This can cause a number of issues for you - for one, unless you whip out an incredibly convincing {{Good|Professor}} bluff, this will confirm that you are in play, which may be a problem depending on your strategy. More pressing is the fact that the reborn player will most likely be considered good, and other players will trust and believe them without much issue. The best way to counter this is pretty much just to kill them again immediately, preferably before they get a chance to use their ability to learn any new information about anything. 
+
+* Bluff well, and do what you can to spread false information. It will probably become obvious fairly quickly that a Shabaloth is in-play, and whilst the {{Evil|Zombuul}} or {{Evil|Pukka}} disrupt the good team's information by their character ability alone, you have no such luxury. 
+
+* If the good team doesn't know that you're in play, you can win by convincing the good team not to execute when there are just 4 players alive, killing 2 players that night and reducing the number of living players down to 2 unexpectedly. If you have an {{Evil|Assassin}} who hasn't used their ability but is still alive, or a foolish {{Good|Gossip}} or {{Good|Gambler}} who can be convinced to use their ability that night, you can even get this surprise win when there are 5 or 6 players left alive.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Shabaloth ==
+
+* The Shabaloth tends to be an obvious Demon. When they kill twice per night, you can learn fairly quickly which Demon is in play. However, since the Demon kills twice as much as a normal Demon, the game gets to the final day fairly quickly. Once you have figured out that the Shabaloth is in play, turn your attention to figuring out which player it is. Characters like the {{Good|Courtier}}, {{Good|Exorcist}}, {{Good|Chambermaid}} can help you do this directly, which may be more effective a method than the usual strategy of figuring out who is evil by figuring out who is good - via such characters as the {{Good|Fool}}, {{Good|Tea Lady}}, {{Good|Pacifist}} and {{Good|Gambler}}.
+
+* If a player is regurgitated, this is great news. Regurgitated players can't be the Shabaloth and typically are good. Sometimes a Minion will be regurgitated, but rarely. So it's generally a good idea to keep regurgitated players alive, don't execute them, and trust that they are who they say they are. 
+
+* In [[Trouble Brewing]] and [[Sects & Violets]], the good team may safely not execute when just 4 players are left alive. Since the Demon can only kill one player, the following day will still have 3 players left alive. In [[Bad Moon Rising]] however, this is not the case, since extra deaths may occur at night. If a Shabaloth is in play, and there are 4 (or even 5, if characters like the {{Evil|Assassin}} or {{Good|Gambler}} are alive) players left alive and nobody is executed today, then evil will win tonight. When a Shabaloth is in play, you'll want to be executing players every day, particularly when 4 or 5 players are left alive.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Demons]]

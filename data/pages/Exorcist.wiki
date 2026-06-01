@@ -1,0 +1,147 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_exorcist.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"We cast you out, every unclean spirit, every satanic power, every onslaught of the infernal adversary, every legion, every diabolical group and sect, in the name and by the power of Our Lord Jesus Christ. We command you, begone and fly far from the Church of God, from the souls made by God in His image and redeemed by the precious blood of the divine Lamb."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/46634772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-25%2F244172126-44100-2-2fce41dae6268.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|If the Leviathan nominates and executes the Exorcist-chosen player, good wins.}}
+{{Jinx|Riot|riot|Evil|If Riot nominates and executes the Exorcist-chosen player, good wins.}}
+{{Jinx|Yaggababble|yaggababble|Evil|If the Exorcist chooses the Yaggababble, the Yaggababble does not kill tonight.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight."
+
+The Exorcist prevents the Demon from waking to attack.
+* Each night, the Exorcist chooses a player. If they choose a player who is not the Demon, the Demon may still attack. If they choose the Demon, the Demon does not wake tonight, so does not choose players to attack tonight. The Demon learns that they cannot attack and who the Exorcist is.
+* Any other Demon abilities still function—such as the Zombuul staying alive if killed, the Pukka killing a player they attacked on a previous night, or the Shabaloth regurgitating a player.
+* The Exorcist may not choose the same player two nights in a row.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night except the first, wake the Exorcist. They point at any player. Mark the chosen player’s character token with the '''CHOSEN''' reminder. Put the Exorcist to sleep.
+
+If the Exorcist chose the Demon, wake the Demon. Show them the '''THIS CHARACTER SELECTED YOU''' info token and the Exorcist token, then point at the Exorcist player. Put the Demon to sleep. Later tonight, do not wake the Demon.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+A Demon chosen by the Exorcist will not wake to use their Demon ability, but will still wake if they need to due to other characters’ abilities. This may be relevant if using the Exorcist with characters from other editions.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Exorcist chooses the {{Evil|Shabaloth}}. The {{Evil|Shabaloth}} does not kill tonight. At dawn, the Storyteller declares that nobody died that night.
+			</div>
+
+			<div class='example'>
+				The Exorcist chooses the {{Evil|Pukka}}. The {{Evil|Pukka}} does not wake to attack tonight, but a player still dies because of the {{Evil|Pukka}}’s attack during the previous night.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Po}} chooses to attack no one. The next night, the Exorcist chooses the {{Evil|Po}}. The {{Evil|Po}} does not wake to act tonight. The next night, the Exorcist chooses the {{Evil|Assassin}}. The {{Evil|Assassin}} can still attack tonight, and the {{Evil|Po}} chooses three players to attack, because the {{Evil|Po}}'s last choice was no one.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* If you choose a player at night, and there are no deaths that night, you may have found the Demon! Either tell the group publicly who you are and who you have chosen the following day, so that the group can know what you know, or wait for a night or two  and choose the same player again, just to be sure. Sometimes, no deaths can occur at night for other reasons, but if you choose the same player multiple times, and each time there is no death at night, you can be fairly certain that you have found the Demon.
+
+* If a player dies at night, choose a different player on all following nights. You have probably chosen a non-Demon player, so you don't need to choose them again unless you suspect the player died at night for another reason (such as an assassin or gossip killing).
+
+* As the game progresses, talk to the group and investigate which characters are in play, and how they are acting. There are many reasons that deaths may occur at night, even if you removed the Demon's ability to kill. There are also many reasons that no death occurred at night, even if you chose a non-Demon player. The {{Evil|Po}} hid in an alley and didn't act, the {{Good|Gambler}} accidentally killed themselves in a particularly high stakes poker game, the {{Good|Gossip}} let a juicy secret slip and it led to a death, the {{Good|Tinker}} blew themselves up, the {{Good|Tea Lady}}'s special blend gave an Outsider the fortitude to survive the night, the {{Good|Innkeeper}} kept the Demon's victim safe in the Inn, the {{Good|Fool}} avoided the {{Evil|Godfather}}'s hit squad etc.
+
+* As the Exorcist, you are often weak in the early game, but gain power exponentially as the game progresses - because not only do you learn which players are not the Demon, there are fewer and fewer players alive to choose from. It is usually best to not reveal that you are the Exorcist until after a few days have passed and you have some solid information. If you reveal too early, and you haven't found the Demon yet, you can safely assume that you are the Demon's number one target. Either stay silent, or bluff as a character that the Demon does not want to kill, such as the {{Good|Sailor}}, {{Good|Fool}} or {{Good|Goon}}.
+
+* If you suspect that a {{Evil|Zombuul}} is in-play, feel free to pick dead players. If there was no death during the day, and you exorcise a dead player that night, no death almost certainly means that you have found a {{Evil|Zombuul}}.
+ 
+* Once you have successfully chosen the Demon, the Demon will know who you are. From this point onward, look for who is trying to kill you. The Demon and their Minions will be doing everything that they can to get you executed, because if you die at night immediately after you have found the Demon, the Demon has revealed who they are. 
+
+* Each day, if you have come out publicly as the Exorcist, you can effectively convince the group to find out 2 players that are not the Demon. If 2 players in particular are suspicious, you can execute one and promise to exorcise the other.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Exorcist ==
+
+When bluffing as the Exorcist, there are a few things you should keep in mind:
+
+* Don't reveal who you are immediately! A real Exorcist has every reason to want to hide their identity from the evil players lurking - they are a prime candidate to get picked off by someone like the {{Evil|Assassin}}. Good players will start to find it suspect if you reveal early and then go on to survive for quite a while.
+
+* Use your role to talk to people in private. The Exorcist is similar to the {{Good|Slayer}} in that they have very little information themselves, and must rely on the townsfolk to help them make the correct decision. Good players you reveal to will be incentivized to help you, allowing you to guide information away from your fellow evil team. This also gives you an excellent reason to be whispering to your Minions or Demon in private - communicate your role to the right people early and good players may even defend your suspicious behavior to the group!
+
+* If a night goes by and no death occurs, you can (and should!) claim to have chosen a good player with your ability. You can use this to encourage the town to distrust and eventually kill them, aiming for troublesome players with abilities that are hindering the evil team (such as the {{Good|Tea Lady}} and the {{Good|Pacifist}}).
+
+* Deliberately don't kill (or ask your Demon not to kill) in order to double down on a bluff that you have successfully blocked the Demon. The lack of deaths will make that player even more suspicious, allowing you to sit back and do the town's work for you. This is especially effective when combo'd with a Demon like the {{Evil|Po}} (who can choose not to kill right away) - the evil team can 'charge up' for a night of unbridled murder and debauchery, eliminating a chunk of the good team shortly after they believe they are safe and secure. 
+
+* On at least one night when there is a death that can be likely tied back to the Demon, claim that you chose the Demon with your ability. If the other players believe you, then you have 'proven' that your Demon could not have acted that night, thus exonerating them of guilt!
+
+* Listen for which characters alter the kill count, you can kill or not kill and still claim you have successfully blocked the Demon as the Exorcist. For example, if you have an active {{Good|Gossip}}, you can argue whatever statement they made was true and therefore was responsible for the death instead of the Demon. You could also argue for the existence of an {{Evil|Assassin}} or a {{Evil|Godfather}} depending on who died and when.
+
+* Nothing is ever a sure thing in Bad Moon Rising, but should the good team ever be narrowing down dangerously close to your Demon, you can use the Exorcist to give them some survivability for an extra day or so by offering to 'block' them. This is especially effective if the group is wavering between a couple of people - encourage them to kill the innocent player while you exorcise the Demon, giving the good team a foolproof way to handle both their suspects... if only you were telling the truth. (Be warned, though - this trick will be exposed pretty quickly once the night passes and the Demon has killed again! Time it carefully.) 
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

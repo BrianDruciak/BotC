@@ -1,0 +1,117 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_oracle.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Only the chosen may gaze beyond the veil. The dead are restless, and they point in silence toward the icy north."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/35489280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-15%2F196957769-44100-2-23c4dc93451de.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, you learn how many dead players are evil."
+
+The Oracle knows how many dead players are evil.
+* Because the Oracle acts after the Demon attacks each night, the Oracle’s info refers to the players that are dead when dawn breaks and all players open their eyes. 
+* The Oracle detects dead Minions and Demons, but also any other players that are evil, such as evil Travellers, or Townsfolk and Outsiders that have been turned evil.
+* When counting the number of dead players, remember to count Townsfolk and Outsider tokens that are upside-down, which means their alignment is the opposite of what is printed.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night except the first, wake the Oracle. Show fingers (''0, 1, 2, etc.'') equaling the number of dead evil players. Then, put the Oracle to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				During the first day, the {{Good|Flowergirl}} is executed. That night, the Demon kills the {{Good|Juggler}}. The Oracle wakes and learns a "0,” because all dead players are good.     
+			</div>
+
+			<div class='example'>
+				Halfway through the game, seven players are dead. Five of them are good and two of them are evil. During the day, an evil Traveller is Exiled. That night, the Demon kills one of it's Minions. The Oracle wakes and learns a "4,” because four dead players are evil.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* So long as you are getting a "0", you can trust that all the dead players are good, and can therefore work with them and use their information. 
+
+* The moment you get a "1" or more, an evil player has entered the realm of the dead, and you should now be very careful about who you speak to. Outsource your suspicions to the dead - they'll be incentivised to prove themselves good and can do a lot of the work of accusations for you.
+
+* Most players who die at night will be good players; evil players want to stay alive as long as possible, so the demon will be focusing their kill on good player threats. If you suddenly start getting a read on an evil player, you should start your suspicions with the most recent executee.
+
+* The {{Evil|Fang Gu}} and the {{Evil|Vigormortis}} are both demons that you can detect when they move around the town. The {{Evil|Fang Gu}} will cause unexpected jumps in the evil count if they hit an outsider and jump between players, while the {{Evil|Vigormortis}} will probably take out a minion (or two!) close to the beginning of the game to ensure their ability stays active. If you're noticing either of these trends, check for other tells of these demons (e.g., increased outsider count, minion abilities activating despite only a few alive players remaining). If you can confirm one of them is in play, you know it isn't {{Evil|Vortox}} and can start forming a strategy for victory!
+
+* Feel free to come out early or late in the game - you receive valuable information the entire day, so even your first piece of info alone can give the good team a lot to work with. You ''might'' be able to make a deduction or two based on when you die - an early Oracle  death could indicate a spooked {{Evil|Vigormortis}}, OR that someone evil recently was executed and they don't want you to know.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Oracle ==
+
+When bluffing as the Oracle, there are a few things you should keep in mind:
+
+* Tell the group that 1 (or more!) dead players are evil, when all dead players are good. This will make the dead players untrustworthy, which means the good team is likely to disregard their information. If you do this when only one Minion is in play, it helps if that Minion ceases to use their ability in a noticeable way, so that it appears that the Minion is dead. For example, if all players know that a {{Evil|Witch}} is in play because a player has died from nominating, then making sure the {{Evil|Witch}} curses themselves each night removes the possibility of another player dying due to the {{Evil|Witch}} curse and revealing that the {{Evil|Witch}} is still alive, which therefore weakens your claim that a dead player is evil.
+
+* If an evil player is dead, tell the group that all dead players are good. This makes your dead, evil friend look like an angel, and any misinformation they are spreading will more likely be trusted.
+
+* Increase your numbers gradually. It is very unusual for the good team to be killing an evil player every day, so if you claim that your information was a "1" on the second night, a "2" on the third night, and a "3" on the fourth night, then it looks suspicious. It is usually more believable to say that you learnt a "0" on the second night, a "1" on the third night, a "1" on the fourth night, a "1" on the fifth night, a "2" on the sixth night etc.
+
+* If a different demon is in play, you can make it look like a {{Evil|Vigormortis}}, or {{Evil|Fang Gu}} is the actual Demon. Coming out with an unexpected increase in evil dead at a time nobody is suspicious can throw shade that a Minion was just killed by the {{Evil|Vigormortis}}. Similarly, if an evil player claims to be an Outsider, you can suddenly give a number higher than normal - this can make it look like a {{Evil|Fang Gu}} has tried to attack an Outsider and died. Both of these strategies are risky in the long term but can cause a lot of confusion in the short term.
+
+* If players are suspicious of a particular good player, and that good player is executed, that is the perfect time to increase your false information by 1. This confirms the good teams suspicions that the good player was actually evil, and that their day's work was worth it. Suckers.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

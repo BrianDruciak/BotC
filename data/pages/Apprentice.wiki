@@ -1,0 +1,114 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_apprentice.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"For years have I traveled, studying the ways of The Craft. Which craft, you ask? Simply that of the simple folk. Nothing to worry about. Not yet."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/66453583/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-13%2F317700945-44100-2-983f553c36513.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"On your 1st night, you gain a Townsfolk ability (if good) or a Minion ability (if evil)."
+
+The Apprentice has either a Townsfolk or a Minion ability.
+* A good Apprentice gains a Townsfolk ability. An evil Apprentice gains a Minion ability. They have this ability until they die.
+* The Apprentice learns their ability on their first night, and they may act that night if the character whose ability they gain would do so.
+* Only abilities listed on the character sheet may be gained.
+* If the Apprentice gains an ability that normally only functions on the first night of the game, such as the Grandmother’s, it functions on the Apprentice’s first night instead.
+* The Apprentice does not literally become the character whose ability they gain. They are the Apprentice, a Traveller, so they may be exiled but not executed, and they do not count toward the number of alive players to see if evil wins due to just two players being alive. Also, other characters’ abilities that detect characters would detect the Apprentice as the Apprentice.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+During the first night after the Apprentice enters play, wake the Apprentice. Show them the '''YOU ARE''' info token, then a Townsfolk or Minion token. In the Grimoire, replace the Apprentice token with that character token, and mark them with the '''IS THE APPRENTICE''' reminder. That player remains the Apprentice but gains the ability of their character token.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+You will almost certainly want to choose a not-in-play character ability, because there is only one of each character token and the Apprentice needs to use that token.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The evil Apprentice gains the {{Evil|Assassin}} ability. That night, they kill the {{Good|Fool}}.
+			</div>
+
+			<div class='example'>
+				The good Apprentice gains the {{Good|Chambermaid}} ability. From now on, they learn who wakes at night. Later, the {{Good|Gambler}} guesses that the Apprentice is the {{Good|Tea Lady}}. The {{Good|Gambler}} dies, because the Apprentice is not the {{Good|Tea Lady}}, but the Apprentice.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are good) ==
+
+* The strategy that you employ will depend almost entirely on which Townsfolk ability you gain. If you become the {{Good|Gambler}}, then play the game as you would a normal {{Good|Gambler}}. If you become a {{Good|Sailor}}, then play the game as if you were a {{Good|Sailor}}. 
+
+* Feel free to lie about which character ability you gained. If you lie that you gained the {{Good|Courtier}}'s power, you may successfully lure the Demon into attacking you. The good team losing a Traveller at night is a much more favorable outcome than the good team losing a Townsfolk (because Travellers don't count as players for evil's "two players left alive" victory condition), so by tricking the Demon into attacking you, you've helped the good team. Similarly, you can lie about who you are to prevent the evil team from attacking you. An {{Evil|Assassin}} is unlikely to use their precious ability to kill an Apprentice {{Good|Fool}}... but they may do so to remove an Apprentice {{Good|Exorcist}}!
+
+* It is possible that you become the same character as someone else in play, but it is unlikely. Since there is only 1 of each token, the Storyteller will more often give you a not-in-play character's ability. Treat any players claiming to be the same character as you with suspicion.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are evil) ==
+
+* The strategy that you employ will depend almost entirely on which Minion ability you gain. If you become the {{Evil|Mastermind}}, then play the game as you would a normal {{Evil|Mastermind}}. If you become a {{Evil|Devil's Advocate}}, then play the game as if you were a {{Evil|Devil's Advocate}}.
+
+* Pick a Townsfolk character, and claim to have gained that role's ability. If you were the good Apprentice, you would have been woken and shown a Townsfolk whose ability you gain. Be prepared for the other players to ask you questions about which Townsfolk ability you have, and how you are using it. 
+
+* If you claim to be the same character as a good player, you can either claim that the Storyteller has given you a duplicate ability as that player (which is not common, but possible), or that that player is lying about who they are. Either way, it's not the end of the world, but you may have to contend with that player one on one if you want to survive. 
+
+* Your ability will be extremely helpful to the evil team, but only if you can learn who they are and co-ordinate with them. As the {{Evil|Devil's Advocate}}, you can save evil players from death, but you'll need to know who they are first. As the {{Evil|Assassin}}, you can kill any good player needed, but you'll need to know which players are good first. As the {{Evil|Mastermind}}, you can win the game by getting the Demon executed, but you'll need to communicate to the Minions that this is what you are doing so that they know to vote. If you are the {{Evil|Godfather}}, you'll need to know which players are Outsiders, and not Minions pretending to be Outsiders. Whichever Minion ability you gain, you'll work best if you can talk to the Demon, let them know that you are evil, find out who the Minions are, and communicate with them well.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

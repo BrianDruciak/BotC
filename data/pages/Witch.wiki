@@ -1,0 +1,135 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_witch.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Three drops of goat's blood. A lock of hair, torn in anger. The name is spoken, the shadow cast. Walk left foot first down that brambled path, and don't look back."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/38502507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-9%2F211185564-44100-2-d4ed4403548b7.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability."
+
+The Witch curses players, so that they die if they nominate.
+* Each night, the Witch chooses a player to curse. That player dies if they nominate any player on the next day, although their nomination still counts.
+* The Witch’s curse lasts only for one day, but the Witch may curse the same player again and again each night.
+* As soon as just three players are left alive, the Witch’s curse is immediately removed, and the Witch acts no more.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Witch. They point at any player. Put the Witch to sleep. Mark the chosen player with the '''CURSED''' reminder.
+
+The next day, if the player marked '''CURSED''' makes a nomination, immediately declare that they die. (''Nominations continue as normal.'')
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				At night, the Witch curses the {{Good|Sage}}. During the next day, the {{Good|Sage}} nominates the {{Good|Dreamer}}. The Storyteller immediately declares that the player of the {{Good|Sage}} dies. The players still vote to execute the {{Good|Dreamer}}, who dies too.
+			</div>
+
+			<div class='example'>
+				The Witch curses themself. During the next day, the Witch nominates the Demon, and dies. The players do not vote to execute the Demon, and nominations continue.
+			</div>
+
+			<div class='example'>
+				The Witch curses the {{Good|Klutz}}. The {{Evil|Fang Gu}} attacks the {{Good|Klutz}}, so the {{Good|Klutz}} becomes the {{Evil|Fang Gu}}. The new {{Evil|Fang Gu}} is now cursed by the Witch, and they nominate. The new {{Evil|Fang Gu}} dies, and good wins.
+			</div>
+
+			<div class='example'>
+				The Witch curses the {{Good|Savant}}. Later that night, after the Demon kills a player, only three players are alive, so the curse is removed. The {{Good|Savant}} may nominate safely.
+			</div>
+
+			<div class='example'>
+				The Witch curses the {{Good|Juggler}}. During the next day, the {{Good|Juggler}} calls for the exile of a Traveller. The {{Good|Juggler}} lives, and may nominate again, because abilities do not affect exiles.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Selecting who to curse is the most important part of being the Witch, and depending on your group and the characters in play, there will be many different factors that will help you decide what that will be. Your fellow minions and demon are all equally powerful and disruptive, so make sure to coordinate with them for maximum devastation of the good team - it can be a real bummer to accidentally curse the person the demon kills that night!
+
+* Loud, boisterous players who have a lot to say are great Witch targets! It doesn't take much to antagonize them into nominating if they weren't planning to, and their death will catch them off guard, and often ruin their plans.
+
+* Aim for character claims who you want dead. This can include powerful claims like the {{Good|Savant}} or {{Good|Flowergirl}}, but also characters like the {{Good|Klutz}}, who put the good team at incredible risk. Another great option is the {{Good|Sage}} - their ability only activates upon death via ''demon'', meaning that your curse will render them unable to receive their information.
+
+* Another good option for cursing is simply players who are regularly nominating. For example, if someone is trying to get another player killed and have nominated them twice already, you can bet they'll probably nominate the third day as well!
+
+* Some towns will be savvy to your tricks, and try to rotate the people who nominate to unlikely targets for you as a Witch. They may also want to maximize the amount of information that a potential {{Good|Town Crier}} is gaining from those nominations. If you see this sort of trend, go after quieter players or ones who haven't nominated yet, then let the good team do the talking.
+
+* Deliberately curse another evil player or yourself to look good. Players who die by Witch are usually going to be seen as good, so sacrificing yourself at the right moment can let you sneak in behind enemy lines and spread discord. (Beware the {{Good|Oracle}} if you choose to try this out - they'll detect that evil has died recently and could cast suspicion on you!)
+
+* Hide your identity to support bluffs that other evil minions are in play. When a Witch activates, it is obvious to the town - someone nominates and then they immediately die. If your demon and another minion are bluffing as being the Good and {{Evil|Evil Twin}}, then the reveal that you are in play will undermine that bluff and make it obvious they are lying. Remember that you can curse a dead player - this will hide your ability from the group when necessary.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Witch ==
+
+* You only need to be wary of nominating if a Witch is actually in play, but you might not know this on the first day. Be wary of nominating at all on the first day. If a Witch has proven to be in play due to a player dying when nominating, continue to be wary of nominating.
+
+* Encourage the quieter players in the group to nominate. Quieter players, or players who do not usually nominate, are less likely to be targeted by the Witch.
+
+* Do you have a reputation for nominating? Are you loud, boisterous, and a leader within your town? Are you frequently targeted in game for your dashing good looks and incredible skills? You just might be Witch bait! Witches tend to curse players that lead the group, so if this is you, don't nominate unless somebody else has died due to the Witch already.
+
+* You don't need to be concerned about the Witch, if it isn't even in play! Because the minions in [[Sects & Violets]] act in obvious ways, you will typically know when a Witch is in play due to a process of elimination. For example, if there is only 1 Minion in play, and two players are claiming that the other is the {{Evil|Evil Twin}}, then you can be pretty certain that the Minion is the {{Evil|Evil Twin}}, and not the Witch. If there are 2 Minions in this game, and someone is claiming to have been changed into a different character last night, and someone is claiming to have been made mad yesterday, you can assume that the Minions are a {{Evil|Pit-Hag}} and a {{Evil|Cerenovus}}. No Witch, no worries.
+
+* People who die by due to the Witch are most likely good. The Witch, particularly if the player is a beginner, will typically curse good players. And powerful good players at that. If the {{Good|Savant}}, {{Good|Flowergirl}}, or {{Good|Clockmaker}} dies when they nominate, you can safely assume that those players are good, and telling the truth about the information they receive.
+
+* Don't let fear paralyze you - seize the day! Nominating haphazardly and losing 1 or 2 players to the realm of the dead isn't the end of the world. Those deaths certainly helped the evil team get closer to victory, but you still have a chance to execute the Demon. Focus on what you can do to win, not what you should have done earlier on.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Minions]]

@@ -1,0 +1,173 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_spy.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Marianna Carr</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Any brewmaster worth their liquor, knows no concoction pours trouble quicker, than one where spies seem double."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/13914055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-18%2F74264642-44100-2-6e0aa5397ff69.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Alchemist|alchemist|Good|An Alchemist-Spy has no Spy ability & a Spy is in play. After each execution, a living Alchemist-Spy may publicly guess a living player as the Spy. If correct, the Demon must choose the Spy tonight.}}
+{{Jinx|Damsel|damsel|Good|If the Spy is (or has been) in play, the Damsel is poisoned.}}
+{{Jinx|Heretic|heretic|Good|Only 1 jinxed character can be in play.}}
+{{Jinx|Magician|magician|Good|When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed.}}
+{{Jinx|Ogre|ogre|Good|The Spy registers as evil to the Ogre.}}
+{{Jinx|Plague Doctor|plaguedoctor|Good|If the Storyteller would gain the Spy ability, a Minion gains it, and learns this.}}
+{{Jinx|Poppy Grower|poppygrower|Good|If the Poppy Grower has their ability, the Spy does not see the Grimoire.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead."
+
+The Spy might appear to be a good character, but is actually evil. They also see the Grimoire, so they know the characters (and status) of all players.
+* If any character has an ability that would detect or affect a good player, then the Spy might register as good to that character. If any character has an ability that detects Townsfolk or Outsiders, then the Spy might register as a specific Townsfolk or Outsider to that player. It is the Storyteller's choice as to what the Spy registers as, even as many characters or both alignments during the same night.
+* A Spy that registers as a particular Townsfolk or Outsider does not have this character's ability. For example, a Spy that registers as a Slayer cannot slay the Demon.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+Each night, wake the Spy and show them the Grimoire for as long as they need. Put the Spy to sleep.
+
+Each time the Spy is targeted by an ability that detects or affects good characters, choose what character and alignment the Spy registers as. (Do whatever is appropriate, such as showing a good character token, nodding, giving finger signals, or allowing an ability to work that would normally only affect good, Townsfolk, or Outsider players.)
+
+Remember to keep your Grimoire tidy and show it to the Spy in the correct orientation, so the Spy can easily see who is who.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Washerwoman}} learns that either Abdallah or Douglas is the {{Good|Ravenkeeper}}. Abdallah is the {{Good|Monk}}, and Douglas is the Spy registering as the {{Good|Ravenkeeper}}.
+			</div>
+
+			<div class='example'>
+				The Spy neighbours the {{Evil|Imp}} and the {{Good|Empath}}. The {{Good|Chef}} learns a "1" because the Spy is registering as evil. Later that night, the {{Good|Empath}} learns a "0" because the Spy is now registering as good.
+			</div>
+
+			<div class='example'>
+				The Spy nominates the {{Good|Virgin}} and is executed by the {{Good|Virgin}}’s ability, because the Storyteller chooses that the Spy registers as a Townsfolk. That night, the {{Good|Undertaker}} learns that the {{Good|Drunk}} died today, because the Spy is now registering as the {{Good|Drunk}}.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* If you're reading this having just pulled the Spy token this tip won't help you, but if you're about to play your first game, ask your Storyteller to show you an example of a grimoire, so you're prepared when they wake you up.
+
+* Providing your memory is good, you start the game knowing everything! All characters in play and who they are will be laid out in the Grimoire. Use this information to help the evil team pick good bluffs and take out high priority targets.
+
+* It isn't necessary to memorise everything. Some important things to remember can be:
+** A character that isn't in play, for you to bluff (perhaps more than one, in case you get chance to talk to a fellow minion), and any information you might need to support your bluff.
+** Some people the {{Evil|Imp}} should kill or your {{Evil|Poisoner}} poison, like the {{Good|Slayer}} or {{Good|Undertaker}}
+** Some people the {{Evil|Imp}} should definitely not kill, like the {{Good|Ravenkeeper}} or {{Good|Soldier}}
+** Any reminder tokens you think will be important
+
+* Take your time! The Storyteller will show you the Grimoire for as long as you need.
+
+* In the Grimoire, you will not only see who everyone is, but the Storyteller reminder tokens. These will allow you to identify who is a {{Good|Drunk}}, who your {{Evil|Poisoner}} targeted, who the {{Good|Fortune Teller}} red herring is, who the Demon killed,  who the {{Good|Washerwoman}}/{{Good|Librarian}} is getting their read on, and the alignment of any Travellers. Remember that you may register as good for a  {{Good|Washerwoman}} or {{Good|Librarian}}; if you see this in the Grimoire, you can lean into that bluff early on.
+
+* Choosing a good bluff for yourself is easy, because you know all characters that are not in play.
+
+* You also have access to information that is hard to guess or obtain as an evil player, like player's characters. This makes you an especially potent {{Good|Washerwoman}}, {{Good|Undertaker}} or {{Good|Ravenkeeper}}, since all of these characters learn that sort of information. You can gain the trust of good players by being able to name their character, especially if they haven't revealed yet, or if they are bluffing as something else.
+
+* Bluffing as the {{Good|Librarian}} or the {{Good|Investigator}} and selecting powerful characters (like the {{Good|Empath}}, {{Good|Ravenkeeper}} or {{Good|Mayor}}) to mark as the {{Good|Drunk}} or as an evil Minion will let you undermine these players. As the Spy, you can do this before they come out, which lends credibility to your claim compared to other evil players doing the same type of bluff.
+
+* You can provide support to your Demon and other Minions (like the {{Evil|Poisoner}}) by secretly giving them powerful characters to target early on, neutralizing them before they pose a serious threat for the evil team. In general, you are going to want to have a lot of secret conversations with fellow evil players to communicate the information that you have; prepare a solid alibi to explain why you were whispering.
+
+* You will usually register as a good player to characters like the {{Good|Empath}}, {{Good|Chef}}, and {{Good|Undertaker}}. Thanks to this, you will be able to gain the trust of good players much more easily than the other evil characters. This also makes you a great candidate to become the Demon in the later game. Encourage the {{Evil|Imp}} to pass on their Demonhood to you once you are well established!
+
+* You are the only evil player that can activate the {{Good|Virgin}} ability. Players who die this way are usually the most trusted characters in the game. Deliberately giving false information and then sacrificing yourself on a {{Good|Virgin}} can give you a platform to confuse and mislead the good team. Similarly if you know an {{Good|Undertaker}} is in play, you can allow yourself to be executed, so when you register as good to them, they will trust you and your information. This can also be a great way to undermine an undesirable execution (for example, your Demon) - you will die and your execution will take priority over the existing vote.
+
+* The Spy is particularly effective for bluffs that require more than one player. For example, you can claim to be the {{Good|Washerwoman}}, {{Good|Librarian}} or {{Good|Ravenkeeper}} and back up your Demon's character claim. (You should probably let your Demon know you're going to do this!)
+
+* You will often register as good, which is great if you are sitting near an {{Good|Empath}}, or if a {{Good|Chef}} is in play. This will help you with your goal of infiltrating the good team and getting them to trust you.
+
+* You can telegraph possible bluffs to other evil players, without needing to have a private conversation with them. Like talking about "stars" or "jewels" in order to let a partner know that you are strong in diamonds in a game of bridge, you can use subtleties of language to hint to your allies what characters they can bluff as. Or, sometimes, just tell them directly. For example, if you publicly say, "I won't say who, but somebody told me that David is the {{Good|Monk}}", then David might realise what you are doing, and start bluffing as the {{Good|Monk}}.
+
+* Make sure the Storyteller knows what you are claiming to be - this will enable them to back up your bluff to other players. For example, if you are bluffing as the {{Good|Butler}} and you are executed, the Storyteller will know to show the {{Good|Undertaker}} the {{Good|Butler}} token.
+
+* You won't always register as good. Sometimes the town will see you as evil - and that's okay! The last thing you want is for your Demon to be executed because you're too well trusted.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Spy ==
+
+* Detecting the Spy is the first step in fighting the Spy. For example, the Demon kills may be a little bit too efficient. If your {{Good|Fortune Teller}} and {{Good|Slayer}} swiftly drop dead while your {{Good|Ravenkeeper}} and {{Good|Soldier}} are unscathed, that is a sign that the Demon knows more than they should.
+
+* If you suspect a Spy, you should assume that the evil team knows everything, which means it is now in the good team's best interest to share everything they have. This will allow you to coordinate more efficiently, while also catching out evil players who didn't have their bluff totally prepared.
+
+* Pay attention to players who spend a lot of time whispering together, particularly on the first day; while this is not always a Spy and their Demon, they often have more to talk about than the average pair of players.
+
+* If you are a {{Good|Virgin}}, {{Good|Undertaker}} or {{Good|Ravenkeeper}}, be wary of players who seem too eager to die and prove who they are. Because the Spy can register as good, this might be their attempt to weasel their way into your good graces.
+
+* The Spy is particularly good at bluffing as characters like the {{Good|Washerwoman}} or the {{Good|Ravenkeeper}}, as these characters detect information that is not usually available to the evil team until those players come out. If you suspect a Spy, keep a close eye on anyone claiming to be these roles.
+
+* Characters who detect alignment, like the {{Good|Empath}} or the {{Good|Chef}} may get information that doesn't seem to add up. This can sometimes be an indication that the Spy is causing the numbers to be off by registering as good.
+
+* The Spy will know if they've been seen by the {{Good|Washerwoman}} or {{Good|Librarian}} as a good player, but they won't know the character. If one of these characters claims to have seen a character that neither of the people they saw are claiming to be, perhaps a Spy misregistered to them. This can be particularly significant if the {{Good|Librarian}} saw an Outsider and one of the people they saw is claiming to be a different Outsider - perhaps the Spy took a one-in-four chance, and guessed wrong.
+
+* An {{Good|Undertaker}} or {{Good|Ravenkeeper}} can learn that a player is in fact the Spy. This is usually a lie by the Storyteller and should regarded with suspicion.
+
+* The {{Evil|Imp}} is more likely to kill themselves and pass their Demonhood on if a Spy is in play due to the Spy's ability to integrate themselves into the town. Be wary of any deaths at night that do not make sense.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Minions]]

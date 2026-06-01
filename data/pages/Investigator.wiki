@@ -1,0 +1,145 @@
+    __NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_investigator.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/13217728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-3%2F69676912-44100-2-623036de1fc6e.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Vizier|vizier|Evil|The Storyteller doesn't declare the Vizier is in play.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing that 1 of 2 players is a particular Minion."
+
+The Investigator learns that a particular Minion character is in play, but not exactly which player it is.
+* During the first night, the Investigator learns that one of two players is a specific Minion.
+* They learn this only once and then learn nothing more.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+While preparing the first night, put the Investigator's '''MINION''' reminder token by any Minion character token, and put the Investigator's '''WRONG''' reminder token by any other character token.
+
+During the first night, wake the Investigator and point to the players marked '''MINION''' and '''WRONG'''. Show the character token marked '''MINION''' to the Investigator. Put the Investigator to sleep. Remove the Investigator's reminder tokens when convenient.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Amy is the {{Evil|Baron}}, and Julian is the {{Good|Mayor}}. The Investigator learns that either Amy or Julian is the {{Evil|Baron}}.
+			</div>
+
+			<div class='example'>
+				Angelus is the {{Evil|Spy}}, and Lewis is the {{Evil|Poisoner}}. The Investigator learns that either Angelus or Lewis is the {{Evil|Spy}}.
+			</div>
+
+			<div class='example'>
+				Brianna is the {{Good|Recluse}}, and Marianna is the {{Evil|Imp}}. The Investigator learns that either Brianna or Marianna is the {{Evil|Poisoner}}. (This happens because the {{Good|Recluse}} is registering as a Minion—in this case, the {{Evil|Poisoner}}.)
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Tell the group what your information is as soon as possible on the first day. You probably won't be able to determine which of the two players is the Minion, but if you are believed, then the good team will probably have enough time to execute both players, guaranteeing that a Minion is dead on the final day.
+
+* Whilst your information by itself will probably not be enough to condemn a specific player, it might combine well with another good player's information, such as the {{Good|Empath}} or the {{Good|Chef}}. If you trust them, you can team up to execute a Minion early in the game, which removes their voting power and gives you an advantage.
+
+* If you have a strong suspicion regarding one of the 2 players shown to you, simply say nothing and study their behaviour. If they continually come to the defense of a particular player, that player is likely the Demon. If they continually try to get a particular player executed, that player is probably good. You can reveal this later in the game when you've gathered a solid portfolio of evidence. If the Minion is still alive on the final day then you know that they are likely not the Demon, and should not be executed.
+
+* Instead of revealing your information publicly, confide in other members of the town secretly. Someone else may have information that exonerates or condemns one of your choices, and it may be easier to persuade them to tell you what they know in secret.
+
+* If you learn that a {{Evil|Scarlet Woman}} or a {{Evil|Poisoner}} is in play, it becomes all the more important to execute them as soon as you can! They have powerful abilities that can continue to disrupt the Good team for as long as they are in play.
+
+* All minions are dangerous. Even if you learn of a {{Evil|Baron}} or a {{Evil|Spy}}, it remains important to execute them. Even if doing so doesn't prevent them from mechanically affecting the game, they still retain their voting and nomination power, and may even go on to become the {{Evil|Imp}}!
+
+* If you learn that any minion other than the {{Evil|Baron}} is in play in a game with only one minion, you know exactly how many outsiders there are. If more than that number are claiming to be outsiders, then you know that at least one of them is lying.
+
+* Beware the {{Good|Recluse}}! They may register as a Minion to you. If one of the players you detect is actually the {{Good|Recluse}}, the second player could be literally anything, including the Minion you were shown.
+
+* Even though one of the players you detect is a Minion, that does not necessarily mean that the other player is good.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Investigator==
+
+When bluffing as the Investigator, there are a few things you should keep in mind:
+
+* You would have received your information on night one, and so should have it from that point onward. You will have been shown two players and one Minion token.
+
+* Pick two Good players, and claim that one of them is a Minion to try to get get those players executed. Choosing the {{Evil|Poisoner}} or {{Evil|Scarlet Woman}} is usually best if you want the good team to be motivated to execute them both. Good players may not execute a suspected {{Evil|Baron}} or a {{Evil|Spy}} immediately, but they might. 
+
+* If you are the Demon, or even an ambitious Minion, telling the good team an actual Minion can make you look extremely trustworthy, particularly if other good players like the {{Good|Undertaker}} support your information. This can be greatly enhanced if the Minion does everything they can to look as evil as possible. After all, the more like a Minion they appear to be, the more like the Investigator you appear to be.
+
+* If you falsely claim that a {{Evil|Baron}} is in play, another evil player will need to claim to be an Outsider at some point. Otherwise, good will eventually question why there is not the appropriate number of Outsiders in play for a {{Evil|Baron}} and probably execute you. If you can talk privately to an evil player to give them this hint, great. If another evil player claims to be the Investigator and that a {{Evil|Baron}} is in play, you may want to claim to be an Outsider in order to back up their story.
+
+* Communicating your information secretly to one or two good players can sow an enormous amount of distrust. They will often tear themselves apart without you having to do much more.
+
+* Claiming to have seen a Minion that is not actually in play can cause much confusion, or back up other evil players' bluffs. For example, bluffing that a {{Evil|Baron}} is in play will help confirm a Demon who is bluffing as an Outsider. Bluffing that a {{Evil|Poisoner}} is in play when there is actually a {{Evil|Scarlet Woman}}, can make good distrust their own information.
+
+* If an actual Investigator has already publicly come out with their information, and you are not one of their targets, claiming to be the real Investigator and telling the group that they were one of your two shown Minions can be a great way to make them look Evil. If the real Investigator looks Evil, then the players they accused as potential Minions look Good.
+
+* If you are the {{Evil|Spy}}, or have access to a {{Evil|Spy}}, they can be invaluable in providing you with powerful targets to undermine with your accusation.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

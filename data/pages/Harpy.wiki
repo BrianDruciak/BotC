@@ -1,0 +1,142 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:Icon_harpy.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>20/07/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"So fair a day I never did see, nor so fowl a presence hanging over me."</p>		
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>6A8RZkjzIjU</youtube>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die."
+
+The Harpy creates discord and distrust between good players.
+* At night, the Harpy player chooses one player at a time, not two at once.
+* A player chosen by the Harpy is affected by the ability until the next Harpy choice.  
+* If the Storyteller decides to kill players with the Harpy ability, they do not need to kill both. The Storyteller can decide to kill only one, or none. 
+* The Harpy can choose a dead player. If so, the Storyteller can kill just the living player, since dead players can not die again.
+* The order of deaths due to the Harpy ability can be chosen by the Storyteller, should that be important.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Each night, wake the Harpy. The Harpy points to one player, then another player. Mark the first player with the '''MAD''' reminder and the second player with the '''2ND''' reminder. Put the Harpy to sleep. Wake the player marked '''MAD'''. Show the '''THIS CHARACTER SELECTED YOU''' info token then the Harpy token, then point to the player marked '''2ND'''. Put the player marked '''MAD''' to sleep. 
+
+Tomorrow, if the player marked '''MAD''' is not mad that the player marked '''2ND''' is evil, you may kill one or both players.		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Harpy chooses the {{Good|Monk}} and the {{Good|Engineer}}. The {{Good|Monk}} claims to be the {{Good|Investigator}} who saw the {{Good|Engineer}} and campaigns for them to be executed. When challenged, they are emphatic in their claims that the {{Good|Engineer}} is most likely evil due to their information, and so avoid death.
+		</div>
+			<div class='example'>
+The Harpy chooses the {{Good|Oracle}} and the dead {{Good|Alchemist}}. The {{Good|Oracle}} claims that they trust the Alchemist because their {{Good|Oracle}} information indicates that they were not evil. The Storyteller declares that the {{Good|Oracle}} dies.
+		</div>
+			<div class='example'>
+The {{Good|Farmer}} is chosen by the Harpy. As they don't have any information themselves to claim in order to imply that the other player is evil, they make a concerted effort to find information that might clear each of the other living people, leaving their target as the remaining Demon candidate and therefore evil by implication.			</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Choose the same two players every night. The repeated effort of one good player to get another seen as evil can only help your team, misleading the good team into focusing on the wrong people. Plus, the consistent attention on their arguments might eventually cause the death of one or both players, without anyone knowing it was you who did this to them.
+
+* Choose the same first player every night. That player will have to keep switching who they say is evil and gain less and less credibility in the process, especially when no one else ever claims to be chosen by the Harpy.
+
+* Share the love and choose different players every night! People will know there’s a Harpy in play after the first day, but they can never be certain whether someone genuinely thinks another player is evil or whether it’s because of you. Your Demon might be able to slip under the radar or defend themselves by saying that the {{Good|Fortune Teller}} who got a “Yes” on them is really just Harpy mad.
+
+* Choose a trusted dead player, and make them mad that a living player is evil. Arguments from dead players about who they’d like to execute often carry more weight, so you have better odds of getting the second player executed. Plus, the dead player can’t risk breaking madness unless they want the living player to die!
+
+* Choose a dead player as your second choice. It can be extremely difficult for players to make a genuine, good-faith argument that they believe a player who died early is actually evil. Or, if there’s a {{Evil|Vigormortis}} or {{Evil|Fang Gu}} on the script, the player you chose might convince the good team that the wrong Demon is in play.
+
+* Choosing evil players can help your team. If you only choose good players, the good team might start to believe that all selected players are good, and they’ll start executing into people that have never been selected by the Harpy.
+
+* Choosing evil players late in the game, especially on the final day, is usually not worthwhile. In most cases, it helps you and your Demon far more to have a good player pushing on another good player to distract from your Demon. It’s especially useful to choose at least one living player on the final day, because if both your choices are dead, the first player you chose can break madness with zero risk of death.
+
+* Choose your Demon! The Storyteller is unlikely to use your ability to kill the Demon, so you have good odds of getting through unscathed. However, if your Demon is your second choice, you risk the first player breaking madness, and good players might start to wonder why the Demon hasn’t died to that madness break. 
+
+* If your team needs to speed up the game, choose yourself, and let the Storyteller in on your plan. If you want them to kill both you and your target, tell them in advance! If the Storyteller knows what you want to do, they’ll be more prepared to support your team. 
+
+* Lie and say you were picked by the Harpy, and that’s why your voting has seemed weird. Voted on the Saint when you knew that’s what they were claiming? It makes sense if you were Harpy picked!
+
+* The best way to hide the Harpy’s existence is to choose yourself. While only one player at a time knows the Harpy ability is in effect, you yourself have the best chances to adhere to the madness subtly, and therefore deny that you were affected by the Harpy ability, making anyone who claims to be Harpy picked later look even more suspicious. 
+
+* Sometimes, it can be worthwhile to claim that you were chosen by the Harpy when you targeted someone else. It puts you in direct conflict with the first player you chose, but can introduce confusion as to who was really picked. Plus, if you picked the same player again, it might even push them to get them and/or their target killed, which helps your team even more!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Harpy ==
+
+* Satisfy the madness. Even if you don’t mind dying, the player you’re mad about might be a useful Townsfolk like the {{Good|Preacher}} or the {{Good|Savant}}. You can always explain your actions tomorrow by outing that you were chosen by the Harpy, but especially early in the game, it’s better to stay alive.
+
+* Ignore the madness, especially if you don’t mind dying, or if you think the second player is evil! If you do break madness, you should be prepared to die and possibly have the second player die as well. If people don’t think there’s a Harpy in play, this is a surefire way to prove them wrong.
+
+* If you think the other player is evil, break madness and see what happens. If the Storyteller only kills you, it’s more likely the other player is evil, and if you both die, it rules out a Demon candidate!
+
+* Be intentional and careful if you claim to be affected by the Harpy. If you do, you’ll struggle to make people believe that you genuinely think your target is evil, and that’s likely to get you and/or the other player killed.
+
+* If the Harpy keeps making you mad about the same player, that player is probably not the Demon. It’s rare that the evil team can get away with the sustained pressure of a good player claiming the Demon is evil, so you’re somewhat safe to assume that the player you’ve been mad about is not a Demon candidate. That said, they could still be an evil Minion, particularly an expendable one like the {{Evil|Baron}} or a spent {{Evil|Mezepheles}}. 
+
+* If you are picked with a dead player, commit to the madness. You are the only one at risk of dying if madness isn’t satisfied!
+
+* If you think a specific player is Harpy mad, you don’t need to publicly support their claim, especially if you think their target is good. Claiming that you think a different person is evil doesn’t contradict the Harpy-mad player’s claims, so you should still feel free to nominate and vote on whoever you like.
+
+* If a newer player is accusing someone of being evil and you think the Harpy is in play, you might want to be gentler when asking for justification for why they think that person is evil. This can mitigate the risk of one or both of the players dying due to Harpy madness.
+
+* If only one player dies to Harpy madness, consider why the Storyteller didn’t kill both players. Was an evil player mad about a good player, and only the good player died? Was one of the players unable to die because they are the {{Good|Sailor}}, or they’re sitting next to a {{Good|Tea Lady}}? Understanding why the Storyteller only killed one player can help your team figure out who is telling the truth.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Minions]]

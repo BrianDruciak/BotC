@@ -1,0 +1,165 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_alsaahir.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>27/06/2024</td>			
+				</tr>
+			</table>
+			
+			<p class='flavour'>"I am here because of you, and you are here because of me."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>04kl17bV8Uw</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Vizier|vizier|Evil|The Storyteller doesn't declare the Vizier is in play.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins."
+
+The Alsaahir guesses the entire evil team.
+* The Alsaahir’s guesses need to be public, and they need to be during the day. They don’t have to guess every day.
+* Other players may pretend to be the Alsaahir and make a guess. Like the Juggler or the Gossip, the Storyteller will briefly pretend that player is the Alsaahir. 
+* If the Alsaahir guesses the Demon player as the Demon, and the Minion players as Minions, the game ends immediately. The Alsaahir must guess all Demon and Minion players.
+* The Alsaahir doesn’t need to guess specific minion characters, nor specific Demon characters. 
+* If there is more than one Demon in play, all Demons must be guessed, including dead Demons.
+* If a player is a Minion and Demon, such as Legion, the Alsaahir must guess this player as a Demon.
+* Once a guess is made, the Alsaahir cannot change their mind later that day and guess again.
+* The Alsaahir needs to guess Minions and Demons, even if they are good, but need not guess which Travellers are evil.
+* If the evil team has changed during the game, the Alsaahir must guess the current evil team, not the starting evil team.
+
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Each day, once only, if the Alsaahir declares that they wish to use their ability, prompt them to guess which player is the Demon, and which player(s) are Minions. If incorrect, nothing happens and the game continues. If correct, declare that good wins.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+'''Optional rule''': like the Juggler and the Gossip, the Storyteller may limit the number of players that make an Alsaahir guess to three players per day. Only use this optional rule if so many players are bluffing as the Alsaahir that the game slows down and ceases to be fun.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Alsaahir guesses four good players. Nothing happens.
+			</div>
+
+			<div class='example'>
+				The Alsaahir guesses that Doug is the Demon, and Ben and Sarah are Minions. Doug is the Demon, and Ben and Sarah are Minions. Good wins immediately.
+			</div>
+
+			<div class='example'>
+				The drunk Alsaahir guesses that Doug is the Demon, and Ben and Sarah are Minions. Doug is the Demon, and Ben and Sarah are Minions. Nothing happens and the game continues. The next day, the sober Alsaahir guesses that Ben is the Demon and Doug and Sarah are Minions. Nothing happens and the game continues.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Make a guess every day! Every guess you make narrows down who the Demon and Minion players are.
+
+* Wait a few days before making your first guess, to hide that you are the Alsaahir. The evil team may want to poison and kill you if they know who you are, so hiding your role helps you stay sober and live longer.
+
+* Use your guesses to intentionally rule out pairs or groups of players that worry you. For example, if the {{Good|Librarian}} is claiming to confirm the {{Good|Saint}}, you can prove that they are not the evil team by guessing them as the Minion and Demon. 
+
+* If there is an Alsaahir on the script, bluff as the Alsaahir and make a guess to cover for the Alsaahir. Similar to the {{Good|Juggler}} and the {{Good|Gossip}}, if several good players publicly claim to be the Alsaahir, the evil team will find it harder to identify the real Alsaahir. But be careful: If too many players are bluffing Alsaahir, it might hide useful information from the good team!
+
+* If you die at night, pay attention to the guesses you made right before you died. You may have scared the evil team by getting too close to the truth!
+
+* Encourage good players to come out and share their information, so they can be a demon target instead of you. It's better for you to stay alive as long as possible, because the Alsaahir's power grows as the game progresses.
+
+* As the Alsaahir, pay attention to other players' Alsaahir guesses. Other good players often have information or social cues that inform their guesses, and they might be right!
+
+* Seek out characters that detect evil players, such as the {{Good|Investigator}}, {{Good|Empath}}, {{Good|Fortune Teller}}, or {{Good|Bounty Hunter}}, and use their information to boost your chances of guessing correctly.
+
+* Pick one player you're certain is evil, and guess different combinations of players that always include that one player.
+
+* Remember to include dead players in your guesses! If you think the Imp killed themself in the night, or the {{Evil|Fang Gu}} jumped to an Outsider, you'll need to guess the dead demon and the living demon as Demons, and any minions (dead or alive) as a Minion.
+
+* If you think you've been poisoned, make the same guess again the following day.
+
+* Find the evil team first. Once you are more or less certain who the evil team is, guess different combinations of Minions and Demons with the same players to win using your ability, or to avoid accidentally executing a Minion. 
+
+* Be aware of the character distribution for the player count. If you normally play in a group of 12, you might forget to guess a 3rd minion in games of 13 or more players.
+
+* Read the red section on the character sheet. Be aware of possible unusual types of evil characters that change the makeup of the Evil team. If there is a {{Evil|Lil' Monsta}}, {{Evil|Legion}}, {{Evil|Riot}}, or other such character, you may need to guess an unusual amount of Minions or Demons.
+
+* Be aware of characters that change which player is the Demon mid-game. If there is an {{Evil|Imp}}, {{Evil|Fang Gu}}, or {{Evil|Scarlet Woman}} on the script, you may need to change your guesses as new information enters the game.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Alsaahir ==
+
+* It is easy to bluff as the Alsaahir early in the game, because often, good players do it too! Even if there is an Alsaahir in play, you can bluff as the Alsaahir safely, as long as you have a backup bluff for later on.
+
+* Be careful with your guesses. Put some thought into who you guessed yesterday and who you will guess tomorrow. If you rule out too many possible evil teams, you might find yourself in an inconsistency by the time that the final day arrives. This is twice as important if you are the Demon and alive on the final day.
+
+* Ask for other players' advice on who to guess. Ask good players for their advice to make yourself look good. Ask for evil players' advice to make them look good.
+
+* Avoid guessing trusted good players. If the good team sees you unsuccessfully try to make a good player look evil, they will likely suspect that you are evil, which further confirms the good player as good.
+
+* Seek out good characters who detect evil abilities. Gain their trust so you can "use their information" in your guesses. But, be careful... this might backfire if they end up detecting you!
+
+* Draw attention to your guesses! Make the game all about you! Give a little song and dance and drama to your guesses! The more that the good players are focused on you and your guesses, the more that they think that you are the Alsaahir!
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

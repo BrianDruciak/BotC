@@ -1,0 +1,86 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_acrobat.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>24/05/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Ladies and gentlemen, hold fast to your hats, for I shall defy the very laws of gravity and dance upon the air, a marvel of agility and daring, all for your delight and wonder!"</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player: if they are or become drunk or poisoned tonight, you die."
+
+The Acrobat dies when they find a drunk or poisoned player.
+* Each night except the first, the Acrobat chooses a player. If the chosen player is sober and healthy, nothing happens. If the player is drunk or poisoned, the Acrobat dies.
+* If the Acrobat is drunk or poisoned, they cannot die to their own ability.
+* The Acrobat may choose any player, dead or alive, even themself.
+* If the chosen player is sober and healthy at the time the Acrobat picks, but becomes drunk or poisoned later in the night, the Acrobat dies.
+* The Acrobat does not learn if the player they selected was drunk, or poisoned, or both.
+* The Drunk registers as drunk to the Acrobat.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+Each night except the first, wake the Acrobat. They point to a player. Put the Acrobat to sleep. 
+
+If the player the Acrobat pointed to is drunk or poisoned, or becomes drunk or poisoned at any time tonight, the Acrobat '''dies'''. 
+
+		</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Good|Sailor}} chooses the {{Evil|Assassin}}, and the Storyteller makes the {{Good|Sailor}} drunk. The Acrobat chooses the {{Good|Sailor}}, and dies because the {{Good|Sailor}} is drunk.
+			</div>
+
+			<div class='example'>
+				The Acrobat chooses the {{Good|Tinker}}, who is sober and healthy. Nothing happens.
+			</div>
+
+			<div class='example'>
+				The Acrobat chooses the {{Good|Preacher}}. Later that night, the {{Evil|Pukka}} poisons the {{Good|Preacher}}. The Acrobat dies, because the {{Good|Preacher}} is no longer healthy.
+			</div>
+
+		</div>
+
+	</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

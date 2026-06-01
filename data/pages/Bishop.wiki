@@ -1,0 +1,116 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_bishop.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"In nomine Patris, et Filii, et Spiritus Sancti… Nos mos Dei. Deus vult de nobis."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/68261195/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-9%2F322949990-44100-2-3f441a70e9976.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Only the Storyteller can nominate. At least 1 opposing player must be nominated each day."
+
+The Bishop prevents players from nominating at all. Instead, the Storyteller does all nominating.
+* The Storyteller makes nominations during the nomination process instead of the players, and the Storyteller may nominate as few or as many players as they wish. To make things fair, they must nominate at least one player whose alignment is opposite the Bishop’s alignment each day.
+* The Bishop does not alter who can and cannot vote. Each player may do so normally.
+* Since Travellers are exiled, not executed, any player may call for the Bishop or another Traveller to be exiled.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each dawn, mark the good Bishop with their '''NOMINATE EVIL''' reminder, or mark the evil Bishop with their '''NOMINATE GOOD''' reminder.
+
+During the nomination process for execution, the players cannot make nominations, but you can. (''Voting happens as normal.'') When you nominate a player whose alignment is opposite the alignment of the Bishop, remove the Bishop’s reminder. You cannot end the nomination process if the Bishop is marked with their reminder.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Usually, you’ll want to nominate about three to five players each day, with at least one of them being evil. You do not have to nominate the Demon each day, but you should nominate all alive players on the final day. Which players you nominate is up to you, but it’s best to nominate more evil players if the Bishop is good, and to nominate fewer evil players if the Bishop is evil.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Bishop is good. On the first day, the Storyteller nominates the Demon, a Minion, and two Townsfolk. On the second day, the Storyteller nominates a Minion and Outsider.
+			</div>
+
+			<div class='example'>
+				The Bishop is evil. The Storyteller has nominated nobody. However, the Storyteller must nominate at least one good player today, so they choose the {{Good|Minstrel}}. The next day, the Storyteller nominates four good players and the Demon. The Bishop is exiled that day, and now the players may continue the nomination process normally.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are good) ==
+
+* Pay very close attention to who the Storyteller nominates each day. Every day, the Storyteller must nominate at least one evil player. Usually, the Storyteller will nominate only one evil player and several good players. Pay attention day after day, and narrow down the pool of possible evil players. For example, if on day 1 the Storyteller nominates the {{Good|Fool}}, the {{Good|Chambermaid}} and the {{Good|Tinker}}, then the day after nominates the {{Good|Tinker}}, the {{Good|Exorcist}}, the {{Good|Grandmother}} and the {{Good|Sailor}}, you can assume that either the {{Good|Tinker}} is evil, or the {{Good|Tinker}} is good, and 1 of each of the other groups of characters is evil. 
+
+* Stay alive. You know you are good. You know that you are getting useful information each day. But, the other players don't. What they see is probably a player that is preventing them from nominating, and little more. You'll need to convince the good team to keep you alive - even though it is in their best interests to do so. Share what you learn, or vote how they want you to vote - do anything you can to stay alive long enough to gather some clues on who is good and who is evil.
+
+* On the final day, the Storyteller will definitely nominate the Demon. If the Storyteller just nominates two players on the final day, you'll have narrowed the possible Demon candidates down to 2 players instead of 3. This is significant. If you can convince the other players that you are good, they will gain the benefit too.
+
+* You get more powerful as the game progresses. If there are 12 players alive, the Storyteller can nominate a lot of players. But if there are just 4 players alive, the Storyteller will probably be nominating 4 or fewer players. Ideally, you want the Storyteller to nominate either 2 or 3 players in a day - the fewer, the better. Whilst you have no control over what the Storyteller does, what you can do is put your attention on the times when the fewest players were nominated during the day. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are evil) ==
+
+* Do whatever you can to convince the group that you are good. Some Travellers don't really mind whether the group believes that that they are good. The {{Traveler|Judge}}, or the {{Traveler|Voudon}}, for example, can use their ability and gain a benefit no matter what the good players think. But if the good players get even a whiff that you might be evil, they will exile you immediately and your ability will not have been very helpful. However, if you can survive for several days, your ability is devastating, because not only are evil players not being nominated (generally - the Storyteller may do so every so often to keep up appearances), but the good team will be focused on deducing who is evil based on who is being nominated... and all their conclusions will be false. 
+
+* Vote as often as you can. You have the perfect excuse - that the nominated player is probably evil! After all... you are the good Bishop, aren't you? If the good team believes that you are good, then they should be voting for each possible executee as well. With no Bishop in play, it is possible for all nominations during a day to be nominations of good players. But with a good Bishop in play, there is always an opportunity to kill an evil player. If you have convinced the group that you are good... vote, vote, vote.
+
+* On the final day, ask the group if they wish to Exile you. Most Storytellers will nominate the Demon on the final day regardless of your alignment, so you are not losing much if you die. And, the fact that you are asking to be Exiled usually works to help you not be exiled!
+
+* Whenever a day ends where only good players were nominated, spend as much time as you can the following day directing the group's attention to the "fact" that at least one of yesterday's nominees was evil. If say, 4 players were nominated yesterday, you can generate a lot of suspicion about those 4 players, and maybe get one (or two, or three!) of them executed in the following days. Every day you direct the good team's attention to killing themselves is a day that the Demon lives, and the evil voting balance is tipped towards evil. Even if you don't end up getting these players executed, turning the discussion away from more dangerous topics and towards the completely useless topic of "which of these 4 players is evil?", you can waste the good team's time, energy and focus on pointless diversions. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

@@ -1,0 +1,398 @@
+<div class="row">
+<div class="small-12 medium-12 large-12 columns">
+
+Experimental characters are characters which do not yet have a home script. At some point in the future, these may be released as part of official expansion scripts. For now, you are encouraged to experiment with them in your own scripts.
+
+Recommended for players and Storytellers who have experienced many games of Blood on the Clocktower.
+
+__TOC__
+
+== Townsfolk ==
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_acrobat.png|250px|thumb|center|link=Acrobat]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Acrobat}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_alchemist.png|250px|thumb|center|link=Alchemist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Alchemist}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_alsaahir.png|250px|thumb|center|link=Alsaahir]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Alsaahir}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_amnesiac.png|250px|thumb|center|link=Amnesiac]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Amnesiac}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_atheist.png|250px|thumb|center|link=Atheist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Atheist}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_balloonist.png|250px|thumb|center|link=Balloonist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Balloonist}}</p>
+	</div>
+</div>
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_banshee.png|250px|thumb|center|link=Banshee]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Banshee}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_bountyhunter.png|250px|thumb|center|link=Bounty Hunter]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Bounty Hunter}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_cannibal.png|250px|thumb|center|link=Cannibal]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Cannibal}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_choirboy.png|250px|thumb|center|link=Choirboy]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Choirboy}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_cultleader.png|250px|thumb|center|link=Cult Leader]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Cult Leader}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_engineer.png|250px|thumb|center|link=Engineer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Engineer}}</p>
+	</div>
+</div>
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_farmer.png|250px|thumb|center|link=Farmer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Farmer}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_fisherman.png|250px|thumb|center|link=Fisherman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Fisherman}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_general.png|250px|thumb|center|link=General]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|General}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_highpriestess.png|250px|thumb|center|link=High Priestess]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|High Priestess}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_huntsman.png|250px|thumb|center|link=Huntsman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Huntsman}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_king.png|250px|thumb|center|link=King]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|King}}</p>
+	</div>
+</div>
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_knight.png|250px|thumb|center|link=Knight]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Knight}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_lycanthrope.png|250px|thumb|center|link=Lycanthrope]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Lycanthrope}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_magician.png|250px|thumb|center|link=Magician]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Magician}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_nightwatchman.png|250px|thumb|center|link=Nightwatchman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Nightwatchman}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_noble.png|250px|thumb|center|link=Noble]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Noble}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_pixie.png|250px|thumb|center|link=Pixie]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Pixie}}</p>
+	</div>
+</div>
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_poppygrower.png|250px|thumb|center|link=Poppy Grower]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Poppy Grower}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_preacher.png|250px|thumb|center|link=Preacher]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Preacher}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_princess.png|250px|thumb|center|link=Princess]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Princess}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_shugenja.png|250px|thumb|center|link=Shugenja]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Shugenja}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_steward.png|250px|thumb|center|link=Steward]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Steward}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_villageidiot.png|250px|thumb|center|link=Village Idiot]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Village Idiot}}</p>
+	</div>
+</div>
+
+== Outsiders ==
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_damsel.png|250px|thumb|center|link=Damsel]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Damsel}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_golem.png|250px|thumb|center|link=Golem]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Golem}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_hatter.png|250px|thumb|center|link=Hatter]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Hatter}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_heretic.png|250px|thumb|center|link=Heretic]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Heretic}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_hermit.png|250px|thumb|center|link=Hermit]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Hermit}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_ogre.png|250px|thumb|center|link=Ogre]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Ogre}}</p>
+	</div>
+</div>
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_plaguedoctor.png|250px|thumb|center|link=Plague Doctor]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Plague Doctor}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_politician.png|250px|thumb|center|link=Politician]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Politician}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_puzzlemaster.png|250px|thumb|center|link=Puzzlemaster]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Puzzlemaster}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_snitch.png|250px|thumb|center|link=Snitch]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Snitch}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_zealot.png|250px|thumb|center|link=Zealot]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Zealot}}</p>
+	</div>
+</div>
+
+== Minions ==
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_boffin.png|250px|thumb|center|link=Boffin]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Boffin}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_boomdandy.png|250px|thumb|center|link=Boomdandy]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Boomdandy}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_fearmonger.png|250px|thumb|center|link=Fearmonger]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Fearmonger}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_goblin.png|250px|thumb|center|link=Goblin]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Goblin}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_harpy.png|250px|thumb|center|link=Harpy]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Harpy}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_marionette.png|250px|thumb|center|link=Marionette]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Marionette}}</p>
+	</div>
+</div>
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_mezepheles.png|250px|thumb|center|link=Mezepheles]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Mezepheles}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_organgrinder.png|250px|thumb|center|link=Organ Grinder]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Organ Grinder}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_psychopath.png|250px|thumb|center|link=Psychopath]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Psychopath}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_summoner.png|250px|thumb|center|link=Summoner]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Summoner}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_vizier.png|250px|thumb|center|link=Vizier]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Vizier}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_widow.png|250px|thumb|center|link=Widow]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Widow}}</p>
+	</div>
+</div>
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_wizard.png|250px|thumb|center|link=Wizard]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Wizard}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_wraith.png|250px|thumb|center|link=Wraith]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Wraith}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_xaan.png|250px|thumb|center|link=Xaan]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Xaan}}</p>
+	</div>
+</div>
+
+== Demons ==
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_alhadikhia.png|250px|thumb|center|link=Al-Hadikhia]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Al-Hadikhia}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_kazali.png|250px|thumb|center|link=Kazali]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Kazali}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_legion.png|250px|thumb|center|link=Legion]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Legion}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_leviathan.png|250px|thumb|center|link=Leviathan]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Leviathan}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_lilmonsta.png|250px|thumb|center|link=Lil' Monsta]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Lil' Monsta}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_lleech.png|250px|thumb|center|link=Lleech]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Lleech}}</p>
+	</div>
+</div>
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_lordoftyphon.png|250px|thumb|center|link=Lord of Typhon]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Lord of Typhon}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_ojo.png|250px|thumb|center|link=Ojo]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Ojo}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_riot.png|250px|thumb|center|link=Riot|]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Riot|}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_yaggababble.png|250px|thumb|center|link=Yaggababble|]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Evil|Yaggababble|}}</p>
+	</div>
+</div>
+
+== Fabled ==
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_deusexfiasco.png|250px|thumb|center|link=Deus ex Fiasco]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Deus ex Fiasco}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_ferryman.png|250px|thumb|center|link=Ferryman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Fabled|Ferryman}}</p>
+	</div>
+</div>
+
+== Loric ==
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_big_wig.png|250px|thumb|center|link=Big Wig]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Big Wig}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_bootlegger.png|250px|thumb|center|link=Bootlegger]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Bootlegger}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_gardener.png|250px|thumb|center|link=Gardener]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Gardener}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_godofug.png|250px|thumb|center|link=God of Ug]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|God of Ug}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_hindu.png|250px|thumb|center|link=Hindu]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Hindu}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_knaves.png|250px|thumb|center|link=Knaves]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Knaves}}</p>
+	</div>
+</div>
+<div class='row'>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_pope.png|250px|thumb|center|link=Pope]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Pope}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_stormcatcher.png|250px|thumb|center|link=Storm Catcher]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Storm Catcher}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_tor.png|250px|thumb|center|link=Tor]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Tor}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_ventriloquist.png|250px|thumb|center|link=Ventriloquist]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Ventriloquist}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_zenomancer.png|250px|thumb|center|link=Zenomancer]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Loric|Zenomancer}}</p>
+	</div>
+</div>
+
+== Travellers ==
+
+<div class='row'>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_cacklejack.png|250px|thumb|center|link=Cacklejack]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Traveler|Cacklejack}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_gangster.png|250px|thumb|center|link=Gangster]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Traveler|Gangster}}</p>
+	</div>
+	<div class="small-6 medium-6 large-2 end columns">
+		[[File:icon_gnome.png|250px|thumb|center|link=Gnome]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Traveler|Gnome}}</p>
+	</div>
+</div>
+
+</div>
+</div>

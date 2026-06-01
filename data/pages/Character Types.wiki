@@ -1,0 +1,109 @@
+<div class="row">
+	<div class="small-12 large-12 columns">
+	
+There are four main character 'types' in Blood on the Clocktower. These define the starting [[alignment]] of the player, and the player's ability set. In addition to this exist Travellers: player characters with varying alignments but powerful abilities, and Fabled, Storyteller characters that tweak or adjust the gameplay of a game.
+	
+== <span id="townsfolk">Townsfolk</span> ==
+
+<div class="row">
+  <div class="small-5 large-2 columns">
+	[[File:icon_ravenkeeper.png|200px|thumb|center|link=Ravenkeeper]]
+	<p style="text-align: center; font-size: 14px;">The {{Good|Ravenkeeper}} is a very powerful Townsfolk.</p>
+  </div>
+  <div class="small-7 large-10 columns">
+
+A Townsfolk is a [[Alignment#good|good]] character with an ability that benefits the good team. They are the most common character in a typical game, and have a large variety of abilities from gathering information to protecting other players from the demon.
+
+  </div>
+</div>
+
+<br>
+
+== <span id="outsider">Outsider</span> ==
+
+<div class="row">
+  <div class="small-7 large-10 columns">
+
+An Outsider is a [[Alignment#good|good]] character with an ability that hinders the good team. Their presence varies based on the player count of a game. Their abilities include things such as falsely registering as evil, mistakenly believing they are a townsfolk, or even losing the game for their entire team if they are executed.
+
+  </div>
+  <div class="small-5 large-2 columns">
+	[[File:icon_drunk.png|200px|thumb|center|link=Drunk]]
+	<p style="text-align: center; font-size: 14px;">The {{Good|Drunk}} is a popular and devastating Outsider.</p>
+  </div>
+</div>
+
+<br>
+
+== <span id="minion">Minion</span> ==
+
+<div class="row">
+  <div class="small-5 large-2 columns">
+	[[File:icon_spy.png|200px|thumb|center|link=Spy]]
+	<p style="text-align: center; font-size: 14px;">The {{Evil|Spy}} is a devious and cunning Minion.</p>
+  </div>
+  <div class="small-7 large-10 columns">
+
+A Minion is an [[Alignment#evil|evil]] character with an ability that hinders the good team. They act as support for their demon, undermining the efforts of the town through deceit and trickery. Their abilities include things that cause abilities to malfunction, save the demon from death, and force the good team to work against their best interests.
+
+  </div>
+</div>
+
+<br>
+
+== <span id="demon">Demon</span> ==
+
+<div class="row">
+  <div class="small-7 large-10 columns">
+
+The Demon is an [[Alignment#evil|evil]] character with the ability to kill. They are the primary cause of discord in the town, and the ultimate target the good team must defeat. In addition to their ability to kill each night, the demon has extra protections, such as being able to jump to the body of a different evil player, turn their victims to their side, or even twist the very fabric of reality so that all information received is false.
+
+  </div>
+  <div class="small-5 large-2 columns">
+	[[File:icon_imp.png|200px|thumb|center|link=Imp]]
+	<p style="text-align: center; font-size: 14px;">The {{Evil|Imp}} is the original and most cheeky of demons.</p>
+  </div>
+</div>
+
+<br>
+
+== <span id="traveller">Traveller</span> ==
+
+<div class="row">
+  <div class="small-5 large-2 columns">
+	[[File:icon_apprentice.png|200px|thumb|center|link=Apprentice]]
+	<p style="text-align: center; font-size: 14px;">The {{Traveler|Apprentice}} is a versatile Traveller.</p>
+  </div>
+  <div class="small-7 large-10 columns">
+
+A Traveller is a player character that can enter or exit a game at any point. Their identity and ability are known to all players, but their alignment may be either good or evil (which is decided by the Storyteller upon their entry to the game). Their abilities vary wildly but are nearly always exceptionally powerful and can significantly change the outcome of a game.
+
+Unlike standard players, Travellers exist under some special circumstances.
+
+* They may be 'exiled' at any time, instead of executed. This enables Travellers to be removed from the town for free without wasting an execution on them.
+* They do not count as players for the evil win condition - when a Traveller and two regular players are alive, evil has won.
+* If they are evil, they learn who the Demon is; they do not learn any additional evil characters or receive any bluffs.
+
+  </div>
+</div>
+
+== <span id="fabled">Fabled</span> ==
+
+<div class="row">
+  <div class="small-7 large-10 columns">
+
+A Fabled character, also known as a 'Storyteller character', is a character that the Storyteller assumes to alter the game rules. This is ''not'' a character that exists in play, only as a modifier for the game itself. Introducing a Fabled character can either correct for a problem (e.g. The game is heavily skewed in favor of one team), or to introduce variance into a situation that doesn't have one (e.g. Confusing the outsider count to help with bluffs).
+
+* Only the Storyteller may be this character. No player will ever be a Fabled character.
+* The Storyteller may have multiple Fabled in play at any time.
+* Some Fabled can be introduced mid-game as the Storyteller sees fit.
+* Some Fabled can be added and removed at any time, others may be in play for the entire game.
+
+  </div>
+  <div class="small-5 large-2 columns">
+	[[File:icon_fiddler.png|200px|thumb|center|link=Fiddler]]
+	<p style="text-align: center; font-size: 14px;">The {{Fabled|Fiddler}} is a Fabled for those games that need to end early, or the very rare case of a stalemate.</p>
+  </div>
+</div>
+	</div>
+</div>

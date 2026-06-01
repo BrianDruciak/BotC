@@ -1,0 +1,141 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_baron.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"This town has gone to the dogs, what? Cheap foreign labor... that's the ticket. Stuff them in the mine, I say. A bit of hard work never hurt anyone, and a clip'o'the ears to any brigand who says otherwise. It's all about the bottom line, what?"<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/9398789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-30%2F41256806-44100-2-44ec9aeee5611.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Heretic|heretic|Good|Only 1 jinxed character can be in play.}}
+{{Jinx|Plague Doctor|plaguedoctor|Good|If the Storyteller would gain the Baron ability, up to two players become Outsiders.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"There are extra Outsiders in play. [+2 Outsiders]"
+
+The Baron changes the number of Outsiders present in the game.
+* This change happens during setup, and it does not revert if the Baron dies. A change in characters during setup, regardless of what happens during the game, is shown on character sheets and tokens in square brackets at the end of a character's description—like [this].
+* The added Outsiders always replace Townsfolk, not other character types.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+While setting up the game, remove any two Townsfolk character tokens and add any two Outsider character tokens. (If you add the Drunk, remember to follow its setup instructions as well.) These Outsider tokens go into the bag instead of the Townsfolk tokens.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The game is being set up for seven players, with five Townsfolk, one Minion, and one Demon. Because the Minion is the Baron, the Storyteller removes two Townsfolk tokens and adds a {{Good|Saint}} and a {{Good|Butler}} token. In total, three Townsfolk, two Outsider, one Minion, and one Demon tokens go in the bag for the players to draw from.
+			</div>
+
+			<div class='example'>
+				The game is being set up for fifteen players, with nine Townsfolk, two Outsiders, three Minions, and one Demon. Because the Baron is in play, the Storyteller must add a {{Good|Drunk}} and a {{Good|Recluse}}. So, they remove the {{Good|Monk}} token and add a {{Good|Recluse}} token. Then, instead of adding the {{Good|Drunk}} character token, they add the {{Good|Drunk}}'s “Is the Drunk” reminder token to the Grimoire... because this game, one player isn’t a Townsfolk—they are an Outsider: the {{Good|Drunk}}. All these character tokens go into the bag for the players to draw from.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Your ability is brought into effect before the game even begins. This means that you have absolutely no responsibility other than to help your Demon win! Have fun! Deliberately claim to be in-play Townsfolk to make them look evil! Tell lies! Make good players look evil and evil players look good by muckraking, double bluffing, or creative tomfoolery. You are emboldened to do whatever you want, since you have nothing to lose!
+
+* Since you add Outsiders to the game, and those players will almost always publicly claim to be Outsiders, claiming to be an Outsider as well causes havoc. If a {{Good|Drunk}} is in play, only you and a real Outsider have claimed to be Outsiders - in this situation, the good team will know that a Baron is in play, but will think that you are actually an Outsider, since there appear to be 2 more Outsiders than usual. If, however, there is no {{Good|Drunk}} in play, then there will appear to be three more Outsiders than usual in the game, and the good team will probably want to execute all three Outsiders, since they know that at least one is evil - and being responsible for the executions of three players (including yourself) is a great way to start any game and give your team the advantage.
+
+* Deliberately double up with an in-play character that you want to undermine. Since it does not matter if you die, claiming to be a {{Good|Fortune Teller}} or an {{Good|Undertaker}} or even a {{Good|Mayor}} when that character is already is in play, causes the good team to look upon you both with suspicion. They may think you are evil, but they will usually be suspicious of the other player as well, and not trust any information they give.
+
+* Claiming that a Baron is in play when there is no Baron in play is a great strategy for the evil team. Claiming to be an Outsider means that the group conversation will turn to figuring out whether or not a Baron is in play. If the good team comes to believe a Baron is indeed in play, then you look like a legitimate Outsider, but the good team will also come to believe that a {{Good|Drunk}} is in play, because the {{Good|Drunk}} must be the other Outsider. They will not trust their own information.
+
+* Better yet, if you claim that a Baron is in play when there isn't, and two evil players both claim to be Outsiders, then it will seem like they are the two Outsiders added by the Baron, and will usually not be executed by the good team. Since good wants to keep good players alive, even good players that are "confirmed" as Outsiders are better off alive than dead.
+
+* Throw suspicion onto the Outsiders. If you can make the good team think that the Outsiders you added are evil, they will chase their tails looking for signs of a {{Evil|Poisoner}} or {{Evil|Scarlet Woman}}!
+
+* Be a patsy. If you are executed, the Demon is not. Don't be afraid to die this way, since it gives the Demon a day of safety. Furthermore, if you can look so execution-worthy that characters like the {{Good|Slayer}} or {{Good|Ravenkeeper}} use their ability on you, then at least they are not using it on the Demon. Even if you nominate the {{Good|Virgin}}, you might look evil, but it prevents the Demon from doing so.
+
+* If you are not bluffing as an Outsider, heap as much suspicion on the actual Outsiders as possible. They will usually be trusted by the good team, since it's obvious that a Baron is in play, and will need to be killed if you are to win.
+
+* One option is getting your Demon to kill you early on - players who die early at night are usually considered good, and you can use this position of trust to go around and talk to players, gathering information and feeding it back to the evil team, while also spreading misinformation. Whilst any Minion can use this strategy, of course, the Baron is particularly suited, since your devastating ability has already been used.
+
+* You don't always have to be the fall guy. The last thing you want is for you to look evil and have the {{Evil|Imp}} to kill themselves and have you as their only escape route!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Baron ==
+
+* If the number of Outsiders is different to what it should be by default (e.g. You have three Outsiders but were expecting one), then you probably have a Baron. At this point, you have several options:
+** If you believe all of the Outsider claims, keep them alive! These are basically confirmed good players even if they don't have fantastic abilities.
+** If you are not certain there is a Baron, then it probably best to take out the Outsiders quickly; it could actually be evil players bluffing to create the appearance of extra outsiders to avoid suspicion.
+** If you believe the Outsiders, but the count isn't quite right, then one of the Townsfolk is probably a {{Good|Drunk}}, and you should be trying to figure out who they are as soon as possible.
+
+* The {{Good|Librarian}}, {{Good|Investigator}}, {{Good|Ravenkeeper}} and {{Good|Undertaker}} are all characters that greatly help you deduce the presence of a Baron.
+
+* Unlike other Minions, the effect the Baron has on the game is pretty obvious; you will soon notice if there are Outsiders when there shouldn't be, or more of them when expected. Determining that there is a Baron is actually great news, since it means (especially in smaller games) that there is less likely to be a {{Evil|Poisoner}}, {{Evil|Spy}} or {{Evil|Scarlet Woman}}.
+
+* Because they don't benefit as much from staying alive as much as other Minions, Barons will often tend to be bolder and more aggressive with their bluffs or plays. A Baron does not fear death; they will deliberately double up with another player, try to get the first nomination of a {{Good|Virgin}}, antagonize a {{Good|Slayer}}, or otherwise just try to sow chaos. If you think a player might be having a little bit ''too'' much fun with the chaos they seem to be creating, they may be a Baron!
+
+* Unlike the other Minions, the Baron's effect on the game happens before anything else and cannot be changed. What this means is that unlike other evil players, it isn't completely necessary to execute them. Taking out an evil vote can be advantageous, but if you have a better option (e.g. A lead on the {{Evil|Imp}} or {{Evil|Poisoner}}), then take care of that instead.
+
+* Don't forget that the {{Evil|Imp}} can pass on their Demonhood to a Baron! Ignoring the Baron until it is too late might put you in a difficult position of trying to figure out if they have become the Demon on the final day.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Minions]]

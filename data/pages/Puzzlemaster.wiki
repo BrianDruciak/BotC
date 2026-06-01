@@ -1,0 +1,149 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_puzzlemaster.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Caitlin Murphy</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>23/09/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"When one begins to think that some thing is merely some other thing, one is usually on the brink of an error. Patience, patience. Don’t confuse '''just''' and '''should''' with '''is''' and '''isn’t'''."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>YwOK_zZ4Eo0</youtube>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"1 player is drunk, even if you die. If you guess (once) who it is, learn the Demon player, but guess wrong & get false info."
+
+The Puzzlemaster tries to figure out who is drunk.
+* A player is drunk for the whole game. It will most often be a Townsfolk, but could be an Outsider. This player does not know that they are drunk.
+* Once per game, the Puzzlemaster may guess which player it is. They may guess publicly, or privately. Whatever their guess, the Storyteller privately tells the Puzzlemaster the name of one player. If the Puzzlemaster guessed correctly, they learn which player the Demon is. If the Puzzlemaster guessed incorrectly, they learn a different player instead.
+* The Puzzlemaster isn’t told if they guessed correctly or not.
+* Only the player made drunk by the Puzzlemaster counts as a successful guess. Players drunk by other means don’t count.
+* If the Puzzlemaster dies, the drunk player is still drunk. A dead Puzzlemaster may not make a guess, as they don’t have that part of their ability.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While preparing the first night, mark any player with the
+Puzzlemaster’s '''DRUNK''' reminder. This player is '''drunk'''.
+
+At any time during the game, the Puzzlemaster may guess a player, either publicly or by having a private discussion with you. If their guessed player is marked by the Puzzlemaster’s '''DRUNK''' reminder, privately tell the Puzzlemaster which player is the Demon. If their guessed player is not marked by the Puzzlemaster’s '''DRUNK''' reminder, privately tell the Puzzlemaster the name of a non-Demon player. (''Do not say if they guessed correctly or not.'') Either way, mark the Puzzlemaster with the '''GUESS USED''' reminder.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+While you can make a Minion or the Demon drunk with the Puzzlemaster ability, only do this if you have an excellent reason in mind. It is almost always best to select a Townsfolk player.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Alex is the Demon. Sarah is the {{Good|Empath}} who has been made drunk by the Puzzlemaster and is getting false information. The Puzzlemaster publicly guesses that Sarah is drunk, and is told “Alex is the Demon” privately by the Storyteller.
+			</div>
+
+			<div class='example'>
+				Lewis is the Demon. Ben is dead and is drunk due to the Puzzlemaster. Marianna is alive and drunk due to the {{Good|Sailor}}. The Puzzlemaster privately guesses Marianna, and is told “Evin is the Demon” privately by the Storyteller.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* You are the most powerful Outsider that exists. If you find the drunk, you solve the game! Treat yourself as if you are a Townsfolk. Stay alive as long as you can and make sure you use your ability before you die. 
+
+* You have made someone drunk. This is crucial information for the good team to know. Make sure that they are aware of this as soon as is feasible, so that the good players can take drunkenness into consideration, and help you look for the drunk player. 
+
+* Don't come out as the Puzzlemaster immediately, or the Demon will likely kill you. Puzzlemasters are particularly scary to Demons, who tend to be afraid of any character that can learn who they are. 
+
+* Tell the group that you are the Puzzlemaster at the same time that you use your ability. Like the {{Good|Slayer}}, the good team may not need to know who you are until it is time for your ability to be used. 
+
+* Seek advice from the group on who you should choose. They may know something that you don't. 
+
+* Reveal who you are to people who you believe are good, for information gathering purposes. If they have information that doesn't make sense to them, you may have found the drunk player, and an excellent candidate for your guess. 
+
+* If a player uses a public ability, and that ability obviously doesn't work, use your guess on that player as soon as you can. For example, if a player claims to be the {{Good|Virgin}}, but does not execute when nominated, or if a player claims to be the {{Good|Golem}}, but nobody dies when the {{Good|Golem}} nominates, it is likely that they are the drunk player. It might not be true, and the player may just be bluffing as that character, but this kind of thing is a very helpful tell. 
+
+* Most characters have an incentive to get up, get active, and talk to people - to speak and convince. The Puzzlemaster is best when you do the opposite. Stay silent. Watch. Listen. Pay as much attention as you can to the actions and information of other players. You don't need to pay any attention to who is good or evil, only for which information doesn't add up, or which player seems like the odd one out. Spotting a drunk player can be tricky, so take your time. 
+
+* When you make your guess and the Storyteller tells you a player, execute them. If your guess was correct, good will win. If your guess was incorrect, there is little harm done, and the game will continue. 
+
+* If you genuinely have zero clue who is drunk, guess yourself! Given that you are almost certainly not the drunk, you'll learn a player who isn't the demon. That's something to go on - particularly if that player is alive on the final day. 
+
+* You know that a drunk is in play. Even if you don't make a guess, you still know that. That makes you almost as powerful as the {{Good|Librarian}}. Treat yourself like the {{Good|Librarian}}, and contribute to the good team's pool of information. 
+
+* Backtrack your information. If the player you are told is the Demon is executed and the game continues, then that player is not the Demon. This means that the player you guessed was not the drunk player. This is useful information to know, if you believe that player is good. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Puzzlemaster ==
+
+When bluffing as the Puzzlemaster, there are a few things you should keep in mind:
+
+* The Puzzlemaster introduces a drunk into the good team, and one who is undetectable by characters like the {{Good|Librarian}} for example. When bluffing as this role, coming out to the good team as early as possible will mean that so long as they believe you ''could'' be Puzzlemaster, they have to worry that some of their information is wrong. Preferably the information that paints your demon as evil!
+
+* The Puzzlemaster's moment to shine is when they make their guess and potentially learn the demon. Knowing this, a dramatic reveal at the right time can throw the good team into disarray, especially if you're able to use your power to paint a previously trusted player as drunk! Wait for your chance and then strike when you learning a potential Demon would cause the most chaos.
+
+* The Good Team has a lot to gain from working with you to find the drunk - leverage that to get yourself into the good graces of trusted teams, and make sure they spend a lot of time worrying about you and your power, and less about your evil companions.
+
+* If you want to secure a free execution, it can be as simple as picking someone who the town could plausibly believe is drunk, and then naming any random person as the demon! It's to the town's benefit to execute anyone you learn (just in case!), so you can use this to knock off an annoying {{Good|Mayor}} or {{Good|Sailor}}!
+
+* Another option is to pick someone who is the town believes to have correct info (or even yourself!), so that you learn false info. Then... point to the real demon! This can be risky if the town is execution-happy, but if they're running out of days to kill, they can very well be inclined to hold onto a "confirmed not the demon" player in the hopes they reach the final 3! (To maximise your chances of this working, communicate this information secretly so the demon has a great reason for being alive on the final day!)
+
+* A clever tag-team bluff can be to have one evil player set up as a character with obviously false information or an ability that has failed to work... and then you dramatically reveal as the Puzzlemaster, citing them as the drunk. You'll need to time this well since once they execute someone on your say so and the game doesn't end, but if they believe you, this is a devastating one-two punch of a bluff! (Added bonus: You can use this to bail out a floundering team member caught in a lie!)
+
+* The Puzzlemaster is a fantastic distraction, and a particularly ideal minion bluff as a result. If all goes well, you waste the good team's time, get some innocent people executed, and protect your demon all at the same time!
+
+* If you get caught up in a lie and are in danger of being exposed as evil, the Puzzlemaster is an excellent back-up bluff! It's to the Puzzlemaster's benefit to lie and stay hidden for a time, so you have a great reason to have been making no sense a few minutes earlier.
+
+* If you suspect there is a Puzzlemaster in the game and are worried they'll sniff out your demon, deliberately bluff as someone with bad information! If you can entice the Puzzlemaster to pick you, not only will Town be inclined to trust you're good, but they definitely won't learn who the demon is.  
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Outsiders]]

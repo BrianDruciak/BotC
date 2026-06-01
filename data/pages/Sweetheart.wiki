@@ -1,0 +1,127 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_sweetheart.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I will never forget her. Never."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/37885810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-27%2F208319007-44100-2-e45bee0d673bb.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"When you die, 1 player is drunk from now on."
+
+The Sweetheart, when they die, causes someone to be drunk for the rest of the game.
+* The Storyteller chooses which player becomes drunk.
+* This ability works while the Sweetheart is dead.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+If the Sweetheart dies, you choose any one player to become '''drunk''' - mark this player with the '''DRUNK''' reminder. The Sweetheart does not lose this ability when dead.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+You will almost always want to make a Townsfolk drunk, which will hurt the good team, but if evil is winning quite convincingly, you can make an Outsider, Minion, or even the Demon drunk.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Sweetheart dies. The {{Good|Mathematician}} is now drunk, and may get false information at night.
+			</div>
+
+			<div class='example'>
+				The Sweetheart dies. The {{Good|Mutant}} is now drunk. The {{Good|Mutant}} may safely come out as the {{Good|Mutant}}, but they do not know this.
+			</div>
+
+			<div class='example'>
+				The Sweetheart dies. The Demon is now drunk, so their attack at night won’t kill anyone.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Don't die! Your death will immediately cause a fellow villager to become drunk, rendering their ability and any information they gain from that point on will be unreliable. While it is possible for an evil player to become drunk via this method, you are an Outsider and your ability hinders the Good Team - you should always assume that a fellow good player has been afflicted.
+
+* Bluff as an undesirable target for the Demon. To increase your chances of survival, claim to be a character that the Demon wouldn't want to touch - this can be a character like the {{Good|Sage}} who the Demon wants to avoid at all costs, or characters like the {{Good|Artist}} and {{Good|Juggler}} who have used their abilities already. If the Demon thinks you are low priority, they'll focus on other targets, allowing you to avoid death. (Note that it may be to your benefit to reveal your true identity to one or two people secretly so they know whatever 'information' you're offering is not true.)
+
+* If you do die, reveal immediately. Knowing that you are the Sweetheart is very important for the good team since your ability only activates on death. It is also worth revealing if you are going to be executed - even if you are out in the open, the Demon will have to decide that night between killing you or a more dangerous target like a prominent {{Good|Philosopher}}.
+
+* Try and figure out who has become drunk after you die. Even in death, you can be useful - figuring out who has unreliable information as a result of you also means that you can determine who does ''not'' have unreliable information.
+
+* Beware the {{Evil|Witch}} and the {{Evil|Cerenovus}}! The Demon isn't the only way that you can die - a haphazard nomination or careless madness can see you die just as easily as if the Demon kills you. If you know either of these Minions are in play, avoid attracting their ire, or else tread carefully.
+
+* Die late in the game if you must. Depending on the state of the game (e.g. Who is alive), the drunkenness you inflict on the game may have minimal or no impact. For example if the only character claims alive are a poisoned {{Good|Snake Charmer}}, {{Good|Juggler}}, and {{Good|Klutz}} and yourself, then your death is safer than earlier in the game, where you might have messed up the ability of an {{Good|Oracle}} or {{Good|Town Crier}}.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Sweetheart ==
+
+When bluffing as the Sweetheart, there are a few things you should keep in mind:
+
+* Most genuine Sweetheart players will not immediately tell the group that they are the Sweetheart. They will most likely bluff as a different character completely, or stay silent about their character for a while. Bluff as a different character initially, or stay silent for a while, to look bona fide. 
+
+* The Sweetheart is a great backup bluff. If you bluff as the {{Good|Flowergirl}}, but somebody else claims to be the {{Good|Flowergirl}}, claiming to actually be the Sweetheart may be believed. If you claim to be 3 different characters, and none of them are working, throwing your hands in the air in exasperation and revealing yourself as the Sweetheart might fly.  
+
+* If you reveal as Sweetheart and don't die for several days ... beware. A Sweetheart that reveals to the group will usually be attacked by the Demon fairly quickly. If you stay alive for too long after revealing, the group may wonder why.
+
+* Die. Preferably at night. If you are a Minion, or a Demon that can die at night, such as the {{Evil|Fang Gu}}, then dying is extremely helpful. The good team will believe that a player is now drunk, when this is not the case. Information will be doubted. Good players will look evil. Chaos reigns. Sit back and enjoy the show.
+
+* If you die, reveal that you are the Sweetheart publicly, and as soon as possible. This is the time most real Sweethearts will reveal themselves. After you are dead, spearhead a campaign to find out "which player is drunk" - if players are spending all their time looking for a drunk that doesn't exist, they are not hunting the Demon as well. Remind the group that one of them is drunk at every opportunity!
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Outsiders]]

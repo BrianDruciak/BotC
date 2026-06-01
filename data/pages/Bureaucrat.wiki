@@ -1,0 +1,125 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_bureaucrat.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Traveller|Traveller]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Sign here please. And here. And here. Aaaaaaaaand here. This should all be sorted and tallied by the end of the day, assuming everyone's signatures are legible. We haven't had a mix-up in the paperwork for ages. Yesterday noon, if memory serves..."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/17822079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-10%2Fcc1d04a9-265d-3055-64a5-de99c5104c77.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose a player (not yourself): their vote counts as 3 votes tomorrow."
+
+The Bureaucrat gives extra votes to a player of their choice.
+* When a player chosen by the Bureaucrat votes, that vote counts as three votes. This happens every time that player votes that day.
+* The player with the triple vote loses it immediately if the Bureaucrat dies, including if the Bureaucrat is exiled, because the Bureaucrat loses their ability.
+* Exiles are never affected by abilities, so the player with the triple vote can only support exiles once, not three times.
+* Since the Storyteller counts the number of votes out loud as they move their hand around the circle, all players will know which player the Bureaucrat chose.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Bureaucrat. They point at any player. Mark the chosen player with the Bureaucrat’s '''3 VOTES''' reminder. Put the Bureaucrat to sleep.
+
+Each time you tally the vote of a player marked '''3 VOTES''', count it as three votes instead of one. (''Count this out loud, as normal.'')
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Bureaucrat chooses Evin. The next day, when the first vote is being tallied, the Storyteller counts "1... 2... 3... 4-5-6... 7.” The nominated player now has seven votes for their execution, and the nomination process continues.
+			</div>
+
+			<div class='example'>
+				The Bureaucrat chooses Filip. The next day, Filip has a triple vote, which he uses during four nominations. 
+			</div>
+
+			<div class='example'>
+				The Bureaucrat chooses Douglas, who is dead. The next day, Douglas uses his vote token to vote, and his vote counts as triple.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are good) ==
+
+* When picking who to give your extra votes to, prioritize living players. Dead players get a single vote for the rest of the game, and will be reluctant to spend it before a critical moment, even with your ability giving them an extra punch. (Similarly, be wary of characters like the {{Good|Butler}}, who can have their voting restricted because of their ability.)
+
+* Find a good player you trust or who has been confirmed in some way, and pair up with them. Characters like a {{Good|Virgin}} who has caused an execution or anyone confirmed by a {{Good|Washerwoman}} are great options of trustworthy players you can work with. This also has the benefit of making you look good, as you are publicly aligning yourself with a good player.
+
+* Watch how people vote, especially the people you choose. Depending on who is on the chopping block, players will change their vote - it's very unlikely that a Minion would vote for their Demon knowing they have 3 votes, for example. If a player doesn't take advantage of your power at a critical moment (or worse, ''does''), then they are telling you a lot about their priorities and who they are aligned with.
+
+* Ask the town to help you choose who the person that receives your extra votes should be! If you don't have any strong leads on a reliable good player to trust, crowd-sourcing a solution will not only help the town trust you, but uncover good potential options for you to pick.
+
+* Communicate with the town about who you have picked - not only does keeping an open and honest policy help the town believe that you have a good alignment, but it helps the group when coordinating information and votes to get someone killed.
+
+* Deliberately lie about who you picked so that you can observe the behaviour of the player you 'picked'. While secretly giving your votes to a trustworthy player, pick someone who you want more of a read on, and see how they behave when they think they have extra voting power.
+
+* You are especially deadly on the final night - your ability means that one person can single-handedly kick off an execution. If you choose an evil player, good will have to work extra hard to make up the difference. Consider asking to be exiled before nominations begin - a good player may lose out on the extra kick you have to offer, but at least you know for sure your ability isn't going to cause more harm than good.
+
+* The {{Traveler|Thief}} is your counterpart among Travellers, causing votes to count negatively... but if you both choose the same player, your abilities combine to give someone ''-3 votes''! If you both trust the {{Traveler|Thief}} and have a strong lead on an evil player, this can be a devastating way to undermine the evil team, cancelling out three evil votes!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks (if you are evil) ==
+
+* Don't choose evil players ALL the time - that will look too suspicious. If you just choose the Demon over and over again. the good team has reason to believe that you are evil, as good Bureaucrats tend to change their minds more often. Choose evil players MOST, but not all, of the time. This way, evil players will be getting the majority of the triple votes, but you look more trustworthy to the good team, allowing you to survive longer. 
+
+* Another strategy is to choose good players until the perfect moment arises. This works best if the players you choose for the first half of the game are not only good, but believed to be good by the group. Choosing good players this way builds up a lot of trust in you, trust that you can betray at the last minute, by giving an evil player triple votes on the last day, or even at a similarly crucial point late in the game.
+
+* Choose an evil player on the final day. Although it might be tempting to choose a good player on the final day, so that you look more trustworthy, a good player having triple voting power is a huge danger to your team and far outweighs any benefits gained due to your angelic appearance. On the contrary, an evil player getting triple votes on the final day can win the game.
+
+* Choose dead evil players, if you can justify your reason for doing so. The dead are generally more trustworthy than the living, so giving a dead Minion triple votes not only helps your image, but gets that brutal extra two votes for the evil teams' desired nominee. A dead evil player with triple votes is really maximizing their offensive potential, as long as they actually are believed to be good.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Travellers]]

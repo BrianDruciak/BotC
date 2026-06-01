@@ -1,0 +1,145 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_courtier.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I am more afraid of an army of one hundred sheep led by a lion than an army of one hundred lions led by a sheep."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/48717605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-8%2F252469589-44100-2-bd14f4106434c.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Summoner|summoner|Evil|If the living Summoner has no ability, the Storyteller has the Summoner ability.}}
+{{Jinx|Vizier|vizier|Evil|If the Vizier loses their ability, they learn this, and cannot die during the day.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, at night, choose a character: they are drunk for 3 nights & 3 days."
+
+The Courtier gets a character drunk, without knowing which player it is.
+* Once per game, the Courtier chooses a character to be drunk for three nights and three days, starting immediately.
+* The Courtier does not learn if they were successful or not, so they might choose a character that is not in play.
+* The Courtier chooses a character, not a player. The Courtier player may need to be reminded of this. Evil players bluffing as the Courtier may also need to be reminded.
+* If the drunk or poisoned Courtier chooses a character, that character is not drunk, even if the Courtier later becomes sober and healthy. If the Courtier made a character drunk, but the Courtier becomes drunk or poisoned, the player they made drunk becomes sober again. If the Courtier becomes sober and healthy again before the three nights and three days have ended, that player becomes drunk yet again.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Courtier. They either shake their head no or point at any character icon on their character sheet. Put the Courtier to sleep.
+
+If the Courtier chose a character icon and that character is in play, the player of the chosen character becomes '''drunk''' for three nights and three days. Tonight, mark them with the Courtier’s '''DRUNK 1''' reminder. The next night, replace the '''DRUNK 1''' reminder with the '''DRUNK 2''' reminder. The next night, replace the '''DRUNK 2''' reminder with the '''DRUNK 3''' reminder. At dusk on the next night, remove the '''DRUNK 3''' reminder, and '''the Courtier loses their ability'''—mark them with the '''NO ABILITY''' reminder and remove their night token from the night sheet.
+
+After the Courtier chooses a character to make drunk, do not wake the Courtier for the rest of the game.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+In other editions, there can be multiple copies of the same character in play. The Courtier only makes one of them drunk.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				For four nights, the Courtier wakes but does not use their ability. During the fifth night, they make the {{Evil|Shabaloth}} drunk. For the next three nights, the {{Evil|Shabaloth}} acts but cannot kill anybody.
+			</div>
+
+			<div class='example'>
+				The Courtier uses their ability while drunk. Nothing happens, but they are not woken again. 
+			</div>
+
+			<div class='example'>
+				The Courtier makes the {{Evil|Mastermind}} drunk. The {{Evil|Po}} is executed while the {{Evil|Mastermind}} still lives. The game ends and good wins.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Courtier is unique in that you choose a ''character'', not a player. This means you select an actual role, and if they exist in your game they will be drunk. This is different from the {{Evil|Poisoner}}, who chooses a player to be poisoned regardless of who they are. Thanks to this, you have some different strategies available to you!
+
+* You can only use your ability once in the entire game, so time it well! The later you make your choice, the more information you will have about the game's state and what characters are in play and causing mayhem. On the other hand, the evil team will be keen to target you as soon as they possibly can, so using your ability early can ensure you get it off and learn ''something'' before you die. It's up to you to judge the landscape of your particular game and make your choice!
+
+* Obviously one of the strongest uses of your ability is to target the demon - if you can block the demon by getting them drunk, then the good team will have three nights of reprieve and the evil team will be at a severe disadvantage. The biggest tell for which demon is in play is the number of deaths each night - spot a pattern there, and you can pick out a deadly {{Evil|Shabaloth}} or cunning {{Evil|Po}} before they unleash their devastating attacks.
+
+* Another powerful strategy you have available to you is to get Minions drunk. A drunk {{Evil|Assassin}} or {{Evil|Godfather}} won't be able to unleash unexpected deaths on the town, though getting the timing right can be very tricky - only aim for these if you're really sure it's going to help the good team out. A drunk {{Evil|Devil's Advocate}} or {{Evil|Mastermind}} is a little more insidious, since the evil team often rely on their abilities to save them in a pinch, and the drunkenness will not be obvious right away. An evil team who thinks they have a {{Evil|Mastermind}} in their back pocket may be okay with letting their demon die, when in fact they're about to lose the game!
+
+* In most cases, getting good players drunk is probably not the ''best'' use of your ability, but there are some cases where it can be viable. For example, a drunk {{Good|Tinker}} can no longer die randomly, a drunk {{Good|Grandmother}} will not die alongside her grandchild, and a drunk {{Good|Moonchild}} who dies will not cause an extra good player's death.
+
+* If you suspect that someone may not be who they claim to be, you can choose the character they're claiming and see if their story changes. For example, if a {{Good|Chambermaid}} continues to come out with 'true' information after you've had a few too many drinks with that character, or an {{Good|Exorcist}} continues to 'block' the demon after they're supposed to be hammered? (Note: if you're wrong and you make the actual {{Good|Chambermaid}} or {{Good|Exorcist}} drunk, you may gain some suspicion and ire for undermining the good team! It's a risky play with a big payoff.)
+
+* If you're just not sure who to make drunk and you're rapidly running out of days, a valid option is to simply choose the most deadly character on the script. Whether or not they are in play, you can now be completely confident that they are not impacting your game at all, allowing the good team to rule them out of any reasoning. (Who is the most deadly character in Bad Moon Rising, you ask? Well, that's up to you! ;) )
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Courtier ==
+
+When bluffing as the Courtier, there are a few things you should keep in mind:
+
+* Wait a few days before claiming that you are the Courtier, or at least wait a few days to claim to have used your ability. That's what a real Courtier would usually do. Also, remember that a real Courtier chooses a character to make drunk, not a player. 
+
+* The easiest way to bluff as the Courtier is to claim to have used your Courtier ability on a Demon or Minion, and then have that have no obvious effect. For example, claim that you used your ability on the {{Evil|Pukka}}, but since a kill still happened at night, you must have guessed the wrong Demon. "Getting it wrong" this way is quite common for a Courtier, so doesn't look majorly suspicious, as long as the group is confused about which evil characters are in the game.
+
+* Bluffing and "getting it right" can be much more devastating, but also more risky. If you can convince the group not only that you are the Courtier, but also that you have nullified the ability of an in-play evil character, the group will be extremely reluctant to kill you. Suckers.
+
+* If you claim to have chosen the demon that is actually in-play, or at least the Demon that the good team thinks is in-play, then you may need to organize with the Demon so as no deaths occur at night. A drunk Demon can not kill, so in order to look like you have actually done this to the Demon, the Demon will need to either not kill, or have a different reason for deaths occurring at night, such as the {{Good|Gossip}} or {{Good|Tinker}}, for your bluff to be believed. However, this gambit can be a game winning one for you, particularly if you do it late in the game. If the good team believes that the Demon is drunk, they may not execute anybody when just 3 or 4 (or even 5 or 6) players are left alive, and a savvy demon such as the {{Evil|Shabaloth}} or {{Evil|Po}} can win at night by killing multiple players at that point.
+
+* Pretend to take a crucial character's ability out of the game, and therefore out of the good team's consideration. If you are the {{Evil|Mastermind}}, you can claim to be the Courtier that has selected the {{Evil|Mastermind}}, which means that they will be taken completely by surprise when you snatch victory the day after executing the Demon. If you are the {{Evil|Pukka}}, you can claim to be the Courtier that has made the {{Evil|Pukka}} drunk, which, when deaths continue at night, will convince the group that a different Demon is in-play, and they will completely ignore the possibility of the {{Evil|Pukka}}'s poisoning. Nice.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

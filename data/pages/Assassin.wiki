@@ -1,0 +1,117 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_assassin.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Minion|Minion]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"..."<p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/51441024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-3%2F263235150-44100-2-65d0121403f3a.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, at night*, choose a player: they die, even if for some reason they could not."
+
+The Assassin kills who the Demon cannot.
+* Once per game at night, the Assassin can kill a player. This player dies, even if they are protected from death in any way, such as from an ability.
+* The Assassin ability is affected by drunkenness and poisoning, as normal.
+* If the Assassin attacks the Goon, the Goon dies and turns evil.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night except the first, wake the Assassin. They either shake their head no or point at any player. Put the Assassin to sleep. 
+
+If the Assassin chose a player, that player '''dies'''— mark them with the '''DEAD''' reminder. This cannot be prevented in any way (''except if the Assassin doesn’t have their ability, such as if they’re drunk or poisoned''). '''The Assassin loses their ability'''—mark them with the '''NO ABILITY''' reminder and remove their night token from the night sheet. (''The Assassin won’t wake again.'')
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				For the first three nights the Assassin wakes, but chooses not to act. During the fourth night, they choose to kill the {{Good|Fool}}. Even though the {{Good|Fool}} still has their ability, the {{Good|Fool}} dies and stays dead.
+			</div>
+
+			<div class='example'>
+				The {{Good|Tea Lady}} neighbours two good players. The Assassin chooses to kill one of the {{Good|Tea Lady}}’s neighbours, who dies even though they were protected by the {{Good|Tea Lady}}.
+			</div>
+
+			<div class='example'>
+				The {{Good|Minstrel}} is in play. The {{Evil|Mastermind}} dies by execution. That night, the Assassin chooses to kill the {{Good|Moonchild}}, but they do not die, because the Assassin is drunk due to the {{Good|Minstrel}}.
+			</div>
+
+			<div class='example'>
+				The Assassin, who was drunk due to the {{Good|Courtier}}, chooses to kill the {{Good|Goon}}. The Assassin has no ability, so the {{Good|Goon}} remains alive but turns evil.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Few minions hold the power you have. Absolute control over life and death. No protection will keep players safe from your machinations (unless you get drunk - don't do that). Enjoy the terror you wield over the good team, and strike into their heart at the worst possible moment!
+
+* Kill players that your demon cannot get to. Is that {{Good|Exorcist}} blocking your demon from acting? Not anymore. Is that {{Good|Pacifist}} under the protection of a {{Good|Innkeeper}}? Child's play. A smug {{Good|Sailor}} causing you problems? Make this night their last. Nothing stops your blade, so you might as well take full advantage and go after the players that think they are untouchable.
+
+* Kill to confuse death count and mask the type of demon that is in play. If the players suspect a {{Evil|Zombuul}}, you can kill on a night the demon cannot, which will confuse things (especially since your ability can mimic the kill of a venomous {{Evil|Pukka}}). Another useful example is to cover for a charging {{Evil|Po}} - the good team won't see the extra deaths coming, making it extra devastating when unleashed.
+
+* Coordinate with your demon on who they would like you to kill. This is especially true of hungry demons like the {{Evil|Shabaloth}} and the {{Evil|Po}} who can kill multiple times per night, but it's nearly always worth discussing to avoid doubling up with them. Your extra kill is powerful, and it'll be a real bummer to 'lose' it because you and the demon both went after the same target.
+
+* If you don't know who to kill, or if you feel like being particularly tricky, you can kill yourself (or kill a fellow evil player) at night to make that evil player look like a good player. Since it is rare for an evil player to die at night, the good team will usually assume that any player that dies at night is good, trusting that player's information and basing their future strategy on that assumption. This is particularly damaging if you can undercut a good player's ability in the process. For example, if you know that an {{Good|Innkeeper}} is protecting you at night, and you kill yourself, not only will you look good in the morning, but the {{Good|Innkeeper}} will look like they are lying about protecting you.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Assassin ==
+
+* You can't! The Assassin has the opportunity to kill any player of their choice, and that player can not do anything to prevent that death from occurring. The {{Good|Innkeeper}} can't protect them, nor can the {{Good|Tea Lady}}, and the {{Good|Fool}}, {{Good|Sailor}}, and even the {{Good|Goon}} will die at the Assassin's hand. As a good player, the best that you can do to combat the Assassin is to notice when the Assassin made a kill and to pick up the pieces afterwards. The good news is that the Assassin can only kill one player per game, unlike the {{Evil|Godfather}} which can often kill multiple players. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Minions]]

@@ -1,0 +1,93 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_buddhist.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Fabled|Fabled]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Marianna Carr</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"You throw thorns. Falling in my silence, they become flowers."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"For the first 2 minutes of each day, veteran players may not talk."
+
+Use the Buddhist to help new players have fun when there are one or two veterans in a group of new players.
+* When experienced players find themselves in a game full of beginners, the veterans will often dominate the game due to their enthusiasm and knowledge.
+* Players affected by the Buddhist cannot talk at all for the first two minutes of each day. They may not whisper in private, and may not talk to each other. They simply listen.
+* This is not a punishment for being talkative. Being talkative is great! Blood on the Clocktower is a talking game, and the more, the merrier. That said, forcing the veterans to stay silent temporarily each day allows the new players to find their own voices, to come up with their own theories, and to take action on their own. It is about fun for everybody.
+* It is common for a player to say “I am a Buddhist” or for the Storyteller to say to them “You are a Buddhist.” This doesn’t mean that their character is the Buddhist. It is a pleasant shorthand for saying “You are affected by the Buddhist ability.” This is similar to saying “You are a Revolutionary.”
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At the start of the game, declare that the Buddhist is in play. Add the Buddhist token to the Grimoire. Declare which players are Buddhists, with their consent. Those players must stay silent for the first two minutes of each day.
+
+Remove the Buddhist at any time, declaring when you do so.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If no device is available to set a two-minute timer, then use your best judgment as to what is two minutes, and inform the veterans when you feel that the time is up.
+<hr />
+Like the Angel and the Revolutionary, you’ll want to ask for a player’s consent before affecting them with the Buddhist. Something like this is best: “Do you mind if I make you a Buddhist for this game? You are really good at the game, and I want to give the new players a chance to figure things out for themselves. Is that okay?”
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Lachlan and Lewis are veterans in a game of mostly new players. To encourage the new players to talk, the Storyteller puts the Buddhist in play. Lachlan and Lewis may not talk for the first two minutes each day, after which, they may talk freely.
+			</div>
+
+			<div class='example'>
+				Evin is affected by the Buddhist. He is a Minion and simply listens to what people are saying for the first two minutes, allowing him to bluff as a not-in-play character later on.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Explanation ==
+
+When experienced players find themselves in a game full of beginners, the veterans will often dominate the game due to their enthusiasm and knowledge. Having a Buddhist in play encourages the new players to talk and to learn how to play using their own intelligence.
+
+Players affected by the Buddhist cannot talk at all for the first two minutes of each day. They may not whisper in private, and may not talk to each other. They simply listen. If no device is available to set a two minute timer, then make your best judgement as to what is two minutes, and inform the veterans when you feel that the time is up.
+
+It is important for the players to realize that this is NOT a punishment for being talkative. Being talkative is great! Blood on the Clocktower is a talking game, and the more, the merrier. It is just that forcing the veterans to stay silent temporarily each day allows the new players to find their own voices, to come up with their own theories, and to take action on their own. It is about fun for everybody.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Fabled]]

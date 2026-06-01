@@ -1,0 +1,149 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_farmer.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>20/05/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Even the high and mighty need food on the table. Without us, the city starves."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>IdDrWvaqgwY</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die.}}
+{{Jinx|Riot|riot|Evil|Each night*, Riot chooses an alive good player (different to previous nights): a chosen Farmer uses their ability but does not die.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"When you die at night, an alive good player becomes a Farmer."
+
+The Farmer creates more farmers.
+* If a Farmer dies at night, another player becomes a Farmer too.
+* Only players that are good can become Farmers this way.
+* If this new Farmer also dies at night, another Farmer is created.
+* Farmers that die during the day, such as by execution, do not create more Farmers.
+* Farmers that have turned evil, such as from the Mezepheles’ ability, can create more Farmers. But Townsfolk and Outsiders that have turned evil cannot become a Farmer.
+* Farmers do not learn who each other are, but each player that becomes a Farmer learns that they are now a Farmer.
+* When a player becomes a Farmer, they are no longer their old character, and do not have that ability. Any ongoing effects of their old ability immediately end.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+If the Farmer died tonight, wake an alive good player. Show them the '''YOU ARE''' info token and a Farmer character token, then put them to sleep. Replace their previous character token with a Farmer character token.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Julian is the Farmer. The Demon kills him at night. Evin is the {{Evil|Fearmonger}}, and Sarah is the {{Good|Alchemist}}. Sarah becomes the Farmer that night. Evin could not become the Farmer, because he is evil.
+			</div>
+
+			<div class='example'>
+				On the 2nd night, the Farmer dies. The {{Good|Choirboy}} becomes the Farmer. On the 3rd night, the new Farmer dies, and the {{Good|Heretic}} becomes a Farmer. There is now no {{Good|Heretic}} and no {{Good|Choirboy}} in play, and there are three Farmers in play, two of which are dead.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* If you die at night, play it cool and wait for somebody to approach you as the new Farmer that has been created.
+
+* The Farmer can be a powerful trap for the evil team. If you turn into the Farmer at night, reach out to the player that most recently died and reveal to them that you are a Farmer now. It’s very difficult to fake this interaction, meaning the two of you can trust each other.
+
+* If you feel like you want to survive, come out as the Farmer, blatantly daring the Demon to kill you at night. This is especially effective if there are no other sources of deaths by night in the game. It might also confuse the Demon, who might second guess your motives. 
+
+* Claim to be a high priority target, like the {{Good|Bounty Hunter}} or the {{Good|Fortune Teller}}, and bait the Demon into killing you at night. Then, once you’ve died and confirmed who the new Farmer is, claim that you swapped characters with them and that they’re the real high priority target to try and bait the Demon into killing them too. 
+
+* Try not to come out right away publically as building up a large group of Farmers is much more powerful than a small group of Farmers. Backtracking through the information that the new Farmers may have is valuable information that you can trust.
+
+* Try to find a high priority target and role swap with them so that you can become a good target to be killed at night and also helps to protect that player, especially if you are the first Farmer.
+
+*Try to talk with lots of people throughout the game, that way you may look like you are spreading lots of powerful information about where the evil team might be, that way you seem like a high priority target that may need to be silenced.
+
+* Avoid execution at all costs as your ability only triggers if you die at night. 
+
+* After you have confirmed a couple of players who have been turned into Farmers coming out together and using that information as a base for where to start looking for evil players can be a good strategy to get the ball rolling on who you can and cannot trust.
+
+* If there is a Farmer chain that is greater than the total number of evil players in the current game's setup this generally means that you can trust all the Farmers in that group.
+
+* Powerful roles becoming Farmers is much more beneficial than trying to keep powerful characters alive at night. Do not be scared of dying at night for fear of turning powerful characters into Farmers.
+ 
+* Pay attention to what the player was before they became a Farmer. If they were an Outsider, this might be a clue that the good team is doing badly and the Storyteller is trying to help out. If it’s a start player or a once per game character that’s used their ability, this might mean the game is fairly even. If it’s a powerful character, and there seem to be other choices, maybe this means the good team is winning.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Farmer ==
+
+When bluffing as the Farmer, there are a few things you should keep in mind:
+
+* A Farmer bluff can be a good bluff to fall on late in the game if you’ve been trying to keep things a secret. The Farmer isn’t likely to come out early, and it might also help provide cover if you bluffed as a character and the bluff falls apart. 
+
+* Telling only a couple of people early game that you are the farmer and keeping them alive until late game, so that you can frame them as the Demon or evil to explain why you haven't died is a strong evil bluff.
+
+* If a fellow evil player dies at night for any reason, you can pick up a Farmer bluff. Simply go over to them and tell them secretly that you're going to bluff as the Farmer, and that you just became a Farmer last night when the other evil player died. This can be particularly powerful when combined with Demons that like to kill Minions like the {{Evil|Vigormortis}}. 
+
+* Bluffing as the Farmer can be tricky as you will need to work with the other evil players to pull it off. If for some reason you die at night, you can claim to be the Farmer. This creates an opening for another evil player to claim they’re now a Farmer and thus verifying your claim. However, this doesn’t mean you will be trusted by anyone else, as all it does is confirm you’re working together.
+
+* Bluffing as a Farmer might be a good way to flush a real Farmer out. If you come out as a Farmer, the real Farmer might be forced to counterclaim you to prevent your story from being believed.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

@@ -1,0 +1,146 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_banshee.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>25/04/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Gorm do shúile, dearg do ghruaig, ní bheidh sé i bhfad, is a mbeidh tú san uaigh."</p>	
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>VToUUOy7D1g</youtube>	
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|Each night*, the Leviathan chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability.}}
+{{Jinx|Riot|riot|Evil|Each night*, Riot chooses an alive good player (different to previous nights): a chosen Banshee dies & gains their ability.}}
+{{Jinx|Vortox|vortox|Evil|If the Vortox kills the Banshee, all players learn that the Banshee has died.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.”
+
+The Banshee becomes more powerful when dead, nominating and voting twice as much.
+* When alive, the Banshee nominates and votes as normal.
+* When dead, they may nominate twice per day, even though dead players may normally not nominate at all.
+* When dead, they may vote for any nomination they wish and do not need a vote token to do so. They may vote twice for the same nomination.
+* The Banshee only gains these powers if they were killed by the Demon. Dying by execution or to a non-Demon ability does not count.
+* To vote twice, the Banshee player raises both hands when votes are counted. If the player is unable to do this due to a disability, the Storyteller can count their normal vote twice.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+If the Banshee is killed by the Demon, place the '''HAS ABILITY''' reminder token next to the Banshee and say “The Banshee has awoken” or something similarly dramatic. The Banshee may nominate twice per day, but it is the player’s responsibility to remember how many times they have nominated. The Banshee may raise two hands when voting. When counting the votes, count each hand as a vote.
+
+If the Banshee is killed by the Demon but does not have their ability at that time or is killed by a non-Demon ability, then do not tell the group that the Banshee ability has been triggered. The Banshee may not nominate, and needs a vote token to vote, like a regular dead player.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If all good players are dead, the game continues. Good can still win due to the Banshee being able to nominate.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Kazali}} kills the Banshee. All players learn that the Banshee has died. Tomorrow, the Banshee nominates the {{Good|Village Idiot}} and votes twice, then nominates the {{Evil|Fearmonger}} and votes twice, then votes twice when the {{Good|Shugenja}} is nominated. The next day, the Banshee doesn’t nominate at all, but votes twice for the {{Evil|Kazali}}.
+			</div>
+
+			<div class='example'>
+				The Banshee is poisoned. The {{Evil|Ojo}} kills the Banshee. Nobody learns that the Banshee has died, and for the rest of the game, the Banshee may not nominate, and has just one vote.
+			</div>
+
+			<div class='example'>
+				The {{Good|Lycanthrope}} kills the Banshee. The Banshee does not gain their additional powers and is not announced.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+*  Get killed by the Demon, by any method that works for you!
+
+* You can come out as the Banshee while still alive, if you have information backing you up, forcing the evil team to kill you and confirm you or leave you alive to the final three and have the Demon options reduced to one of the other two remaining players.
+
+* You get confirmed when you die – take advantage of this. Get hold of every bit of information you can.
+
+* Your votes become disproportionately powerful – as the numbers alive dwindle, your two votes become a larger and larger proportion of the votes required to get someone on the block. This is, however, a double-edged sword – you’re going to be having a major impact on the execution that gets most votes regardless of whether you’re right or not, so sometimes you might want to hold your fire if you have doubts!
+
+* Your nominations may end up being the only good nominations remaining – unlike normally, when the game ends if there’s only evil alive to nominate, you can still nominate in death, so don’t preclude worlds where all living players are evil. It could literally come down to you correctly nominating the 1-in-3 that is the Demon of evil players living.
+
+* You can afford to always hunt Demons once you’re dead – killing Minions may no longer be as important as you can’t automatically lose to having only evil players remaining alive. So gun for the Demon every day!
+
+* Use your nominations every day – you can be assured that a good player is nominating. And use your votes at least once a day – you swing the voting majority very much in the good team’s favour.
+
+* If you find out that you died at night and the Storyteller didn’t announce you, confirm with the Storyteller that your ability didn’t trigger rather than just nominating to test it.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Banshee ==
+
+* If you die at night, your bluff is ruined! Make sure the Demon knows not to kill you if you’re a Minion and don’t kill yourself if you’re a Demon.
+
+* Bluff as something else and back into a Banshee claim if you’re truly forced to – that’s what most Banshees would do, after all.
+
+* Come out as Banshee early and dare the evil team to kill you. It doesn’t always work, but if you can get the social reads from this on your side, it’s perfectly believable that an evil team might avoid killing you to avoid confirming you.
+
+* Claim Banshee and link yourself strongly to a good player or two, then get killed at night. You won’t be confirmed, because you’re not the Banshee, but the resulting suspicion should drag your aligned good players down with you.
+
+* Make sure you know what reasons there are on the script for your ability to not trigger and be prepared to build those worlds if you have to die at night. A good player would be doing the same, so it’s not suspicious, but you have to be able to build something or you’re going to have a bad time later!
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

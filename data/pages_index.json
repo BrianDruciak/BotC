@@ -1,0 +1,1754 @@
+[
+  {
+    "title": "Abilities",
+    "pageid": 320,
+    "categories": [],
+    "file": "pages/Abilities.wiki"
+  },
+  {
+    "title": "Acrobat",
+    "pageid": 298,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Acrobat.wiki"
+  },
+  {
+    "title": "Al-Hadikhia",
+    "pageid": 313,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Al-Hadikhia.wiki"
+  },
+  {
+    "title": "Alchemist",
+    "pageid": 277,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Alchemist.wiki"
+  },
+  {
+    "title": "Alignment",
+    "pageid": 196,
+    "categories": [],
+    "file": "pages/Alignment.wiki"
+  },
+  {
+    "title": "Alsaahir",
+    "pageid": 375,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Alsaahir.wiki"
+  },
+  {
+    "title": "Amnesiac",
+    "pageid": 278,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Amnesiac.wiki"
+  },
+  {
+    "title": "Angel",
+    "pageid": 254,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Angel.wiki"
+  },
+  {
+    "title": "Apprentice",
+    "pageid": 181,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Apprentice.wiki"
+  },
+  {
+    "title": "Artist",
+    "pageid": 92,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Artist.wiki"
+  },
+  {
+    "title": "Assassin",
+    "pageid": 153,
+    "categories": [
+      "Bad Moon Rising",
+      "Minions"
+    ],
+    "file": "pages/Assassin.wiki"
+  },
+  {
+    "title": "Atheist",
+    "pageid": 279,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Atheist.wiki"
+  },
+  {
+    "title": "Bad Moon Rising",
+    "pageid": 107,
+    "categories": [],
+    "file": "pages/Bad Moon Rising.wiki"
+  },
+  {
+    "title": "Balloonist",
+    "pageid": 280,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Balloonist.wiki"
+  },
+  {
+    "title": "Banshee",
+    "pageid": 370,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Banshee.wiki"
+  },
+  {
+    "title": "Barber",
+    "pageid": 97,
+    "categories": [
+      "Outsiders",
+      "Sects & Violets"
+    ],
+    "file": "pages/Barber.wiki"
+  },
+  {
+    "title": "Barista",
+    "pageid": 189,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Barista.wiki"
+  },
+  {
+    "title": "Baron",
+    "pageid": 53,
+    "categories": [
+      "Minions",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Baron.wiki"
+  },
+  {
+    "title": "Beggar",
+    "pageid": 179,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Beggar.wiki"
+  },
+  {
+    "title": "Big Wig",
+    "pageid": 414,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Big Wig.wiki"
+  },
+  {
+    "title": "Bishop",
+    "pageid": 185,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Bishop.wiki"
+  },
+  {
+    "title": "Boffin",
+    "pageid": 385,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Boffin.wiki"
+  },
+  {
+    "title": "Bone Collector",
+    "pageid": 187,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Bone Collector.wiki"
+  },
+  {
+    "title": "Boomdandy",
+    "pageid": 306,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Boomdandy.wiki"
+  },
+  {
+    "title": "Bootlegger",
+    "pageid": 330,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Bootlegger.wiki"
+  },
+  {
+    "title": "Bounty Hunter",
+    "pageid": 281,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Bounty Hunter.wiki"
+  },
+  {
+    "title": "Buddhist",
+    "pageid": 255,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Buddhist.wiki"
+  },
+  {
+    "title": "Bureaucrat",
+    "pageid": 178,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Bureaucrat.wiki"
+  },
+  {
+    "title": "Butcher",
+    "pageid": 186,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Butcher.wiki"
+  },
+  {
+    "title": "Butler",
+    "pageid": 46,
+    "categories": [
+      "Outsiders",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Butler.wiki"
+  },
+  {
+    "title": "Cacklejack",
+    "pageid": 412,
+    "categories": [
+      "Experimental Characters",
+      "Travellers"
+    ],
+    "file": "pages/Cacklejack.wiki"
+  },
+  {
+    "title": "Cannibal",
+    "pageid": 282,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Cannibal.wiki"
+  },
+  {
+    "title": "Cerenovus",
+    "pageid": 101,
+    "categories": [
+      "Minions",
+      "Sects & Violets"
+    ],
+    "file": "pages/Cerenovus.wiki"
+  },
+  {
+    "title": "Chambermaid",
+    "pageid": 136,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Chambermaid.wiki"
+  },
+  {
+    "title": "Changelog",
+    "pageid": 371,
+    "categories": [],
+    "file": "pages/Changelog.wiki"
+  },
+  {
+    "title": "Character Types",
+    "pageid": 195,
+    "categories": [],
+    "file": "pages/Character Types.wiki"
+  },
+  {
+    "title": "Chef",
+    "pageid": 35,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Chef.wiki"
+  },
+  {
+    "title": "Choirboy",
+    "pageid": 283,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Choirboy.wiki"
+  },
+  {
+    "title": "Clockmaker",
+    "pageid": 82,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Clockmaker.wiki"
+  },
+  {
+    "title": "Courtier",
+    "pageid": 141,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Courtier.wiki"
+  },
+  {
+    "title": "Cult Leader",
+    "pageid": 284,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Cult Leader.wiki"
+  },
+  {
+    "title": "Damsel",
+    "pageid": 299,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Damsel.wiki"
+  },
+  {
+    "title": "Deus ex Fiasco",
+    "pageid": 406,
+    "categories": [
+      "Experimental Characters",
+      "Fabled"
+    ],
+    "file": "pages/Deus ex Fiasco.wiki"
+  },
+  {
+    "title": "Deviant",
+    "pageid": 190,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Deviant.wiki"
+  },
+  {
+    "title": "Devil's Advocate",
+    "pageid": 152,
+    "categories": [
+      "Bad Moon Rising",
+      "Minions"
+    ],
+    "file": "pages/Devil's Advocate.wiki"
+  },
+  {
+    "title": "Djinn",
+    "pageid": 264,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Djinn.wiki"
+  },
+  {
+    "title": "Doomsayer",
+    "pageid": 253,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Doomsayer.wiki"
+  },
+  {
+    "title": "Dreamer",
+    "pageid": 83,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Dreamer.wiki"
+  },
+  {
+    "title": "Drunk",
+    "pageid": 49,
+    "categories": [
+      "Outsiders",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Drunk.wiki"
+  },
+  {
+    "title": "Duchess",
+    "pageid": 261,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Duchess.wiki"
+  },
+  {
+    "title": "Empath",
+    "pageid": 36,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Empath.wiki"
+  },
+  {
+    "title": "Engineer",
+    "pageid": 285,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Engineer.wiki"
+  },
+  {
+    "title": "Evil Twin",
+    "pageid": 99,
+    "categories": [
+      "Minions",
+      "Sects & Violets"
+    ],
+    "file": "pages/Evil Twin.wiki"
+  },
+  {
+    "title": "Exorcist",
+    "pageid": 137,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Exorcist.wiki"
+  },
+  {
+    "title": "Experimental",
+    "pageid": 211,
+    "categories": [],
+    "file": "pages/Experimental.wiki"
+  },
+  {
+    "title": "Fabled",
+    "pageid": 197,
+    "categories": [],
+    "file": "pages/Fabled.wiki"
+  },
+  {
+    "title": "Fang Gu",
+    "pageid": 103,
+    "categories": [
+      "Demons",
+      "Sects & Violets"
+    ],
+    "file": "pages/Fang Gu.wiki"
+  },
+  {
+    "title": "Farmer",
+    "pageid": 286,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Farmer.wiki"
+  },
+  {
+    "title": "Fearmonger",
+    "pageid": 307,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Fearmonger.wiki"
+  },
+  {
+    "title": "Ferryman",
+    "pageid": 346,
+    "categories": [
+      "Experimental Characters",
+      "Fabled"
+    ],
+    "file": "pages/Ferryman.wiki"
+  },
+  {
+    "title": "Fibbin",
+    "pageid": 260,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Fibbin.wiki"
+  },
+  {
+    "title": "Fiddler",
+    "pageid": 258,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Fiddler.wiki"
+  },
+  {
+    "title": "Fisherman",
+    "pageid": 287,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Fisherman.wiki"
+  },
+  {
+    "title": "Flowergirl",
+    "pageid": 86,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Flowergirl.wiki"
+  },
+  {
+    "title": "Fool",
+    "pageid": 146,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Fool.wiki"
+  },
+  {
+    "title": "Fortune Teller",
+    "pageid": 37,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Fortune Teller.wiki"
+  },
+  {
+    "title": "Gambler",
+    "pageid": 139,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Gambler.wiki"
+  },
+  {
+    "title": "Gangster",
+    "pageid": 191,
+    "categories": [
+      "Experimental Characters",
+      "Travellers"
+    ],
+    "file": "pages/Gangster.wiki"
+  },
+  {
+    "title": "Gardener",
+    "pageid": 333,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Gardener.wiki"
+  },
+  {
+    "title": "General",
+    "pageid": 288,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/General.wiki"
+  },
+  {
+    "title": "Glossary",
+    "pageid": 192,
+    "categories": [],
+    "file": "pages/Glossary.wiki"
+  },
+  {
+    "title": "Gnome",
+    "pageid": 391,
+    "categories": [
+      "Experimental Characters",
+      "Travellers"
+    ],
+    "file": "pages/Gnome.wiki"
+  },
+  {
+    "title": "Goblin",
+    "pageid": 310,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Goblin.wiki"
+  },
+  {
+    "title": "God of Ug",
+    "pageid": 429,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/God of Ug.wiki"
+  },
+  {
+    "title": "God of Ug (Ug Mode)",
+    "pageid": 431,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/God of Ug (Ug Mode).wiki"
+  },
+  {
+    "title": "Godfather",
+    "pageid": 151,
+    "categories": [
+      "Bad Moon Rising",
+      "Minions"
+    ],
+    "file": "pages/Godfather.wiki"
+  },
+  {
+    "title": "Golem",
+    "pageid": 300,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Golem.wiki"
+  },
+  {
+    "title": "Goon",
+    "pageid": 147,
+    "categories": [
+      "Bad Moon Rising",
+      "Outsiders"
+    ],
+    "file": "pages/Goon.wiki"
+  },
+  {
+    "title": "Gossip",
+    "pageid": 140,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Gossip.wiki"
+  },
+  {
+    "title": "Grandmother",
+    "pageid": 134,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Grandmother.wiki"
+  },
+  {
+    "title": "Gunslinger",
+    "pageid": 177,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Gunslinger.wiki"
+  },
+  {
+    "title": "Harlot",
+    "pageid": 188,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Harlot.wiki"
+  },
+  {
+    "title": "Harpy",
+    "pageid": 344,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Harpy.wiki"
+  },
+  {
+    "title": "Hatter",
+    "pageid": 355,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Hatter.wiki"
+  },
+  {
+    "title": "Hell's Librarian",
+    "pageid": 256,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Hell's Librarian.wiki"
+  },
+  {
+    "title": "Heretic",
+    "pageid": 301,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Heretic.wiki"
+  },
+  {
+    "title": "Hermit",
+    "pageid": 403,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Hermit.wiki"
+  },
+  {
+    "title": "High Priestess",
+    "pageid": 342,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/High Priestess.wiki"
+  },
+  {
+    "title": "Hindu",
+    "pageid": 423,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Hindu.wiki"
+  },
+  {
+    "title": "Homebrewy McHomebrewface",
+    "pageid": 335,
+    "categories": [],
+    "file": "pages/Homebrewy McHomebrewface.wiki"
+  },
+  {
+    "title": "Huntsman",
+    "pageid": 289,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Huntsman.wiki"
+  },
+  {
+    "title": "Imp",
+    "pageid": 52,
+    "categories": [
+      "Demons",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Imp.wiki"
+  },
+  {
+    "title": "Innkeeper",
+    "pageid": 138,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Innkeeper.wiki"
+  },
+  {
+    "title": "Investigator",
+    "pageid": 34,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Investigator.wiki"
+  },
+  {
+    "title": "Judge",
+    "pageid": 184,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Judge.wiki"
+  },
+  {
+    "title": "Juggler",
+    "pageid": 93,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Juggler.wiki"
+  },
+  {
+    "title": "Kazali",
+    "pageid": 357,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Kazali.wiki"
+  },
+  {
+    "title": "King",
+    "pageid": 290,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/King.wiki"
+  },
+  {
+    "title": "Klutz",
+    "pageid": 98,
+    "categories": [
+      "Outsiders",
+      "Sects & Violets"
+    ],
+    "file": "pages/Klutz.wiki"
+  },
+  {
+    "title": "Knaves",
+    "pageid": 432,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Knaves.wiki"
+  },
+  {
+    "title": "Knight",
+    "pageid": 337,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Knight.wiki"
+  },
+  {
+    "title": "Legion",
+    "pageid": 314,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Legion.wiki"
+  },
+  {
+    "title": "Leviathan",
+    "pageid": 315,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Leviathan.wiki"
+  },
+  {
+    "title": "Librarian",
+    "pageid": 33,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Librarian.wiki"
+  },
+  {
+    "title": "Lil' Monsta",
+    "pageid": 316,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Lil' Monsta.wiki"
+  },
+  {
+    "title": "Lleech",
+    "pageid": 317,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Lleech.wiki"
+  },
+  {
+    "title": "Lord of Typhon",
+    "pageid": 387,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Lord of Typhon.wiki"
+  },
+  {
+    "title": "Loric",
+    "pageid": 419,
+    "categories": [],
+    "file": "pages/Loric.wiki"
+  },
+  {
+    "title": "Lunatic",
+    "pageid": 148,
+    "categories": [
+      "Bad Moon Rising",
+      "Outsiders"
+    ],
+    "file": "pages/Lunatic.wiki"
+  },
+  {
+    "title": "Lycanthrope",
+    "pageid": 291,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Lycanthrope.wiki"
+  },
+  {
+    "title": "Magician",
+    "pageid": 292,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Magician.wiki"
+  },
+  {
+    "title": "Main Page",
+    "pageid": 1,
+    "categories": [],
+    "file": "pages/Main Page.wiki"
+  },
+  {
+    "title": "Marionette",
+    "pageid": 308,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Marionette.wiki"
+  },
+  {
+    "title": "Mastermind",
+    "pageid": 154,
+    "categories": [
+      "Bad Moon Rising",
+      "Minions"
+    ],
+    "file": "pages/Mastermind.wiki"
+  },
+  {
+    "title": "Mathematician",
+    "pageid": 85,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Mathematician.wiki"
+  },
+  {
+    "title": "Matron",
+    "pageid": 182,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Matron.wiki"
+  },
+  {
+    "title": "Mayor",
+    "pageid": 44,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Mayor.wiki"
+  },
+  {
+    "title": "Mezepheles",
+    "pageid": 309,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Mezepheles.wiki"
+  },
+  {
+    "title": "Minstrel",
+    "pageid": 143,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Minstrel.wiki"
+  },
+  {
+    "title": "Monk",
+    "pageid": 39,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Monk.wiki"
+  },
+  {
+    "title": "Moonchild",
+    "pageid": 150,
+    "categories": [
+      "Bad Moon Rising",
+      "Outsiders"
+    ],
+    "file": "pages/Moonchild.wiki"
+  },
+  {
+    "title": "Mutant",
+    "pageid": 95,
+    "categories": [
+      "Outsiders",
+      "Sects & Violets"
+    ],
+    "file": "pages/Mutant.wiki"
+  },
+  {
+    "title": "Nightwatchman",
+    "pageid": 293,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Nightwatchman.wiki"
+  },
+  {
+    "title": "No Dashii",
+    "pageid": 105,
+    "categories": [
+      "Demons",
+      "Sects & Violets"
+    ],
+    "file": "pages/No Dashii.wiki"
+  },
+  {
+    "title": "Noble",
+    "pageid": 294,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Noble.wiki"
+  },
+  {
+    "title": "Ogre",
+    "pageid": 373,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Ogre.wiki"
+  },
+  {
+    "title": "Ojo",
+    "pageid": 353,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Ojo.wiki"
+  },
+  {
+    "title": "Oracle",
+    "pageid": 88,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Oracle.wiki"
+  },
+  {
+    "title": "Organ Grinder",
+    "pageid": 324,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Organ Grinder.wiki"
+  },
+  {
+    "title": "Pacifist",
+    "pageid": 145,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Pacifist.wiki"
+  },
+  {
+    "title": "Philosopher",
+    "pageid": 91,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Philosopher.wiki"
+  },
+  {
+    "title": "Pit-Hag",
+    "pageid": 102,
+    "categories": [
+      "Minions",
+      "Sects & Violets"
+    ],
+    "file": "pages/Pit-Hag.wiki"
+  },
+  {
+    "title": "Pixie",
+    "pageid": 295,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Pixie.wiki"
+  },
+  {
+    "title": "Plague Doctor",
+    "pageid": 347,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Plague Doctor.wiki"
+  },
+  {
+    "title": "Player Strategy",
+    "pageid": 194,
+    "categories": [],
+    "file": "pages/Player Strategy.wiki"
+  },
+  {
+    "title": "Po",
+    "pageid": 158,
+    "categories": [
+      "Bad Moon Rising",
+      "Demons"
+    ],
+    "file": "pages/Po.wiki"
+  },
+  {
+    "title": "Poisoner",
+    "pageid": 50,
+    "categories": [
+      "Minions",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Poisoner.wiki"
+  },
+  {
+    "title": "Politician",
+    "pageid": 302,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Politician.wiki"
+  },
+  {
+    "title": "Pope",
+    "pageid": 425,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Pope.wiki"
+  },
+  {
+    "title": "Poppy Grower",
+    "pageid": 296,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Poppy Grower.wiki"
+  },
+  {
+    "title": "Preacher",
+    "pageid": 297,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Preacher.wiki"
+  },
+  {
+    "title": "Princess",
+    "pageid": 408,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Princess.wiki"
+  },
+  {
+    "title": "Professor",
+    "pageid": 142,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Professor.wiki"
+  },
+  {
+    "title": "Psychopath",
+    "pageid": 311,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Psychopath.wiki"
+  },
+  {
+    "title": "Pukka",
+    "pageid": 156,
+    "categories": [
+      "Bad Moon Rising",
+      "Demons"
+    ],
+    "file": "pages/Pukka.wiki"
+  },
+  {
+    "title": "Puzzlemaster",
+    "pageid": 303,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Puzzlemaster.wiki"
+  },
+  {
+    "title": "Qutler",
+    "pageid": 434,
+    "categories": [
+      "Outsiders",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Qutler.wiki"
+  },
+  {
+    "title": "Ravenkeeper",
+    "pageid": 42,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Ravenkeeper.wiki"
+  },
+  {
+    "title": "Recluse",
+    "pageid": 48,
+    "categories": [
+      "Outsiders",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Recluse.wiki"
+  },
+  {
+    "title": "Revolutionary",
+    "pageid": 257,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Revolutionary.wiki"
+  },
+  {
+    "title": "Riot",
+    "pageid": 318,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Riot.wiki"
+  },
+  {
+    "title": "Rules Explanation",
+    "pageid": 326,
+    "categories": [],
+    "file": "pages/Rules Explanation.wiki"
+  },
+  {
+    "title": "Sage",
+    "pageid": 94,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Sage.wiki"
+  },
+  {
+    "title": "Sailor",
+    "pageid": 135,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Sailor.wiki"
+  },
+  {
+    "title": "Saint",
+    "pageid": 47,
+    "categories": [
+      "Outsiders",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Saint.wiki"
+  },
+  {
+    "title": "Savant",
+    "pageid": 89,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Savant.wiki"
+  },
+  {
+    "title": "Scapegoat",
+    "pageid": 176,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Scapegoat.wiki"
+  },
+  {
+    "title": "Scarlet Woman",
+    "pageid": 54,
+    "categories": [
+      "Minions",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Scarlet Woman.wiki"
+  },
+  {
+    "title": "Script Tool",
+    "pageid": 322,
+    "categories": [],
+    "file": "pages/Script Tool.wiki"
+  },
+  {
+    "title": "Seamstress",
+    "pageid": 90,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Seamstress.wiki"
+  },
+  {
+    "title": "Sects & Violets",
+    "pageid": 80,
+    "categories": [],
+    "file": "pages/Sects & Violets.wiki"
+  },
+  {
+    "title": "Sentinel",
+    "pageid": 262,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Sentinel.wiki"
+  },
+  {
+    "title": "Setup",
+    "pageid": 323,
+    "categories": [],
+    "file": "pages/Setup.wiki"
+  },
+  {
+    "title": "Shabaloth",
+    "pageid": 157,
+    "categories": [
+      "Bad Moon Rising",
+      "Demons"
+    ],
+    "file": "pages/Shabaloth.wiki"
+  },
+  {
+    "title": "Shugenja",
+    "pageid": 350,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Shugenja.wiki"
+  },
+  {
+    "title": "Slayer",
+    "pageid": 40,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Slayer.wiki"
+  },
+  {
+    "title": "Snake Charmer",
+    "pageid": 84,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Snake Charmer.wiki"
+  },
+  {
+    "title": "Snitch",
+    "pageid": 304,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Snitch.wiki"
+  },
+  {
+    "title": "Soldier",
+    "pageid": 41,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Soldier.wiki"
+  },
+  {
+    "title": "Spirit of Ivory",
+    "pageid": 388,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Spirit of Ivory.wiki"
+  },
+  {
+    "title": "Spy",
+    "pageid": 51,
+    "categories": [
+      "Minions",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Spy.wiki"
+  },
+  {
+    "title": "States",
+    "pageid": 319,
+    "categories": [],
+    "file": "pages/States.wiki"
+  },
+  {
+    "title": "Steward",
+    "pageid": 339,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Steward.wiki"
+  },
+  {
+    "title": "Storm Catcher",
+    "pageid": 265,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Storm Catcher.wiki"
+  },
+  {
+    "title": "Storyteller Advice",
+    "pageid": 193,
+    "categories": [],
+    "file": "pages/Storyteller Advice.wiki"
+  },
+  {
+    "title": "Summoner",
+    "pageid": 362,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Summoner.wiki"
+  },
+  {
+    "title": "Sweetheart",
+    "pageid": 96,
+    "categories": [
+      "Outsiders",
+      "Sects & Violets"
+    ],
+    "file": "pages/Sweetheart.wiki"
+  },
+  {
+    "title": "Tea Lady",
+    "pageid": 144,
+    "categories": [
+      "Bad Moon Rising",
+      "Townsfolk"
+    ],
+    "file": "pages/Tea Lady.wiki"
+  },
+  {
+    "title": "Teensyville",
+    "pageid": 321,
+    "categories": [],
+    "file": "pages/Teensyville.wiki"
+  },
+  {
+    "title": "Thief",
+    "pageid": 180,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Thief.wiki"
+  },
+  {
+    "title": "Tinker",
+    "pageid": 149,
+    "categories": [
+      "Bad Moon Rising",
+      "Outsiders"
+    ],
+    "file": "pages/Tinker.wiki"
+  },
+  {
+    "title": "Tor",
+    "pageid": 413,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Tor.wiki"
+  },
+  {
+    "title": "Town Crier",
+    "pageid": 87,
+    "categories": [
+      "Sects & Violets",
+      "Townsfolk"
+    ],
+    "file": "pages/Town Crier.wiki"
+  },
+  {
+    "title": "Toymaker",
+    "pageid": 259,
+    "categories": [
+      "Fabled"
+    ],
+    "file": "pages/Toymaker.wiki"
+  },
+  {
+    "title": "Travellers",
+    "pageid": 159,
+    "categories": [],
+    "file": "pages/Travellers.wiki"
+  },
+  {
+    "title": "Trouble Brewing",
+    "pageid": 2,
+    "categories": [],
+    "file": "pages/Trouble Brewing.wiki"
+  },
+  {
+    "title": "Undertaker",
+    "pageid": 38,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Undertaker.wiki"
+  },
+  {
+    "title": "Ventriloquist",
+    "pageid": 427,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Ventriloquist.wiki"
+  },
+  {
+    "title": "Vigormortis",
+    "pageid": 104,
+    "categories": [
+      "Demons",
+      "Sects & Violets"
+    ],
+    "file": "pages/Vigormortis.wiki"
+  },
+  {
+    "title": "Village Idiot",
+    "pageid": 359,
+    "categories": [
+      "Experimental Characters",
+      "Townsfolk"
+    ],
+    "file": "pages/Village Idiot.wiki"
+  },
+  {
+    "title": "Virgin",
+    "pageid": 43,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Virgin.wiki"
+  },
+  {
+    "title": "Vizier",
+    "pageid": 329,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Vizier.wiki"
+  },
+  {
+    "title": "Vortox",
+    "pageid": 106,
+    "categories": [
+      "Demons",
+      "Sects & Violets"
+    ],
+    "file": "pages/Vortox.wiki"
+  },
+  {
+    "title": "Voudon",
+    "pageid": 183,
+    "categories": [
+      "Travellers"
+    ],
+    "file": "pages/Voudon.wiki"
+  },
+  {
+    "title": "Washerwoman",
+    "pageid": 32,
+    "categories": [
+      "Townsfolk",
+      "Trouble Brewing"
+    ],
+    "file": "pages/Washerwoman.wiki"
+  },
+  {
+    "title": "Widow",
+    "pageid": 312,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Widow.wiki"
+  },
+  {
+    "title": "Witch",
+    "pageid": 100,
+    "categories": [
+      "Minions",
+      "Sects & Violets"
+    ],
+    "file": "pages/Witch.wiki"
+  },
+  {
+    "title": "Wizard",
+    "pageid": 401,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Wizard.wiki"
+  },
+  {
+    "title": "Wraith",
+    "pageid": 410,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Wraith.wiki"
+  },
+  {
+    "title": "Xaan",
+    "pageid": 399,
+    "categories": [
+      "Experimental Characters",
+      "Minions"
+    ],
+    "file": "pages/Xaan.wiki"
+  },
+  {
+    "title": "Yaggababble",
+    "pageid": 360,
+    "categories": [
+      "Demons",
+      "Experimental Characters"
+    ],
+    "file": "pages/Yaggababble.wiki"
+  },
+  {
+    "title": "Yes Dashii",
+    "pageid": 351,
+    "categories": [],
+    "file": "pages/Yes Dashii.wiki"
+  },
+  {
+    "title": "Zealot",
+    "pageid": 380,
+    "categories": [
+      "Experimental Characters",
+      "Outsiders"
+    ],
+    "file": "pages/Zealot.wiki"
+  },
+  {
+    "title": "Zenomancer",
+    "pageid": 421,
+    "categories": [
+      "Experimental Characters",
+      "Loric"
+    ],
+    "file": "pages/Zenomancer.wiki"
+  },
+  {
+    "title": "Zombuul",
+    "pageid": 155,
+    "categories": [
+      "Bad Moon Rising",
+      "Demons"
+    ],
+    "file": "pages/Zombuul.wiki"
+  }
+]

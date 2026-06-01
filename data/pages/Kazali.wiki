@@ -1,0 +1,159 @@
+__NOTOC__ 
+<div class="row"> 
+
+<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'> 
+
+<div id='character-details'> 
+
+[[File:icon_kazali.png|250px]] 
+
+<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span> 
+
+<table style="width: 90%; margin: 0 auto;"> 
+
+<tr> 
+
+<td>Type</td> 
+
+<td>[[Character Types #Demon|Demon]]</td> 
+
+</tr> 
+
+<tr> 
+
+<td>Artist</td> 
+
+<td>Lachlan Bastiaen</td>			 
+
+</tr> 
+				<tr>
+					<td>Revealed</td>
+					<td>28/12/2023</td>			
+				</tr>
+
+</table> 
+
+<p class='flavour'>"Gon(z)a7les6. Take cau8tun. The mech4an4ion is iNvert10d. E99ors insy6tum. Reco{7}fig."</p>	 
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>mf_sstZPvzI</youtube>	
+
+</div> 
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Bounty Hunter|bountyhunter|Good|If the Kazali turns the Bounty Hunter into a Minion, an evil Townsfolk is not created.}}
+{{Jinx|Marionette|marionette|Evil|If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor.}}
+{{Jinx|Summoner|summoner|Evil|If the Summoner creates a second living Demon, deaths tonight are arbitrary.}}
+			</table>
+
+		</div>
+
+</div> 
+
+<div class="small-12 large-9 large-pull-3 columns"> 
+
+<div class="row"> 
+
+<div class="small-12 large-6 columns"> 
+
+== Summary == 
+
+"Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]"
+
+The Kazali chooses their own Minions. 
+
+* If a Kazali is created mid game, the Kazali does not choose new Minion players. 
+* The Storyteller can give the Minions’ original good characters as bluffs to the Demon, since they are not in play. 
+* The Kazali acts at a time that is technically both during setup and during the first night. 
+* The Storyteller may keep the Kazali awake, or put the Kazali to sleep, when waking the Minions to tell them which Minion that they are. 
+* Only Minions that are on the script may be chosen. Duplicate Minion characters are not allowed.
+* The Kazali can make whatever player they want into a Minion, regardless of that player’s character ability e.g. Soldier, Goon, Damsel, King.		</div> 
+
+<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run == 
+
+While setting up the game, remove all Minion tokens and add Townsfolk or Outsider tokens. 
+
+During the first night, wake the Kazali. The Kazali points at a player and a Minion on the character sheet. Replace their old character token with the Minion token, show them the “You Are” info token then the Minion character token, and give a thumbs down. Repeat until the normal number of Minions exist. Put the Kazali to sleep. 
+
+Each night except the first, wake the Kazali. They point at any player. That player dies.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+
+Depending on the script, adding more than one Outsider can put the good team at a significant disadvantage. 
+
+</div> 
+
+</div> 
+
+</div> 
+
+<div class='row'> 
+
+<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples == 
+
+<div class='example'> 
+
+There are 15 players and no Minions in play yet. The Kazali wakes and chooses that Doug becomes the evil {{Evil|Organ Grinder}}, that Amy becomes the evil {{Evil|Vizier}}, and that Lewis becomes the evil {{Evil|Goblin}}. 
+
+</div> 
+
+</div> 
+
+</div> 
+
+<div class='row'> 
+
+<div class="small-12 large-12 columns" style="padding-right: 0;"> 
+
+== Tips & Tricks == 
+
+*  Choose the players who you have the best synergy with as evil. This is your opportunity to put together that evil team that always kick ass and who can help you roll all these poor unsuspecting good players. 
+
+* If in doubt, choose the players you’re afraid of when you’re evil and they’re good. If you can’t beat ‘em, make them join you! 
+
+* Choose players who aren’t the top picks for a Kazali. If the picks seem very odd, it’s more likely that town will believe the Minions were drawn from the bag and won’t be looking for you as a Kazali. 
+
+* Ignore the “best strategy” and pick whoever seems most fun! At the end of the day, this game is for fun and if there are people that you always have an absolute blast on a team with, pick them, get them on board and go have an absolute riot together! 
+
+* Choose Minions that fit together well. An {{Evil|Organ Grinder}} can have great synergy with a {{Evil|Goblin}} or {{Evil|Boomdandy}}, a {{Evil|Pit-Hag}} loves having a {{Evil|Widow}} to call shots for them – put the best possible squad together. 
+
+* Choose Minions that will allow you to bluff another Demon being in play. Maybe you want to fly under the radar a little, so it might be worth picking that {{Evil|Assassin}} to throw suspicion of a Demon that kills more often, or a {{Evil|Devil's Advocate}} to make people worry about a {{Evil|Lleech}}. 
+
+* Give your chosen players the characters that best suit their playstyle. Not only do you get to choose which players are on your team, you also get to assign them characters! So take advantage and give your new Minions the characters that they love to play and can get the most out of. 
+
+</div> 
+
+</div> 
+
+<div class='row'> 
+
+<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Kazali == 
+
+* Don’t expect to find Minions without bluffs, there won’t be any! One of the idiosyncrasies of the Kazali is that all the Minions start knowing a good character that’s out of play, so they will have a free bluff ready to go from the start of the game and you won’t be able to catch anyone out accordingly. 
+
+* However, that can be a tell too! If everyone seems happy and willing to claim characters early on, maybe there’s a Kazali in play that has ensured the whole evil team has bluffs to use. 
+
+* Check the Outsider count. Because the Kazali can affect the Outsider count unpredictably, it’s not always a sign, but it could be, especially if you’ve got information indicating that there should be nothing else affecting the Outsider count and you have an incorrect number of Outsiders anyway. 
+
+* If you think you’ve found a Minion, ask yourself who would choose that player and who else they would choose. Put yourself in the shoes of each player around the circle and ask yourself if the Minion you’ve found would be a likely ally choice for that player. If yes, does that player make sense to be the Demon with the info you’ve found and can you corroborate this by thinking about who else they might have chosen as their Minions? 
+
+</div> 
+
+</div> 
+
+</div> 
+
+[[Category:Experimental Characters]] 
+
+[[Category:Demons]]

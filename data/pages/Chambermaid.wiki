@@ -1,0 +1,137 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_chambermaid.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I aint seen nothin' untoward, Milady. Begging your pardon, but if I did see somethin', it certainly weren't the master o' the house sneaking into the professor's laboratory 'round eleven o'clock and mixing up fancy potions, just like you said, Miss."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/55622605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-2%2F279065534-44100-2-033d8a51b9181.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Mathematician|mathematician|Good|The Chambermaid can detect if the Mathematician will wake tonight.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability."
+
+The Chambermaid learns who woke up at night.
+* Each night, the Chambermaid chooses two players and learns if they woke tonight. They must choose alive players, and may not choose themself. This does not detect which of those players woke, only how many.
+* This ability only detects characters who woke in order to use their ability. It does not detect characters who woke for any other reason—such as if the Storyteller woke a Minion to let them know who the Demon is, woke the Demon to give them their starting Demon info, woke a player due to the ability of a different character, or woke someone accidentally.
+* If the character woke on a previous night but not this night, they are not detected by the Chambermaid.
+* Players that woke tonight due to their ability but are drunk or poisoned still count as having woke tonight.
+* If the Chambermaid chooses a dead player accidentally, the Storyteller prompts them to choose again.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night, wake the Chambermaid. They point at any two alive players except themself. Show the Chambermaid fingers (''0, 1, or 2'') equaling the number of chosen characters who woke tonight. Put the Chambermaid to sleep.
+
+Do not wake the Chambermaid if there are not two players alive to be chosen (''due to the Mastermind, Zombuul, etc.'').
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Chambermaid chooses the {{Good|Exorcist}} and the {{Good|Innkeeper}}, and learns a "2." The next night, the {{Good|Exorcist}} chooses the {{Evil|Shabaloth}}, which will wake the {{Evil|Shabaloth}}. Later, Chambermaid chooses the {{Evil|Shabaloth}} and the {{Good|Fool}}. Since the {{Evil|Shabaloth}} only woke due to the {{Good|Exorcist}} ability, the Chambermaid learns a "0".
+			</div>
+
+			<div class='example'>
+				It is the second night. The Chambermaid chooses the {{Good|Grandmother}} and the evil {{Good|Goon}}, and learns a "2." Only the {{Good|Goon}} will wake tonight, but the Chambermaid is drunk.
+			</div>
+
+			<div class='example'>
+				It is the first night. The Chambermaid chooses the {{Evil|Assassin}} and the {{Good|Moonchild}}, and learns a "0" because the {{Evil|Assassin}} does not wake to use their ability on the first night. The next night, they choose the {{Evil|Assassin}} and the {{Good|Gossip}}. The {{Evil|Assassin}} woke but did not use their ability. The {{Good|Gossip}} ability is used, but the {{Good|Gossip}} does not wake to use it. The Chambermaid learns a "1".
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Your ability does not outright detect evil players - it detects players who are lying about their character ability. This can catch out players who are good AND evil, since many good players have a reason to be dishonest about their character... at least initially. If you catch someone out in a lie, see what they have to say for themselves. Good players will usually come clean about their real character, while evil players will have to choose between picking a second bluff to match your information or doubling down on their claim.
+
+* Pick players to verify their claims. If someone is claiming to be the {{Good|Gambler}}, they'll wake up every night - check them and see if they're being honest. As another example, someone claiming to be a {{Good|Courtier}} will only wake up each night until they've used their ability - if they're claiming to have used their ability, you can check to see if that's true by seeing if they wake up the next night!
+
+* Early in the game, you can tell players what you know about them before they have revealed their character. This helps them to trust you.
+
+* Pick the same players a couple of nights in a row. Some characters don't act consistently every night. For example, an {{Evil|Assassin}} claiming to be an {{Good|Innkeeper}} could wake up one night when you check them, appearing to be legitimate. However once they have killed, they do not wake up again, meaning that checking them for a second night will give them away as being dishonest.
+
+* Find a player with an ability that doesn't act at night (like the {{Good|Fool}} or {{Good|Minstrel}} - if you trust this player, you can use them as base for checking a single person thoroughly. Since the {{Good|Fool}} or {{Good|Minstrel}} will always give you a 0, you know that any read of 1 must be coming from the other player that you select. This method is slower and garners you less information about the entire town overall in favor of getting a narrow and accurate focus on one player.
+
+* Pick as many players as you can, casting a wide net and getting a good amount of information on the entire town. Death can come at any time in Bad Moon Rising, and broad information will give you a lot of options to work with when comparing to other players and their information/claims.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Chambermaid ==
+
+When bluffing as the Chambermaid, there are a few things you should keep in mind:
+
+* If you learn which good players are which characters, you can claim to have chosen them, and give correct information about their night time activities. This makes them look trustworthy, and makes you look trustworthy too.
+
+* If you don't know which good players are which characters, you can throw caution to the wind, and give information that doesn't match their night time activities. For example, if you claim to have chosen players who are saying that they are the {{Good|Exorcist}} and the {{Good|Innkeeper}}, but you say that only one of them woke, it is likely that the good team will distrust the Townsfolk before they distrust you.
+
+* Confirm evil players, to help your team look trustworthy. You can either listen to which bluffs your team mates are making, and then give information that matches those bluffs, or you can give information (and maybe a wink, for the slow-on-the-uptake teammate) and hope that your fellow evil players realize that they should bluff as characters that match your Chambermaid information.
+
+* If you don't know who is who, telling the group that you received a 1 is safer than a 0 or a 2. If you give a 0, and one of your chosen players actually woke up, they know you are lying. If you give a 2, and either player didn't wake up, they know that you are lying. But, if you give a 1, then whether or not a player woke, they won't know whether you are lying, or if you are the Chambermaid and the other player you chose is lying.
+
+* If you are a good player, bluffing as the Chambermaid can be good way to intimidate a player into telling the truth about their character. If you suspect that they are lying (or they haven't said anything at all), you can claim to know whether they have woken up at night, which might prompt them into changing their character bluff (if evil), or revealing who they really are (if good). The Chambermaid is fairly unique in this ability to detect whether people are lying, without detecting whether they are good or evil.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

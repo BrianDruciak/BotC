@@ -1,0 +1,141 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_huntsman.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>15/07/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>GD9nurStvzM</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Marionette|marionette|Evil|If the Marionette thinks that they are the Huntsman, the Damsel was added during setup.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]"
+
+The Huntsman saves the {{Good|Damsel}} before the Minions find her... hopefully.
+* The Damsel can be in play without the Huntsman. During the setup phase, if the Huntsman is in play and the Damsel isn’t, the Damsel is added. If a Damsel is already in play, the Huntsman doesn’t add a second Damsel.
+* If the Huntsman correctly chooses the Damsel at night, the Damsel becomes a not-in-play Townsfolk immediately. The Storyteller chooses which Townsfolk character, and the Damsel learns which one.
+* When the Damsel becomes a Townsfolk, they gain that Townsfolk ability and lose the Damsel ability.
+* The Huntsman gets one guess, and makes it at night.
+* The Minions get one guess in total, and make it publicly during the day. If a Minion guesses who the Damsel is, evil wins. If a Minion incorrectly guesses who the Damsel is, the guess is used, and other Minions cannot win by correctly guessing the Damsel.
+* If the Damsel is drunk or poisoned but the Huntsman is sober and healthy, the Damsel can still become a Townsfolk.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While setting up the game, before putting character tokens in
+the bag, if the Damsel is not already in play, remove a Townsfolk
+character token and add the Damsel character token.
+
+Each night, wake the Huntsman.
+
+If they shake their head no, put the Huntsman to sleep.
+
+If they point to a player, put the Huntsman to sleep. '''The Huntsman loses their ability'''—mark them with the '''NO ABILITY''' reminder and remove their night token from the night sheet. If they chose the Damsel, wake the Damsel, show the '''YOU ARE''' info token, then a not-in-play Townsfolk token, then put the Damsel to sleep. The Damsel now has this Townsfolk ability, so replace the Damsel character token with this Townsfolk character token.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Huntsman is woken on the 1st night, but does not use their ability. On the second night, the Huntsman chooses the {{Good|Damsel}} player. The {{Good|Damsel}} becomes the {{Good|Undertaker}} and learns which player died today.
+			</div>
+
+			<div class='example'>
+				The Huntsman chooses Lachlan. Lachlan is the {{Good|General}}, so nothing happens. The Huntsman is no longer woken at night. 
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Find the {{Good|Damsel}} ASAP. You have one shot and you’re racing against either you or them dying before you can find them! This can be more important in smaller games as the chances of either player dying early is higher, but also your chances of being correct with a blind pick is higher. On the first night of a small game, you're often better off just taking a punt tonight rather than gambling you both survive to tomorrow ''and'' the {{Good|Damsel}} gets an ability they can use that night.
+
+* Wait to use your ability until you're really sure. You only have one opportunity to get it right and there is a lot of fun to be had during the hunting. Try to partner up with characters that can learn about characters like {{Good|Dreamer}}. Even the {{Good|Undertaker}} can be great for you as confirming that the {{Good|Damsel}} is dead verifies that fact for you and lets you know you're no longer on your Damsel-hunting sidequest but onto the main Demon-hunting campaign!
+
+* The {{Good|Damsel}} is likely to be flighty and paranoid, and may even be trying to get themselves killed. Use your ability on people who seem shifty or quiet as they might be a {{Good|Damsel}}. If a player seems to be keen to volunteer themselves for execution, privately ask them if they'd like you to guess them as the {{Good|Damsel}} that night. Be careful though, this might just be an evil player trying to bait you into wasting your ability.  
+
+* Privately claim to be the {{Good|Damsel}} to other players. This can be useful to flush out the {{Good|Damsel}} and the various Minions. Characters that can prove who they are, like the {{Good|Virgin}} or {{Good|Golem}}, can be great to give you a trusted person to arrange a private meeting as both you and the {{Good|Damsel}} can freely claim your respective characters to this confirmed player.
+
+* Stay alive at any cost. You can claim you've used your ability already, or that you’ve already found your {{Good|Damsel}}, meaning you’re no longer a threat to evil. Watch what happens if you publicly claim a random person as your {{Good|Damsel}}. However, be careful as the {{Good|Damsel}} might decide they are now a risk with no potential reward if you're claiming to have used your ability and try to get themselves killed. 
+
+* Try to flush out the Minions or lure them into a trap to make a public guess. Go around to various shady people claiming to be the {{Good|Damsel}} or ask a trusted good player to accidentally let slip there's a Damsel in play to someone you're not sure of just after they've spoken to you. If the Minions are baited into spending their guess on you (or anyone who isn't the {{Good|Damsel}} for that matter!), they can't hurt your real {{Good|Damsel}} anymore. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Huntsman ==
+
+When bluffing as the Huntsman, there are a few things you should keep in mind:
+
+* If you were the Huntsman, a {{Good|Damsel}} would also be in play. At some stage, another evil player is going to need to claim to be the {{Good|Damsel}}, otherwise you are going to look pretty dodgy. Another evil player can come out as the {{Good|Damsel}} after they die. If you claim to be the Huntsman, and another evil player is claiming to be the {{Good|Damsel}}, that's much more trustworthy than having a lonely Huntsman looking suspicious.
+
+* Pretending to be the Huntsman might flush out a real {{Good|Damsel}}. If you are convincing enough in your "search for the {{Good|Damsel}}" and manage to trick the real {{Good|Damsel}} into revealing who they are, a Minion can guess who the {{Good|Damsel}} is and win the game. 
+
+* The Huntsman can be a useful fallback bluff if your initial bluff falls apart, because the Huntsman is a good character that has reasons not to come out early. If you’re claiming to be the {{Good|Washerwoman}} or the {{Good|Virgin}} and your bluff falls apart, you can then come out as the Huntsman saying you were trying to hide your real character.  
+
+* If you’re a Minion, you know if the {{Good|Damsel}} is in play or not, and if not, you therefore know the Huntsman is also not in play. It’s then relatively safe for two evil players to tag-team as a Huntsman/{{Good|Damsel}} duo. The only risk is if you tag-team like this, then it’s expected that {{Good|Damsel}} has become an out-of-play Townsfolk. Chat to the Demon to find out one of their bluffs for the {{Good|Damsel}} to become. Alternatively, you can be the Huntsman and claim that a dead Minion is the {{Good|Damsel}} to make them seem more trustworthy.
+
+* Claim to be the Huntsman even if this creates a double up. If there is no other Huntsman the {{Good|Damsel}} is more likely to trust you. If there is another Huntsman you’re going to create a dilemma and give the {{Good|Damsel}} terrible anxiety so they won't want to claim to either of you and potentially just get themselves executed rather than risking one of you being able to pick them successfully, thereby spending another execution that isn't on your Demon and also neutralising the useful potential of the actual Huntsman ability.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

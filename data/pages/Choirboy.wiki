@@ -1,0 +1,118 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_choirboy.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>29/04/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I saw it, I did. I was in the pews, tidying the hymn books, when a dreadful tune started from the pipe organ. The organist had a long cloak, and long fingers on the keys. And a hat that looked… just like… yours."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>rBTs8WsYArw</youtube>
+
+		</div>
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"If the Demon kills the King, you learn which player is the Demon. [+the King]"
+
+The Choirboy learns who the Demon is when the King is slain.
+* The King can be in play without the Choirboy. During the setup phase, if the Choirboy is in play and the King isn’t, the King is added. If a King is already in play, the Choirboy doesn’t add a second King.
+* If the Demon kills the King using their ability, the Choirboy learns which player is the Demon. The Demon nominating and executing the King doesn’t count. Minions that kill the King, such as the Assassin, don’t count either.
+* If the Demon attacks the King but doesn’t kill the King, the Choirboy doesn’t learn who the Demon is.
+* The Choirboy learns which player the Demon is, but does not learn which character.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While setting up the game, before putting character tokens in the bag, if the King is not already in play, remove a Townsfolk character token and add the King character token.
+
+Each night except the first, if the Demon kills the King, put the Demon to sleep then wake the Choirboy. Point to the Demon player then put the Choirboy to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Imp}} attacks the {{Good|Empath}}. The {{Good|Empath}} dies. The next night, the {{Evil|Imp}} attacks the {{Good|King}}, who is protected by the {{Good|Monk}}. The {{Good|King}} lives. The next night, the {{Evil|Imp}} attacks the {{Good|King}}, who is no longer protected by the {{Good|Monk}}. The {{Good|King}} dies. The Choirboy is woken by the Storyteller and learns which player is the {{Evil|Imp}}.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Shabaloth}} kills the {{Good|King}}. The drunk Choirboy wakes and wrongly learns that the {{Good|General}} is the Demon.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Choirboy is an ambush for the Demon. Not knowing whether you’re in the game or not is going to make the Demon act much more cautiously around the {{Good|King}}. The Demon however has a dilemma, if they let the {{Good|King}} stay alive for too long, then they are going to get really good information at a crucial moment in the game. Try to survive as long as you can to keep the pressure on the Demon.
+
+* If you die, don’t reveal this publicly, because just the threat of you being alive can be enough. You can take your secret with you to the grave. If there are characters like the {{Good|Undertaker}} or {{Good|Dreamer}} that learn who you are, it can be good to chat with them and get them to lie about your character. Remember the threat of a living Choirboy is almost as good as an alive Choirboy.
+
+* If the {{Good|King}} reveals themselves, try to visit them discreetly when you can. If you’re too obvious in trying to seek out the {{Good|King}}, this might signal to the Demon that you’re the Choirboy.  Maybe find a player you trust, and have them speak to the {{Good|King}} on your behalf. Even if they don't reveal who you are to the {{Good|King}}, you're letting them know that a Choirboy is in play, and this might let them act more safely.
+
+* If no one comes out as the {{Good|King}}, you know that there should still be one in play. For some reason they’re not coming out. At this point, only you and the Demon knows for certain that there is a {{Good|King}} in play, but the Demon has the advantage of knowing who they are, and might be quite confused about why they’re not coming out. 
+
+* Character swap with another player and let them claim to be the Choirboy. If the Demon kills the fake Choirboy and then kills the {{Good|King}}, you learn who the Demon is. Of course, if the other player is too obvious with their claim, the Demon might not believe them. However, the uncertainty it creates might help keep the {{Good|King}} alive anyway.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Choirboy ==
+
+When bluffing as the Choirboy, there are a few things you should keep in mind:
+
+* The Demon will know if there is a {{Good|King}} in play or not. If there is no {{Good|King}}, a Choirboy bluff will need to partner up with another evil player who pretends to be the {{Good|King}}. If the Demon or another evil player leads with a {{Good|King}} bluff, support their bluff by letting a few people know you’re the Choirboy.
+
+* If there is a {{Good|King}} in play, pretend you are a Choirboy to the {{Good|King}}. This might help you discover whether there is a real Choirboy or not, which is useful information to the Demon. If the {{Good|King}} does not reveal there is a double up, then the {{Good|King}} is safe to kill and even better you can feed the game with a false Demon claim. However, if there is a double up, you might help flush out the real Choirboy and make the players doubt their information.
+
+* Bluffing as the Choirboy can come to a head if the {{Good|King}} (real or fake) is killed by the Demon. Because when this happens, the town will expect you to come out with a Demon accusation. This bluff will probably fall apart when that player is executed and the game doesn’t immediately end. You might be fine if there are Minions like the {{Evil|Scarlet Woman}} on the script. 
+
+* If there are means of death by night that are not the Demon, such as the {{Evil|Assassin}} or the {{Good|Lycanthrope}}, if the {{Good|King}} (fake or not) dies during the night, you can always claim that you learned nothing, which suggests the {{Good|King}} died by one of them instead. This can be tricky if there should be an additional death which does not happen (like the {{Evil|Assassin}}). 
+
+* Be careful if you actually double up with a Choirboy - for if the {{Good|King}} is killed by the Demon while the real Choirboy is alive, you will have to accuse someone of being the Demon. If this happens too early, it’s only a matter of time before the players execute the real Demon as their choices are reduced down to two players. 
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

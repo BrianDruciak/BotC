@@ -1,0 +1,146 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_soldier.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"As David said to Goliath, as Theseus said to the Minotaur, as Arjuna said to Bhagadatta... No."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/10584750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-24%2F52034074-44100-2-91d0b8547cab8.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|If the Leviathan nominates and executes the Soldier, good wins.}}
+{{Jinx|Riot|riot|Evil|If Riot nominates and executes the Soldier, good wins.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You are safe from the Demon."
+
+The Soldier can not be killed by the Demon.
+* The Soldier cannot die from the Demon's ability. So, if the Imp attacks the Soldier at night, nothing happens. Nobody dies. The Imp does not get to choose another player to attack instead.
+* The Soldier can still die by execution, even if the nominator was the Demon. The Soldier is protected from the Demon's ability to kill, not the actions of the Demon player.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+During the night, if the Demon attacks the Soldier, the Soldier remains alive. (At dawn, declare that no one died at night.)
+
+In other editions, Demons may have abilities other than killing. The Soldier is also protected from all other harmful effects of the Demon's ability, such as poisoning or turning the Soldier evil.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Imp}} attacks the Soldier. The Soldier does not die, so nobody dies that night.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Poisoner}} poisons the Soldier, then the {{Evil|Imp}} attacks the Soldier. The Soldier dies, since they have no ability.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Imp}} attacks the Soldier. The Soldier dies, because they are actually the {{Good|Drunk}}.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* If the Demon attacks you, nobody dies this night. This has two benefits. Firstly, since no good player has died at night, there are more players alive than there ought to have been, allowing the good team more time to execute. Secondly, no death of a night time supports your claim that you are indeed the Soldier.
+
+* You will never know for sure that your ability has worked. If you wake up to no deaths, perhaps there is a {{Good|Monk}} in play, or the {{Evil|Imp}} decided to take a night off terrorising the living and attack someone's already dead corpse. Both of those look identical to the Demon attacking you in the night.
+
+* Consider bluffing as a juicy Demon target, such as the {{Good|Fortune Teller}}, {{Good|Undertaker}}, {{Good|Empath}} or {{Good|Slayer}}, to attract a Demon attack.
+
+* If you can prove that you are the Soldier, then the good team has an enormous advantage on the final day. Instead of good choosing between three (or four) players to execute, they will be choosing between two (or three). Getting an  {{Good|Empath}} or {{Good|Fortune Teller}} to confirm you as not the Demon can be very helpful.
+
+* A clever Demon will not attack you again after the first time unless they think they can kill you. If you can convince the Demon that a {{Good|Monk}} protected you, the Demon might try to attack you again.
+
+* If there are no deaths at night, don't immediately claim to be the Soldier! Perhaps the Demon attacked another player protected by the {{Good|Monk}} and has no idea you were ever protected.
+
+* If you are unsure whether they are good or evil, allow powerful information characters to bluff as your role. This way, the Demon is more likely to attack you, and less likely to attack them. You can even talk with these players secretly, and agree to publicly claim to be each others' characters - they stay safe, whilst you reveal their information to the group..
+
+* If you die at night, you were either poisoned by the {{Evil|Poisoner}} , or you are the {{Good|Drunk}}. This is big information, and very helpful for the group to know. If you were poisoned, then a {{Evil|Poisoner}} is still alive (and in a one Minion game, you now know which Minion is in play!), which also gives you information about the alignment of the dead players. If you are the {{Good|Drunk}}, then nobody else can be the {{Good|Drunk}}. Either way, you learn something useful.
+
+* Tell the group you are the Soldier at some stage during the game. After all, good will need as much information as they can get at their disposal.
+
+* If you have told nobody that you are the Soldier, you are still alive on the final day, and a death has occurred every night so far, then it is probable that a {{Evil|Spy}} is in play and telling the Demon who to attack. If you notice this happening, pay attention to who is whispering to who.
+
+* If you never tell anyone who you are, your role can combo in a very risky way with the {{Good|Mayor}}. You might be more confident to execute nobody in final three than anyone else in your position. Even if the {{Evil|Imp}} is pretending to be the {{Good|Mayor}}, and you execute no one, evil hasn't won yet! The Demon still has to kill either you or the other surviving player, and just maybe they'll guess wrong, and you will wake to a second day with just three players alive.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Soldier ==
+
+When bluffing as the Soldier, there's a few things you should keep in mind:
+
+* The Soldier never wakes, and never acts during the day. You would receive no indication that you were ever attacked. You have no information at all to keep track of.
+
+* The Soldier is an easy bluff, as you don't give any information and your alleged ability explains your longevity as the game goes on. This does not mean you should rest on your laurels though; ''because'' you have no information, people may eventually become suspicious of you as the options narrow. A Soldier who is trying to help good (by bluffing as a juicy target like the {{Good|Fortune Teller}} for the Demon to kill, for example) can carry more favor than a Soldier sitting quietly.
+
+* Staying quiet and trying not to draw attention to yourself is the mark of a powerful character... or a Soldier trying to draw the attention of a Demon. Sitting quietly and acting cagey about your ability for a few days makes it look like you are genuinely trying to get targeted.
+
+* You (or your Demon) can choose to kill an already dead player at night. This will give the illusion that no death actually occurred, allowing you to claim that you were targeted instead.
+
+* Because it cannot die at night, information characters often can and will bluff as the Soldier. You can gain the trust of a player doing this by "revealing" yourself as the true Soldier, and offering to swap characters with them in order to keep them alive longer while making yourself more of a target. (Bonus: If you have a {{Evil|Poisoner}} in play, keep this player alive while completely undermining their ability!) 
+
+* The Soldier cannot die at night (unless poisoned or actually the {{Good|Drunk}}). If you die, you'd best have a good explanation ready for why that happened!
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Townsfolk]]

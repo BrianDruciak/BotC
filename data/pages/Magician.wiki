@@ -1,0 +1,144 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_magician.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>03/06/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour' style="font-size: 15px">"1... 2... Abra... 3... 4... Cadabra... *poof!*<br>
+                And, as you can see, ladies and gentlemen, Captain Farnsworth’s bag of gold has disappeared! Gone! Without a trace! Thank you, and goodnight!"</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>tA1Kv1322f0</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Legion|legion|Evil|The Magician wakes with Legion and might register as evil. Legion knows if a Magician is in play, but not which player it is.}}
+{{Jinx|Lil' Monsta|lilmonsta|Evil|If the Magician is alive, the Storyteller chooses which Minion babysits Lil' Monsta. }}
+{{Jinx|Marionette|marionette|Evil|If the Magician is alive, the Demon doesn't know which neighbor is the Marionette.}}
+{{Jinx|Spy|spy|Evil|When the Spy sees the Grimoire, the Demon and Magician's character tokens are removed.}}
+{{Jinx|Vizier|vizier|Evil|If the Vizier is in play, the Magician has no ability but is immune to the Vizier's ability.}}
+{{Jinx|Widow|widow|Evil|When the Widow sees the Grimoire, the Demon and Magician's character tokens are removed.}}
+{{Jinx|Wraith|wraith|Evil|After each execution, the living Magician may publicly guess a living player as the Wraith. If correct, the Demon must choose the Wraith tonight.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"The Demon thinks you are a Minion. Minions think you are a Demon."
+
+The Magician confuses the evil players about who is evil and who isn’t.
+* On the first night, instead of learning which player is the Demon, the Minions are told that both players—the Demon and the Magician—are the Demon.
+* On the first night, the Demon learns that the Magician player is one of its Minions.
+* The Magician does not wake to learn anything.
+* The Storyteller can point to the Magician and the evil players in any order, so that the evil players won’t know which player is the Magician.
+* If the Poppy Grower dies and the Demon and Minions learn who each other are mid-game, the Magician ability has an effect that night, just as if it was the first night.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+During the first night, wake the Minions. Show them the '''THIS IS THE DEMON''' info token, then point to the Demon and the Magician. Put the Minions to sleep.
+
+During the first night, wake the Demon. Show the '''THESE ARE YOUR MINIONS''' info token, then point to all Minions and the Magician. Show the '''THESE CHARACTERS ARE NOT IN PLAY''' info token and three character tokens. Put the Demon to sleep. 
+
+Do this instead of the normal Minion Info and Demon Info steps.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Minions wake to learn that either the {{Evil|Leviathan}} player or the Magician player is the Demon. The {{Evil|Leviathan}} player learns that the {{Evil|Fearmonger}} player, the {{Evil|Assassin}} player, and the Magician player are the Minions.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Look as evil as you can. Make poor decisions on who to nominate. Vote haphazardly. Say that trustworthy players are untrustworthy, or vice versa. The evil players think that you might be evil, so if you act more evil than the others, they may believe that you are the evil player, and the Magician is elsewhere. 
+
+* Evil players that believe that you are evil will tend to keep you alive. The Minions think that you might be the Demon. If you are nominated, pay attention to who doesn't vote for you, or who seems afraid to vote for you. You may have found some Minions. 
+
+* Choose a different character to bluff as, or stay silent about who you are for as long as possible. If the evil team learns that you are the Magician, the Minions will learn who the real Demon is and the Demon will learn who the real Minions are - this won't end the game, but it would mean that your ability no longer causes any disruption to the evil team. 
+
+* If you can find a confirmed good player, such as the {{Good|Virgin}} or the {{Good|Slayer}}, or an almost confirmed good player, such as the only Outsider in a one-Outsider game, tell them that you are the Magician. You need to stay alive as long as possible, and having at least one good player (plus several evil players) who don't want to execute you will help this.
+
+* Stay alive as long as possible. Don't get executed. The Demon probably won't kill you at night, because they think that you are a Minion, so staying alive is up to you and the good team. The longer you are alive, the more your ability has an effect.
+
+* When you think that the jig is up, that the evil team have figured out that you are the Magician, tell the whole group who you are. Like the {{Good|Lunatic}}, it is not expected that the ruse will last for the entire game. If the evil team knows who you are, you've got nothing to lose by revealing yourself. 
+
+* Watch people's body language and eye contact. Listen to hints and subtext in people's words. It is likely that the Minions (and possibly the Demon) will approach you to make eye contact with a "knowing look" or a hint that they think you are evil. The evil team will be trying to figure out who each other are, and you are a candidate. If someone gives you a knowing look, or winks, wink back. If someone approaches you and you find the conversation to be unusual or confusing, hinting that you are evil to them without actually saying it, may go someway towards convincing them that you are evil. 
+
+* The ideal goal of the Magician is to trick the evil players into believing that the Magician is in fact evil, and telling the Magician who the other evil players are. The more realistic goal of the Magician is to confuse the evil team for long enough so that they accidentally kill each other, or at least take a few days to be able to begin coordinating. If you are the Magician, you won't get a lot of feedback as to whether your plan is working or not. Be patient, hope for the best, and don't get too distraught if you feel like you are not having an effect - you probably are. 
+
+* If you die at night, the Demon has either figured out that you are the Magician, or has deliberately killed a player that they thought could be a Minion. If this happens, pay attention to who died the previous night, and the subsequent night. The Demon may be killing all of the possible Minions, just to find out who is who. Once you are dead, the Minions will know you are not the Demon, but the Demon won't know that you are not a Minion. If you die, pay attention to which players talk together in private - they may be Minions telling the Demon that they know who the evil players are now.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Magician ==
+
+When bluffing as the Magician, there are a few things you should keep in mind:
+
+* If you are an evil character bluffing as a character that is bluffing that they are evil, then you are going to have your work cut out for you. The real Magician wouldn't say that they are the Magician early in the game, so either bluff as a different character first, or stay silent about being the Magician for a while. You'll need to look shady to some degree for at least a day or two. 
+
+* The big decision for bluffing as the Magician is choosing when and how to come out as the Magician. Telling everyone that you are the Magician only when nominated might work, but it is risky. Telling everyone that you are Magician after some weird event - like a mistrusted player dying at night, or all players voting for a trusted player, or some grand new piece of information from another player - is the best point. If you can craft a story as to why now is the best time to come out to the group as the Magician, and incorporate this new event, that makes sense. 
+
+* Come out as the Magician late in the game. Your excuse can be "the evil team probably knows that I am the Magician by now". 
+
+* Deliberately choosing to bluff as a particular character, deliberately making your information suspicious and making yourself look evil, then coming out as the Magician, is one strategy. It is easier to keep the Magician bluff as a backup bluff, just in case your original bluff fails, but to bluff that original character as well as possible. Even bluffing two or three characters, seeing if any of them work, and keeping the Magician as a backup bluff could work. Magician are tricksy. 
+
+* If you are a Minion and you know that a Magician is in play, if you publicly bluff as the Magician, the real Magician may also reveal themselves. If the evil team knowing which player is the Demon is worth a the good team executing one Minion player and the Magician (and the Magician knowing for certain that you are evil), then you may want to try this. 
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

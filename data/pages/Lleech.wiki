@@ -1,0 +1,156 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_lleech.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>17/06/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Tasty, tasty, tasty, tasty, tasty, tasty, tasty, tasty brai- I mean pie! Yes. Tasty pie. That’s what I meant to say."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>iH2iTJpYt6s</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Heretic|heretic|Good|Only 1 jinxed character can be in play.}}
+{{Jinx|Mastermind|mastermind|Evil|If the Mastermind is alive and the Lleech host dies by execution, the Lleech lives but loses their ability.}}
+{{Jinx|Slayer|slayer|Good|If the Slayer slays the Lleech host, the host dies.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player: they die. You start by choosing a player: they are poisoned. You die if & only if they are dead." 
+
+The Lleech lives if their host lives, and dies if their host dies.
+* On the first night, the Lleech chooses a player, who is poisoned for the rest of the game.
+* If this player is alive, the Lleech cannot die. If the Lleech is executed, the Storyteller tells the group that the player lives, but not why.
+* If the player that the Lleech chose dies, the Lleech dies as well. If this means that only one or two players are left alive, good still wins, because the Demon is dead.
+* From the second night onwards, players that the Lleech attacks die but are not poisoned.
+* If a Lleech is created mid-game, they poison a player that night. They must choose an alive player.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+During the first night, wake the Lleech. They point at any player. That player is '''poisoned'''—mark them with the '''POISONED''' reminder. Put the Lleech to sleep.
+
+Each night except the first, wake the Lleech. They point at any player. That player '''dies'''—mark them with the '''DEAD''' reminder. Put the Lleech to sleep.
+
+If the Lleech would die but the player marked with the Lleech’s '''POISONED''' reminder is alive, the Lleech does not die. If the player marked with the Lleech’s '''POISONED''' reminder '''is dead''', the Lleech '''dies''' and the good team wins.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+When giving false information to a good player poisoned by the Lleech, make sure this information seems true. If the good player believes it to be false, they will quickly execute themselves and win the game.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Lleech poisons the {{Good|Noble}}. The {{Good|Noble}} learns false information. The Lleech is executed, but does not die. The next day, the {{Good|Noble}} is executed. The {{Good|Noble}} and the Lleech die. Good wins.
+			</div>
+
+			<div class='example'>
+				The Lleech poisons the {{Good|Farmer}}. The Lleech is made drunk by the {{Good|Courtier}}. The poisoned {{Good|Farmer}} dies, and the game continues because the Lleech is also drunk. The drunk Lleech is executed and dies, and good wins.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Communicate with your Minions as early as possible, and tell them who you have poisoned. The whole evil team will need to collaborate well from the very beginning to keep this player alive. Let's say you turn the {{Good|Preacher}} into your host, poisoning them. Not only can you ignore them as a threat, since they cannot affect any of the Minions, but you actively need to keep them alive for final three. 
+
+* Poison one of your neighbours, because then you can keep your host close and under your thumb. You can find out what their poisoned information is and try to manipulate the game to make it seem legitimate, making them disbelieve they're poisoned. 
+
+* Poison someone on the other side of the circle, to draw attention as far away from you as possible. 
+
+* Avoid being executed. Even though you cannot die by execution, the good team learning who the Demon is can often be enough information for them to win the game. Once the players know that the Demon is the {{Evil|Lleech}} they are likely to be locking you out from discussions, and trying to figure out which of the good players is the host. 
+
+* Who you choose as your host can have a big impact on the game, and it's a choice you have to make blindly. If you choose a character who only gets information at the start of the game, it can be really difficult for them to figure out that they've been poisoned, making it easier for you to hide the host. However, they're much more likely to want to go along with being executed for all sorts of reasons since they have no ability to contribute to the game. If the {{Good|Noble}} is the host, and there seems to be a lot of resistance to executing them when they're okay with it, it might telegraph really strongly that they're the host.
+
+* If there are just 3 players alive, getting executed is a safe strategy. Because the host is still alive, you will be executed but will not die. Then the game goes to night with three alive and you can kill the one last player that isn't the host. Note, it's really important in this situation to NOT kill the host, because otherwise you will also immediately die. This creates a tie, meaning good wins.
+
+* If for some reason the group seems to be circling in on the host to execute, you may need to carefully redirect attention away. If you make a lot of noise about *NOT* executing a specific player, this can come across as really suspicious. Instead, perhaps just point out someone else as a really big target, even if this means throwing one of your Minions under the bus. The best strategy is to get to final day without having much shade on the host.
+
+* In a normal Demon game, the priority is to protect the Demon from being killed. In a {{Evil|Lleech}} game, the priority is to create as much misinformation as possible to disguise the host. That way even if there is a person who doubts their information, it's just one among many sources of misinformation.
+
+* The {{Evil|Lleech}} can be particularly tricky, because effectively one of the members of the "team" is good. They are not aligned with you and you don't have a lot of control over them or their poisoning. It is perfectly fine to suggest to the Storyteller possible pieces of misinformation to give out through the poisoning, but the Storyteller does not need to listen to that request. 
+
+* If the evil team has the upper hand at the end of the game, then the Storyteller might make the poisoning of the host really noisy as a way to offset that, especially if for some reason they have flown under the radar the whole game and the good team hasn't even discovered that it's a {{Evil|Lleech}} game.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Fighting the Lleech ==
+
+* Figure out whether or not a {{Evil|Lleech}} is in play. This information determines what your goal of the game is, since until you know, you won't know which players to execute. Once you know it's a {{Evil|Lleech}} game, then the key is to find and kill the host instead. 
+
+* Find the poisoned player. If every good player who thinks that they might be poisoned tells the group this, then the good team should be able to make a few guesses as to who the {{Evil|Lleech}} target is. 
+** If someone is getting bogus info: execute them - chances are they're the host or maybe just a Minion sowing bad information. Win Win!
+** If you think you're getting bogus info: volunteer to be executed and take yourself out of the problem.
+
+* Use info characters to verify other players' information to try and narrow down the possible options for poisoned candidates. Remember that only one player can be poisoned by the {{Evil|Lleech}} and it doesn't move. If you can verify a player as sober and healthy, they cannot be the {{Evil|Lleech}} host.
+
+* If you don't have any good candidates for who the host is based on the information you have at hand, look for characters that seem to be surviving in odd ways. The following are good options for characters who are Lleech hosts flying under the radar:
+** A confirmed good player or any public high priority target that has survived the whole game, such as the {{Good|Balloonist}} who has come out publicly; or
+** A start info character that seems to just be hanging in there, such as the {{Good|Clockmaker}} that hasn't really done much since the start of the game and has even volunteered to be executed; or
+** A once per game ability character that has used their ability, such as the {{Good|Fisherman}} who has acted upon their hint but it didn't seem to do much. 
+
+* Don't forget to find out who the evil players are! While this won't win the game directly, executing the Demon is still great information. More importantly, it's very unlikely that the Demon will choose one of their own Minions as a host, so you can probably eliminate them as options. 
+
+* Since the chance of you finding out that it's a {{Evil|Lleech}} game is higher than not, if you get down to the final day and you're not sure, it's usually safer to run with the assumption that it's not a {{Evil|Lleech}} game.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Demons]]

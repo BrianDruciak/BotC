@@ -1,0 +1,153 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_vortox.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Black is White. Right is Wrong. Left is Right. Up is Long. Down is Sight. Short is Blind. Follow me. Answers find."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/21970647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-2%2F124473139-44100-2-3ca08b145be9d.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Banshee|banshee|Good|If the Vortox kills the Banshee, all players learn that the Banshee has died.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins."
+
+The Vortox makes all information false.
+* Anytime a Townsfolk player gets information from their ability, they get false information. Even if they are drunk or poisoned, it must be false.
+* The Vortox does not affect information gained by other means, such as when the Storyteller explains the rules, or when a player’s character or alignment changes.
+* When night falls, if nobody was executed today, evil wins. Exiling a Traveller does not count.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+While the Vortox is alive, you must give false information whenever a Townsfolk ability prompts you to give information.
+
+Each night except the first, wake the Vortox. They point at any player. That player '''dies''' - mark them with the '''DEAD''' reminder. Put the Vortox to sleep.
+
+Each dusk, if no player was executed today, the game ends and the evil team wins.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Vortox kills the {{Good|Sage}}. The {{Good|Sage}} learns two players, both of which are not Demons.
+			</div>
+
+			<div class='example'>
+				Nobody voted or nominated today, but the {{Good|Mutant}} is executed. That night, both the {{Good|Flowergirl}} and the {{Good|Town Crier}} learn a "yes.” 
+			</div>
+
+			<div class='example'>
+				The {{Good|Savant}} is in play, and learns two pieces of information each day. Both are false. That night, the {{Good|Dreamer}} chooses a player who is the {{Good|Savant}}, and learns that player is either the {{Good|Philosopher}} or the {{Evil|No Dashii}}.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Pit-Hag}} turns the {{Good|Juggler}} into the {{Evil|Witch}}. The {{Good|Juggler}} learns that they are now the good {{Evil|Witch}}, because this information comes from the {{Evil|Pit-Hag}}'s ability, not a Townsfolk's ability.
+			</div>
+
+			<div class='example'>
+				Today, a player died from the {{Evil|Witch}}, two Travellers were exiled, 5 nominations happened, but nobody was executed. Evil wins.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* As a Demon, you have two significant strengths - forcing the good team to execute (or else!), and forcing all Townsfolk information to be false. This deadly combination makes you the scariest Demon on the list - even the potential of your presence will have your enemies shaking in their boots. Beware though - you are far from invulnerable, and if the good team know you're in play with any degree of certainty, then they can start to unravel the falsehoods caused by your ability and will have your evil team packing in no time!
+
+* Give true information to mask the existence of your Vortox ability. A lot of information in Sects & Violets is binary, and it can hard to reliably confirm your existence unless the good team is willing to expend some very powerful abilities (such as the {{Good|Artist}} or the {{Good|Juggler}}). This means it can be hard to confirm as true OR false right away. Mixing in true/provable information as part of your bluff will help you look trustworthy and confuse the good team about whether a Vortox is in play.
+
+* If the good team has already cottoned onto the idea of a Vortox, don't despair - simply tailor your bluff to give obviously ''false'' info instead, allowing you to blend into the confused good players who are also getting false information! People will be more inclined to trust you if you are also being 'harmed' by the Vortox power.
+
+* It's extremely difficult to pull off, but you might be able to convince the group there's no Vortox, and get them not to execute a player to prove it. This will usually require a very powerful bluff like the {{Good|Artist}} or the {{Good|Dreamer}}, who can detect the false information forced upon them more reliably than other abilities. Only push for this if you really think the good team will buy it - most groups will be wary about giving up an execution, especially if any information seems confusing or unreliable. With that said, it is ''extremely'' satisfying to pull off a win that way!
+
+* Get a read of the group before coming out with your bluff - you may change strategy based on their behavior. Jumping in with a strong bluff that has true information may backfire on you if the group comes to find out you're in play and starts seeking out anyone who doesn't fit that narrative!
+
+* Signal to your Minions which Demon you are - they may also be bluffing as information gathering characters, and knowing that your ability is affecting the town is important, since they may want to adjust their bluffs to account for that.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Vortox ==
+
+* Don't panic! The Vortox looks scary on paper, but as long as the good team is smart, the Vortox will probably provide a less steep challenge than the other Demons on the character sheet. Even if you get completely confused, once just three players are left alive, you have a 1 in 3 chance of killing the Demon. So, it's not as terrifying as it sounds.
+
+* As a team, you can identify if a Vortox is in play by sharing information. The more good players come out with their information, the more quickly it will become apparent that a Vortox is play, since the information is not adding up. One or two pieces of strange information can easily be due to a {{Evil|No Dashii}}, a {{Good|Sweetheart}}, or an evil player spreading lies, but 5 or 6 pieces of information that don't match usually indicates a Vortox. Once you figure out that a Vortox is in play, even if you have no idea which player it is, you have the advantage.
+
+* If you figure out that the Vortox is in play, ALL information is reliably false. This may sound awful, but is actually incredibly helpful! With a Vortox in play, information can not possibly be true. This means that the {{Good|Sweetheart}} or {{Good|Philosopher}}, if they make you drunk, can not give true information. Knowing that all information is false 100% of the time, means that you can simply take the reverse of that information as gospel. For example, if you don't know what Demon is in play, and the {{Good|Flowergirl}} says the Demon did not vote, the {{Good|Town Crier}} says a Minion did not nominate, and the {{Good|Seamstress}} says that the {{Good|Flowergirl}} and the {{Good|Town Crier}} are different alignments, there can be a lot of confusion about what that information all means. But, if you know a Vortox is in play, that {{Good|Flowergirl}} knows that the Demon DID vote, the {{Good|Town Crier}} knows that a Minion DID nominate, and the {{Good|Seamstress}} knows that both the {{Good|Flowergirl}} and the {{Good|Town Crier}} are the same alignment. Having certainty about your information (even if you have to continually reverse it from false to true), is enormously helpful.
+
+* The game ends if there is no execution. Don't skip the execution unless you're REALLY sure there's no Vortox in play. (The reason this Vortox has this incredible ability is to prevent the good team from deliberately not nominating on the first day, to have characters like the {{Good|Oracle}}, {{Good|Flowergirl}}, {{Good|Town Crier}} get false information, thus determining the existence of a Vortox). The good team should be nominating and executing every single day... just in case. Obviously, killing evil players is better, but even killing good players is better than losing the game.
+
+* If any player is giving true information in a Vortox game... kill them. They are lying. And lying means only one thing... they are evil. Or they are the {{Good|Snake Charmer}}, {{Good|Sage}}, or {{Good|Mutant}} and hiding their identity for some other reason. But probably, they are evil.
+
+* Some characters are better at sensing Vortox than others. Since the Vortox forces all information to be false, you can try to create situations where your information is expected to have a certain outcome, and see if you get that outcome. Some examples include the {{Good|Artist}} (who asks a yes/no question), {{Good|Juggler}} (who can simply juggle themselves), {{Good|Dreamer}} (who can pick someone they trust and see if the information matches up), {{Good|Flowergirl}} (get everyone in town to vote - if you get that the demon didn't vote, you know your information is wrong), {{Good|Town Crier}} (be the only one to nominate in a day - if you are told a Minion nominated...) or {{Good|Seamstress}} (pick two players you are confident you know the alignments on and compare - especially effective with an {{Evil|Evil Twin}} in play!)
+
+* Be wary of the {{Evil|No Dashii}}, {{Good|Philosopher}} and {{Good|Sweetheart}} - thanks to their abilities causing poisoning or drunkenness, some people will get bad information. If you think you're getting bad information, try to find out if it's afflicting the entire town or just you.
+
+* Not all characters that receive information can be affected by the Vortox. The {{Good|Snake Charmer}}, for example, learns who isn't the demon as a side-effect of their technically non-information-gathering role. Thanks to that, their information can be considered "true" in a Vortox game.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Demons]]

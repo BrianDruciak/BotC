@@ -1,0 +1,151 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_lilmonsta.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>04/07/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Step 1: Be cute.<br>
+				Step 2: World domination.<br>
+				Step 3: Bweakfast."</p>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Hatter|hatter|Good|If the Hatter dies & the Demon chooses Lil' Monsta, they also choose a Minion to become.}}
+{{Jinx|Magician|magician|Good|If the Magician is alive, the Storyteller chooses which Minion babysits Lil' Monsta. }}
+{{Jinx|Marionette|marionette|Evil|If there would be a Marionette in play, they enter play after the Demon & must start as their neighbor.}}
+{{Jinx|Poppy Grower|poppygrower|Good|If Lil' Monsta & the Poppy Grower are alive, Minions wake one by one, until one of them chooses to take the Lil' Monsta token.}}
+{{Jinx|Psychopath|psychopath|Evil|If the Psychopath is babysitting Lil' Monsta, they die when executed.}}
+{{Jinx|Scarlet Woman|scarletwoman|Evil|If Lil' Monsta dies with 5 or more players alive, the Scarlet Woman babysits Lil' Monsta for the rest of the game.}}
+{{Jinx|Vizier|vizier|Evil|If the Vizier is babysitting Lil' Monsta, they die when executed.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, Minions choose who babysits Lil' Monsta & "is the Demon". Each night*, a player might die. [+1 Minion]"
+
+Lil’ Monsta isn’t a player, and is instead babysat by a Minion.
+* Each night, all Minions wake together and decide amongst themselves who babysits the Lil’ Monsta. The Minions decide by pointing to a player, or otherwise make it obvious they have reached a decision. If they can not reach a unanimous decision, the Storyteller decides.
+* If the Storyteller thinks it is funny, they may give this player the Lil’ Monsta token, which they will need to hide in a pocket, under their hat, or somewhere appropriate. Players may not request that others empty their pockets.
+* The player with the Lil’ Monsta token “is the Demon”. Good wins if they die. They register as a Demon for characters like the Fortune Teller etc.
+* If a good player babysits Lil’ Monsta, they “are the Demon” but they remain good. A dead player babysitting Lil’ Monsta ends the game because the Demon “is dead”.
+* Minions babysitting Lil’ Monsta keep their Minion ability.
+* Lil’ Monsta isn’t a player, so can’t be drunk or poisoned.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During setup, remove Lil’ Monsta and add a Minion token. On the first night, skip the '''MINION INFO''' and '''DEMON INFO''' steps.
+
+Each night, wake all Minions. The majority will (eventually) point to one player. If they can’t decide, choose a player. (Give this player the Lil’ Monsta token and wait for them to hide it, if you want!) Mark them with the '''IS THE DEMON''' reminder token. Put all Minions to sleep. Then, if it is not the first night, a player might '''die''' – mark them with a '''DEAD''' reminder and a shroud.
+
+The player marked '''IS THE DEMON''' registers as the Demon. If they die, declare that the game is over and good has won.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+You may need to kill a Minion or two at night using the Lil’
+Monsta’s ability. On the final day, it would be unfair for the good team to have 2 or more Minions alive, since either Minion could have been chosen to babysit Lil’ Monsta without any way for the good team to know which. Avoid this, and make the game fairer for the good team by killing Minions so that only 1 remains on the final day.
+</div> 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Poisoner}} and the {{Evil|Widow}} wake. They point at each other, then point at themselves, then eventually both point at the {{Evil|Widow}}, who receives Lil’ Monsta’s token. The next night, they both choose that the {{Evil|Poisoner}} babysits Lil’ Monsta instead.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* One of the huge strengths of Lil’ Monsta is that the evil team begins with one extra Minion ability in play! Since the good team won’t be expecting that extra Minion, maximize your Minion abilities to wreak havoc on the town. An extra {{Evil|Poisoner}}, {{Evil|Witch}}, or even a {{Evil|Godfather}} can severely tip the tide for evil before good even knows what hit them!
+
+* Good players will be on the lookout for how many Minions appear to be operating in the town - one more than expected will give away that Lil’ Monsta is scurrying around! If you want to keep the good team in the dark about which Demon is in play, be cautious about how you use abilities that have obvious tells, like the {{Evil|Cerenovus}} or the {{Evil|Assassin}}.
+
+* Because the Demon is a helpless baby, any Minion can hold the Demon to keep them safe during the day. The obvious advantage of this is that you can shuffle the baby around to hide it from devious Demon detectors like the {{Good|Flowergirl}} or the {{Good|Fortune Teller}}, making their information inconsistent and difficult to follow! Moving the baby almost every night means that a different player registers as the Demon every night, creating mass confusion for the town.
+
+* Keep the baby safe by placing them with your most reliable and least suspicious Minion. Keeping them in one location decreases the odds that the town will be able to detect them - you don’t need to throw the baby from Minion to Minion if they’re perfectly safe where they are!
+
+* Any player can babysit Lil’ Monsta. If the majority of Minions agree, you can hand the baby off to anyone in town. Generally speaking, it’s not great to hand the baby off to a good player - if they believe it, they might try to get themselves executed in order to end the game in a good team win! 
+
+* If you have an ally outside of your Minion team (perhaps an evil Townsfolk due to the {{Evil|Bounty Hunter}}, or a power-hungry {{Good|Politician}}), they can make an excellent babysitter, especially if the town hasn’t noticed their alignment shift! It’s fine if all of your Minions die, as long as the baby continues to thrive. Dead Minions still wake up every night to choose who babysits Lil’ Monsta. A Traveller can be a great option in the early game, if you’re confident they’re evil - just make sure they don’t get exiled, because if they do, your baby’s going with them…
+
+* When deciding who is babysitting each night, you can only communicate with body language. If someone really, really wants the baby, it’s often a good idea to give it to them - trust your evil teammates have a plan you don’t know! Maybe they’re a {{Evil|Spy}} or {{Evil|Widow}} who knows which good characters are out of play. And if someone really doesn’t want the baby, don’t force it on them - they might suspect they’re about to come under fire, and want to keep the baby safe. 
+
+* If your group is playing with the optional rule where you physically hold the Lil’ Monsta token, be sure to hide it well! If a good player spots you holding the token, that’ll be difficult to explain without saying, “Oh, this is just my tiny Demon child that I’m babysitting today for our evil cult!”
+
+* Since the Storyteller chooses who dies each night, they may kill some evil players this way. However, the Storyteller will never kill the player who is babysitting Lil’ Monsta! Towards the end of the game, give the baby to the evil player you most want alive, so they’re guaranteed to make it to the final day.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Lil' Monsta ==
+
+* Count the visible Minion abilities. If you find more than normal, this might be a Lil’ Monsta game!
+
+* In a Lil’ Monsta game, the evil team doesn’t get bluffs. So, if you have lots of double claims, and no way to explain them, it might be a Lil’ Monsta game and the Minions are struggling to claim characters that are not in play.
+
+* Are the {{Good|Flowergirl}} and {{Good|Fortune Teller}} getting too many “Yes” answers? If they are, it might be a Lil’ Monsta game where the evil team are changing who babysits each night. 
+
+* If you can establish that the Demon is Lil’ Monsta, abilities that detect Minions are critical. Every Minion you find and kill is one less evil player who can safely guard their little Demon baby every night. If there’s a {{Good|Bounty Hunter}} on the script, you’ll want to keep an eye out for an evil Townsfolk, since they make excellent babysitters. Same goes for a meddling {{Good|Politician}}.
+
+* If you’re confident a player is evil, you may want to deliberately leave them alive until the final day, and not tell anyone that you know they’re a Minion. If they survive that long and the evil team thinks they’re trusted, they’ll probably end up babysitting Lil’ Monsta, and you can execute them for the win.
+
+* If you’re given the baby as a good player, let everyone know! This baby is evil, and you did not agree to babysit an evil baby Demon! If there’s no Devil’s Advocate or Heretic on the script, you might want to get yourself executed, since you know where the Demon is. However, be careful - if there is a {{Evil|Scarlet Woman}} in play, they’ll catch the baby and leave you dead in the dirt. 
+
+*  Remember that the evil team does not control who dies at night. The Storyteller decides who dies, and they may choose to leave powerful Townsfolk alive to help balance the game. The Storyteller may also kill at least one evil player at night, so don’t trust everyone who dies at night in a Lil’ Monsta game!
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Demons]]

@@ -1,0 +1,142 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_plaguedoctor.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>24/08/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Pleauze shtay shtill. Thinks nid tiime for hillink. Myrhh-myrhh."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>_ZcP5gr9ZWM</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Baron|baron|Evil|If the Storyteller would gain the Baron ability, up to two players become Outsiders.}}
+{{Jinx|Boomdandy|boomdandy|Evil|If the Storyteller would gain the Boomdandy ability, a player becomes the Boomdandy.}}
+{{Jinx|Evil Twin|eviltwin|Evil|If the Storyteller would gain the Evil Twin ability, a player becomes the Evil Twin.}}
+{{Jinx|Fearmonger|fearmonger|Evil|If the Storyteller would gain the Fearmonger ability, a Minion gains it, and learns this.}}
+{{Jinx|Goblin|goblin|Evil|If the Storyteller would gain the Goblin ability, a Minion gains it, and learns this.}}
+{{Jinx|Marionette|marionette|Evil|If the Storyteller would gain the Marionette ability, one of the Demon's good neighbors becomes the Marionette.}}
+{{Jinx|Scarlet Woman|scarletwoman|Evil|If the Storyteller would gain the Scarlet Woman ability, a Minion gains it, and learns this.}}
+{{Jinx|Spy|spy|Evil|If the Storyteller would gain the Spy ability, a Minion gains it, and learns this.}}
+{{Jinx|Wraith|wraith|Evil|If the Storyteller would gain the Wraith ability, a Minion gains it, and learns this.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"When you die, the Storyteller gains a Minion ability."
+
+The Plague Doctor brings an extra Minion ability into play.
+* The Storyteller chooses which Minion ability is gained.
+* This ability is in effect for the rest of the game.
+* Nothing else changes for the Storyteller – they don’t become evil, they don’t become a player, they are not a legitimate player to be targeted by other abilities, and they cannot vote or nominate.
+* If the Plague Doctor is drunk or poisoned when they die, the Storyteller doesn’t gain a Minion ability, even when the Plague Doctor becomes sober and healthy.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+When the Plague Doctor dies, place a Minion character token in the center of the left side of the Grimoire and mark this with the Plague Doctor’s '''STORYTELLER ABILITY''' reminder. Or, mark an in-play Minion with the '''STORYTELLER ABILITY''' reminder. If applicable, add a night token to the night sheet. 
+
+When this Minion would normally act, the relevant choices are made by the Storyteller.	
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Plague Doctor dies. The Storyteller gains the {{Evil|Poisoner}} ability and chooses a player to poison each night for the rest of the game.		</div>
+			<div class='example'>
+The Plague Doctor is executed and the Storyteller gains the {{Evil|Cerenovus}} ability. That night, the {{Evil|Pit-Hag}} turns the {{Evil|Witch}} into the {{Evil|Cerenovus}}. There are now two {{Evil|Cerenovus}} abilities in play – the Storyteller’s and the new {{Evil|Cerenovus}}’.		</div>
+			<div class='example'>
+The Plague Doctor has died and the Storyteller has had the {{Evil|Organ Grinder}} ability for two days. The Plague Doctor is made drunk by the {{Good|Minstrel}}. The Storyteller still has the {{Evil|Organ Grinder}} ability as they gained it when the Plague Doctor died and the Plague Doctor now being drunk does not affect that.			</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Convince the town to keep you alive! You don’t want to give the evil team an extra ability. The longer you live, the less damaging your ability will be to the good team. 
+
+* Bluff as an undesirable target for the Demon. Claim to be a character the Demon wouldn’t want to touch, like the {{Good|Sage}} or the {{Good|Banshee}}, or claim to be a character who has already gotten all of your information, like the {{Good|Knight}}. If the Demon thinks you’re not a priority, they’ll focus on other targets and keep you alive.
+
+* If you die, tell everyone who you are immediately. Knowing you’re the Plague Doctor is extremely important for the good team, since your ability activates on death. It’s also worth revealing if you’re going to be executed - if the Demon knows who you are, they’ll need to choose between killing you or killing a strong information-gathering character, like the {{Good|Mathematician}} or the {{Good|Chambermaid}}.
+
+* When you die, look for the Minion ability that came into play as a result of your death. If you can point out a publicly visible ability, or show evidence of an ability to a good teammate, this helps prove you are the Plague Doctor and reinforces your alignment.
+
+* Meta your Storyteller! If there’s an ability you think your Storyteller will want to use, you can use that to figure out which Minion ability entered play when you died. 
+
+* If you die, assume that the Storyteller will use their Minion ability where it hurts the most. Since the Storyteller has perfect knowledge of the Grimoire, they can use a Minion ability more effectively than a Minion can.
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Plague Doctor ==
+
+* Plague Doctors are almost never happy to die - they know they have a major negative impact on the good team’s chances. Use this as an argument to survive for as long as possible! It’s one of the few characters, much like the {{Good|Saint}}, who will almost always fight hard to survive and therefore you can use this to keep your Minion ability active for as long as possible or to survive to the endgame as the Demon.
+
+* Consider hiding a Minion ability (if possible) so that when you die it looks like a Minion ability has entered play. This can be tricky, depending what Minion abilities you have to work with. With the right abilities to “confirm you” as the Plague Doctor, this can help you gain trust and drive the good team’s narrative as a result. The balance, however, is that hiding a Minion ability may mean using that ability less effectively while you’re alive. 
+
+* Have your evil teammates claim to be affected by a “new Minion ability” when you die, to back up your bluff. Be careful, though - this has the downside of linking you directly to your fellow evil players, so the pressure is on at that point to convince the good team that you’re one of them! 
+
+* After you die, talk to the good team, and pretend to figure out what Minion ability has entered play because of your death. If good players think you’re invested in figuring out how your ability has harmed the good team, they’re more likely to think that you’re good, too. 
+
+* After you die, change your claim completely! Lie and say you were claiming to be the Plague Doctor to convince the evil team to kill you, but you’re actually the {{Good|Ravenkeeper}} or the {{Good|Sage}}. 
+
+
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Outsiders]]

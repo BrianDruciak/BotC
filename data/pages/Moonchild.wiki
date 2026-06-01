@@ -1,0 +1,130 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_moonchild.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Scorpio looks sideways at the lovers, and you have a choice to make. With silver cross my palm, and your fate shall be revealed. With steel cross my throat, and by the stars you shall regret it."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/56186402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-15%2F280916138-44100-2-e1c79e6aab693.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die."
+
+The Moonchild curses someone upon death, killing them too.
+* The Moonchild must choose a player within a minute or two of learning that they are dead, whether by an execution or at dawn when the Storyteller declares who died at night. The Moonchild can take their time and get advice from the group before making this decision.
+* If the Moonchild chooses a good player, that player dies tonight. If they choose an evil player, nothing happens.
+* As always, play along if an evil player is bluffing as the Moonchild and pretends to use their ability.
+* It is not the Storyteller’s responsibility to prompt the Moonchild to choose a player. The Moonchild must do this shortly after they learn that they are dead. Deliberately not doing so is considered cheating.
+* If the Moonchild is sober and healthy at night but was drunk or poisoned when they chose a player today, that player dies. If the Moonchild is drunk or poisoned at night but was sober and healthy when they chose a player today, that player doesn’t die.
+* The Moonchild kills the Goon if the Goon was good when the Moonchild chose them, regardless of the Goon’s alignment at night.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+When you declare that the Moonchild’s player has died, the Moonchild chooses any alive player. If the chosen player is good, mark their character token with the '''DEAD''' reminder. Tonight, the player marked with the Moonchild’s '''DEAD''' reminder '''dies'''.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If the Moonchild doesn’t realize that they must choose a player when they die, privately remind them. New players may not understand how their character works.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Pukka}} kills the Moonchild. The next morning, the Moonchild chooses a player, who is the {{Good|Exorcist}}. That night, the {{Good|Exorcist}} dies.
+			</div>
+
+			<div class='example'>
+				The {{Good|Pacifist}} is in play. The Moonchild is executed but remains alive. The Moonchild does not choose a player, because the Moonchild did not die.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Shabaloth}} eats the Moonchild. The Moonchild chooses the {{Evil|Assassin}}, who remains alive. The {{Evil|Shabaloth}} regurgitates the Moonchild. A few nights later, the {{Evil|Shabaloth}} eats the Moonchild again. This time, the Moonchild chooses the {{Good|Gossip}}, who dies.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Try to avoid dying if you can! Even though you're an Outsider, you are still a good player, and in Bad Moon Rising you don't always have a lot of good players to spare. This is especially true for you, since the extra player who dies thanks to your ability ''must'' be good, meaning you can't even hope to take someone evil out with you. Bluffing as something difficult to kill (like the {{Good|Fool}} or {{Good|Goon}}) to avoid the demon's attention is a good option, especially if you quietly reveal to good players your ''real'' ability so they don't turn around and execute you. Alternatively, you can just not admit anything to anyone until you absolutely must, keeping yourself safe that way!
+
+* DO die. This isn't always the best move (and should really only be attempted early in the game), but your ability is a pretty strong confirmation that a player is good. If they die, you can be confident they are telling the truth, which in turn means that you can trust their information. It's best to coordinate who you're going to choose before your death - some good players will be more comfortable with an early death compared to others. Asking for the town to execute you for the sake of gaining information is also a good way to build trust if you are dealing with suspicion - most evil players will not volunteer to die. A {{Evil|Zombuul}} or {{Evil|Devil's Advocate}} may throw a spanner in your works though!
+
+* On death, choose someone you think is good to inflict with your deadly curse. There's a couple of great reasons for this! Firstly, should they die: you know you can trust that they are good, and that any information they have is ''probably'' reliable. Secondly, if your ability activates and this person dies, it is likely that you are telling the truth. While the evil team ''can'' simulate your ability activating via the help of the Demon or {{Evil|Assassin}}, they will often just accept the free extra kill that you provided, leading to an unusual number of deaths. If the good team believes you, they can believe the person you killed, and from there start to piece information together to ferret out the evil team lurking among them!
+
+* On death, choose someone you suspect is evil. There's a couple of great reasons for this! Firstly, if you believe that the following night is going to see a lot of death (e.g., a {{Evil|Po}} has charged up), then the extra kill from your ability might be the one that pushes the game firmly in evil's favor. Secondly, should that player not die? You can now be reasonably confident that they ''are'' evil. The confirmation is not as drastic as confirming someone as good, but if you believe you are sober, then regard that player with a lot of suspicion moving forward - there's usually more than one clue that someone isn't who they claim to be.
+
+* When choosing the player you intend to pick, be aware that characters that "cannot die" or are protected at night will not die as a result of your ability. This includes characters like the {{Good|Sailor}} and {{Good|Fool}}, and players in the company of a {{Good|Tea Lady}} or an {{Good|Innkeeper}}. Try to have a good idea of who is who before you die, so you can choose around these character. Or, if you want to avoid an extra death, you can deliberately choose one of them, keeping the death toll from rising too dramatically.
+
+* If the {{Evil|Godfather}} is in play, they will get the chance to kill the same night that you die and curse someone. If you suspect a {{Evil|Godfather}}, be aware of this extra kill and plan your choice accordingly. Also be aware that they ''could'' choose to trick you into believing you killed a good player, but in fact it was an evil minion thrown under the bus to sow chaos and confusion in the afterlife!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Moonchild ==
+
+When bluffing as the Moonchild, there are a few things you should keep in mind:
+
+* Bluff as the Moonchild so that the good players are afraid to execute you. Depending on how many players are left alive, many good players will be reluctant to execute a Moonchild. The threat that another player will die if you die can be enough to dissuade them from voting for you.
+
+* Even better than just saying that you might be killing another player too if you die, is telegraphing specifically who you will pick if you die. For example, if the players are discussing whether or not to execute you, you can claim that if you die, you intend to pick the player claiming to be the {{Good|Innkeeper}}. After all - you will have to pick someone. This may be enough to get the {{Good|Innkeeper}} to avoid voting for you, as well as any other player who wants to keep the {{Good|Innkeeper}} alive.
+
+* The Moonchild is an interesting bluff to reveal once you are dead. If you have stayed silent about your character up until this point, or if you feel like changing your bluff upon death, the Moonchild is a great choice. You die. You claim to be the Moonchild. You pretend to curse a player. Whether or not that player dies, good will tend to focus on your Moonchild ability to the exclusion of other, more important, information.
+
+* When it comes time to curse a player - pick a good player, and co-ordinate with the other evil players so that this player lives through the night. For example, if you choose the {{Good|Tea Lady}}, and then they live through the night, they will look evil the following day, and probably be the executed player.
+
+* When it comes time to curse a player - pick an evil player, and co-ordinate with the other evil players so that this player dies tonight. Either the Demon, an {{Evil|Assassin}} or {{Evil|Godfather}} can kill this player, which will make this evil player look good. You will lose an evil player because of this strategy, but sometimes feeding misinformation to the good team is more important than keeping evil players alive.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Outsiders]]

@@ -1,0 +1,89 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_pope.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>Loric</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>15/01/2026</td>			
+				</tr>
+			</table>
+
+            <p class='flavour'>"...Pulcherrimae."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"There are duplicate good characters in play. They might also be bluffs."
+
+The Pope creates duplicate character claims.
+* A Townsfolk or an Outsider, or both, have multiple copies in play.
+* There may be one character that has multiple copies in play, or multiple characters that have multiple copies in play.
+* There may be 2 characters that are the same, or as many as the Storyteller has tokens to accommodate.
+* These characters might be a part of the 3 bluffs given to the Demon.
+* The Storyteller will need multiple copies of the game, or at least some way to access identical character tokens, in order to run this character... for now.
+* Duplicate Outsider characters may cause an unusual number of Outsiders. Duplicate Townsfolk characters may not.
+
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During setup, swap any Townsfolk tokens for duplicates of an in-play Townsfolk or Outsider character token. You may do this more than once.
+
+During the '''DEMON INFO''' step, you may give the Demon one, two, or three of these duplicate character tokens as bluffs.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+
+Think carefully about giving in-play characters as bluffs to the Demon. Some characters may make the game too difficult for the evil team.
+
+</div> 
+
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				Doug, Ben, and Sarah are all {{Good|Empath}}s. Doug learns a “1”. Ben learns a “0”. Sarah learns a “2”.
+			</div>
+
+			<div class='example'>
+				Lewis and Abdallah are {{Good|General}}s. Evin is the {{Good|Drunk}} who thinks he is a {{Good|General}}. Alex and Julian are {{Good|Zealot}}s, and Marianna is the {{Evil|Xaan}} bluffing as a {{Good|Zealot}}.
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Loric]]

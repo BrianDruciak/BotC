@@ -1,0 +1,138 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_snakecharmer.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Effendi... I am but a humble man, but my pipe is golden and a single tune will tame the wildest djinn, Inshallah. They say that greed hangs more men than rope. But not I, Effendi... not I."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/20615737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-4%2F115042552-44100-2-9b04831953f58.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned."
+
+The Snake Charmer learns player after player that is not the Demon... but becomes the Demon if they get either too greedy or too bold.
+* Each night, they choose a player. If that player is not the Demon, nothing happens. If they are the Demon, the Snake Charmer becomes that Demon and turns evil, and the Demon becomes good and poisoned permanently.
+* If the Philosopher has the Snake Charmer ability and becomes the Demon, the Demon becomes a poisoned Philosopher.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+Each night, wake the Snake Charmer. They point at any player.
+
+If that player is not the Demon, nothing happens. Put the Snake Charmer to sleep.
+
+If that player is the Demon, the old Snake Charmer changes into the new (''evil'') Demon, and the old Demon changes into the new (''good'') Snake Charmer—swap the Snake Charmer token and the Demon’s token. The new Snake Charmer is '''poisoned''' - mark them with the '''POISONED''' reminder. Wake the new Demon and show them the '''YOU ARE''' info token, a thumbs-down, the '''YOU ARE''' token, then the Demon’s token. (''This shows they are now evil and the Demon.'') Put the new Demon to sleep. Wake the new Snake Charmer and show them the '''YOU ARE''' info token, a thumbs-up, the '''YOU ARE''' info token, then the Snake Charmer token. (''This shows they are now good and the Snake Charmer.'') Put the new Snake Charmer to sleep.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+In the strange situation that the Snake Charmer is evil, or the Demon good, swap their alignments as appropriate.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Snake Charmer chooses a player who is the {{Evil|Pit-Hag}}, so nothing happens. The Snake Charmer simply goes to sleep. The next night, the Snake Charmer chooses themself, so nothing happens.  
+			</div>
+
+			<div class='example'>
+				The Snake Charmer chooses a player who is the {{Evil|Vigormortis}}. The Snake Charmer immediately becomes the evil {{Evil|Vigormortis}}, and the {{Evil|Vigormortis}} becomes the good Snake Charmer and gets poisoned.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Pit-Hag}} turns themself into the Snake Charmer. Then, the Snake Charmer chooses a player who is the {{Evil|Fang Gu}}. The Snake Charmer becomes the {{Evil|Fang Gu}}, while the {{Evil|Fang Gu}} becomes the Snake Charmer and gets poisoned. Both remain evil.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Snake Charmer exists in a state of duality. At any given moment, you may turn evil and begin betraying your team. Until that happens, though, you are good and playing for the good team, and your information is incredibly useful (knowing who isn't a demon is just as important as knowing who the demon is!). Unlike the other players, you are not playing so much for a team but for yourself, and for the team that you want to end up on.
+
+* Play cautiously; select only a few players to confirm as not the demon. Aim for players you expect to survive for a while - if you have players alive on the final day who are not the demon, then that can bring your odds down from 1 in 3 to 1 in 2! Once you reach a point where you're satisfied with the information gathered (or you just don't want to risk it anymore), keep in mind that you can always choose yourself at night to safely avoid becoming the demon!
+
+* Play recklessly! Select as many players as you can - the more you have confirmed as not the demon, the more powerful you are! This method increases your odds of being the demon, but if you remain good for the entire game, you'll have a TON of powerful information to utilize against the evil team. And if you turn evil... well, it probably doesn't bother you ''that'' much if you're taking such big risks. 
+
+* Don't tell anyone you're the Snake Charmer unless you are sure that you are not going to be the demon. Even when playing carefully, there's always the chance you will flip to evil with one unlucky pick. The demon you just stole from is now good and has a large incentive to reveal what happened to them - if anyone knows you are the Snake Charmer when the demon claims to have turned good, you are going to be in trouble. Try to avoid revealing until you're dead, OR when you're no longer choosing new players each night.
+
+* Remember that every player you pick who doesn't swap you is ''not'' the demon! You are more accurate than a {{Good|Fortune Teller}} when it comes to detecting demons... providing you can get the good team to trust you. 
+
+* If you stay good, come out with your information eventually - sitting on your information all game will only hurt the good team! If you have become evil... don't admit to being the Snake Charmer, and instead come up with a different bluff on the fly.
+
+* Becoming the demon unexpectedly can be a shock, so try to be ready for the possibility at any time. Have a bluff ready, or if worst comes to worst, just claim that ''you'' were the demon and were just snake charmed. Get in fast and aggressive enough, and the poor demon you just suckered out of their ability will be scrambling to catch up and prove you as the evil one.
+
+* So you were the demon, and you've just become the Snake Charmer? Never fret - you're playing for the good team now, and a path to victory is still clear. You have a few options - reveal your new alignment, snitch on your minions, and start a demon hunt with all of your evil knowledge...  or say nothing for a few days. This way, your minions will still trust you and you can use their powers to hunt out and undermine the new demon. Secretly telling one or two good players in the meantime can also grant you allies in your stealthy demon hunt.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Snake Charmer ==
+
+When bluffing as the Snake Charmer, there are a few things you should keep in mind:
+
+* Wait a few days before revealing that you are the Snake Charmer. Either stay silent, or bluff as a different good character. This is the kind of thing a real Snake Charmer would do.
+
+* Prepare your information ahead of time. Once you tell the group that you are the Snake Charmer, they will want to know who you have been picking each night. Remember that the Snake Charmer acts on the first night. If you have this information ready to tell the group, they are more likely to believe you.
+
+* When you reveal which players you have been choosing at night, leave at least a few chosen players "unchosen". If you tell the group that you have chosen all players except 1, then that player must definitely be the Demon - and when they are executed and the game continues, the group will know that you lied. However, if good believes that three players are possibly the Demon, any one of them can be executed and have the game continue without you looking suspicious.
+
+* Build trust with good players you've pretended to have checked. Players usually trust players that trust them. Claiming that a particular player is definitely not the Demon makes that player much more likely to feel like you are on their side.
+
+* Claim to have chosen evil players at night. If the good team believes you are the Snake Charmer, they will believe that any players you have chosen are not the Demon, and keep them alive too.
+
+* If you are the Demon, you can claim to have been turned good by the Snake Charmer! This is risky, as any former Demon is likely to be executed "just in case", but can work if you do it later in the game. You can plan all along to bluff this way, or keep it as a backup bluff to use just in case things look dicey. If you were actually turned good by the Snake Charmer, then the original Snake Charmer would now be the evil Demon, so they would be bluffing as a different character - this means that you can claim to be the Demon-turned-good safely. If you do, however, be prepared to tell the group who your Minions were. The good team will want to know who the Minions are, and you can feed them correct or false information, as you prefer.
+
+* If you are a Minion, you can claim to have been the Demon that has been turned good by the Snake Charmer! Crazy! If you do this, the good team will want to know who your Minions are, and you will have a difficult decision to make. Will you tell them that player(s) other than your Demon are Minions? Do this if you expect that the good team will want to execute Minions. Will you tell them that your Demon is actually a Minion? Do this if you expect the good team to keep Minions alive, and instead put their efforts into executing the Demon.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

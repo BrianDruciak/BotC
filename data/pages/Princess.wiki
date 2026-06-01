@@ -1,0 +1,92 @@
+__NOTOC__
+<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+	<div id='character-details'>
+		[[File:icon_princess.png|250px]]
+		<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+		<table style="width: 90%; margin: 0 auto;">
+			<tr>
+				<td>Type</td>
+				<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+			</tr>
+			<tr>
+				<td>Artist</td>
+				<td>Chloe McDougall</td>
+			</tr>
+			<tr>
+				<td>Revealed</td>
+				<td>22/06/2025</td>
+			</tr>
+		</table>
+		<p class='flavour'>"Our words are hounds, bound by silken threads, dear lords. Let kindness weave them true, lest the reigns unravel and rend our court."</p>
+	</div>
+	<div id='jinxes'>
+		<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+			Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+		</span>
+		<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Al-Hadikhia|alhadikhia|Evil|If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia tonight.}}
+{{Jinx|Cannibal|cannibal|Good|If the Cannibal nominated, executed, & killed the Princess today, the Demon doesn’t kill tonight.}}
+		</table>
+	</div>
+</div>
+<div class="small-12 large-9 large-pull-3 columns">
+	<div class="row">
+		<div class="small-12 large-6 columns">
+== Summary ==
+"On your 1st day, if you nominated & executed a player, the Demon doesn’t kill tonight."
+
+The Princess decides which player dies first.
+* For the Princess ability to work, the player that the Princess nominated must be the one executed. Players executed but nominated by others don’t count.
+* The executed player does not have to die for the Princess ability to work.
+* Exiles don’t count for the Princess ability.
+* If the Princess is drunk during the day, then sober at night, they prevent the Demon from killing. If the Princess is sober during the day, but drunk at night, they do not.
+* At night, non-Demon kills happen as normal.
+* At night, the Demon still chooses a player to kill, but they do not die. Other parts of the Demon’s ability, such as poisoning players, making false information, etc. happen as normal.
+* The Princess does not have to nominate on their 1st day.
+* If a Princess is created mid-game, and they nominate and execute a player on their 1st day as a Princess, the Demon doesn’t kill that night.
+		</div>
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+If the Princess nominates and executes a player, mark the Demon with the '''DOESN'T KILL''' reminder.
+
+Tonight, if the Demon would wake to choose a player, wake them as normal. The Demon does not kill.
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Examples ==
+			<div class='example'>
+				The Princess nominates the {{Good|Preacher}}. The {{Good|Preacher}} is executed, and dies. That night, the {{Evil|Vortox}} chooses the {{Good|Pixie}}, who does not die. The {{Good|Town Crier}} learns that a Minion nominated today, which is false information due to the {{Evil|Vortox}}.
+			</div>
+			<div class='example'>
+				On night 4, the {{Evil|Pit-Hag}} turns the {{Good|Dreamer}} into the Princess. That day, the Princess nominates the {{Good|Zealot}}, who is executed. That night, the {{Evil|Kazali}} chooses the Princess, who does not die.
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+* Demand attention from your loyal subj- I mean, fellow players! If you want to be the one who nominates and executes a player, let everyone know your plan in advance so they’ll vote with you & help you achieve your goal.
+* On your 1st day, try to find a player who doesn’t mind being executed. Nominate them and keep it casual, bluffing as if you are not the Princess. Claim you’ve nominated because you think the player is good {{Good|Cannibal}} food, or because they would like their role confirmed by an {{Good|Undertaker}}.
+* Don’t use your ability. Stay quiet, wait, and see if a different player tries to claim that they are the Princess.
+* Can you use your ability without killing a player? Look for reasons someone might not die to execution, like a {{Good|Tea Lady}} or a {{Good|Sailor}}. 
+* Be kind! Pushing to get someone killed on the first day can be socially tricky. Remember Rule 4: Kill with grace and die with dignity. 
+* Be honest and forthcoming. The more socially good you seem, the more people will believe you and choose to go forward with your plan. 
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Princess ==
+* Play exactly as you would if you were a good Princess. The Princess wants to get someone executed straight away, so you have a built-in excuse to try and kill a good player immediately.
+* If you successfully nominate & execute a player, kill the person you executed that night to “prove” yourself as the Princess.
+* If you successfully nominate & execute a player, kill someone at night, and bluff that you must be poisoned or drunk. If your ability doesn’t appear to be working, good players might think their drunk or poisoned abilities are working perfectly normally.
+* Encourage good players to nominate, under the guise that this will make it more difficult for the evil team to identify you as the Princess.
+* If the {{Evil|Fearmonger}} is in play, let them claim to be the Princess so they can nominate the player they picked in the night. Or, if the {{Evil|Boomdandy}} is in play, nominate them on your 1st day to trigger their ability.
+* Be kind! Pushing to get someone killed on the first day can be socially tricky, especially if it’s part of your evil bluff. Remember Rule 4: Kill with grace and die with dignity.
+			</div>
+		</div>
+	</div>
+</div>
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

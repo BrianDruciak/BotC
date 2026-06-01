@@ -1,0 +1,153 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_alhadikhia.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Demon|Demon]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Marianna Carr</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>12/08/2021</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Alsukut min dhahab."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>JRO9FNEwIcU</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Mastermind|mastermind|Evil|If the Al-Hadikhia dies by execution, and the Mastermind is alive, the Al-Hadikhia chooses 3 good players tonight: if all 3 choose to live, evil wins. Otherwise, good wins.}}
+{{Jinx|Princess|princess|Good|If the Princess nominated & executed a player on their 1st day, no one dies to the Al-Hadikhia tonight.}}
+{{Jinx|Scarlet Woman|scarletwoman|Evil|If there would be two Demons, one of which was the Scarlet Woman, the Scarlet Woman becomes the Scarlet Woman again.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, you may choose 3 players (all players learn who): each silently chooses to live or die, but if all live, all die."
+
+The Al-Hadikhia puts three players in a dilemma — who will choose to die, so that others can live?
+* The Al-Hadikhia may choose three players per night. Everyone learns which three were chosen. Each player makes their choice before the next player is revealed.
+* All players must be silent when the Al-Hadikhia acts at night. This period lasts from when the Storyteller first declares that a player has been chosen, until the Storyteller says that it ends.
+* If the Al-Hadikhia chooses no one, no announcement is made and nobody dies to the Al-Hadikhia tonight.
+* At night, the Storyteller asks players out loud if they choose to live. If they nod their head, they live. If they shake their head, they die. Players may be brought back to life this way.
+* If all players choose to live, then they all die instead. If a player chose to die but did not die, they count as alive for this calculation.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Each night except the first, wake the Al-Hadikhia. They may point at three players. If they do, mark these players with the '''1''', '''2''' and '''3''' reminders, in the order the Al-Hadikhia chose. Put the Al-Hadikhia to sleep. Wake the player marked '''1''' and say “The Al-Hadikhia has chosen” then the name of the player, then “Do you choose to live?” They either nod or shake their head. Put them to sleep. If they chose to live, remove their shroud (''if any''), and if they choose to die, add a shroud. Repeat for players marked '''2''' then '''3'''. If all three players are alive (''none of them have a shroud'') then add a shroud to all three. They die. Declare that the time of silence has ended.
+
+Each dawn, declare which players marked '''1''', '''2''' and '''3''' are alive and which are dead. Do this even if a player’s alive or dead status did not change during the night.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+You may need to remind all players to be silent as the Al-Hadikhia acts. This includes non-verbal noise. This prevents players signaling to others about whether they have chosen to live or die.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Al-Hadikhia chooses Evin, Lachlan, and Sarah. Evin chooses to die. Lachlan chooses to die. Sarah chooses to live. In the morning, Evin and Lachlan are dead, and Sarah is alive.
+			</div>
+
+			<div class='example'>
+				The Al-Hadikhia chooses Alex, Lewis, and Doug, who is dead. Alex chooses life. Lewis chooses life. Doug chooses life, so is now alive. Since all players are now alive, all three players die. 
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* On the second night, all players will know that an Al-Hadikhia is in play. There is little point generating discussion about which Demon might be in play. 
+
+* Choose three good players, in order to maximise the number of deaths per night. Good players will often all choose to live, meaning three good players will die. This may hint to the good team that the dead players are actually good, but it's worth it. This strategy is particularly useful if the remaining evil players are all alive, since the evil team will have a significant voting advantage for the rest of the game.
+
+* Choose an evil player every so often, to make that evil player look good, or to guarantee at least one death per night. Beginner Al-Hadikhia players may always choose good players, so choosing some evil players, particularly early on, can really help. It is usually best if the two good players that you chose, die, while the single evil player that you chose, lives. But having all three players die is also very helpful, since the final day approaches quicker. Avoid the situation where the two good players live and the evil player dies. The evil player you chose should have a clue as to what the other players are going to choose, to plan their own life accordingly. 
+
+* Choose yourself at some stage, particularly if all other players have already been chosen previously this game. If you are the single player that has not been chosen by the Al-Hadikhia, that makes you look VERY suspicious. To avoid this, choose yourself one night - just make sure that you choose two other players who are very likely to choose to die, because you will need to choose to live. Talking to a Minion beforehand, and arranging that they will choose to die while you choose to live, guarantees that you will not accidentally kill yourself, since it doesn't matter what the third player chooses.
+
+* The more information you have about which characters are in play, the better. Some characters, like the {{Good|Ravenkeeper}}, {{Good|Sage}}, or {{Good|Farmer}}, will want to die at night. Some characters, like the {{Good|Flowergirl}}, {{Good|Balloonist}} or {{Good|Poppy Grower}} will want to stay alive. Some characters, like the {{Good|Fisherman}} or {{Good|Slayer}} may not be sure if they want to live or die, depending on how useful their ability was or will be. If you know which players are which characters, you can arrange to choose three players that are all likely to live, or all likely to die. Either way, it's helpful. 
+
+* Choose dead Minions occasionally. You can raise Minions from the dead, and this can be crucial, particularly if they get to use their ability again, such as the {{Evil|Assassin}} or the {{Evil|Poisoner}}. Alive Minions can also vote more often - very handy. Be aware of choosing Minions that will telegraph their ability to the good team, such as the {{Evil|Pit-Hag}} or the {{Evil|Cerenovus}}. If the public nature of these abilities too obviously let's the good team know which players specifically are Minions, this could cause trouble, outweighing the benefit of another alive Minion. 
+
+* Choose dead good players occasionally. While it certainly isn't helpful to give Townsfolk players their ability back, these players may look like Minions to the good team, confusing their information. Also, you can be fairly certain that good, dead players will choose to live again, so you can use that to decide which other players to choose. Every life or death decision of a player that you know beforehand, means you can choose players more wisely.  
+
+* Some players will always choose life at night, out of uncertainty or fear. Where possible, choose three of these types of players all at once at night.
+
+* Talk to your Minions. They may be able to provide you with information on who to choose at night, and who not to. This is true even moreso than a regular Demon, because not only are you choosing which characters you want to kill, but you are choosing which combinations of characters. Your Minions may also provide you with information about which character they are, and if they are ok to die at night... and what their story will be afterwards. 
+
+* If an evil player is chosen at night, even yourself, plan what you are going to say the following day. Having a valid reason for choosing life (or death, as the case may be) is easier when you've thought about it beforehand. Avoid making Minions choose life or death without prior warning, and having to Scramble to come up with reasons for their choice. If you are playing with characters that allow you to die, like the {{Evil|Scarlet Woman}}, it is also good practice to having your own night-choice and reasons pre-planned. 
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Fighting the Al-Hadikhia ==
+
+* Don't be scared of choosing to die at night. Someone will. It's just a question of who, and how many. If you are a character than can afford to die, choose death. This will mean that, on average, the characters that can't afford to die will live through the night. 
+
+* If players live through the night, assume that they are good, or at least are not the Demon. Particulary if you are playing with new players. Generally, the Al-Hadikhia won't choose themself, so avoiding executing the players that have lived through the night, any night, may mean you end up executing the Demon by default. 
+
+* If players die at night in an unusual pattern, ask why. Good player will usually have a good reason as to why they chose death, and a good reason why they chose life. If the reasons that you are hearing don't make sense, you may have found an evil player.
+
+* If a player is returned to life, don't execute them. You may not know which character they are, but they aren't the Demon! 
+
+* Discuss as a group what your planned night-preferences are. If you signal that you will choose death, if chosen, that means that other players can choose life if you are chosen. If you signal that will choose life if chosen, that means that the other two players will need to consider dying, to avoid all players choosing life. 
+
+* The Demon will likely be listening to any discussions about who is planning on choosing what, and will attack people based on that knowledge. Change your mind at the last minute without telling anyone, to throw the Demon's plans into disarray. 
+
+* Pay particular attention to nights where only 4 or 5 players are still alive. Unlike most Demons, which only kill one player per night, the Al-Hadikhia can kill three players per night. If you go to the night phase with 4 or 5 players alive, it will be game-over if the good players choose poorly. This night is the important one. Take your time to think, and make the right call. 
+
+* Don't try to break the "Silence" rule (by signalling to the other players what your choice was) by adhering to the letter of the law, but not the spirit. At night, the Al-Hadikhia character acts in silence so that the players don't communicate their thoughts to each other. The game is more fun this way. Don't break the rules on a technicality, as the Storyteller will adjust the rules to disallow this behaviour in the future. 
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Demons]]

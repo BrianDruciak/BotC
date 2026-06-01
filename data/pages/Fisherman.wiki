@@ -1,0 +1,158 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_fisherman.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Anica Kelsen</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>07/04/2020</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"This was my favourite part of the river... see how the sunlight makes a rainbow from the monastery to the market? This was the best place for big fish. And the older I get, the bigger they were."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Once per game, during the day, visit the Storyteller for some advice to help your team win."
+
+The Fisherman knows something that nobody else can know: what should be done.
+* The Fisherman player chooses when to use their ability.
+* When they visit the Storyteller, the Storyteller chooses what piece of advice to give the Fisherman.
+* The Storyteller’s pieces of advice are not necessarily “facts”. They are strategy tips that the Storyteller believes will help the Fisherman win, if they are followed.
+* If the Fisherman is drunk or poisoned, the Storyteller may give the Fisherman bad advice.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+Once per game, the Fisherman will ask to use their ability. In private, give them once piece of advice to help them win. Then, put the '''No ability''' reminder by the Fisherman token.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+It is best to give the Fisherman advice on what to DO, not just information about what IS. This makes the Fisherman more fun and unique.
+
+
+Eg. Saying “You should execute that player” or “Keep this player alive” or “find out who is drunk” or “change your thinking entirely” or “ignore the Minions” or “trust this player” are much more interesting than saying “this player is evil” or “the Demon is a No Dashii”.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Fisherman visits the Storyteller and learns that “You shouldn’t trust Ben”. Ben is the poisoned {{Good|Empath}}, and is unknowingly spreading false information.
+			</div>
+
+			<div class='example'>
+				The Fisherman learns “Keep the players claiming to be Outsiders alive”. These players are secretly the {{Good|Klutz}} and the {{Evil|Fearmonger}}. The Storyteller believes that keeping these players alive is more likely to end up with good executing the Demon.
+			</div>
+
+			<div class='example'>
+				On the final day, the Fisherman learns to “kill Lewis”. The Fisherman is drunk, and Lewis is a Townsfolk. The Storyteller gave bad (“false”) advice to the Fisherman.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* Ask yourself why you got the advice you got. Even if it’s something you didn’t expect, or that sends you down a totally different path than the one you were following, remember that the Storyteller knows all. They are in the best position to give you advice that will help you win. 
+
+* Follow the advice. The Fisherman does not provide information, it provides advice to help you win. If the advice is "execute your clockwise neighbour", just do it. Follow your advice! Unless you think your information is suspect, your advice isn’t very useful if you don’t act on it, especially because it is given in the temporal context you ask for it. Executing Erik might not be a good idea in 2 days, so canvas for his execution as soon as possible.
+
+* After following your advice, try to evaluate where you are now in the game, and try to reverse-engineer why that advice may have been given. Who was featured as important in your advice? Why? What advantages might have come from following your advice? What does that say about the puzzle of the game?
+
+* Use your ability immediately. Don’t risk dying to the Demon or getting executed before you can receive your advice. Ask for advice as soon as you can on the first day! After all, you risk losing your advice every day that you do not use it. Using it right away negates this risk. There is still plenty of good advice the storyteller can give you on day 1, depending on the setup.
+
+* Hold off on using your ability for as long as possible. This is risky, but the longer you wait the more the storyteller will be able to give you the exact type of advice you need to win. Plus, the storyteller may be more inclined to reward your risky behaviour with some juicy advice if you brave death for many days.
+
+* Pay attention to character abilities that might affect the chances of you dying, and factor that into when you use your ability. If there is a {{Evil|Leviathan}} on the script, the Demon can’t kill you. If you believe a player is the {{Good|Monk}}, you can ask them to protect you. In both cases, you have a higher chance of surviving later into the game, and could hold off on getting your advice until later on that basis.
+
+* Pay attention to the specific words that the Storyteller uses. If something seems a bit ambiguous, they may be hinting at something without outright saying it. If the Storyteller tells you not to trust a player, that player might actually be a good {{Good|Empath}}, but one who has been poisoned by a {{Evil|Widow}}, and is providing false information that is leading the good team to their doom. Be especially careful when interpreting the advice given to you by your storyteller. “Kevin is sharing true information” does not necessarily mean Kevin is good, and “Execute Erik” does not necessarily mean Erik is evil. The advice may be specifically niche to whatever game you’re in, and storytellers do love being coy.
+
+* Watch out for win/lose conditions and character abilities on a script. The advice you receive might relate to one. A Fisherman's advice might, for example, be an attempt by the Storyteller to prevent you from executing a {{Evil|Goblin}}.
+
+* Visit the Storyteller, then come back and pretend you’ve used your Fisherman ability when you haven’t. Make the evil team think your power is no longer a threat. If the Demon believes you’ve already used your ability, they might not think it’s worth it to kill you, allowing you to survive and use it later in the game.
+
+* Think about who you want to trust with your advice. You might simply want to reveal it immediately and put the clue on the table for everyone to digest. Alternatively, you might want to share the hint with a trusted group of players who can use it to coordinate in secret.
+
+* If you’re not certain that you’re remembered the advice right, you can revisit the Storyteller and ask them to repeat it. However, be aware that the Storyteller likely cannot provide context, or significant clarifications.
+
+* Characters that register as different alignments or characters may affect the hint given to the Fisherman. For example, a {{Evil|Recluse}} may register as the Demon, prompting the Storyteller to advise you to execute them. Be aware of this possibility.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Fisherman ==
+
+When bluffing as the Fisherman, there are a few things you should keep in mind:
+
+* The Fisherman can be guided to do essentially anything in the game. Use this to your advantage when you are bluffing - giving advice that complements the narrative the evil team is trying to build against the good team.
+
+* The fake advice you pretend to receive from the Storyteller, which you will have to come up with yourself, will probably be the centrepiece of your bluff. The Fisherman’s ability is a powerful one - what you come up with could be the deciding factor that wins or loses you the game. Remember to couch your ‘advice’ in the voice of your storyteller. If your storyteller likes to tell Fishermen who to execute, that makes it a much more believable bluff when you claim the Storyteller told you to execute someone.
+
+* Keep in mind that the Storyteller is meant to give the Fisherman a hint about what to do, not a piece of information. A Storyteller is very unlikely to give information like ‘one of your two neighbours is Demon’ – that’s not advice. Make sure you frame your fake advice as advice that tells you to do something, like ‘execute your neighbours’. 
+
+* Insist on your fake advice. It’s not much good to tell the group what to do with your fake ability if you don’t follow through on the social end. Remind players that your advice may have an expiration date, and that it’s important they follow your lead now, not later!
+
+* Give fake advice that protects an evil player. Use it to convince the town not to execute your Demon, or another powerful evil role.
+
+* Give fake advice that incriminates a good player. Use it to cast suspicions over the information of an {{Good|Undertaker}}, or a {{Good|Fortune Teller}}, or to get a {{Good|Saint}} executed.
+
+* If your advice doesn’t lead to good results (which is to be expected, you are making it up), consider the possibility of twisting your advice’s interpretation for more mayhem.
+
+* If you think you’re under suspicion, provide advice that incriminates an evil player. If the town thinks you’re evil, they may be more likely to trust that other player, brushing off your advice as an attempt to go after a good character.
+
+* If you think you’re under suspicion, provide advice that supports a good player. If the town thinks you’re evil, they may be more likely to mistrust or go after that player.
+
+* Make your hint interesting, vague and weird. Come up with something that generates a ton of discussion, generating distraction and conflict that distracts the good team from their efforts to find the Demon.
+
+* Don’t make your hint too elaborate. Try and stick to a single idea that can be expressed in one or two sentences, rather than a paragraph that might draw suspicion.
+
+* Coming out early with a Fisherman bluff can be risky. If the town believes you’ve used your once per game ability, they might decide to execute you on the basis that the potential downsides are minimal. This becomes especially fraught when characters like the Vortox are on the script, and the good team believe they might lose if they don’t execute someone.
+
+* Claim Fisherman late in the game. It can be a great back-up bluff to cover your tracks if your initial bluff doesn’t work. You can claim that you were misleading the town to avoid being targeted by the Demon, allowing you to preserve your ability for use later in the game.
+
+* Make sure you visit the Storyteller at least once before you reveal your fake hint. Nothing is worse than revealing your hint, only to be proven a liar when someone reveals you’ve never been to the Storyteller.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

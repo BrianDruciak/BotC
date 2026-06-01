@@ -1,0 +1,154 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_drunk.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"I’m only a *hic* social drinker, my dear. Admittedly, I am a heavy *burp* socializer."</p>
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_trouble_brewing.png|100px|link=Trouble Brewing]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/12064958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62131607-44100-2-4122bda6950ca.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Boffin|boffin|Evil|The Demon cannot have the Drunk ability.}}
+{{Jinx|Mathematician|mathematician|Good|The Mathematician might learn if the Drunk's ability yielded false info or failed to work properly.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You do not know you are the Drunk. You think you are a Townsfolk character, but you are not."
+
+The Drunk player thinks that they are a Townsfolk, and has no idea that they are actually the Drunk.
+* During setup, the Drunk's token does not go in the bag. Instead, a Townsfolk character token goes in the bag, and the player who draws that token is secretly the Drunk for the whole game. The Storyteller knows. The player does not.
+* The Drunk has no ability. Whenever their Townsfolk ability would affect the game in some way, it doesn't. However, the Storyteller pretends that the player is the Townsfolk they think they are. If that character would wake at night, the Drunk wakes to act as if they are that Townsfolk. If that Townsfolk would gain information, the Storyteller may give them false information instead—and the Storyteller is encouraged to do so.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+While setting up the game, before putting character tokens in the bag, remove the Drunk token and add a Townsfolk character token. Add the Drunk's '''IS THE DRUNK''' reminder token to the Grimoire. Put the swapped Townsfolk character token in the bag, not the Drunk character token.
+
+While preparing the first night, put the Drunk's '''IS THE DRUNK''' reminder token by any Townsfolk character token, changing that player's character to the Drunk. They are now an Outsider, and do not have the ability of this Townsfolk character. (But they think they do.)
+
+During the game, act as if the Drunk is actually this Townsfolk character. (If that character would wake to act at night, the Drunk wakes to act. If their ability would give them information, you can give false information to them if you wish. See "Drunkenness and Poisoning" in the rulebook.)
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Drunk, who thinks they are the {{Good|Soldier}}, is attacked by the {{Evil|Imp}}. The Drunk dies. 
+			</div>
+
+			<div class='example'>
+				The Drunk, who thinks they are the {{Good|Empath}}, wakes and learns a "0,” even though they are sitting next to one evil player. The next night, they learn a "1.".
+			</div>
+
+			<div class='example'>
+				The Drunk, who thinks they are the {{Good|Ravenkeeper}}, is killed at night. They choose the {{Good|Saint}}, but learn that this player is the {{Evil|Poisoner}}.
+			</div>
+
+			<div class='example'>
+				The {{Good|Fortune Teller}} is executed. That night, the Drunk, who thinks they are {{Good|Undertaker}}, learns that the Drunk died today.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* The Drunk will never know that they are the Drunk - they will start the game with a Townsfolk token and behave as that Townsfolk normally while receiving bad information. Figuring out if you are the Drunk can only be discovered via gameplay; be looking for tells like information you receive being demonstrably false, or your ability failing (e.g. A {{Good|Soldier}} dying at night).
+
+* Figuring out if a Drunk is in play is important - this will allow Townsfolk to know whether or not they should be scrutinizing their information. The most obvious tell that a Drunk may be in the town is if there are more or fewer Outsiders than you expected (if more, there might be a {{Evil|Baron}} who has let a Drunk into town). 
+
+* If you suspect a Drunk is in play, it is important to determine which of the Townsfolk it is as soon as possible. There can only be one Drunk in play, so knowing who it is will allow you to treat their information skeptically, but it will also mean that all other Townsfolk can probably trust what they know to be true and reliable.
+
+* Differentiating the effects of a Drunk from a {{Evil|Poisoner}} can be difficult, but crucial. If only one person seems to be receiving false information, they might be the Drunk. If multiple people are receiving sporadically good and bad information, that's probably the work of a dastardly {{Evil|Poisoner}}. Try to extrapolate from the case where either one is true, and see what inferences you can draw from that. Perhaps a Drunk being in play means that the {{Good|Butler}} is lying? Or if there's a {{Evil|Poisoner}} in a game with only one Minion, you know that nobody who's been executed could have been the {{Evil|Imp}}.
+
+* Characters like the {{Good|Undertaker}} and {{Good|Ravenkeeper}} will see the Drunk character when checking that player. You do not register as a Townsfolk - you just think you are! This is also true for characters like the {{Good|Virgin}} - a Drunk cannot activate them because they are not really a Townsfolk, they're an Outsider.
+
+* If you have figured out you are the Drunk, try to reverse engineer what you know. For example, if you thought you were the {{Good|Empath}} and have been getting a read of '0', you should be suspicious that you have at least one evil neighbour after all. Or, if you thought you were an {{Good|Investigator}}, you can probably assume that neither of the two players you saw were Minions!
+
+* Remember that the Drunk receives ''unreliable'' information, not false information. In the majority of cases, the information you receive will be wrong, but sometimes the Storyteller may tell you something that is true. This can happen when the alternative would definitely reveal you are the Drunk (e.g. The Drunk {{Good|Ravenkeeper}} choosing themselves will be shown the {{Good|Ravenkeeper}}).
+
+* Keep in mind that characters like the {{Good|Slayer}}, {{Good|Monk}} and {{Good|Mayor}} cannot impact the game with their ability when they are actually the Drunk. For example, a {{Good|Slayer}} will not kill a good player instead of the Demon; their shot will always fail.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Drunk ==
+
+When bluffing as the Drunk, there are a few things you should keep in mind:
+
+* You would not know that you are the Drunk at first. You would receive a Townsfolk character. The Storyteller would treat you as if you were that Townsfolk; check the relevant 'bluffing as' section to see how that character would wake (or not!)
+
+* The Drunk is the only good character that you can claim to be without another good character calling you out for claiming the same character as them.
+
+* Bluff as a character that gains information more passively, such as the {{Good|Fortune Teller}}, {{Good|Investigator}}, {{Good|Empath}}, {{Good|Washerwoman}}, {{Good|Undertaker}} or {{Good|Librarian}} and give deliberately and obviously false information. If your information is ridiculous (like claiming one of two players is the {{Good|Saint}} whilst neither is claiming to be the {{Good|Saint}}), you look obviously the Drunk.
+
+* Bluff as a character that has a power that can fail, then when your fake ability fails, act surprised, and put forward the possibility that you are the Drunk. For example, bluff as the {{Good|Monk}}, and claim the player you protected died anyway. Bluff as the {{Good|Soldier}} and kill yourself of a night time, or get the Demon to kill you. Bluff as the {{Good|Slayer}} or nominate the {{Good|Virgin}}, and act surprised when these character abilities have no visible effect.
+
+* Insinuate a Drunk is in play, and lead the group on a hunt to find out who it is. This will distract them from the main goal of finding the Demon, and will make them distrust their own good team.
+
+* Insinuate that a particular player is drunk. This is especially helpful if they have a damning case against your team, such as a {{Good|Undertaker}} claiming that your dead {{Evil|Poisoner}} is indeed the dead {{Evil|Poisoner}}.
+
+* Convincing the group that a Drunk is in play, or that a particular player is the Drunk, is MUCH easier to achieve if the number of people publicly claiming to be Outsiders supports your story. For example, if you are saying that the {{Good|Virgin}} is drunk, and there is supposed to be just the one Outsider in play, but the real {{Good|Saint}} has revealed who they are, then the only way for the {{Good|Virgin}} to be the Drunk is if the {{Good|Saint}} is lying. If you bluff as an Outsider, or if a fellow evil player bluffs as an Outsider, then it is much easier to convince the good team that a Drunk is in play, because the extra Outsiders make it look like a {{Evil|Baron}} is in the game, which would add two extra Outsiders.
+
+* If you want a fellow evil player to back up your bluff as the Drunk, get them to claim to be the {{Good|Librarian}}. The {{Good|Ravenkeeper}} and {{Good|Undertaker}} work well too, but one of you will have to die for that to work.
+
+* If you intend to bluff as the Drunk later in the game, and you believe you can succeed, initially give opposite information to what you want the good team to believe. If you are claiming to be the {{Good|Empath}} for example, and later in the game you want to execute your good neighbours, then initially tell the group that both your neighbours are good - if later on, the group comes to believe that you are the Drunk, then they will assume that at least one of your neighbours is evil and execute them both.
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Trouble Brewing]]
+[[Category:Outsiders]]

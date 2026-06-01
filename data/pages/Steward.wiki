@@ -1,0 +1,111 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_steward.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Chloe McDougall</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>18/05/2023</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"How DARE you accuse Her Ladyship of wrongdoing? I’ve known her my entire life! All nine years!"</p>			
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>CEiNXdSa8lI</youtube>		
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing 1 good player."
+
+The Steward knows 1 good player.
+* The Steward learns a player, but not their character.
+* The Steward learns their information on the first night of the game.
+* If created mid-game, then the Steward learns their information that night instead.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+While preparing the first night, put the '''KNOW''' reminder by any good character token.
+During the first night, wake the Steward. Point to the player marked '''KNOW'''. Put the Steward to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Steward learns that Alex is good. Alex is the {{Good|Undertaker}}.
+			</div>
+
+			<div class='example'>
+The {{Evil|Pit-Hag}} turns the {{Good|Poppy Grower}} into the Steward.
+That night, the Steward learns that Abdallah is good. Abdallah is the {{Good|Spy}}, and is registering as good.
+			</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* You know a player who is neither the Demon or a Minion. This is great info! You can trust they are acting with good intent for your team and the only thing that can mess with their information is drunkenness and poisoning. Work together to solve the game using your information combined.
+
+* Come out publicly straight away. If everyone knows that you two are both good, they can factor it into their worldbuilding and their ability choices straight away. Your info isn’t game-solving, but it’s helpful, so let people know about it.
+
+* Talk to the player you know and keep your information a secret to help keep them alive. If the Demon hears about your information and believes you, then the player you know is a risk for them to keep alive to the final three, so they’ll be wanting them dead at the first opportunity, so keeping your information quiet might help your player survive.
+
+* Once your information is known, make people take it into account in their worldbuilding! You know you’re good and that this one player is good, so any world involving either of you being evil must involve both of you being evil. Often, this will mean that building the world of you both being evil ends up in there needing to be too many evil players and you can sway arguments accordingly.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Steward ==
+
+* The Steward is one of the easiest bluffs in the game and is an excellent fallback bluff. Claim your Demon is the player you learnt as the Steward. If people believe you, they look good, job done.
+
+* Claim a good player as your Steward info then make sure that other players use abilities to imply you’re evil! You’ll take that other player down with you, but usually not for a couple days until the good team has had a chance to work out that you’re evil, so you’ll get a few days to use your Minion ability before you both get executed.
+
+* Claim a good player as your Steward info and try to work with them to “solve” the game. If you can work to be trusted as a duo, you can survive the full game without taking much, if any, suspicion.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Townsfolk]]

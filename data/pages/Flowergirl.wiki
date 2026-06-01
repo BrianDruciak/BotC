@@ -1,0 +1,139 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_flowergirl.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Yesterday's violets have withered and died, but today my poppies bloom."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/25712874/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-25%2F074ace96-1cf2-19b2-fb7e-01e17929830a.mp3">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, you learn if a Demon voted today."
+
+The Flowergirl knows if the Demon voted or not.
+* A Demon’s vote counts whether or not the nominee was executed.
+* The Flowergirl does not detect if the Demon raised their hand for other reasons, such as when the players “vote” on what to order for dinner, or when the players raise their hand to exile a Traveller.
+* If the Demon changes players after the original Demon voted but before the Flowergirl wakes to learn their information, the Flowergirl detects the original Demon.
+* If there are two (or more!) Demons, even dead Demons, the Flowergirl detects if any of them voted. If even one Demon voted, the Flowergirl learns a “yes”.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each dawn, mark the Flowergirl with the '''DEMON NOT VOTED''' reminder, and remove the '''DEMON VOTED''' reminder, if any. 
+
+Each day, if the Demon votes for any execution, replace the '''DEMON NOT VOTED''' reminder with the '''DEMON VOTED''' reminder.
+
+Each night except the first, wake the Flowergirl. If the Flowergirl is marked '''DEMON NOT VOTED''', shake your head no. If the Flowergirl is marked '''DEMON VOTED''', nod your head yes.
+Then, put the Flowergirl to sleep.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If you forget whether the Demon voted or not, wake the Demon at night and ask by showing them the <span style='font-style: normal'>'''DID YOU VOTE TODAY?'''</span> info token. They must answer honestly, then go to sleep.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				There was one nomination today. Lots of players voted, the player was executed, but the Demon did not vote. That night, the Flowergirl learns that the Demon did not vote today.    
+			</div>
+
+			<div class='example'>
+				There were three nominations today. The Demon voted during the second nomination. Nobody was executed. That night, the Flowergirl learns that the Demon voted today.
+			</div>
+
+			<div class='example'>
+				There were no nominations today. A Traveller was exiled, and all players raised their hand to support the exile. That night, the Flowergirl learns that the Demon did not vote today. (Exiles are never affected by abilities.)
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Pay attention! You need to keep track of who votes each day, or your information isn't going to be very helpful. Evil players can and will lie about whether they voted or not, so you can't rely on polling the group about who voted if you forget, either. Your information narrows the demon's location down every time you receive it, so make sure it's useful.
+
+* Keep an eye on who ''doesn't'' vote as much as on the players who do. Evil players are less likely to want to vote and draw your attention, but if you get a number of players voting and get a 'no', then you know that the demon is among those who didn't that day. Also, keep an eye out for players jumping on a bandwagon of a large voting majority - this could be the demon trying to disguise themselves among the large number of players, limiting your information.
+
+* For an execution, only half the living players' votes are required. If an execution is happening, try to convince the group to limit their votes to only what is required. This will allow you to make a clean divide between two sets of players - if you receive a "yes", then you know the demon is among those asked to vote today. If "no", you know that the demon is among those who didn't. Controlling voting in this way makes it easier to narrow down where the demon is, BUT be aware that it will likely get you targeted and killed much more quickly than staying quiet and observing the votes naturally.
+
+* Your power allows you to detect the demon, so you are an extremely high-value target for the evil team to undermine and kill early. Try to form an alliance with another player you think is good and let them do the talking for you. In particular, characters like the {{Good|Sage}} (who want the demon to target them) will be eager to take on your role and draw the demon's ire while you continue to collect information in the background. This can also protect you from being targeted by the {{Evil|Witch}}, {{Evil|Cerenovus}}, and {{Evil|Pit-Hag}}, all of whom can disrupt you.
+
+* You share a special synergy with the {{Good|Town Crier}}, as both of you are invested in nominations and executions. While you are keeping track of who voted, also pay special consideration to who nominates. Not only can this help out your fellow good player, but if you are controlling votes for the sake of your information, it doesn't cost you anything to give them a little extra to work with.
+
+* You can detect if a {{Evil|Vortox}} is in play under rare circumstances. If all players vote, and you learn that Demon did not vote, then either a {{Evil|Vortox}} is in play (which is extremely helpful information to know), or you are drunk/poisoned (which is also very useful for the town to know!)
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Flowergirl ==
+
+When bluffing as the Flowergirl, there are a few things you should keep in mind:
+
+* The information that you give each day will narrow down the possible Demon. If, on the second day, you say that one of five people is the Demon, this number may be down to 3 the next day. Do not implicate your fellow evil players if possible. Pay attention to who voted and who didn't, and get good players killed.
+
+* Or, if you do implicate evil players this way, do what you can to look as evil as possible yourself. Smile when you lie. Accuse trusted players of being evil. Misremember your character. If you look evil, the players that the good team believes you are trying to kill will look good. If one of these players is the Demon, you have done well.
+
+* You can direct the good team to vote in a particular way. If you suggest which players should or shouldn't vote, you can give more damning information the following day. However, since the Demon would usually kill a real Flowergirl that acted in this way, the good team will probably be wondering why you are still alive after a few days of this.
+
+* If you are a Minion, get the Demon to kill you at night. Players that die this way are usually more trusted than those that die by execution. 
+
+* Stay silent for a few days before revealing that you are the Flowergirl. Real Flowergirls usually do this, so it makes you look more legitimate. Or, bluff as a character that doesn't disrupt the game too much for a few days, such as the {{Good|Sage}} or the {{Good|Sweetheart}}, then reveal that you are the Flowergirl later on.
+
+* The Flowergirl is a great backup bluff, in case your first bluff falls flat. For example, you can cause a lot of chaos by bluffing as the {{Good|Juggler}} or the {{Good|Seamstress}}, then later in the game, claiming that you are actually the Flowergirl, and those previous characters were just bluffs you used to trick the Demon into keeping you alive.
+
+* Act confused. The Flowergirl is a confusing character at times. There can be a lot of different players voting, and even real Flowergirls make mistakes remembering who did and who didn't, especially for several days at a time. Telling the group that you are the Flowergirl, but that you can't quite remember or can't quite figure out who the Demon is, is perfectly fine. Even giving deliberately contradictory information from day to day will often not be suspect.
+
+*Flowergirls can detect if a {{Evil|Vortox}} is in play under rare circumstances. If a {{Evil|Vortox}} is in play, and you think that the good team is figuring out that a {{Evil|Vortox}} is in play, give accurate information on when the {{Evil|Vortox}} voted, so that the good players will reverse this information.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

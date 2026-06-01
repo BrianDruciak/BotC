@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Blood on the Clocktower — Win Rates</title>
+<style>
+  :root {
+    --bg: #0f0d14; --panel: #1a1722; --panel2: #221d2e; --line: #322a40;
+    --text: #ece7f2; --muted: #9b90ad; --good: #4ea3ff; --evil: #ff5b5b;
+    --gold: #d8b25a; --tf:#4ea3ff; --out:#39c2b9; --min:#f0902f; --dem:#ff5b5b; --tra:#b06bff;
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text);
+    font-family:'Segoe UI',system-ui,Arial,sans-serif; font-size:14px; }
+  header { padding:18px 24px; border-bottom:1px solid var(--line);
+    background:linear-gradient(180deg,#1c1526,#0f0d14); display:flex; align-items:center; gap:20px; flex-wrap:wrap;}
+  h1 { font-size:20px; margin:0; color:var(--gold); letter-spacing:.5px; }
+  h1 span { color:var(--muted); font-weight:400; font-size:13px; }
+  .stats { display:flex; gap:22px; margin-left:auto; flex-wrap:wrap; }
+  .stat { text-align:center; }
+  .stat b { display:block; font-size:20px; }
+  .stat small { color:var(--muted); }
+  .wrap { padding:20px 24px; }
+  .tabs { display:flex; gap:8px; margin-bottom:14px; }
+  .tab { padding:8px 16px; border-radius:8px 8px 0 0; cursor:pointer; color:var(--muted);
+    border:1px solid transparent; }
+  .tab.active { background:var(--panel); color:var(--text); border-color:var(--line); border-bottom-color:var(--panel); }
+  .toolbar { display:flex; gap:12px; align-items:center; margin-bottom:12px; flex-wrap:wrap; }
+  input,select { background:var(--panel2); color:var(--text); border:1px solid var(--line);
+    border-radius:7px; padding:7px 10px; font-size:13px; }
+  input[type=search]{ min-width:220px; }
+  .btn { cursor:pointer; background:var(--panel2); }
+  table { width:100%; border-collapse:collapse; background:var(--panel); border-radius:10px; overflow:hidden; }
+  th,td { padding:9px 12px; text-align:left; border-bottom:1px solid var(--line); white-space:nowrap; }
+  th { color:var(--muted); font-weight:600; cursor:pointer; user-select:none; position:sticky; top:0; background:var(--panel2);}
+  th.sorted::after { content:' ▾'; color:var(--gold);} th.sorted.asc::after{ content:' ▴'; }
+  tbody tr:hover { background:var(--panel2); cursor:pointer; }
+  td.num,th.num { text-align:right; font-variant-numeric:tabular-nums; }
+  .icon { width:28px; height:28px; border-radius:50%; vertical-align:middle; margin-right:8px; background:#000; }
+  .cname { display:flex; align-items:center; }
+  .badge { padding:2px 8px; border-radius:20px; font-size:11px; font-weight:600; color:#0c0a10; }
+  .b-townsfolk{background:var(--tf);} .b-outsider{background:var(--out);}
+  .b-minion{background:var(--min);} .b-demon{background:var(--dem);} .b-traveller{background:var(--tra);}
+  .bar { display:inline-block; width:90px; height:8px; background:var(--line); border-radius:5px; overflow:hidden; vertical-align:middle; margin-right:8px;}
+  .bar > i { display:block; height:100%; background:linear-gradient(90deg,var(--evil),var(--gold),var(--good)); }
+  .modal { position:fixed; inset:0; background:rgba(0,0,0,.6); display:none; align-items:center; justify-content:center; }
+  .modal.open { display:flex; }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:12px; max-width:760px; width:92%;
+    max-height:82vh; overflow:auto; padding:20px; }
+  .card h2 { margin:0 0 4px; color:var(--gold); }
+  .ability { color:var(--muted); font-style:italic; margin:8px 0 16px; }
+  .close { float:right; cursor:pointer; color:var(--muted); font-size:20px; }
+  .win{color:var(--good);} .loss{color:var(--evil);}
+  .empty{ color:var(--muted); padding:30px; text-align:center; }
+  a{color:var(--good);}
+</style>
+</head>
+<body>
+<header>
+  <h1>Blood on the Clocktower<br><span>Running win-rate table</span></h1>
+  <div class="stats" id="overview"></div>
+</header>
+
+<div class="wrap">
+  <div class="tabs">
+    <div class="tab active" data-tab="characters">Characters</div>
+    <div class="tab" data-tab="players">Players</div>
+  </div>
+
+  <div class="toolbar">
+    <input type="search" id="search" placeholder="Search…" />
+    <select id="typeFilter">
+      <option value="">All types</option>
+      <option value="townsfolk">Townsfolk</option>
+      <option value="outsider">Outsider</option>
+      <option value="minion">Minion</option>
+      <option value="demon">Demon</option>
+      <option value="traveller">Traveller</option>
+    </select>
+    <label>Min games <input type="number" id="minGames" value="1" min="0" style="width:64px"></label>
+    <button class="btn" id="refresh">↻ Refresh</button>
+    <label style="color:var(--muted)"><input type="checkbox" id="auto"> auto</label>
+  </div>
+
+  <table id="grid"><thead></thead><tbody></tbody></table>
+  <div class="empty" id="empty" style="display:none">No data yet — import games to populate the table.</div>
+</div>
+
+<div class="modal" id="modal"><div class="card" id="cardBody"></div></div>
+
+<script>
+const state = { tab:'characters', characters:[], players:[], sortKey:'win_pct', sortDir:-1, autoTimer:null };
+const $ = s => document.querySelector(s);
+
+const COLS = {
+  characters: [
+    {k:'name', label:'Character', cell:c=>`<div class="cname"><img class="icon" loading="lazy" src="/${c.icon_path}" onerror="this.style.visibility='hidden'"><span>${c.name}</span> <span class="badge b-${c.type}" style="margin-left:8px">${c.type}</span></div>`},
+    {k:'editions', label:'Edition', cell:c=>(c.editions||[]).map(e=>e.replace(/_/g,' ')).join(', ')||'—', sortVal:c=>(c.editions||[]).join()},
+    {k:'games', label:'Games', num:true},
+    {k:'wins', label:'Wins', num:true},
+    {k:'win_pct', label:'Win %', num:true, cell:c=>winBar(c.win_pct)},
+    {k:'survival_pct', label:'Survival %', num:true, cell:c=>c.survival_pct+'%'},
+  ],
+  players: [
+    {k:'name', label:'Player'},
+    {k:'games', label:'Games', num:true},
+    {k:'wins', label:'Wins', num:true},
+    {k:'win_pct', label:'Win %', num:true, cell:p=>winBar(p.win_pct)},
+    {k:'good_win_pct', label:'Good %', num:true, cell:p=>pct(p.good_win_pct)+` <small style="color:var(--muted)">(${p.good_games})</small>`},
+    {k:'evil_win_pct', label:'Evil %', num:true, cell:p=>pct(p.evil_win_pct)+` <small style="color:var(--muted)">(${p.evil_games})</small>`},
+  ]
+};
+
+const pct = v => v==null ? '—' : v+'%';
+const winBar = v => `<span class="bar"><i style="width:${v}%"></i></span>${v}%`;
+
+async function loadAll(){
+  const mg = $('#minGames').value || 0;
+  const [ov, ch, pl] = await Promise.all([
+    fetch('/api/overview').then(r=>r.json()),
+    fetch('/api/characters?min_games='+mg).then(r=>r.json()),
+    fetch('/api/players?min_games='+mg).then(r=>r.json()),
+  ]);
+  state.characters = ch; state.players = pl;
+  renderOverview(ov); render();
+}
+
+function renderOverview(o){
+  $('#overview').innerHTML = `
+    <div class="stat"><b>${o.games}</b><small>games</small></div>
+    <div class="stat"><b class="good">${o.good_win_pct}%</b><small>good win rate</small></div>
+    <div class="stat"><b>${o.players}</b><small>players</small></div>
+    <div class="stat"><b>${o.seats}</b><small>seats logged</small></div>
+    ${o.games_need_review?`<div class="stat"><b style="color:var(--gold)">${o.games_need_review}</b><small>need review</small></div>`:''}`;
+}
+
+function render(){
+  const cols = COLS[state.tab];
+  const search = $('#search').value.toLowerCase();
+  const tf = $('#typeFilter').value;
+  let rows = (state.tab==='characters'?state.characters:state.players).slice();
+  if(search) rows = rows.filter(r=>r.name.toLowerCase().includes(search));
+  if(state.tab==='characters' && tf) rows = rows.filter(r=>r.type===tf);
+
+  const col = cols.find(c=>c.k===state.sortKey) || cols[0];
+  const val = r => col.sortVal? col.sortVal(r) : r[state.sortKey];
+  rows.sort((a,b)=>{ let x=val(a),y=val(b);
+    if(x==null)x=-1; if(y==null)y=-1;
+    if(typeof x==='string') return state.sortDir*x.localeCompare(y);
+    return state.sortDir*(x-y); });
+
+  $('#grid thead').innerHTML = '<tr>'+cols.map(c=>
+    `<th class="${c.num?'num':''} ${c.k===state.sortKey?'sorted '+(state.sortDir>0?'asc':''):''}" data-k="${c.k}">${c.label}</th>`).join('')+'</tr>';
+  $('#grid tbody').innerHTML = rows.map(r=>'<tr data-id="'+(r.id)+'">'+cols.map(c=>
+    `<td class="${c.num?'num':''}">${c.cell?c.cell(r):(r[c.k]??'—')}</td>`).join('')+'</tr>').join('');
+
+  $('#grid').style.display = rows.length?'table':'none';
+  $('#empty').style.display = rows.length?'none':'block';
+
+  $('#grid thead').querySelectorAll('th').forEach(th=>th.onclick=()=>{
+    const k=th.dataset.k;
+    if(state.sortKey===k) state.sortDir*=-1; else { state.sortKey=k; state.sortDir = (k==='name')?1:-1; }
+    render();
+  });
+  $('#grid tbody').querySelectorAll('tr').forEach(tr=>tr.onclick=()=>openDrill(tr.dataset.id));
+}
+
+async function openDrill(id){
+  const body = $('#cardBody');
+  if(state.tab==='characters'){
+    const d = await fetch('/api/character/'+id).then(r=>r.json());
+    const c = d.character;
+    body.innerHTML = `<span class="close" onclick="closeModal()">✕</span>
+      <h2><img class="icon" src="/${c.icon_path}"> ${c.name} <span class="badge b-${c.type}">${c.type}</span></h2>
+      <div class="ability">${c.ability||''}</div>
+      <a href="${c.wiki_url}" target="_blank">Wiki ↗</a>
+      ${gamesTable(d.games, g=>`#${g.game_id}`, g=>`${g.player_name} · ${g.script||'?'} · ${g.winner} won`)}`;
+  } else {
+    const d = await fetch('/api/player/'+id).then(r=>r.json());
+    body.innerHTML = `<span class="close" onclick="closeModal()">✕</span>
+      <h2>${d.player.canonical_name}</h2>
+      ${gamesTable(d.games, g=>g.character_name, g=>`${g.script||'?'} · ${g.final_alignment} · ${g.winner} won`)}`;
+  }
+  $('#modal').classList.add('open');
+}
+function gamesTable(games, left, right){
+  if(!games.length) return '<div class="empty">No games yet.</div>';
+  return '<table style="margin-top:10px"><tbody>'+games.map(g=>
+    `<tr><td>${left(g)}</td><td style="color:var(--muted)">${right(g)}</td>
+     <td class="${g.won?'win':'loss'}">${g.won?'WON':'lost'}</td>
+     <td>${g.is_alive_at_end?'alive':'dead'}</td></tr>`).join('')+'</tbody></table>';
+}
+function closeModal(){ $('#modal').classList.remove('open'); }
+
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+  t.classList.add('active'); state.tab=t.dataset.tab;
+  state.sortKey='win_pct'; state.sortDir=-1;
+  $('#typeFilter').style.display = state.tab==='characters'?'':'none';
+  render();
+});
+$('#search').oninput = render;
+$('#typeFilter').onchange = render;
+$('#minGames').onchange = loadAll;
+$('#refresh').onclick = loadAll;
+$('#modal').onclick = e=>{ if(e.target.id==='modal') closeModal(); };
+$('#auto').onchange = e=>{ clearInterval(state.autoTimer); if(e.target.checked) state.autoTimer=setInterval(loadAll, 15000); };
+loadAll();
+</script>
+</body>
+</html>

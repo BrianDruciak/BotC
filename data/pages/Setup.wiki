@@ -1,0 +1,93 @@
+<div class="row">
+
+	<div class="large-12 columns">
+
+You can set up a game of Clocktower by following the instructions on the '''setup sheet''', which are explained in more detail here.
+
+== Gather Your Players ==
+Get one chair per player and arrange the chairs facing each other. A rough circle or square is fine, as long as people are sitting in a definite clockwise or counterclockwise order. As the Storyteller, you will need to be able to enter and exit the circle often, so leave a gap between two chairs. The center of this space will need to be mostly empty - no tables or hazards on the floor which can be tripped on.
+<br><br>
+
+== Prepare The Grimoire ==
+Clip the Grimoire by fastening the two metal clips as close as possible to the upper and lower corners of the game box, creating a sturdy book-like container. Unfold and assemble the two-piece '''Grimoire stand''' and place the Grimoire upon it, putting it where players that walk around will not accidentally see its contents. Collect supplies of all the info, night, and shroud tokens anywhere you like in the Grimoire. (We recommend the bottom-left corner of the right side.)
+<br><br>
+
+== Choose An Edition ==
+
+This box set comes with three editions: [[Trouble Brewing]], [[Bad Moon Rising]], and [[Sects & Violets]]. Choose one to play with. Uncover and add its '''edition box''' to the bottom-left part of the Grimoire. (This will let you easily access the character and reminder tokens you need for this game.) Add the night sheet for this edition to the right side of the Grimoire. 
+
+You’ll need five or more players for [[Trouble Brewing]], and seven or more players for other editions. While you can play other editions with fewer than seven players, this is not recommended. (In five- or six-player games of [[Bad Moon Rising]] and [[Sects & Violets]] characters like the Shabaloth, Goon, Fang Gu, or Evil Twin can give an unfair advantage to one team.)
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+We recommend you start with [[Trouble Brewing]] and then move on to other editions. Likewise, we recommend you run a game or two with five to ten players to get the hang of things, then try your hand at larger games.
+</div>
+
+== Prepare The Town Square ==
+Put the Town Square board on the floor in the center of the chairs. Put one life token per player on the Town Square matching their seating position. Put a pile of vote tokens in the center of the Town Square. Put the Traveller sheet partially under the Town Square, showing the number of Townsfolk, Outsiders, and Minions.
+<br><br>
+
+== Read The Rules To Any New Players ==
+The [[Rules Explanation]] describes all the major things that a new player will need to know to start playing. Simply read out the text written on this sheet to the group, or let those who want to read it do so privately.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+Part of the rules sheet will prompt you to talk about various hand signals. You’ll want to demonstrate these hand signals as you go, since some players learn visually.
+</div>
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+If you wish, you can read out the part of the rules sheet that talks about nominations and executions now, but most players will learn this better if you read it out later on, when the first nomination for execution begins.
+<hr />
+There is a duplicate rules sheet on the reverse side of the Traveller sheet, kept under the Town Square. To save time, get a veteran player to read out the rules from this sheet, so you don’t have to. While they are explaining the rules, you can set up the game.
+</div>
+
+== Secretly Choose Characters ==
+
+Take all of the Townsfolk '''character tokens''' out of the chosen edition box, and choose the appropriate number for the number of players, as listed on the setup sheet. Put these character tokens in the left side of the Grimoire, and return all remaining Townsfolk character tokens to the edition box. Then, do the same for any Outsiders, Minions, and the Demon. Do this secretly - the players do not know which characters are in the game.
+
+If there are more than fifteen players in this game, then any excess players must volunteer to be {{Traveler|Travellers}}. {{Traveler|Travellers}} have
+enormous power but less responsibility, and they often help the game go quicker. Give these volunteers the {{Traveler|Travellers}} sheet, so they can choose which {{Traveler|Travellers}} they wish to be. You’ll find more information about them at {{Traveler|Travellers}}.
+
+For your first game, we do not recommend that you include {{Traveler|Travellers}} or {{Fabled|Fabled}}.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+<span style='font-style: normal;'>'''CHOOSING CHARACTERS'''.</span> The characters you choose will greatly affect how the game plays. Choose what you think will be fun, what will interact well, or simply what you feel capable of handling. If it is your first game, and you don’t know which characters to include, consider the following (for an eight-player game) or alter one to suit your style:
+<br><br>
+'''Chef, Empath, Fortune Teller, Undertaker, Virgin, Drunk (Investigator), Scarlet Woman, Imp.''' This setup has a lot of information for the good team, and is a great way to get people engaged and talking immediately, but also is relatively safe for evil players that are unsure of how to bluff well. It will be a chaotic game that is a blast for new players. Remember to give the drunk Investigator false information, and remember that they cannot die by nominating the Virgin!
+<br><br>
+'''Empath, Fortune Teller, Ravenkeeper, Slayer, Mayor, Saint, Poisoner, Imp.''' This will be a much quieter game, as players slowly figure out if the Saint, Slayer, and Mayor are telling the truth. The Poisoner, who has many juicy targets, can certainly cause some chaos. However, the game may be a quick one if the Slayer is savvy, if the Saint is not savvy enough, or if the Poisoner cannot find the Empath and Fortune Teller in time. If the Mayor is attacked at night, remember to kill another player instead - perhaps the Ravenkeeper?
+<br><br>
+'''Washerwoman, Fortune Teller, Undertaker, Slayer, Virgin, Recluse, Spy, Imp.''' This is a more advanced setup, requiring some deeper logic from the players, but can be very rewarding if they figure it out. Remember that the Recluse can register as the Demon to the Fortune Teller, Undertaker, and Slayer! And remember that the Spy can register as a Townsfolk to the Virgin, Undertaker, and Washerwoman!
+</div>
+
+== Add and Remove Characters ==
+If any chosen character tokens show an '''orange flower''', you will need to add or remove some character tokens, as described by its almanac entry. On the character token, the text in square brackets '''— [like this] —''' briefly describes how to alter the characters in play this game. This happens right now, and does not happen again once the game is underway.
+
+After adding and removing character tokens, the number of character tokens will always equal the number of players.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Baron token has text that says '''[+2 Outsiders]'''. The Baron adds two Outsider tokens to the game, but removes two Townsfolk tokens. Other characters, such as the Drunk, do similar things.
+</div>
+
+== Add Reminder Tokens To The Grimore ==
+
+If any chosen character tokens show '''green leaves''' at the top, add the '''reminder tokens''' for those characters to the Grimoire. Return all remaining reminder tokens to the edition box.
+
+The reminder tokens for a character show the same symbol as its character token. The number of green leaves on the top equals the number of reminder tokens that character has: If there’s one leaf at the top, add one reminder. If there are three at the top, add three.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Investigator character token shows a magnifying glass symbol. Both of the Investigator’s reminder tokens show the same magnifying glass symbol.
+</div>
+
+== Pass Out Character Tokens ==
+Shuffle the character tokens and put them in the '''bag'''. Then, each player takes one character token out of the bag, and then passes the bag to the next player. Continue this until each player has one token. Each player looks at their character token in secret, revealing it to no one else.
+
+== Add The Character Tokens To The Grimore ==
+
+Collect all the character tokens from the players, and place them in your Grimoire so they match the seating positions of the players.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The safest way to collect character tokens is to ask all players to hold their hand out, with their character token in hand, felt side up, face side down. You can simply grab it from their hand, making sure nobody sees a flash of color as you do so.
+</div>
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The exact position of each character token in the Grimoire is up to you. If three players are all sitting on the same couch, it is more helpful to group those three tokens close together, in order to remind yourself that they are the couch triplet. As long as the clockwise or counterclockwise order of the players is the same in the Grimoire as it is in the physical space, you’ll be fine.
+</div>

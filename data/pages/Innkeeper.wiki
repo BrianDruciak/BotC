@@ -1,0 +1,136 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_innkeeper.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>
+				</tr>
+			</table>
+
+			<p class='flavour'>"Come inside, fair traveller, and rest your weary bones. Drink and be merry, for the legions of the Dark One shall not harass thee tonight."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_bad_moon_rising.png|100px|link=Bad Moon Rising]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/46634772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-25%2F244172126-44100-2-2fce41dae6268.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Leviathan|leviathan|Evil|If the Leviathan nominates and executes an Innkeeper-protected player, good wins.}}
+{{Jinx|Riot|riot|Evil|If Riot nominates and executes an Innkeeper-protected player, good wins.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Each night*, choose 2 players: they can't die tonight, but 1 is drunk until dusk."
+
+The Innkeeper protects people from death at night, but somebody gets drunk in the process.
+* The Innkeeper, like the Monk, makes players safe from being killed by the Demon. They are also safe from death caused by Outsiders, Minions, Townsfolk, and Travellers.
+* The Innkeeper only protects players at night, not the day. 
+* One of the two players that the Innkeeper chooses becomes drunk for tonight and the next day. This player may be good or evil, but will almost always be good, depending how your game is going. An Innkeeper that chooses themself might become drunk, which means they have no ability and may die tonight—and the other player they chose to protect isn’t safe either.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+Each night except the first, wake the Innkeeper. They point at any two players. Put the Innkeeper to sleep. Mark the two chosen players with '''SAFE''' reminders. One of the chosen players becomes '''drunk'''—mark them with the '''DRUNK''' reminder. The players marked '''SAFE''' cannot die tonight.
+
+At dawn, remove the '''SAFE''' reminders.
+
+At dusk, remove the '''DRUNK''' reminder.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Innkeeper protects the {{Good|Fool}} and the {{Good|Chambermaid}}. The Storyteller chooses that the {{Good|Fool}} becomes drunk. Tomorrow, when the {{Good|Fool}} is executed, they die, even though they hadn’t used their ability yet.
+			</div>
+
+			<div class='example'>
+				The Innkeeper protects the {{Evil|Assassin}} and the {{Evil|Po}}. The Storyteller chooses that the {{Evil|Assassin}} becomes drunk. Later that night, the {{Evil|Assassin}} uses their ability, but nothing happens.
+			</div>
+
+			<div class='example'>
+				The Innkeeper protects themself and the {{Good|Pacifist}}. The Storyteller chooses that the Innkeeper becomes drunk. The {{Good|Pacifist}} is attacked by the Demon tonight and dies.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* Your ability is powerful and when used effectively you can stall the evil team and keep your fellow good team safe. The price of your ability is steep, however - anyone protected by you becomes unreliable as they may be drunk for the night that they survive. Coordinating with your fellow good players to find ideal targets to protect is absolutely vital - some characters (such as the {{Good|Pacifist}} and the {{Good|Exorcist}}) become stronger the longer they survive, and you can enable that.
+
+* Be mindful of the drunkenness your ability causes! Don't protect people who need to receive reliable information or use their ability with any sort of guarantee that night. If you know for example that a {{Good|Courtier}} is about to use their ability, you protecting them may cause them to become drunk and waste their powerful ability!
+
+* Protect different people than who you publicly claim to be protecting. If the evil team believes what you are saying, they will not want to waste time targeting players who can't be killed. Meanwhile, you secretly protect other players that ''are'' potential victims, hopefully blocking the evil team from a necessary kill.
+
+* It can seem like a good idea to protect yourself using your ability, but this is generally not recommended - it is likely that the Storyteller will choose to make you drunk by your own ability, completely negating your protection and making both you and the other player vulnerable. 
+
+* If you think you know at least 2 evil players, select them both! Guarding them from death isn't ideal, but it does mean that one of them will be drunk that night. If you manage to get your hands on the Demon or a potent Minion like the {{Evil|Assassin}} or the {{Evil|Devil's Advocate}}, you're cutting off evil abilities at source! If you miss, though, you can almost guarantee that whichever player is good will be drunk.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Bluffing as the Innkeeper ==
+
+When bluffing as the Innkeeper, there are a few things you should keep in mind:
+
+* If you are the Demon, kill different players, not the ones you claim to protect. If you claim to have protected the {{Good|Chambermaid}} during the night and the {{Good|Chambermaid}} is dead in the morning, then you have some explaining to do. If you are the Demon, or if you are a Minion that can co-ordinate with the Demon, you can attack players different to the ones you claim to protect.
+
+* If your fellow evil players have bluffs that aren't working too well, claim to have protected them. This will make one or both of them look like they may be drunk, which gives them an excuse for the malfunctioning of their ability, whilst also providing an extra reason why they are still alive.
+
+* If good players are being being particularly troublesome, claim to protect them. The imagined possibility that they are drunk can throw enough doubt and confusion into the mix to effectively nullify their ability. 
+
+* To gain good team's trust, whilst also being a massive pain in the ass, privately tell people that you are the Innkeeper. Good players will often want to reveal their identity to the Innkeeper so as to either gain the Innkeeper's protection (if they are a character that wants to live at all costs) or to make sure that the Innkeeper never ever picks them (because they need be sober to use their ability). Knowing which players are which characters helps you directly, because you know who to kill, but it also makes those players trust you more.
+
+* Have a backup bluff prepared in case it gets far too suspicious that you're still alive in the late game. It is rare, but not impossible for an Innkeeper to survive to the late game. Having a good reason to have been "lying", such as claiming to have been the {{Good|Fool}} all along, can be helpful. Characters such as the {{Good|Fool}}, {{Good|Sailor}}, {{Good|Goon}}, or a player sitting next to a {{Good|Tea Lady}} all have good reasons to lie about who they are to attract a Demon's attention, and the Innkeeper is a particularly juicy target for the Demon.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Bad Moon Rising]]
+[[Category:Townsfolk]]

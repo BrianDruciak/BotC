@@ -1,0 +1,134 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_clockmaker.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Do not disturb me. The tick must continue, for the circle is a symbol of life and contains all things - all answers - in its divine machinery. I must work."</p>	
+	
+			<span style="display: block; color: black; font-size: 20px; text-align: center;">Appears in</span>
+			[[File:logo_sects_and_violets.png|100px|link=Sects & Violets]]
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Cult of the Clocktower Episode</span>
+			<span style="display: block; color: black; font-size: 14px; text-align: center;">by Andrew Nathenson</span>
+			<div style='padding-bottom: 10px' class="html5audio" data-file="https://anchor.fm/s/daf1f9c/podcast/play/19188996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-7%2F105050795-44100-2-b3bf966e5aa6.m4a">You need to enable JavaScript to play this audio</div>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Summoner|summoner|Evil|The Summoner registers as the Demon to the Clockmaker.}}
+			</table>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"You start knowing how many steps from the Demon to its nearest Minion."
+
+The Clockmaker learns the distance from the Demon to their nearest Minion.
+* The Clockmaker only learns this on the first night.
+* The distance is the number of seated players, starting from the player next to the Demon and ending at the nearest Minion, either clockwise or counterclockwise.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+
+During the first night, wake the Clockmaker. Show fingers (''1, 2, etc.'') equaling the distance in players from the Demon to the nearest Minion, starting with the player neighboring the Demon closer to that Minion. Put the Clockmaker to sleep.
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The {{Evil|Fang Gu}} is sitting next to the {{Evil|Pit-Hag}}. During the first night, the Clockmaker learns a "1".
+			</div>
+
+			<div class='example'>
+				Clockwise from the {{Evil|No Dashii}} sits the {{Good|Dreamer}}, the {{Good|Snake Charmer}}, then the {{Evil|Evil Twin}}. Counterclockwise from the {{Evil|No Dashii}} sits the {{Good|Mutant}}, the {{Good|Sweetheart}}, the {{Good|Philosopher}}, the {{Good|Sage}}, then the {{Evil|Witch}}. Because the {{Evil|Witch}} is five steps away from the Demon, and the {{Evil|Evil Twin}} is three steps away from the Demon, the Clockmaker learns a "3" during the first night.
+			</div>
+
+			<div class='example'>
+				The {{Evil|Fang Gu}} neighbours two Travellers, one good and one evil. Neighboring one of these Travellers is a {{Evil|Cerenovus}}. During the first night, the Clockmaker learns a "2", because evil Travellers are not Minions.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Tips & Tricks ==
+
+* You don't have to give your information out immediately; wait a couple of days so that you can observe the other players and see if you uncover anything suspicious while the evil team thinks the pressure is off.
+
+* Your information is most valuable if you can identify a Minion. Figure out which player is a Minion, and you can pin down some very likely Demon suspects. You should try to coordinate with other good players in the game to uncover this information. Many players detect players of an evil alignment (like the {{Good|Oracle}} and the {{Good|Seamstress}}), while others detect the Demons and Minions directly (like the {{Good|Flowergirl}}, {{Good|Town Crier}}, or even the {{Good|Snake Charmer}}).
+
+* If you get a very large number (> 3), then the Minions are probably sitting close together and away from their Demon. Similarly, if you get a very small number (< 2), one of the Minions and the Demon are probably very close together. You can use this information to look at who is talking to whom - watch for players interacting in a way that matches up with what you know.
+
+* If you have a suspicion of who you think the Demon is, use your information to locate their possible Minions and observe those players/what information they have, and what information exists about them. Minions tend to have a harder time hiding themselves than a Demon (who knows not-in-play characters), so you can take advantage of this weak point to confirm the Demon.
+
+* Your information becomes more valuable as the game goes on and players die. Since the evil players are unlikely to die at night, they tend to survive longer and will support each other and their arguments, thus making themselves more obvious than at the start of the game. Look at which players still alive match up to your information; if they're coordinating or backing each other up, they might be secretly evil!
+
+* All of the Minions you'll be facing tend to act obviously, which means that it is also quite obvious when they die. If you notice that suddenly nobody is dying by {{Evil|Witch}}, being driven mad by {{Evil|Cerenovus}}, or transformed by the {{Evil|Pit-Hag}}, then you may have executed one of the Minions. Figuring out who will lead you right back to the Demon! The {{Evil|Evil Twin}} is a bit of an exception to this since you'll very likely know they're in play from the beginning. This also means you know (up to) four Demon options from the very beginning!
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Clockmaker ==
+
+When bluffing as the Clockmaker, there are a few things you should keep in mind:
+
+* The standard, easiest way to bluff as the Clockmaker is to tell the group false information on the first day. Since you know how many steps the Demon and Minion are from each other, this incorrect information can lead the good team down the garden path for several days. Remember that a "1" means that the Demon and Minion are sitting next to each other.
+
+* Giving correct Clockmaker information can actually be quite helpful to the evil team. If they believe that you are good, they will believe your information, and therefore not consider you as a Minion or Demon when figuring out the Clockmaker information, and therefore not arrive at the actual Demon. If instead they believe that you are evil, they will believe that you gave false information, and again avoid the actual Demon.
+
+* Surviving the first day is crucial if you are the Demon bluffing as the Clockmaker. As the only character in Sects & Violets that gets information on the first night, and never again, beginner good players will have a tendency to want to execute the Clockmaker on the first day. Waiting until you reveal that you are the Clockmaker until the second day, or beyond, can help you survive the earlier, riskier stages of the game.
+
+* Choosing small numbers to give as false information is usually best. If the number you give is half the number of players, then that implies that the Demon and Minion are sitting exactly opposite each other, since either clockwise or anti-clockwise, steps from one player end up at the same player. Also, in games with several Minions, large numbers may imply that the Minions are all sitting in a bunch, which the good players may not believe. Smaller numbers can be just as confusing as bigger numbers. Think carefully about what number you choose.
+
+* Since the good team can often get a good idea of who the Minions are by the disappearance of obvious Minion abilities from the game, it can throw a spanner in the works if you kill an obvious-acting Minion at night time. For example, the good team will often realize when they have executed a {{Evil|Pit-Hag}} (since no more players are changing characters at night), and the heat will be on you to either prove or disprove your Clockmaker information, by killing the player that would be the Demon. However, if you killed the {{Evil|Pit-Hag}} at night, then the good players are likely to believe that the player executed during the day was actually the {{Evil|Pit-Hag}}. This may help or hinder your cause, depending on what the good players believe, particularly if they believe a {{Evil|Vortox}} is in play or not.
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Sects & Violets]]
+[[Category:Townsfolk]]

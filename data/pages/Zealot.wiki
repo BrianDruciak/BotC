@@ -1,0 +1,146 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_zealot.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types #Outsider|Outsider]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>John Grist</td>			
+				</tr>
+				<tr>
+					<td>Revealed</td>
+					<td>26/07/2024</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"I enjoy talking to you. Your mind appeals to me. It resembles my own mind except that you happen to be insane."</p>
+
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 20px;">Character Showcase</span>
+			<youtube>v46YpdbvK3U</youtube>
+
+		</div>
+
+		<div id='jinxes'>
+
+			<span style="display: block; color: black; font-size: 18px; text-align: center; margin-top: 10px; text-transform: uppercase; font-family: Dumbledor;">
+				Related Jinxes <span style="cursor: pointer; color: #5C1F22;" id="jinx-toggle">(Open)</span>
+			</span>
+			<table style="width: 90%; margin: 0 auto;">
+{{Jinx|Cannibal|cannibal|Good|If the Cannibal gains the Zealot ability, the Cannibal learns this.}}
+{{Jinx|Legion|legion|Evil|The Zealot might register as evil to Legion.}}
+{{Jinx|Vizier|vizier|Evil|The Zealot might register as evil to the Vizier.}}
+			</table>
+
+		</div>
+
+	</div>
+
+	<div class="small-12 large-9 large-pull-3 columns">
+
+		<div class="row">
+
+			<div class="small-12 large-6 columns">
+== Summary ==
+"If there are 5 or more players alive, you must vote for every nomination."
+
+The Zealot votes.
+* If there are 5 or more players alive, the Zealot must vote for every nomination. If there are 4 or fewer players alive, the Zealot can choose whether they vote or not.
+* Travellers count as alive players.
+* The Zealot can vote like a normal dead player when dead.
+* The Zealot does not need to vote for exiles.
+* A Zealot must vote even if they think they might be drunk or poisoned.
+* It is not the Storyteller's responsibility to monitor the Zealot. They're responsible for their own voting. Deliberately not voting when they should is considered cheating.
+
+			</div>
+
+			<div class="small-12 large-6 columns" style="padding-right: 0;">
+
+== How to Run ==
+During each nomination, if there are 5 or more players alive, the Zealot must raise their hand to vote.
+
+				<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;"> 
+					If the Zealot accidentally forgets to vote, do not tally the Zealot's vote. If you do tally the vote, the total will be more than it should be, and all players will know which player is the Zealot, which is unfair for the evil team. Mistakes happen. Just play on and have a private chat later.
+				</div> 
+
+			</div>
+
+		</div>
+
+		<div class='row'>
+
+			<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+				<div class='example'>
+					There are 7 players alive. The Zealot votes for the {{Good|Alsaahir}}, the {{Evil|Summoner}}, {{Good|Ogre}}, and the {{Good|Banshee}}. The next day, there are 5 players alive. The Zealot votes for the {{Evil|Yaggababble}}, and the {{Good|High Priestess}}. The next day, there are 3 players alive. The Zealot votes for the {{Evil|Yaggababble}}, but chooses not to vote for the {{Good|High Priestess}}. 
+				</div>
+
+				<div class='example'>
+					There are 9 players alive. The Zealot is dead. The Zealot doesn't vote for 3 days, and uses their vote token when just 3 players are alive to vote for the {{Good|Farmer}}.
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class='row'>
+
+			<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Tips & Tricks ==
+
+* VOTE!!!!
+
+* Actively take part in conversations about who should be nominated. While you must vote on every nomination, you can gain agency over executions by convincing other players to nominate people you'd prefer to vote on.
+
+* Pretend to be a character that benefits from other players' executions, like the {{Good|Undertaker}} or the {{Good|Cannibal}}. This might help create confusion amongst players - are you voting all the time because you're the Zealot, or do you just really want to see someone executed?
+
+* Tell everyone you are the Zealot. If other players are aware that you will be voting on every nomination, that will help them decide who they want to vote for.
+
+* Be aware that people might find you suspicious because you are voting on everything.
+
+* If a Traveller is joining the game, encourage them to play as the {{Traveler|Bureaucrat}} or the {{Traveler|Thief}}! 
+
+* Work with your team to get the game to a day where fewer than 5 players live, so you can vote how you like. 
+
+* If you are alive towards the end of the game, make the most of the final day! It's likely the first time in the game that you will have agency over your own votes. 
+
+* If there is a Zealot on the script, watch votes very carefully to figure out if there is a Zealot in play. 
+
+* If you are a character who wants to die in the night, vote on everything to convince the evil team that you are the Zealot. 
+
+			</div>
+
+		</div>
+
+		<div class='row'>
+
+			<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Bluffing as the Zealot ==
+
+* VOTE!!!!
+
+* If there is a Zealot on the script, watch good players' votes very carefully to figure out if there is a Zealot in play. If a good player is voting on everything, they might be the Zealot, and you likely know where one Outsider is. If no good player votes on every nomination, Zealot is probably out-of-play and therefore a great bluff for Minions. 
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Experimental Characters]]
+[[Category:Outsiders]]

@@ -1,0 +1,99 @@
+__NOTOC__
+<div class="row">
+
+	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
+
+		<div id='character-details'>
+
+			[[File:icon_angel.png|250px]]
+			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
+
+			<table style="width: 90%; margin: 0 auto;">
+				<tr>
+					<td>Type</td>
+					<td>[[Character Types#Fabled|Fabled]]</td>
+				</tr>
+				<tr>
+					<td>Artist</td>
+					<td>Aidan Roberts</td>			
+				</tr>
+			</table>
+
+			<p class='flavour'>"Let those who are without sin dare to raise their hand to my chosen, for I shall strike such fools down with the fury and righteousness of a thousand storms."</p>
+
+		</div>
+
+</div>
+
+<div class="small-12 large-9 large-pull-3 columns">
+
+	<div class="row">
+
+		<div class="small-12 large-6 columns">
+== Summary ==
+"Something bad might happen to whoever is most responsible for the death of a new player."
+
+Use the Angel to help new players have fun when there are one or two new players in a group of veterans.
+* Being the only new player in a group can be overwhelming. Being protected by the Angel encourages all players to keep new players alive for as long as possible, which means new players have more fun and contribute to the game more.
+* All players know who is protected by the Angel, but not their alignment or character. Whoever is the single player most responsible for killing a protected player suffers some consequence. For example, if the Demon kills a protected player, the Demon suffers a penalty. If a protected player is executed, the player who suffers a penalty will probably be the one who nominated the protected player.
+		</div>
+
+		<div class="small-12 large-6 columns" style="padding-right: 0;">
+== How to Run ==
+
+At the start of the game, declare that the Angel is in play. Declare which player or players it is protecting, with their consent. Add the Angel token and their reminders to the Grimoire, and mark each protected player with a '''PROTECTED''' reminder.
+
+If a player marked '''PROTECTED''' dies, something bad happens to the player responsible for the death. You may need to mark their character token with the '''SOMETHING BAD''' reminder, to remind you that they are now poisoned, or mad, or can’t vote today, or simply as a reminder to decide on what to do later.
+
+Remove the Angel at any time, declaring when you do so.
+
+<div class="example" style="color: #5d2123; font-style: italic; font-family: GoudyOldStyle;">
+The Angel only protects a player if that player wants it to. Ask for their consent before the game begins.
+<hr />
+The “something bad” that happens is up to you. However, it is recommended to either make the penalty that the player dies, that the player loses their ability for a day, or that the player may not vote for a day. A light penalty works much better than a severe one.
+<hr />
+Remove the Angel on the final day, so that players feel free to execute players protected by the Angel.
+</div>
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+
+== Examples ==
+
+			<div class='example'>
+				The Angel protects Sarah. The Demon attacks and kills her. As punishment, the Demon cannot attack on the next night.
+			</div>
+
+			<div class='example'>
+				Ben is the Demon and is protected by the Angel. The players do not execute him until the final day, at which point they may execute him without penalty.
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class='row'>
+
+		<div class="small-12 large-12 columns" style="padding-right: 0;">
+== Explanation ==
+
+Being the only new player in a group can sometimes be overwhelming. Being protected by the Angel encourages all players to keep the new players alive for as long as possible, which means new players have more fun and contribute to the game more.
+
+All players know who is protected by the Angel, but not their alignment or character.  Whoever is the single player most responsible for killing a protected player, suffers some consequence. For example, if the Demon kills a protected player, the Demon suffers a penalty. If a protected player is executed, it will probably be whoever nominated them that suffers a penalty.
+
+The "something bad" that happens is up to you. However, it is recommended to either make the penalty that the player dies, that the player loses their ability for a day, or that the player may not vote for a day. A light penalty works much better than a severe one.
+
+Remove the Angel on the final day, so that players feel free to execute players protected by the Angel. 
+
+The Angel does not need to be in-play unless the new players want it to be.	
+		</div>
+
+	</div>
+
+</div>
+
+[[Category:Fabled]]
