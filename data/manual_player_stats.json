@@ -23,6 +23,17 @@
       "evil_win_pct": null
     },
     {
+      "name": "Seika",
+      "games": 2,
+      "wins": 2,
+      "losses": 0,
+      "win_pct": 100.0,
+      "good_games": 2,
+      "good_win_pct": 100.0,
+      "evil_games": 0,
+      "evil_win_pct": null
+    },
+    {
       "name": "Radio",
       "games": 1,
       "wins": 1,
@@ -34,37 +45,26 @@
       "evil_win_pct": 100.0
     },
     {
-      "name": "Seika",
-      "games": 1,
-      "wins": 1,
-      "losses": 0,
-      "win_pct": 100.0,
-      "good_games": 1,
-      "good_win_pct": 100.0,
-      "evil_games": 0,
-      "evil_win_pct": null
-    },
-    {
       "name": "Solomon",
-      "games": 26,
-      "wins": 20,
-      "losses": 6,
-      "win_pct": 76.9,
-      "good_games": 19,
-      "good_win_pct": 68.4,
-      "evil_games": 7,
+      "games": 29,
+      "wins": 22,
+      "losses": 7,
+      "win_pct": 75.9,
+      "good_games": 21,
+      "good_win_pct": 66.7,
+      "evil_games": 8,
       "evil_win_pct": 100.0
     },
     {
-      "name": "Marishi",
-      "games": 11,
-      "wins": 8,
-      "losses": 3,
-      "win_pct": 72.7,
-      "good_games": 7,
-      "good_win_pct": 85.7,
-      "evil_games": 4,
-      "evil_win_pct": 50.0
+      "name": "PMA",
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "win_pct": 71.4,
+      "good_games": 4,
+      "good_win_pct": 75.0,
+      "evil_games": 3,
+      "evil_win_pct": 66.7
     },
     {
       "name": "Ununoctium",
@@ -89,15 +89,15 @@
       "evil_win_pct": 83.3
     },
     {
-      "name": "Snail",
-      "games": 13,
-      "wins": 9,
+      "name": "Marishi",
+      "games": 12,
+      "wins": 8,
       "losses": 4,
-      "win_pct": 69.2,
+      "win_pct": 66.7,
       "good_games": 8,
-      "good_win_pct": 50.0,
-      "evil_games": 5,
-      "evil_win_pct": 100.0
+      "good_win_pct": 75.0,
+      "evil_games": 4,
+      "evil_win_pct": 50.0
     },
     {
       "name": "Miku",
@@ -108,17 +108,6 @@
       "good_games": 5,
       "good_win_pct": 80.0,
       "evil_games": 4,
-      "evil_win_pct": 50.0
-    },
-    {
-      "name": "PMA",
-      "games": 6,
-      "wins": 4,
-      "losses": 2,
-      "win_pct": 66.7,
-      "good_games": 4,
-      "good_win_pct": 75.0,
-      "evil_games": 2,
       "evil_win_pct": 50.0
     },
     {
@@ -133,17 +122,6 @@
       "evil_win_pct": 100.0
     },
     {
-      "name": "meiji",
-      "games": 3,
-      "wins": 2,
-      "losses": 1,
-      "win_pct": 66.7,
-      "good_games": 1,
-      "good_win_pct": 100.0,
-      "evil_games": 2,
-      "evil_win_pct": 50.0
-    },
-    {
       "name": "Socrates",
       "games": 26,
       "wins": 17,
@@ -153,6 +131,17 @@
       "good_win_pct": 57.1,
       "evil_games": 12,
       "evil_win_pct": 75.0
+    },
+    {
+      "name": "Snail",
+      "games": 14,
+      "wins": 9,
+      "losses": 5,
+      "win_pct": 64.3,
+      "good_games": 9,
+      "good_win_pct": 44.4,
+      "evil_games": 5,
+      "evil_win_pct": 100.0
     },
     {
       "name": "Lin",
@@ -166,6 +155,17 @@
       "evil_win_pct": 66.7
     },
     {
+      "name": "Evoker",
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "win_pct": 57.1,
+      "good_games": 6,
+      "good_win_pct": 50.0,
+      "evil_games": 1,
+      "evil_win_pct": 100.0
+    },
+    {
       "name": "Grave",
       "games": 18,
       "wins": 10,
@@ -177,15 +177,15 @@
       "evil_win_pct": 66.7
     },
     {
-      "name": "Rendroken",
-      "games": 11,
-      "wins": 6,
-      "losses": 5,
-      "win_pct": 54.5,
-      "good_games": 10,
+      "name": "Cercheo",
+      "games": 24,
+      "wins": 13,
+      "losses": 11,
+      "win_pct": 54.2,
+      "good_games": 18,
       "good_win_pct": 50.0,
-      "evil_games": 1,
-      "evil_win_pct": 100.0
+      "evil_games": 6,
+      "evil_win_pct": 66.7
     },
     {
       "name": "Relic",
@@ -199,39 +199,6 @@
       "evil_win_pct": 75.0
     },
     {
-      "name": "Rice",
-      "games": 13,
-      "wins": 7,
-      "losses": 6,
-      "win_pct": 53.8,
-      "good_games": 9,
-      "good_win_pct": 55.6,
-      "evil_games": 4,
-      "evil_win_pct": 50.0
-    },
-    {
-      "name": "Cercheo",
-      "games": 23,
-      "wins": 12,
-      "losses": 11,
-      "win_pct": 52.2,
-      "good_games": 18,
-      "good_win_pct": 50.0,
-      "evil_games": 5,
-      "evil_win_pct": 60.0
-    },
-    {
-      "name": "Paul",
-      "games": 24,
-      "wins": 12,
-      "losses": 12,
-      "win_pct": 50.0,
-      "good_games": 18,
-      "good_win_pct": 50.0,
-      "evil_games": 6,
-      "evil_win_pct": 50.0
-    },
-    {
       "name": "Pingu",
       "games": 20,
       "wins": 10,
@@ -243,26 +210,15 @@
       "evil_win_pct": 44.4
     },
     {
-      "name": "Tomato",
+      "name": "Rendroken",
       "games": 12,
       "wins": 6,
       "losses": 6,
       "win_pct": 50.0,
       "good_games": 11,
-      "good_win_pct": 54.5,
+      "good_win_pct": 45.5,
       "evil_games": 1,
-      "evil_win_pct": 0.0
-    },
-    {
-      "name": "Evoker",
-      "games": 6,
-      "wins": 3,
-      "losses": 3,
-      "win_pct": 50.0,
-      "good_games": 6,
-      "good_win_pct": 50.0,
-      "evil_games": 0,
-      "evil_win_pct": null
+      "evil_win_pct": 100.0
     },
     {
       "name": "Prince",
@@ -285,6 +241,17 @@
       "good_win_pct": 33.3,
       "evil_games": 1,
       "evil_win_pct": 100.0
+    },
+    {
+      "name": "meiji",
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "win_pct": 50.0,
+      "good_games": 2,
+      "good_win_pct": 50.0,
+      "evil_games": 2,
+      "evil_win_pct": 50.0
     },
     {
       "name": "Aroc",
@@ -318,6 +285,39 @@
       "good_win_pct": 22.2,
       "evil_games": 10,
       "evil_win_pct": 70.0
+    },
+    {
+      "name": "Rice",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "win_pct": 46.7,
+      "good_games": 10,
+      "good_win_pct": 50.0,
+      "evil_games": 5,
+      "evil_win_pct": 40.0
+    },
+    {
+      "name": "Paul",
+      "games": 26,
+      "wins": 12,
+      "losses": 14,
+      "win_pct": 46.2,
+      "good_games": 20,
+      "good_win_pct": 45.0,
+      "evil_games": 6,
+      "evil_win_pct": 50.0
+    },
+    {
+      "name": "Tomato",
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "win_pct": 46.2,
+      "good_games": 11,
+      "good_win_pct": 54.5,
+      "evil_games": 2,
+      "evil_win_pct": 0.0
     },
     {
       "name": "Script",
@@ -354,12 +354,12 @@
     },
     {
       "name": "Erika",
-      "games": 15,
-      "wins": 5,
+      "games": 16,
+      "wins": 6,
       "losses": 10,
-      "win_pct": 33.3,
-      "good_games": 9,
-      "good_win_pct": 33.3,
+      "win_pct": 37.5,
+      "good_games": 10,
+      "good_win_pct": 40.0,
       "evil_games": 6,
       "evil_win_pct": 33.3
     },
@@ -375,15 +375,15 @@
       "evil_win_pct": 33.3
     },
     {
-      "name": "Kaptcha",
+      "name": "sauce",
       "games": 3,
       "wins": 1,
       "losses": 2,
       "win_pct": 33.3,
-      "good_games": 2,
-      "good_win_pct": 50.0,
-      "evil_games": 1,
-      "evil_win_pct": 0.0
+      "good_games": 3,
+      "good_win_pct": 33.3,
+      "evil_games": 0,
+      "evil_win_pct": null
     },
     {
       "name": "Star",
@@ -397,24 +397,24 @@
       "evil_win_pct": null
     },
     {
-      "name": "sauce",
-      "games": 3,
-      "wins": 1,
-      "losses": 2,
-      "win_pct": 33.3,
-      "good_games": 3,
+      "name": "Hautp",
+      "games": 11,
+      "wins": 3,
+      "losses": 8,
+      "win_pct": 27.3,
+      "good_games": 9,
       "good_win_pct": 33.3,
-      "evil_games": 0,
-      "evil_win_pct": null
+      "evil_games": 2,
+      "evil_win_pct": 0.0
     },
     {
       "name": "Cube",
-      "games": 7,
+      "games": 8,
       "wins": 2,
-      "losses": 5,
-      "win_pct": 28.6,
-      "good_games": 4,
-      "good_win_pct": 50.0,
+      "losses": 6,
+      "win_pct": 25.0,
+      "good_games": 5,
+      "good_win_pct": 40.0,
       "evil_games": 3,
       "evil_win_pct": 0.0
     },
@@ -430,6 +430,17 @@
       "evil_win_pct": 0.0
     },
     {
+      "name": "Kaptcha",
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "win_pct": 25.0,
+      "good_games": 3,
+      "good_win_pct": 33.3,
+      "evil_games": 1,
+      "evil_win_pct": 0.0
+    },
+    {
       "name": "Fyevo",
       "games": 10,
       "wins": 2,
@@ -438,17 +449,6 @@
       "good_games": 7,
       "good_win_pct": 28.6,
       "evil_games": 3,
-      "evil_win_pct": 0.0
-    },
-    {
-      "name": "Hautp",
-      "games": 10,
-      "wins": 2,
-      "losses": 8,
-      "win_pct": 20.0,
-      "good_games": 8,
-      "good_win_pct": 25.0,
-      "evil_games": 2,
       "evil_win_pct": 0.0
     },
     {
@@ -461,6 +461,17 @@
       "good_win_pct": 0.0,
       "evil_games": 1,
       "evil_win_pct": 0.0
+    },
+    {
+      "name": "4b",
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "win_pct": 0.0,
+      "good_games": 1,
+      "good_win_pct": 0.0,
+      "evil_games": 0,
+      "evil_win_pct": null
     },
     {
       "name": "onogatari",

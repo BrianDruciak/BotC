@@ -21,7 +21,6 @@ import json
 import os
 
 from . import db, ingest, stats
-from .character_fix import fix_singleton_demon_duplicates
 from .extract.base import get_extractor
 from . import players as player_ops
 
@@ -132,14 +131,6 @@ def cmd_apply_manual(args):
         f"Removed {purge['removed_players']} OCR-only players "
         f"({purge['removed_seats']} hallucinated seats)."
     )
-    demon_fixes = fix_singleton_demon_duplicates(args.db)
-    if demon_fixes:
-        print("\nFixed duplicate demon tags:")
-        for f in demon_fixes:
-            print(
-                f"  game #{f['game_id']} {f['demon']}: kept {f['kept']!r}, "
-                f"demoted {f['demoted']}"
-            )
     print(f"\nPlayer stats now served from manual_player_stats.json ({purge.get('allowed', 43)} players).")
     _print_stats(args.db, min_games=1)
 

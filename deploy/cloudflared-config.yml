@@ -1,0 +1,10 @@
+# Cloudflare Tunnel config for botcwitch.com
+tunnel: 8a0d4f07-8299-4dc9-8c46-4a457ca10199
+credentials-file: C:\Users\home\.cloudflared\8a0d4f07-8299-4dc9-8c46-4a457ca10199.json
+
+ingress:
+  - hostname: botcwitch.com
+    service: http://127.0.0.1:8000
+  - hostname: www.botcwitch.com
+    service: http://127.0.0.1:8000
+  - service: http_status:404

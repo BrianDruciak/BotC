@@ -54,6 +54,9 @@
   .win{color:var(--good);} .loss{color:var(--evil);}
   .empty{ color:var(--muted); padding:30px; text-align:center; }
   a{color:var(--good);}
+  .set-official { color: var(--gold); }
+  .pct-good { color: var(--good); }
+  .pct-evil { color: var(--evil); }
 </style>
 </head>
 <body>
@@ -66,6 +69,7 @@
   <div class="tabs">
     <div class="tab active" data-tab="characters">Characters</div>
     <div class="tab" data-tab="players">Players</div>
+    <div class="tab" data-tab="scripts">Scripts</div>
   </div>
 
   <div class="toolbar">
@@ -90,7 +94,7 @@
 <div class="modal" id="modal"><div class="card" id="cardBody"></div></div>
 
 <script>
-const state = { tab:'characters', characters:[], players:[], sortKey:'win_pct', sortDir:-1, autoTimer:null };
+const state = { tab:'characters', characters:[], players:[], scripts:[], sortKey:'win_pct', sortDir:-1, autoTimer:null };
 const $ = s => document.querySelector(s);
 
 const COLS = {
@@ -109,20 +113,31 @@ const COLS = {
     {k:'win_pct', label:'Win %', num:true, cell:p=>winBar(p.win_pct)},
     {k:'good_win_pct', label:'Good %', num:true, cell:p=>pct(p.good_win_pct)+` <small style="color:var(--muted)">(${p.good_games})</small>`},
     {k:'evil_win_pct', label:'Evil %', num:true, cell:p=>pct(p.evil_win_pct)+` <small style="color:var(--muted)">(${p.evil_games})</small>`},
+  ],
+  scripts: [
+    {k:'name', label:'Script / Set', cell:s=>`<span class="${s.official?'set-official':''}">${s.name}</span>`},
+    {k:'games', label:'Games', num:true},
+    {k:'good_win_pct', label:'Good win %', num:true, cell:s=>teamBar(s.good_win_pct, 'good')+` <small style="color:var(--muted)">(${s.good_wins})</small>`},
+    {k:'evil_win_pct', label:'Evil win %', num:true, cell:s=>teamBar(s.evil_win_pct, 'evil')+` <small style="color:var(--muted)">(${s.evil_wins})</small>`},
   ]
 };
 
 const pct = v => v==null ? '—' : v+'%';
 const winBar = v => `<span class="bar"><i style="width:${v}%"></i></span>${v}%`;
+const teamBar = (v, team) => {
+  const col = team==='good' ? 'var(--good)' : 'var(--evil)';
+  return `<span class="bar"><i style="width:${v}%;background:${col}"></i></span><span class="pct-${team}">${v}%</span>`;
+};
 
 async function loadAll(){
   const mg = $('#minGames').value || 0;
-  const [ov, ch, pl] = await Promise.all([
+  const [ov, ch, pl, sc] = await Promise.all([
     fetch('/api/overview').then(r=>r.json()),
     fetch('/api/characters?min_games='+mg).then(r=>r.json()),
     fetch('/api/players?min_games='+mg).then(r=>r.json()),
+    fetch('/api/scripts').then(r=>r.json()),
   ]);
-  state.characters = ch; state.players = pl;
+  state.characters = ch; state.players = pl; state.scripts = sc;
   renderOverview(ov); render();
 }
 
@@ -140,7 +155,7 @@ function render(){
   const cols = COLS[state.tab];
   const search = $('#search').value.toLowerCase();
   const tf = $('#typeFilter').value;
-  let rows = (state.tab==='characters'?state.characters:state.players).slice();
+  let rows = (state.tab==='characters'?state.characters:state.tab==='players'?state.players:state.scripts).slice();
   if(search) rows = rows.filter(r=>r.name.toLowerCase().includes(search));
   if(state.tab==='characters' && tf) rows = rows.filter(r=>r.type===tf);
 
@@ -164,7 +179,9 @@ function render(){
     if(state.sortKey===k) state.sortDir*=-1; else { state.sortKey=k; state.sortDir = (k==='name')?1:-1; }
     render();
   });
-  $('#grid tbody').querySelectorAll('tr').forEach(tr=>tr.onclick=()=>openDrill(tr.dataset.id));
+  $('#grid tbody').querySelectorAll('tr').forEach(tr=>tr.onclick=()=>{
+    if(state.tab!=='scripts') openDrill(tr.dataset.id);
+  });
 }
 
 async function openDrill(id){
@@ -204,8 +221,9 @@ function closeModal(){ $('#modal').classList.remove('open'); }
 document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
   document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
   t.classList.add('active'); state.tab=t.dataset.tab;
-  state.sortKey='win_pct'; state.sortDir=-1;
+  state.sortKey = state.tab==='scripts' ? 'games' : 'win_pct'; state.sortDir=-1;
   $('#typeFilter').style.display = state.tab==='characters'?'':'none';
+  $('#minGames').closest('label').style.display = state.tab==='scripts'?'none':'';
   render();
 });
 $('#search').oninput = render;
@@ -215,7 +233,7 @@ $('#refresh').onclick = loadAll;
 $('#modal').onclick = e=>{ if(e.target.id==='modal') closeModal(); };
 $('#auto').onchange = e=>{ clearInterval(state.autoTimer); if(e.target.checked) state.autoTimer=setInterval(loadAll, 15000); };
 const tabParam = new URLSearchParams(location.search).get('tab');
-if (tabParam === 'players' || tabParam === 'characters') {
+if (tabParam === 'players' || tabParam === 'characters' || tabParam === 'scripts') {
   const tab = document.querySelector(`.tab[data-tab="${tabParam}"]`);
   if (tab) tab.click();
 }

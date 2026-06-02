@@ -26,6 +26,11 @@ IMAGES_DIR = os.path.join(ROOT, "data", "images")
 app = FastAPI(title="BOTC Win-Rate Agent")
 
 
+@app.get("/api/scripts")
+def api_scripts():
+    return stats.script_stats()
+
+
 @app.get("/api/overview")
 def api_overview():
     return stats.overview()
